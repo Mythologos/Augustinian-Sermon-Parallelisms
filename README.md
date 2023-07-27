@@ -12,7 +12,9 @@ It is intended to be used to study the phenomenon of rhetorical parallelism both
 
 ### Statistics
 
-The following table summarizes its base statistics:
+The table below summarizes its base statistics. For exact definitions of *parallelism* and *branch*, please see our paper. 
+For a basic understanding, consider a *branch* to be a continuous span of annotated text; 
+then, consider a *parallelism* to be a group of said spans.
 
 | Quantity       | Total (Nested) |
 |----------------|----------------|
