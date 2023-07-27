@@ -1,0 +1,120 @@
+T1	ParallelArm 53 79	per quem facta sunt omnia,
+T2	ParallelArm 83 110	qui factus est inter omnia:
+R1	Parallel Arg1:T1 Arg2:T2	
+T3	ParallelArm 119 135	patris reuelator
+T4	ParallelArm 137 151	matris creator
+R2	Parallel Arg1:T3 Arg2:T4	
+T5	ParallelArm 153 183	filius dei de patre sine matre
+T6	ParallelArm 185 220	filius hominis de matre sine patre:
+R3	Parallel Arg1:T5 Arg2:T6	
+T7	ParallelArm 221 243	magnus dies angelorum,
+T8	ParallelArm 244 266	paruus in die hominum:
+R4	Parallel Arg1:T7 Arg2:T8	
+T9	ParallelArm 267 298	uerbum deus ante omnia tempora,
+T10	ParallelArm 299 329	uerbum caro opportuno tempore:
+R5	Parallel Arg1:T9 Arg2:T10	
+T11	ParallelArm 330 345	conditor solis,
+T12	ParallelArm 346 364	conditus sub sole:
+R6	Parallel Arg1:T11 Arg2:T12	
+T13	ParallelArm 365 404	cuncta saecula ordinans de sinu patris,
+T14	ParallelArm 405 447	hodiernum diem consecrans de utero matris:
+R7	Parallel Arg1:T13 Arg2:T14	
+T15	ParallelArm 448 459	ibi manens,
+T16	ParallelArm 460 474	hinc procedens
+R8	Parallel Arg1:T15 Arg2:T16	
+T17	ParallelArm 530 552	ineffabiliter sapiens,
+T18	ParallelArm 553 570	sapienter infans:
+R9	Parallel Arg1:T17 Arg2:T18	
+T19	ParallelArm 571 586	mundum implens,
+T20	ParallelArm 587 607	in praesepio iacens:
+R10	Parallel Arg1:T19 Arg2:T20	
+T21	ParallelArm 608 622	sidera regens,
+T22	ParallelArm 623 636	ubera lambens
+R11	Parallel Arg1:T21 Arg2:T22	
+T23	ParallelArm 642 662	magnus in forma dei,
+T24	ParallelArm 663 685	breuis in forma serui;
+R12	Parallel Arg1:T23 Arg2:T24	
+T25	ParallelArm 689 734	nec ista breuitate magnitudo illa minueretur,
+T26	ParallelArm 735 781	nec illa magnitudine ista breuitas premeretur.
+R13	Parallel Arg1:T25 Arg2:T26	
+T27	ParallelArm 800 822	membra humana suscepit
+T28	ParallelArm 824 846	opera diuina deseruit:
+R14	Parallel Arg1:T27 Arg2:T28	
+T29	ParallelArm 938 964	infirmitate carnis indutus
+T30	ParallelArm 966 990	uirginali utero receptus
+R15	Parallel Arg1:T29 Arg2:T30	
+T31	ParallelArm 1447 1467	omnes totum auditis,
+T32	ParallelArm 1468 1490	totum singuli capitis.
+R16	Parallel Arg1:T31 Arg2:T32	
+T33	ParallelArm 1858 1879	simul ad omnes uenit,
+T34	ParallelArm 1883 1910	totus ad singulos peruenit.
+R17	Parallel Arg1:T33 Arg2:T34	
+T35	ParallelArm 1949 1988	sicut ad totum audiendum omnes uenistis
+T36	ParallelArm 1990 2020	ita cum toto singuli rediretis
+R18	Parallel Arg1:T35 Arg2:T36	
+T37	ParallelArm 2115 2137	nec locis concluditur,
+T38	ParallelArm 2138 2162	nec temporibus tenditur,
+T39	ParallelArm 2163 2203	nec morulis breuibus longisque uariatur,
+T40	ParallelArm 2204 2224	nec uocibus texitur,
+T41	ParallelArm 2225 2248	nec silentio terminatur
+R19	Parallel Arg1:T37 Arg2:T38	
+R20	Parallel Arg1:T38 Arg2:T39	
+R21	Parallel Arg1:T39 Arg2:T40	
+R22	Parallel Arg1:T40 Arg2:T41	
+T42	ParallelArm 2370 2398	hinc ad oculos humanos exire
+T43	ParallelArm 2400 2433	inde mentes angelicas illustrare?
+R23	Parallel Arg1:T42 Arg2:T43	
+T44	ParallelArm 2434 2459	hinc ad terras procedere,
+T45	ParallelArm 2460 2482	inde caelos extendere?
+T46	ParallelArm 2483 2499	hinc homo fieri,
+T47	ParallelArm 2500 2520	inde homines facere?
+R24	Parallel Arg1:T44 Arg2:T45	
+R25	Parallel Arg1:T46 Arg2:T47	
+T48	ParallelArm 2625 2648	et non consumpta diuina
+T49	ParallelArm 2652 2688	perfecte assumpta humana substantia,
+R26	Parallel Arg1:T48 Arg2:T49	
+T50	ParallelArm 2689 2709	manentem dei filium,
+T51	ParallelArm 2710 2732	factum hominis filium.
+R27	Parallel Arg1:T50 Arg2:T51	
+T52	ParallelArm 3096 3130	et intus maneat quod intelligatur,
+T53	ParallelArm 3131 3160	et foris sonet quod audiatur:
+R28	Parallel Arg1:T52 Arg2:T53	
+T54	ParallelArm 3773 3812	neque illud manebit, cum oblitus fueris
+T55	ParallelArm 3814 3838	neque hoc, cum silueris:
+R29	Parallel Arg1:T54 Arg2:T55	
+T56	ParallelArm 4301 4319	formam dei perdens
+T57	ParallelArm 4325 4347	formam serui accipiens
+R30	Parallel Arg1:T56 Arg2:T57	
+T58	ParallelArm 4537 4570	nos nisi hoc essemus, non essemus
+T59	ParallelArm 4572 4613	ille si hoc non esset, esset utique deus.
+R31	Parallel Arg1:T58 Arg2:T59	
+T60	ParallelArm 4740 4769	propter quod homo factus est,
+T61	ParallelArm 4801 4829	propter quod permansit deus,
+R32	Parallel Arg1:T60 Arg2:T61	
+T62	ParallelArm 5229 5288	et propter ueram formam serui, quam acceperat, uerum dixit,
+T63	ParallelArm 5309 5369	et propter ueram formam dei, in qua permanebat, uerum dixit,
+R33	Parallel Arg1:T62 Arg2:T63	
+T64	ParallelArm 5486 5506	occultans quod erat,
+T65	ParallelArm 5510 5539	demonstrans quod factus erat.
+R34	Parallel Arg1:T64 Arg2:T65	
+T66	ParallelArm 5916 5927	alter deus,
+T67	ParallelArm 5928 5939	alter homo.
+R35	Parallel Arg1:T66 Arg2:T67	
+T68	ParallelArm 6030 6046	conditor Mariae,
+T69	ParallelArm 6047 6061	natus ex Maria
+R36	Parallel Arg1:T68 Arg2:T69	
+T70	ParallelArm 6063 6076	filius Dauid,
+T71	ParallelArm 6077 6091	dominus Dauid:
+R37	Parallel Arg1:T70 Arg2:T71	
+T72	ParallelArm 6092 6106	semen Abrahae,
+T73	ParallelArm 6107 6128	qui est ante Abraham:
+R38	Parallel Arg1:T72 Arg2:T73	
+T74	ParallelArm 6129 6143	factor terrae,
+T75	ParallelArm 6144 6160	factus in terra:
+R39	Parallel Arg1:T74 Arg2:T75	
+T76	ParallelArm 6161 6175	creator caeli,
+T77	ParallelArm 6176 6193	creatus sub caelo
+R40	Parallel Arg1:T76 Arg2:T77	
+T78	ChiasmA 6195 6227	ipse est dies quem fecit dominus
+T79	ChiasmB 6232 6268	dies cordis nostri ipse est dominus.
+R41	Chiasm Arg1:T78 Arg2:T79	

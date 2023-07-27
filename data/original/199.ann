@@ -1,0 +1,81 @@
+T1	ParallelArm 8 65	nuper celebrauimus diem quo ex Iudaeis dominus natus est:
+T2	ParallelArm 66 112	hodie celebramus, quo a gentibus adoratus est.
+R1	Parallel Arg1:T1 Arg2:T2	
+T3	ParallelArm 631 648	pastores a Iudaea
+T4	ParallelArm 650 666	magos ab oriente
+R2	Parallel Arg1:T3 Arg2:T4	
+T5	ParallelArm 739 759	pacem his qui longe,
+T6	ParallelArm 763 783	pacem his qui prope.
+R3	Parallel Arg1:T5 Arg2:T6	
+T7	ChiasmA 792 828	illi ipso die de proximo accedentes,
+T8	ChiasmB 829 863	de longinquo isti hodie uenientes,
+R4	Chiasm Arg1:T7 Arg2:T8	
+T9	ParallelArm 1183 1207	nuntiant et interrogant,
+T10	ParallelArm 1208 1227	credunt et quaerunt
+R5	Parallel Arg1:T9 Arg2:T10	
+T11	ParallelArm 1397 1416	in caelo agnoscitur
+T12	ParallelArm 1418 1436	in terra quaeritur
+T13	ParallelArm 1438 1452	in alto fulget
+T14	ParallelArm 1454 1470	in humili latet?
+R6	Parallel Arg1:T11 Arg2:T12	
+R7	Parallel Arg1:T13 Arg2:T14	
+T15	ParallelArm 1471 1502	in oriente magi uident stellam,
+T16	ParallelArm 1506 1540	in Iudaea natum intelligunt regem.
+R8	Parallel Arg1:T15 Arg2:T16	
+T17	ParallelArm 1559 1569	tam paruus
+T18	ParallelArm 1571 1582	tam magnus;
+R9	Parallel Arg1:T17 Arg2:T18	
+T19	ParallelArm 1583 1608	nondum in terris loquens,
+T20	ParallelArm 1609 1640	iam in caelis edicta proponens?
+R10	Parallel Arg1:T19 Arg2:T20	
+T21	ParallelArm 2123 2137	mendaces a se,
+T22	ParallelArm 2138 2156	ueraces contra se.
+R11	Parallel Arg1:T21 Arg2:T22	
+T23	ParallelArm 2375 2392	pariter uiderent,
+T24	ParallelArm 2393 2415	pariter intelligerent,
+T25	ParallelArm 2416 2433	pariter adorarent
+R12	Parallel Arg1:T23 Arg2:T24	
+R13	Parallel Arg1:T24 Arg2:T25	
+T26	ParallelArm 2640 2671	magi quaerebant, ut inuenirent:
+T27	ParallelArm 2672 2703	Herodes quaerebat, ut perderet:
+R14	Parallel Arg1:T26 Arg2:T27	
+T28	ParallelArm 2711 2740	ciuitatem nascentis legebant,
+T29	ParallelArm 2741 2776	tempus uenientis non intelligebant.
+R15	Parallel Arg1:T28 Arg2:T29	
+T30	ParallelArm 2783 2803	magorum pium amorem,
+T31	ParallelArm 2807 2831	Herodis crudelem timorem
+R16	Parallel Arg1:T30 Arg2:T31	
+T32	ParallelArm 2908 2954	non tunc quaesitum, sed uisum postea negaturi,
+T33	ParallelArm 2955 3004	nec tunc infantem, sed loquentem postea necaturi.
+R17	Parallel Arg1:T32 Arg2:T33	
+T34	ParallelArm 3197 3232	docentis non secuti sunt ueritatem,
+T35	ParallelArm 3239 3275	nascentis potuerunt nosse ciuitatem.
+R18	Parallel Arg1:T34 Arg2:T35	
+T36	ParallelArm 3980 4009	negent uoluntatem qua peccant
+T37	ParallelArm 4011 4056	confingant necessitatem qua peccata defendant
+R19	Parallel Arg1:T36 Arg2:T37	
+T38	ParallelArm 4118 4149	in caelo etiam figere conentur,
+T39	ParallelArm 4153 4182	a sideribus manare mentiantur
+R20	Parallel Arg1:T38 Arg2:T39	
+T40	ParallelArm 4501 4520	non sane fatidicos,
+T41	ParallelArm 4521 4541	sed plane falsidicos
+R21	Parallel Arg1:T40 Arg2:T41	
+T42	ParallelArm 4873 4911	ipsa Christum fecit mirabiliter uiuere
+T43	ParallelArm 4917 4959	ipsam fecit Christus mirabiliter apparere:
+R22	Parallel Arg1:T42 Arg2:T43	
+T44	ParallelArm 4964 4996	ipsa Christi mirabilia decreuit,
+T45	ParallelArm 5001 5049	ipsam Christus inter sua mirabilia demonstrauit.
+R23	Parallel Arg1:T44 Arg2:T45	
+T46	ParallelArm 5160 5204	eo nascente lux noua est in stella reuelata,
+T47	ParallelArm 5205 5248	quo moriente lux antiqua est in sole uelata
+R24	Parallel Arg1:T46 Arg2:T47	
+T48	ParallelArm 5250 5292	eo nascente superi nouo honore claruerunt,
+T49	ParallelArm 5293 5335	quo moriente inferi nouo timore tremuerunt
+T50	ParallelArm 5337 5384	quo resurgente discipuli nouo amore exarserunt,
+T51	ParallelArm 5385 5430	quo ascendente caeli nouo obsequio patuerunt.
+R25	Parallel Arg1:T48 Arg2:T49	
+R26	Parallel Arg1:T49 Arg2:T50	
+R27	Parallel Arg1:T50 Arg2:T51	
+T52	ParallelArm 5431 5530	celebremus ergo deuota solemnitate et hunc diem, quo cognitum Christum magi ex gentibus adorauerunt
+T53	ParallelArm 5538 5609	celebrauimus illum diem, quo natum Christum pastores ex Iudaea uiderunt
+R28	Parallel Arg1:T52 Arg2:T53	

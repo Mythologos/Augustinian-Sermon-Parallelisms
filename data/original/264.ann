@@ -1,0 +1,115 @@
+T1	ParallelArm 466 478	nec laborant
+T2	ParallelArm 480 493	nec recusant,
+R1	Parallel Arg1:T1 Arg2:T2	
+T3	ParallelArm 938 957	uiuentibus membris,
+T4	ParallelArm 963 987	recentibus cicatricibus:
+R2	Parallel Arg1:T3 Arg2:T4	
+T5	ParallelArm 1148 1166	intrans et exiens,
+T6	ParallelArm 1167 1187	manducans et bibens,
+R3	Parallel Arg1:T5 Arg2:T6	
+T7	ParallelArm 1226 1273	redditum esse oculis eorum post resurrectionem,
+T8	ParallelArm 1279 1303	ablatum erat per crucem.
+R4	Parallel Arg1:T7 Arg2:T8	
+T9	ParallelArm 2636 2653	si quis aduertat,
+T10	ParallelArm 2654 2672	si quis intelligat
+R5	Parallel Arg1:T9 Arg2:T10	
+T11	ParallelArm 5814 5839	fortis, ut faceret omnia;
+T12	ParallelArm 5840 5869	infirmus, ut reficeret omnia.
+R6	Parallel Arg1:T11 Arg2:T12	
+T13	ParallelArm 8042 8078	deus enim accepit illam miseratione,
+T14	ParallelArm 8079 8100	homo autem conditione
+R7	Parallel Arg1:T13 Arg2:T14	
+T15	ParallelArm 8111 8126	ostendit illam,
+T16	ParallelArm 8127 8145	confirmauit illos,
+T17	ParallelArm 8149 8163	leuauit illam.
+R8	Parallel Arg1:T15 Arg2:T16	
+R9	Parallel Arg1:T16 Arg2:T17	
+T18	ChiasmA 8846 8876	secundum hominem maior me est,
+T19	ChiasmB 8877 8900	aequalis secundum deum:
+R10	Chiasm Arg1:T18 Arg2:T19	
+T20	ParallelArm 9668 9680	manens deus,
+T21	ParallelArm 9681 9695	manens uerbum,
+T22	ParallelArm 9696 9713	manens sapientia,
+T23	ParallelArm 9714 9735	manens uirtus diuina,
+T24	ParallelArm 9736 9768	manens in gubernatione caelorum,
+R11	Parallel Arg1:T20 Arg2:T21	
+R12	Parallel Arg1:T21 Arg2:T22	
+R13	Parallel Arg1:T22 Arg2:T23	
+T25	ParallelArm 9769 9804	manens in administratione terrarum,
+R14	Parallel Arg1:T24 Arg2:T25	
+T26	ParallelArm 9822 9835	totus ubique,
+T27	ParallelArm 9836 9851	totus in mundo,
+T28	ParallelArm 9852 9873	totus in patriarchis,
+T29	ParallelArm 9874 9893	totus in prophetis,
+T30	ParallelArm 9894 9919	totus in omnibus sanctis,
+T31	ParallelArm 9920 9944	totus in utero uirginis,
+R15	Parallel Arg1:T26 Arg2:T27	
+R16	Parallel Arg1:T27 Arg2:T28	
+R17	Parallel Arg1:T28 Arg2:T29	
+R18	Parallel Arg1:T29 Arg2:T30	
+R19	Parallel Arg1:T30 Arg2:T31	
+T32	ParallelArm 9945 9965	ad induendam carnem,
+T33	ParallelArm 9966 10003	ad coniungendam sibi tanquam sponsam,
+R20	Parallel Arg1:T32 Arg2:T33	
+T34	ParallelArm 10004 10041	ut procederet de thalamo suo sponsus,
+T35	ParallelArm 10042 10083	ut desponsaret ecclesiam uirginem castam.
+R21	Parallel Arg1:T34 Arg2:T35	
+T36	ParallelArm 10921 10941	sufficerent uiginti,
+T37	ParallelArm 10942 10962	sufficerent triginta
+R22	Parallel Arg1:T36 Arg2:T37	
+T38	ParallelArm 11300 11328	annus quatuor tempora habet:
+T39	ParallelArm 11332 11362	mundus quatuor cardines habet.
+R23	Parallel Arg1:T38 Arg2:T39	
+T40	ParallelArm 11566 11675	quadraginta diebus, ieiunauit Elias, gestans personam prophetiae, ostendens quia et in prophetia hoc docetur.
+T41	ParallelArm 11676 11779	quadraginta diebus ieiunauit Moyses, qui gerebat personam legis, ostendens quia et in lege hoc docetur.
+R24	Parallel Arg1:T40 Arg2:T41	
+T42	ParallelArm 11780 11833	quadraginta annis ductus est populus Israel in eremo.
+T43	ParallelArm 11834 11880	quadraginta diebus arca in diluuio fluctuauit,
+R25	Parallel Arg1:T42 Arg2:T43	
+T44	ParallelArm 12951 12963	qui uideret,
+T45	ParallelArm 12964 12975	qui teneret
+R26	Parallel Arg1:T44 Arg2:T45	
+T46	ParallelArm 12977 12995	qui amplecteretur,
+T47	ParallelArm 12996 13010	qui frueretur,
+R27	Parallel Arg1:T46 Arg2:T47	
+T48	ParallelArm 14330 14364	necessarius fuit infirmus infirmo,
+T49	ParallelArm 14365 14395	necessarius erit fortis forti.
+R28	Parallel Arg1:T48 Arg2:T49	
+T50	ParallelArm 14490 14530	corruptibile hoc induere incorruptionem,
+T51	ParallelArm 14534 14569	mortale hoc induere immortalitatem.
+R29	Parallel Arg1:T50 Arg2:T51	
+T52	ParallelArm 14834 14873	ista ipsa quae sepelitur, quae moritur;
+T53	ParallelArm 14874 14906	ista quae uidetur, quae palpatur
+R30	Parallel Arg1:T52 Arg2:T53	
+T54	ParallelArm 14960 14974	quae aegrotat,
+T55	ParallelArm 14975 14995	quae dolores patitur
+R31	Parallel Arg1:T54 Arg2:T55	
+T56	ParallelArm 15019 15047	malis ad poenas sempiternas,
+T57	ParallelArm 15048 15075	bonis autem ut commutentur.
+R32	Parallel Arg1:T56 Arg2:T57	
+T58	ParallelArm 15172 15212	corruptibile hoc induere incorruptionem,
+T59	ParallelArm 15216 15251	mortale hoc induere immortalitatem.
+R33	Parallel Arg1:T58 Arg2:T59	
+T60	ParallelArm 16204 16217	uerbum uerum,
+T61	ParallelArm 16218 16233	sapientia uera,
+T62	ParallelArm 16234 16250	uirtus dei uera:
+R34	Parallel Arg1:T60 Arg2:T61	
+R35	Parallel Arg1:T61 Arg2:T62	
+T63	ParallelArm 16376 16397	uera enim ossa erant,
+T64	ParallelArm 16398 16409	ueri nerui,
+T65	ParallelArm 16410 16427	uerae cicatrices:
+R36	Parallel Arg1:T63 Arg2:T64	
+R37	Parallel Arg1:T64 Arg2:T65	
+T66	ParallelArm 16428 16454	uerum quidquid tangebatur,
+T67	ParallelArm 16455 16485	uerum quidquid intelligebatur.
+R38	Parallel Arg1:T66 Arg2:T67	
+T68	ParallelArm 16486 16523	tangebatur homo, intelligebatur deus:
+T69	ParallelArm 16524 16565	tangebatur caro, intelligebatur sapientia
+T70	ParallelArm 16567 16614	tangebatur infirmitas, intelligebatur potentia.
+R39	Parallel Arg1:T68 Arg2:T69	
+R40	Parallel Arg1:T69 Arg2:T70	
+T71	ParallelArm 18127 18158	perscrutamini omnes scripturas,
+T72	ParallelArm 18159 18180	leuate omnes paginas,
+T73	ParallelArm 18181 18200	legite omnes uersus
+R41	Parallel Arg1:T71 Arg2:T72	
+R42	Parallel Arg1:T72 Arg2:T73	

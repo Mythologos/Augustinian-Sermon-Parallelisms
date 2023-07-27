@@ -1,0 +1,12 @@
+T1	ParallelArm 98 118	sollemniter legitur,
+T2	ParallelArm 119 141	sollemniter celebratur
+R1	Parallel Arg1:T1 Arg2:T2	
+T3	ParallelArm 146 194	annua deuotione memoria nostra laetius innouetur
+T4	ParallelArm 198 257	ipsa frequentia populorum fides nostra clarius praedicetur.
+R2	Parallel Arg1:T3 Arg2:T4	
+T5	ParallelArm 1112 1147	tollit enim quodam modo crucem suam
+T6	ParallelArm 1152 1176	regit mortalitatem suam.
+R3	Parallel Arg1:T5 Arg2:T6	
+T7	ParallelArm 2632 2666	Graeca propter studium litterarum,
+T8	ParallelArm 2667 2701	Latina propter imperium Romanorum.
+R4	Parallel Arg1:T7 Arg2:T8	

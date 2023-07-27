@@ -1,0 +1,18 @@
+T1	ParallelArm 1046 1058	illis angeli
+T2	ParallelArm 1060 1072	istis stella
+T3	ParallelArm 1084 1101	illis dictum est,
+R1	Parallel Arg1:T1 Arg2:T2	
+T4	ParallelArm 1126 1148	in istis impletum est,
+R2	Parallel Arg1:T3 Arg2:T4	
+T5	ParallelArm 1467 1489	in illis gratia prior,
+T6	ParallelArm 1490 1517	in istis humilitas amplior.
+R3	Parallel Arg1:T5 Arg2:T6	
+T7	ParallelArm 2462 2502	ueniunt ergo pastores de proximo uidere,
+T8	ParallelArm 2506 2540	magi de longinquo ueniunt adorare.
+R4	Parallel Arg1:T7 Arg2:T8	
+T9	ParallelArm 2959 2984	ab oriente, et occidente,
+T10	ParallelArm 2985 3008	ab aquilone et meridie,
+R5	Parallel Arg1:T9 Arg2:T10	
+T11	ParallelArm 4023 4078	adorauerunt primitiae gentium inhiantem uberibus matris
+T12	ParallelArm 4080 4127	adorant gentes sedentem ad dexteram dei patris.
+R6	Parallel Arg1:T11 Arg2:T12	

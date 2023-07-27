@@ -1,0 +1,57 @@
+T1	ParallelArm 82 108	fecerat moriendo luctuosum
+T2	ParallelArm 109 136	fecit resurgendo gloriosum,
+R1	Parallel Arg1:T1 Arg2:T2	
+T3	ParallelArm 187 219	eius mortem recordando uigilemus
+T4	ParallelArm 223 265	eius resurrectionem suscipiendo gaudeamus.
+R2	Parallel Arg1:T3 Arg2:T4	
+T5	ParallelArm 326 379	sicut populo ueteri per occisionem pecoris figuratum,
+T6	ParallelArm 384 435	sicut populo nouo per uictimam saluatoris impletum,
+R3	Parallel Arg1:T5 Arg2:T6	
+T7	ParallelArm 537 574	lugemus nisi nostris delictis grauati
+T8	ParallelArm 584 621	gaudemus nisi eius gratia iustificati
+R4	Parallel Arg1:T7 Arg2:T8	
+T9	ChiasmA 715 728	lugendo illud
+T10	ChiasmB 730 742	hoc gaudendo
+R5	Chiasm Arg1:T9 Arg2:T10	
+T11	ParallelArm 789 809	triste commissum est
+T12	ParallelArm 810 835	laetumque praemissum est,
+R6	Parallel Arg1:T11 Arg2:T12	
+T13	ParallelArm 840 869	ingrata obliuione praeterimus
+T14	ParallelArm 874 899	grata memoria celebramus.
+R7	Parallel Arg1:T13 Arg2:T14	
+T15	ParallelArm 1037 1062	tunc irrisa est in ligno,
+T16	ParallelArm 1063 1095	nunc adoratur in caelo et terra.
+R8	Parallel Arg1:T15 Arg2:T16	
+T17	ChiasmA 1320 1353	inluminabis lucernam meam, domine
+T18	ChiasmB 1355 1392	deus meus, inluminabis tenebras meas.
+R9	Chiasm Arg1:T17 Arg2:T18	
+T19	ParallelArm 1468 1520	eius resurrectione fides nostra firmata iam uigilat,
+T20	ParallelArm 1528 1580	nostra uigilia etiam nox ista inluminata praefulgeat
+R10	Parallel Arg1:T19 Arg2:T20	
+T21	ParallelArm 1761 1774	sol abcessit,
+T22	ParallelArm 1775 1793	dies non recessit,
+R11	Parallel Arg1:T21 Arg2:T22	
+T23	ParallelArm 2127 2180	gaudentibus oculis istum splendorem luminum cernimus,
+T24	ParallelArm 2185 2244	huius tam clarae noctis rationem inluminata mente uideamus.
+R12	Parallel Arg1:T23 Arg2:T24	
+T25	ParallelArm 2663 2682	in ieiuniis saepius
+T26	ParallelArm 2684 2704	in uigiliis saepius.
+R13	Parallel Arg1:T25 Arg2:T26	
+T27	ParallelArm 2810 2843	prius itaque de generali uigilia,
+T28	ParallelArm 2844 2875	postea de speciali et hodierna,
+R14	Parallel Arg1:T27 Arg2:T28	
+T29	ParallelArm 3140 3245	quid est enim aliud somnus quam cottidiana mors quae nec penitus hinc aufert nec diutius detinet hominem?
+T30	ParallelArm 3249 3332	quid est aliud mors quam diuturnus et altissimus somnus a quo deus excitat hominem?
+R15	Parallel Arg1:T29 Arg2:T30	
+T31	ParallelArm 3575 3613	nec aliud ibi est uiuere quam uigilare
+T32	ParallelArm 3614 3645	nec aliud uigilare quam uiuere.
+R16	Parallel Arg1:T31 Arg2:T32	
+T33	ParallelArm 5034 5051	nondum erant nox,
+T34	ParallelArm 5052 5069	nondum erant dies
+R17	Parallel Arg1:T33 Arg2:T34	
+T35	ParallelArm 5615 5630	nox praecessit,
+T36	ParallelArm 5631 5657	dies autem adpropinquauit.
+R18	Parallel Arg1:T35 Arg2:T36	
+T37	ParallelArm 5658 5691	abiciamus itaque opera tenebrarum
+T38	ParallelArm 5695 5718	induamus nos arma lucis
+R19	Parallel Arg1:T37 Arg2:T38	

@@ -1,0 +1,31 @@
+T1	ParallelArm 858 896	carnes, sunt carnales concupiscentiae;
+T2	ParallelArm 897 929	claui, sunt praecepta iustitiae:
+R1	Parallel Arg1:T1 Arg2:T2	
+T3	ParallelArm 1954 1992	in Moyse et in Elia et in ipso Christo
+T4	ParallelArm 2003 2045	in lege et prophetis et in ipso euangelio,
+R2	Parallel Arg1:T3 Arg2:T4	
+T5	ParallelArm 2139 2178	non in comessationibus et ebrietatibus,
+T6	ParallelArm 2179 2212	non in cubilibus et impudicitiis,
+T7	ParallelArm 2213 2246	non in contentione et aemulatione
+R3	Parallel Arg1:T5 Arg2:T6	
+R4	Parallel Arg1:T6 Arg2:T7	
+T8	ParallelArm 2901 2980	tempus quod reddendo coniugali debito occupabatur, supplicationibus impendatur.
+T9	ParallelArm 2981 3055	corpus quod carnalibus affectibus soluebatur, puris precibus prosternatur.
+R5	Parallel Arg1:T8 Arg2:T9	
+T10	ParallelArm 3056 3117	manus quae amplexibus implicabantur, orationibus extendantur.
+R6	Parallel Arg1:T9 Arg2:T10	
+T11	ParallelArm 3552 3585	tuum deputa, quod amas in fratre:
+T12	ParallelArm 3586 3616	suum deputet, quod amat in te.
+R7	Parallel Arg1:T11 Arg2:T12	
+T13	ParallelArm 3698 3747	pretiosos cibos quaerat, quia carne non uescitur,
+T14	ParallelArm 3751 3793	inusitatos liquores, quia uinum non bibit:
+R8	Parallel Arg1:T13 Arg2:T14	
+T15	ParallelArm 4421 4450	non est litis, sed caritatis;
+T16	ParallelArm 4451 4474	nec carnis, sed cordis.
+R9	Parallel Arg1:T15 Arg2:T16	
+T17	ParallelArm 4599 4630	dimittite, et dimittetur uobis;
+T18	ParallelArm 4631 4654	date, et dabitur uobis.
+R10	Parallel Arg1:T17 Arg2:T18	
+T19	ParallelArm 4734 4755	ignoscit delinquenti,
+T20	ParallelArm 4759 4772	donat egenti.
+R11	Parallel Arg1:T19 Arg2:T20	

@@ -1,0 +1,81 @@
+T1	ParallelArm 65 84	pariter inuisibilis
+T2	ParallelArm 86 105	pariter immutabilis
+T3	ParallelArm 107 126	pariter omnipotens,
+T4	ParallelArm 127 140	pariter deus;
+R1	Parallel Arg1:T1 Arg2:T2	
+R2	Parallel Arg1:T2 Arg2:T3	
+R3	Parallel Arg1:T3 Arg2:T4	
+T5	ParallelArm 209 231	forma assumpta humana,
+T6	ParallelArm 232 250	non amissa diuina:
+R4	Parallel Arg1:T5 Arg2:T6	
+T7	ParallelArm 154 164	ut nostis,
+T8	ParallelArm 165 179	et accepistis,
+T9	ParallelArm 180 191	et tenetis,
+R5	Parallel Arg1:T7 Arg2:T8	
+R6	Parallel Arg1:T8 Arg2:T9	
+T10	ParallelArm 251 267	potens occultus,
+T11	ParallelArm 268 287	infirmus manifestus
+R7	Parallel Arg1:T10 Arg2:T11	
+T12	ParallelArm 303 329	natus est, ut renasceremur
+T13	ParallelArm 331 372	mortuus est, ne nos in aeternum moreremur
+R8	Parallel Arg1:T12 Arg2:T13	
+T14	ParallelArm 491 507	oculis uidendum,
+T15	ParallelArm 508 530	manibusque tractandum;
+R9	Parallel Arg1:T14 Arg2:T15	
+T16	ParallelArm 531 558	persuadens quod factus erat
+T17	ParallelArm 564 590	auferens quod semper erat.
+R10	Parallel Arg1:T16 Arg2:T17	
+T18	ParallelArm 651 668	intrans et exiens
+T19	ParallelArm 670 690	manducans et bibens;
+R11	Parallel Arg1:T18 Arg2:T19	
+T20	ParallelArm 768 790	in cruce infirmitatem,
+T21	ParallelArm 791 817	a sepulcro immortalitatem.
+R12	Parallel Arg1:T20 Arg2:T21	
+T22	ParallelArm 1463 1497	in omnem terram exiit sonus eorum,
+T23	ParallelArm 1501 1535	in fines orbis terrae uerba eorum.
+R13	Parallel Arg1:T22 Arg2:T23	
+T24	ParallelArm 1541 1560	et ad nos uenerunt,
+T25	ParallelArm 1561 1589	et nos de somno excitauerunt
+R14	Parallel Arg1:T24 Arg2:T25	
+T26	ParallelArm 1809 1849	tu qui fuisti in uentre matris inclusus;
+T27	ParallelArm 1850 1889	tu qui in illa factus es, quam fecisti;
+T28	ParallelArm 1890 1918	tu qui in praesepi iacuisti;
+T29	ParallelArm 1919 1972	tu qui ubera tanquam paruulus in uena carnis suxisti;
+T30	ParallelArm 1973 2014	tu qui portans mundum, portabaris a matre
+R15	Parallel Arg1:T26 Arg2:T27	
+R16	Parallel Arg1:T27 Arg2:T28	
+R17	Parallel Arg1:T28 Arg2:T29	
+R18	Parallel Arg1:T29 Arg2:T30	
+T31	ParallelArm 2016 2074	tu quem Simeon senex paruulum agnouit, magnumque laudauit:
+T32	ParallelArm 2075 2135	tu quem uidua Anna uidit sugentem, et cognouit omnipotentem:
+R19	Parallel Arg1:T31 Arg2:T32	
+T33	ParallelArm 2136 2218	tu qui esuristi propter nos, sitisti propter nos, fatigatus es in uia propter nos:
+T34	ParallelArm 2280 2321	tu qui omnia ista pertulisti propter nos:
+R20	Parallel Arg1:T33 Arg2:T34	
+T35	ParallelArm 2229 2241	esurit panis
+T36	ParallelArm 2247 2257	sitit fons
+T37	ParallelArm 2263 2277	fatigatur uia?
+R21	Parallel Arg1:T35 Arg2:T36	
+R22	Parallel Arg1:T36 Arg2:T37	
+T38	ParallelArm 2394 2414	quem uendidit Iudas,
+T39	ParallelArm 2415 2435	quem Iudaei emerunt,
+R23	Parallel Arg1:T38 Arg2:T39	
+T40	ParallelArm 2651 2690	sede in caelo, qui pependisti in ligno.
+T41	ParallelArm 2691 2748	iudex exspectaris uenturus, qui exspectatus es iudicatus.
+R24	Parallel Arg1:T40 Arg2:T41	
+T42	ParallelArm 3136 3150	iam factum est
+T43	ParallelArm 3152 3169	iam impletum est.
+R25	Parallel Arg1:T42 Arg2:T43	
+T44	ParallelArm 3377 3394	non credat illud,
+T45	ParallelArm 3399 3414	non uidet istud
+R26	Parallel Arg1:T44 Arg2:T45	
+T46	ParallelArm 3471 3503	super omnem terram ecclesia tua,
+T47	ParallelArm 3504 3535	super omnem terram matrona tua,
+T48	ParallelArm 3536 3566	super omnem terram sponsa tua,
+R27	Parallel Arg1:T46 Arg2:T47	
+R28	Parallel Arg1:T47 Arg2:T48	
+T49	ParallelArm 3567 3579	dilecta tua,
+T50	ParallelArm 3580 3592	columba tua,
+T51	ParallelArm 3593 3604	coniux tua.
+R29	Parallel Arg1:T49 Arg2:T50	
+R30	Parallel Arg1:T50 Arg2:T51	

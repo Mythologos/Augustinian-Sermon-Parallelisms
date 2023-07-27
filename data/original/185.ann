@@ -1,0 +1,46 @@
+T1	ParallelArm 156 189	et magis caelo teste significata,
+T2	ParallelArm 190 226	et pastoribus angelica uoce nuntiata
+R1	Parallel Arg1:T1 Arg2:T2	
+T3	ParallelArm 320 346	ueritas de terra orta est,
+T4	ParallelArm 350 378	iustitia de caelo prospexit.
+R2	Parallel Arg1:T3 Arg2:T4	
+T5	ParallelArm 387 411	quae est in sinu patris,
+T6	ParallelArm 431 460	ut esset etiam in sinu matris
+R3	Parallel Arg1:T5 Arg2:T6	
+T7	ParallelArm 379 429	ueritas quae est in sinu patris, de terra orta est
+T8	ParallelArm 462 543	ueritas qua mundus continetur, de terra orta est, ut femineis manibus portaretur.
+T9	ParallelArm 379 461	ueritas quae est in sinu patris, de terra orta est, ut esset etiam in sinu matris.
+R4	Parallel Arg1:T9 Arg2:T8	
+T10	ParallelArm 544 655	ueritas qua beatitudo angelorum incorruptibiliter alitur, de terra orta est, ut carnalibus uberibus lactaretur.
+R5	Parallel Arg1:T8 Arg2:T10	
+T11	ParallelArm 656 734	ueritas cui caelum non sufficit, de terra orta est, ut in praesepio poneretur.
+R6	Parallel Arg1:T10 Arg2:T11	
+T12	ParallelArm 996 1022	in aeternum mortuus esses,
+T13	ParallelArm 1028 1051	in tempore natus esset.
+R7	Parallel Arg1:T12 Arg2:T13	
+T14	ParallelArm 1052 1087	nunquam liberareris a carne peccati
+T15	ParallelArm 1089 1135	nisi suscepisset similitudinem carnis peccati.
+R8	Parallel Arg1:T14 Arg2:T15	
+T16	ParallelArm 1244 1273	defecisses, nisi subuenisset.
+T17	ParallelArm 1274 1298	perisses, nisi uenisset.
+R9	Parallel Arg1:T16 Arg2:T17	
+T18	ParallelArm 1418 1441	ex magno et aeterno die
+T19	ParallelArm 1448 1491	in hunc nostrum tam breuem temporalem diem.
+R10	Parallel Arg1:T18 Arg2:T19	
+T20	ParallelArm 2319 2337	omne datum optimum
+T21	ParallelArm 2341 2370	omne donum perfectum desursum
+R11	Parallel Arg1:T20 Arg2:T21	
+T22	ParallelArm 3164 3182	de nobis processit
+T23	ParallelArm 3188 3207	de caelo prospexit.
+R12	Parallel Arg1:T22 Arg2:T23	
+T24	ParallelArm 3479 3504	ueritas de terra orta est
+T25	ParallelArm 3514 3542	Christus de carne natus est?
+R13	Parallel Arg1:T24 Arg2:T25	
+T26	ParallelArm 4020 4035	quaere meritum,
+T27	ParallelArm 4036 4050	quaere causam,
+T28	ParallelArm 4051 4068	quaere iustitiam;
+R14	Parallel Arg1:T26 Arg2:T27	
+R15	Parallel Arg1:T27 Arg2:T28	
+T29	ParallelArm 3911 3964	habens unigenitum filium, faceret eum hominis filium,
+T30	ParallelArm 3984 4019	hominis filium, faceret dei filium?
+R16	Parallel Arg1:T29 Arg2:T30	

@@ -1,0 +1,37 @@
+T1	ParallelArm 1195 1212	pasce agnos meos,
+T2	ParallelArm 1213 1229	pasce oues meas,
+R1	Parallel Arg1:T1 Arg2:T2	
+T3	ParallelArm 1431 1450	habes ubi ostendas,
+T4	ParallelArm 1451 1470	habes ubi exerceas,
+R2	Parallel Arg1:T3 Arg2:T4	
+T5	ParallelArm 4887 4916	crucifixus est enim Christus,
+T6	ParallelArm 4917 4942	crucifixus est et Petrus,
+R3	Parallel Arg1:T5 Arg2:T6	
+T7	ParallelArm 4943 4963	expertus est clauos,
+T8	ParallelArm 4964 4986	expertus est cruciatus
+R4	Parallel Arg1:T7 Arg2:T8	
+T9	ParallelArm 5061 5074	sine uulnere,
+T10	ParallelArm 5075 5088	sine cruciatu
+R5	Parallel Arg1:T9 Arg2:T10	
+T11	ParallelArm 5146 5168	sanguinem fudi pro te,
+T12	ParallelArm 5169 5182	funde pro me.
+R6	Parallel Arg1:T11 Arg2:T12	
+T13	ParallelArm 5539 5553;5554 5568	quid est homo? anima et caro.
+T14	ParallelArm 5569 5592;5593 5615	quid est ergo Christus? uerbum, anima et caro.
+R7	Parallel Arg1:T13 Arg2:T14	
+T15	ParallelArm 5746 5772	in litteris Petri aliquid,
+T16	ParallelArm 5773 5801	in euangelio Iohannis multum
+R8	Parallel Arg1:T15 Arg2:T16	
+T17	ParallelArm 5847 5864	transcendit nubes
+T18	ParallelArm 5868 5887	transcendit sidera,
+R9	Parallel Arg1:T17 Arg2:T18	
+T19	ParallelArm 5888 5907	transcendit angelos
+R10	Parallel Arg1:T18 Arg2:T19	
+T20	ParallelArm 5909 5937	transcendit omnem creaturam,
+R11	Parallel Arg1:T19 Arg2:T20	
+T21	ParallelArm 6072 6084	quis uideat,
+T22	ParallelArm 6085 6098	quis cogitet,
+R12	Parallel Arg1:T21 Arg2:T22	
+T23	ParallelArm 6099 6120	quis digne suscipiat,
+T24	ParallelArm 6121 6143	quis digne pronuntiet?
+R13	Parallel Arg1:T23 Arg2:T24	

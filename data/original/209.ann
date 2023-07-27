@@ -1,0 +1,36 @@
+T1	ParallelArm 325 348	uel nasci non debuerunt
+T2	ParallelArm 350 373	uel cito mori debuerunt
+R1	Parallel Arg1:T1 Arg2:T2	
+T3	ParallelArm 404 421	siue negligentia,
+T4	ParallelArm 422 438	siue pertinacia,
+R2	Parallel Arg1:T3 Arg2:T4	
+T5	ParallelArm 939 967	contra negligentiam memoria,
+T6	ParallelArm 968 1000	contra pertinaciam misericordia,
+T7	ParallelArm 1001 1048	contra superbam uerecundiam submissa prudentia.
+R3	Parallel Arg1:T5 Arg2:T6	
+R4	Parallel Arg1:T6 Arg2:T7	
+T8	ParallelArm 710 751	negligens inimicitias finire obliuiscitur
+T9	ParallelArm 753 801	pertinax ueniam non uult concedere, cum rogatur;
+T10	ParallelArm 802 846	superbe uerecundus ueniam petere dedignatur.
+R5	Parallel Arg1:T8 Arg2:T9	
+R6	Parallel Arg1:T9 Arg2:T10	
+T11	ParallelArm 1049 1120	qui se concordiae recolit neglectorem, excutiat expergiscendo torporem:
+T12	ParallelArm 1121 1189	qui se cupit esse sui debitoris exactorem, dei se cogitet debitorem:
+R7	Parallel Arg1:T11 Arg2:T12	
+T13	ParallelArm 1406 1448	in quantum adest, exerceatur bene uiuendo;
+T14	ParallelArm 1449 1496	in quantum autem minus est, impetretur petendo.
+R8	Parallel Arg1:T13 Arg2:T14	
+T15	ParallelArm 2500 2523	immunditiae deuitandae,
+T16	ParallelArm 2528 2556	concupiscentiae refrenandae.
+R9	Parallel Arg1:T15 Arg2:T16	
+T17	ParallelArm 2711 2734	suscipere abstinentiam,
+T18	ParallelArm 2739 2755	mutare luxuriam.
+R10	Parallel Arg1:T17 Arg2:T18	
+T19	ParallelArm 2952 2978	uobis parcius impendentes,
+T20	ParallelArm 2982 3008	egenis largius tribuentes.
+R11	Parallel Arg1:T19 Arg2:T20	
+T21	ParallelArm 2928 2948	crebrius ieiunantes,
+R12	Parallel Arg1:T21 Arg2:T19	
+T22	ParallelArm 3410 3425	ferueat deuotio
+T23	ParallelArm 3427 3445	comprimatur elatio
+R13	Parallel Arg1:T22 Arg2:T23	

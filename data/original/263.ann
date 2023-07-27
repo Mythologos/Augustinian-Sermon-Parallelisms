@@ -1,0 +1,38 @@
+T1	ParallelArm 197 263	ideo enim resurrexit, ut nobis exemplum resurrectionis ostenderet;
+T2	ParallelArm 267 308	ideo ascendit, ut nos desuper protegeret.
+R1	Parallel Arg1:T1 Arg2:T2	
+T3	ParallelArm 367 392	prius pendentem in ligno,
+T4	ParallelArm 393 416	nunc sedentem in caelo.
+R2	Parallel Arg1:T3 Arg2:T4	
+T5	ParallelArm 417 462	pretium nostrum dedit, cum penderet in ligno;
+T6	ParallelArm 463 502	collegit quod emit, cum sedet in caelo.
+R3	Parallel Arg1:T5 Arg2:T6	
+T7	ParallelArm 711 761	occultum enim eum oportebat uenire, ut iudicaretur
+T8	ParallelArm 763 799	manifestus autem ueniet, ut iudicet.
+R4	Parallel Arg1:T7 Arg2:T8	
+T9	ParallelArm 1397 1416	ipse leo dictus est
+T10	ParallelArm 1418 1439	ipse agnus dictus est
+T11	ParallelArm 1441 1493	leo propter fortitudinem, agnus propter innocentiam:
+T12	ParallelArm 1494 1534	leo quia inuictus, agnus quia mansuetus.
+R5	Parallel Arg1:T11 Arg2:T12	
+T13	ParallelArm 1959 1977	contra leonem leo,
+T14	ParallelArm 1978 1997	contra lupum agnus.
+R6	Parallel Arg1:T13 Arg2:T14	
+T15	ParallelArm 2215 2233	muscipula diaboli,
+T16	ParallelArm 2234 2246	crux domini:
+R7	Parallel Arg1:T15 Arg2:T16	
+T17	ParallelArm 2565 2588	de sepulchro resurgere,
+T18	ParallelArm 2594 2614	de ligno descendere.
+R8	Parallel Arg1:T17 Arg2:T18	
+T19	ParallelArm 2651 2675	quod ascendit in caelum,
+T20	ParallelArm 2676 2706	quod sedet ad dexteram patris?
+R9	Parallel Arg1:T19 Arg2:T20	
+T21	ParallelArm 2740 2770	nec pendentem in ligno uidimus
+T22	ParallelArm 2772 2811	nec resurgentem de sepulchro aspeximus.
+R10	Parallel Arg1:T21 Arg2:T22	
+T23	ParallelArm 2940 2984	non est magnum uidere Christum oculis carnis
+T24	ParallelArm 2990 3031	magnum est credere Christum oculis cordis
+R11	Parallel Arg1:T23 Arg2:T24	
+T25	ParallelArm 3195 3211	absens loquitur,
+T26	ParallelArm 3217 3234	praesens taceret?
+R12	Parallel Arg1:T25 Arg2:T26	

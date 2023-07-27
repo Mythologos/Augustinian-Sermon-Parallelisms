@@ -1,0 +1,220 @@
+T1	ParallelArm 617 654	neque per caelum, quia sedes dei est;
+T2	ParallelArm 655 703	neque per terram, quia scabellum est pedum eius;
+R1	Parallel Arg1:T1 Arg2:T2	
+T3	ParallelArm 1101 1118	neque per caelum,
+T4	ParallelArm 1119 1136	neque per terram,
+R3	Parallel Arg1:T3 Arg2:T4	
+T5	ParallelArm 1587 1622	per memetipsum iuro, dicit dominus.
+T6	ParallelArm 1645 1669	uiuo ego, dicit dominus.
+R2	Parallel Arg1:T5 Arg2:T6	
+T7	ParallelArm 1670 1692	quomodo homo per deum,
+T8	ParallelArm 1693 1715	sic deus per se ipsum.
+R4	Parallel Arg1:T7 Arg2:T8	
+T9	ParallelArm 1868 1897	non ergo est peccatum iurare;
+T10	ParallelArm 1902 1930	magis peccatum est peierare.
+R5	Parallel Arg1:T9 Arg2:T10	
+T11	ParallelArm 2031 2057	illi soli competit iurare,
+T12	ParallelArm 2058 2082	qui non potest peierare.
+R6	Parallel Arg1:T11 Arg2:T12	
+T13	ParallelArm 2111 2126	uel cum fallunt
+T14	ParallelArm 2128 2145	uel cum falluntur
+R7	Parallel Arg1:T13 Arg2:T14	
+T15	ParallelArm 2147 2211	aut enim putat homo uerum esse quod falsum est, et temere iurat:
+T16	ParallelArm 2212 2301	aut scit uel putat falsum esse, et tamen pro uero iurat, et nihilominus cum scelere iurat
+R8	Parallel Arg1:T15 Arg2:T16	
+T17	ParallelArm 3727 3754	ecce uerum iura, non peccas
+T18	ParallelArm 3756 3783	si uerum iuras, non peccas.
+R9	Parallel Arg1:T17 Arg2:T18	
+T19	ParallelArm 4014 4034	coniecturas humanas,
+T20	ParallelArm 4035 4052	fallacias humanas
+R10	Parallel Arg1:T19 Arg2:T20	
+T21	ParallelArm 4171 4216	qui enim iurat, aliquando uerum iurare potest
+T22	ParallelArm 4218 4270	qui autem non iurat, mendacium iurare nunquam potest
+R11	Parallel Arg1:T21 Arg2:T22	
+T23	ParallelArm 4308 4326	quem nihil fallit,
+T24	ParallelArm 4327 4343	quem nihil latet
+R12	Parallel Arg1:T23 Arg2:T24	
+T25	ParallelArm 4431 4473	quomodo tu cum iuras, deum adhibes testem;
+T26	ParallelArm 4474 4511	sic ipse cum iurat, se testem adhibet
+R13	Parallel Arg1:T25 Arg2:T26	
+T27	ParallelArm 4693 4714	qui iurat, iuxta est:
+T28	ParallelArm 4715 4739	qui non iurat, longe est
+R14	Parallel Arg1:T27 Arg2:T28	
+T29	ParallelArm 4741 4776	peccat et grauiter qui falsum iurat
+T30	ParallelArm 4778 4804	non peccat qui uerum iurat
+R15	Parallel Arg1:T29 Arg2:T30	
+T31	ParallelArm 5277 5303	si offenderis, deorsum is;
+T32	ParallelArm 5304 5332	si lapsus fueris, deorsum is
+R16	Parallel Arg1:T31 Arg2:T32	
+T33	ParallelArm 5612 5637	si iuraueris, non damnabo
+T34	ParallelArm 5639 5671	si uerum iuraueris, non damnabo.
+R17	Parallel Arg1:T34 Arg2:T33	
+T35	ParallelArm 5751 5768	ueram iurationem,
+T36	ParallelArm 5772 5790	nullam iurationem:
+R18	Parallel Arg1:T35 Arg2:T36	
+T37	ParallelArm 5822 5848	falsa iuratio exitiosa est
+T38	ParallelArm 5850 5877	uera iuratio periculosa est
+T39	ParallelArm 5879 5903	nulla iuratio secura est
+R19	Parallel Arg1:T37 Arg2:T38	
+R20	Parallel Arg1:T38 Arg2:T39	
+T40	ParallelArm 6126 6152	hinc me dicere deus uoluit
+T41	ParallelArm 6154 6170	hinc uos audire.
+R21	Parallel Arg1:T40 Arg2:T41	
+T42	ParallelArm 6171 6194	obsecro ne contemnatis,
+T43	ParallelArm 6195 6221	obsecro ut cor stabiliatis
+R22	Parallel Arg1:T42 Arg2:T43	
+T44	ParallelArm 6347 6377	imposita est necessitati meae,
+T45	ParallelArm 6378 6410	ut imponatur et caritati uestrae
+R23	Parallel Arg1:T44 Arg2:T45	
+T46	ParallelArm 6730 6753	per uenenum mortuus est
+T47	ParallelArm 6755 6778	per gladium mortuus est
+T48	ParallelArm 6780 6803	per bestiam mortuus est
+T49	ParallelArm 6805 6829	per inimicum mortuus est
+R24	Parallel Arg1:T46 Arg2:T47	
+R25	Parallel Arg1:T47 Arg2:T48	
+R26	Parallel Arg1:T48 Arg2:T49	
+T50	ParallelArm 6839 6856	faciente inimico,
+T51	ParallelArm 6857 6873	faciente gladio,
+R27	Parallel Arg1:T50 Arg2:T51	
+T52	ParallelArm 6874 6889	faciente ueneno
+R28	Parallel Arg1:T51 Arg2:T52	
+T53	ParallelArm 8268 8294	si dicas, per deum, iuras;
+T54	ParallelArm 8295 8332	si dicas, testis est deus, non iuras?
+R29	Parallel Arg1:T53 Arg2:T54	
+T55	ParallelArm 8333 8380	quid est enim, per deum; nisi, testis est deus?
+T56	ParallelArm 8385 8427	quid est, testis est deus; nisi, per deum?
+R30	Parallel Arg1:T55 Arg2:T56	
+T57	ParallelArm 8464 8502	ius deo reddere, quando per deum iuras
+T58	ParallelArm 8504 8558	ius saluti tuae reddere, quando per salutem tuam iuras
+T59	ParallelArm 8560 8613	ius filiis tuis reddere, quando per filios tuos iuras
+R31	Parallel Arg1:T57 Arg2:T58	
+R32	Parallel Arg1:T58 Arg2:T59	
+T60	ParallelArm 8638 8652	saluti nostrae
+T61	ParallelArm 8654 8669	filiis nostris,
+T62	ParallelArm 8670 8681	deo nostro,
+R33	Parallel Arg1:T60 Arg2:T61	
+R34	Parallel Arg1:T61 Arg2:T62	
+T63	ParallelArm 8967 8983	si uerum, uerum;
+T64	ParallelArm 8984 9001	si falsum, falsum
+R35	Parallel Arg1:T63 Arg2:T64	
+T65	ParallelArm 9163 9203	timet enim falsum iurare per filium suum
+T66	ParallelArm 9212 9246	timet falsum iurare per deum suum?
+R36	Parallel Arg1:T65 Arg2:T66	
+T67	ParallelArm 10740 10762	ibi inuenies iacentem,
+T68	ParallelArm 10763 10783	quem putas uiuentem.
+R37	Parallel Arg1:T67 Arg2:T68	
+T69	ParallelArm 10784 10805	quia pedibus ambulat,
+T70	ParallelArm 10806 10829	quia manibus contrectat
+T71	ParallelArm 10831 10848	quia oculis uidet
+R38	Parallel Arg1:T69 Arg2:T70	
+R39	Parallel Arg1:T70 Arg2:T71	
+T72	ParallelArm 10853 10867	audit auribus,
+R40	Parallel Arg1:T71 Arg2:T72	
+T73	ParallelArm 11012 11030	uiuit habitaculum,
+T74	ParallelArm 11031 11052	mortuus est habitator
+R41	Parallel Arg1:T73 Arg2:T74	
+T75	ParallelArm 11232 11264	corpus hominis creatura dei est,
+T76	ParallelArm 11268 11299	anima hominis creatura dei est.
+R42	Parallel Arg1:T75 Arg2:T76	
+T77	ParallelArm 11388 11417	uita ergo corporis anima est;
+T78	ParallelArm 11418 11444	uita ergo animae deus est.
+R43	Parallel Arg1:T77 Arg2:T78	
+T79	ParallelArm 11445 11479	moritur corpus, cum recedit anima:
+T80	ParallelArm 11480 11515	moritur ergo anima, si recedit deus
+R44	Parallel Arg1:T79 Arg2:T80	
+T81	ParallelArm 11517 11561	recedit anima, cum corpus percutitur gladio:
+T82	ParallelArm 11562 11626	et putas quia non recedit deus, cum ipsa anima feritur periurio?
+R45	Parallel Arg1:T81 Arg2:T82	
+T83	ParallelArm 12050 12073	exspirauit, sed nescis;
+T84	ParallelArm 12074 12100	exspirauit, sed non uides.
+R46	Parallel Arg1:T83 Arg2:T84	
+T85	ParallelArm 12101 12138	carnem enim iacentem sine anima uides
+T86	ParallelArm 12140 12180	animam miseram sine deo uidere non potes
+R47	Parallel Arg1:T85 Arg2:T86	
+T87	ParallelArm 12278 12335	si haberet in cubiculo suo tortorem carnis, punitus esset
+T88	ParallelArm 12337 12414	habet in secreto cordis sui tortorem conscientiae suae, et impunitus uocatur?
+R48	Parallel Arg1:T87 Arg2:T88	
+T89	ParallelArm 12713 12734	quod scatet luxuriis,
+T90	ParallelArm 12735 12756	quod bullit luxuriis,
+R49	Parallel Arg1:T89 Arg2:T90	
+T91	ParallelArm 12887 12903	non uult uidere,
+T92	ParallelArm 12904 12920	non uult audire.
+R50	Parallel Arg1:T91 Arg2:T92	
+T93	ParallelArm 13135 13163	magnum est facinus peierare,
+T94	ParallelArm 13164 13198	nulla autem culpa est uerum iurare
+R51	Parallel Arg1:T93 Arg2:T94	
+T95	ParallelArm 13316 13351	iurare enim peius est, quam furari?
+T96	ParallelArm 13352 13386	iurare peius est, quam adulterare?
+R52	Parallel Arg1:T95 Arg2:T96	
+T97	ParallelArm 13424 13463	iurare peius est, quam hominem occidere
+R53	Parallel Arg1:T96 Arg2:T97	
+T98	ParallelArm 13524 13548	iurare non est peccatum;
+T99	ParallelArm 13553 13580	falsum iurare, peccatum est
+R54	Parallel Arg1:T98 Arg2:T99	
+T100	ParallelArm 13949 13966	quoties per diem,
+T101	ParallelArm 13967 13985	quoties per horam?
+R55	Parallel Arg1:T100 Arg2:T101	
+T102	ParallelArm 14341 14359	ante omnia uigila,
+T103	ParallelArm 14360 14384	ante omnia intentus esto
+R56	Parallel Arg1:T102 Arg2:T103	
+T104	ParallelArm 14642 14663	frenata restringitur,
+T105	ParallelArm 14664 14684	restricta languescit
+T106	ParallelArm 14686 14706	languescens emoritur
+R57	Parallel Arg1:T104 Arg2:T105	
+R58	Parallel Arg1:T105 Arg2:T106	
+T107	ParallelArm 15259 15279	non a malo iurantis,
+T108	ParallelArm 15280 15304	a malo est non credentis
+R59	Parallel Arg1:T107 Arg2:T108	
+T109	ParallelArm 15576 15603	et cum tibi creditur, iuras
+T110	ParallelArm 15605 15631	et cum nemo exigit, iuras;
+T111	ParallelArm 15632 15663	et horrentibus hominibus iuras;
+R60	Parallel Arg1:T109 Arg2:T110	
+R61	Parallel Arg1:T110 Arg2:T111	
+T112	ParallelArm 15885 15915	uidebat ibi eos qui credebant;
+T113	ParallelArm 15916 15950	uidebat et alios qui non credebant
+R62	Parallel Arg1:T112 Arg2:T113	
+T114	ParallelArm 16057 16085	quomodo te purges non habes,
+T115	ParallelArm 16086 16138	quomodo satisfacias negotio quod instat, non inuenis
+R63	Parallel Arg1:T114 Arg2:T115	
+T116	ParallelArm 16144 16176	aliud est, cum exigitur iuratio;
+T117	ParallelArm 16177 16197	aliud, cum offertur:
+R64	Parallel Arg1:T116 Arg2:T117	
+T118	ParallelArm 16226 16258	aliud cum offertur non credenti;
+T119	ParallelArm 16259 16291	aliud cum uentilatur et credenti
+R65	Parallel Arg1:T118 Arg2:T119	
+T120	ParallelArm 16395 16407;16408 16418	uerum dicis? non credo.
+T121	ParallelArm 16419 16431;16432 16442	non fecisti? non credo:
+R66	Parallel Arg1:T121 Arg2:T120	
+T122	ParallelArm 16690 16707	scit eum fecisse,
+T123	ParallelArm 16708 16722	nouit fecisse,
+T124	ParallelArm 16723 16736	uidit fecisse
+R67	Parallel Arg1:T122 Arg2:T123	
+R68	Parallel Arg1:T123 Arg2:T124	
+T125	ParallelArm 16898 16918	iura si non tulisti,
+T126	ParallelArm 16919 16939	iura si non fecisti,
+R69	Parallel Arg1:T125 Arg2:T126	
+T127	ParallelArm 17364 17381	auertite a uobis,
+T128	ParallelArm 17382 17409	amputate a linguis uestris,
+T129	ParallelArm 17410 17437	circumcidite ab ore uestro.
+R70	Parallel Arg1:T127 Arg2:T128	
+R71	Parallel Arg1:T128 Arg2:T129	
+T130	ParallelArm 17508 17528	hoc est, ante omnia.
+T131	ParallelArm 17529 17550	quid est, ante omnia?
+R72	Parallel Arg1:T130 Arg2:T131	
+T132	ParallelArm 18002 18024	domabis, si uigilabis;
+T133	ParallelArm 18025 18047	uigilabis, si timebis;
+T134	ParallelArm 18048 18092	timebis, si christianum te esse cogitaueris.
+R73	Parallel Arg1:T132 Arg2:T133	
+R74	Parallel Arg1:T133 Arg2:T134	
+T135	ParallelArm 18195 18211	deum praesentem,
+T136	ParallelArm 18212 18226	deum uiuentem,
+T137	ParallelArm 18227 18241	deum scientem,
+T138	ParallelArm 18242 18256	deum manentem,
+R75	Parallel Arg1:T135 Arg2:T136	
+R76	Parallel Arg1:T136 Arg2:T137	
+R77	Parallel Arg1:T137 Arg2:T138	
+T139	ParallelArm 18257 18290	deum in contemptorem uindicantem?
+R78	Parallel Arg1:T138 Arg2:T139	
+T140	ParallelArm 18908 18937	non te audit lapis loquentem:
+T141	ParallelArm 18938 18966	sed punit te deus fallentem.
+R79	Parallel Arg1:T140 Arg2:T141	

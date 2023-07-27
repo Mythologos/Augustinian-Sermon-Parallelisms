@@ -1,0 +1,65 @@
+T1	ParallelArm 317 329	scire ortum,
+T2	ParallelArm 330 346	nescire occasum!
+R1	Parallel Arg1:T1 Arg2:T2	
+T3	ParallelArm 218 231	non uulgarem,
+T4	ParallelArm 232 246	non conspicuum
+R2	Parallel Arg1:T3 Arg2:T4	
+T5	ParallelArm 623 670	lapis angularis quem reprobauerunt aedificantes
+T6	ParallelArm 676 731	dominus Christus quem reprobauerunt Iudaeorum doctores?
+R3	Parallel Arg1:T5 Arg2:T6	
+T7	ParallelArm 1073 1107	uenerunt apostoli de circumcisione
+T8	ParallelArm 1109 1137	uenerunt de gente Iudaeorum,
+R4	Parallel Arg1:T7 Arg2:T8	
+T9	ParallelArm 1138 1167	uenerunt inde et illae turbae
+T10	ParallelArm 1293 1320	uenerunt inde tot ecclesiae
+R5	Parallel Arg1:T9 Arg2:T10	
+T11	ParallelArm 1731 1746	pax in Christo,
+T12	ParallelArm 1747 1764	unitas in Christo
+R6	Parallel Arg1:T11 Arg2:T12	
+T13	ParallelArm 1861 1876	caput Christus,
+T14	ParallelArm 1877 1893	corpus ecclesia.
+R7	Parallel Arg1:T13 Arg2:T14	
+T15	ParallelArm 1971 1999	tenebrae erant super abyssum
+T16	ParallelArm 2003 2043	spiritus dei superferebatur super aquam.
+R8	Parallel Arg1:T15 Arg2:T16	
+T17	ParallelArm 2122 2141	lucem uocauit diem,
+T18	ParallelArm 2142 2172	tenebras autem uocauit noctem.
+R9	Parallel Arg1:T17 Arg2:T18	
+T19	ParallelArm 2620 2637	tenebrae in uobis
+T20	ParallelArm 2639 2653	lux in domino.
+R10	Parallel Arg1:T19 Arg2:T20	
+T21	ParallelArm 3131 3146	credidit mundus
+T22	ParallelArm 3150 3171	non credit discipulus
+R11	Parallel Arg1:T21 Arg2:T22	
+T23	ParallelArm 3266 3285	exeunt uerba eorum,
+T24	ParallelArm 3286 3319	perueniunt usque in fines terrae,
+T25	ParallelArm 3320 3340	credit totus mundus,
+T26	ParallelArm 3341 3361	adnuntiant omnes uni
+R12	Parallel Arg1:T23 Arg2:T24	
+R13	Parallel Arg1:T24 Arg2:T25	
+R14	Parallel Arg1:T25 Arg2:T26	
+T27	ParallelArm 3769 3789	sciebam uulnera tua,
+T28	ParallelArm 3790 3819	seruaui tibi cicatricem meam.
+R15	Parallel Arg1:T27 Arg2:T28	
+T29	ParallelArm 3900 3933	non credatur Christus tantum homo
+T30	ParallelArm 3934 3972	nec credatur Christus tantummodo deus,
+R16	Parallel Arg1:T29 Arg2:T30	
+T31	ParallelArm 4206 4222	hominem tetigit,
+T32	ParallelArm 4223 4236	deum cognouit
+R17	Parallel Arg1:T31 Arg2:T32	
+T33	ParallelArm 4240 4255	tetigit carnem,
+T34	ParallelArm 4256 4275	respexit ad uerbum,
+R18	Parallel Arg1:T33 Arg2:T34	
+T35	ParallelArm 4327 4379	uerbum hoc passum est carnem suam suspendi in ligno.
+T36	ParallelArm 4380 4427	uerbum hoc passum est in carne sua clauos figi,
+T37	ParallelArm 4428 4481	uerbum hoc passum est carnem suam lancea transforari,
+T38	ParallelArm 4482 4534	uerbum hoc passum est carnem suam in sepulchro poni,
+R19	Parallel Arg1:T35 Arg2:T36	
+R20	Parallel Arg1:T36 Arg2:T37	
+R21	Parallel Arg1:T37 Arg2:T38	
+T39	ParallelArm 4572 4613	obtulit aspectibus discipulorum uidendam,
+T40	ParallelArm 4614 4645	praebuit manibus contrectandam.
+R22	Parallel Arg1:T40 Arg2:T39	
+T41	ParallelArm 4666 4678	dominus meus
+T42	ParallelArm 4682 4692	deus meus.
+R23	Parallel Arg1:T41 Arg2:T42	

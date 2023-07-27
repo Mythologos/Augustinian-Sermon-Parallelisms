@@ -1,0 +1,122 @@
+T1	ParallelArm 248 264	semper redditur,
+T2	ParallelArm 268 283	semper debetur.
+R1	Parallel Arg1:T1 Arg2:T2	
+T3	ParallelArm 897 928	certa animalia quae manducarent
+T4	ParallelArm 933 960	certa a quibus abstinerent:
+R2	Parallel Arg1:T3 Arg2:T4	
+T5	ParallelArm 2501 2519	in carne gestabant
+T6	ParallelArm 2524 2545	in corde repudiabant:
+R3	Parallel Arg1:T5 Arg2:T6	
+T7	ParallelArm 2566 2587	praecepta mysteriorum
+T8	ParallelArm 2597 2613	signa futurorum.
+R4	Parallel Arg1:T7 Arg2:T8	
+T9	ParallelArm 4010 4026	cum moderatione,
+T10	ParallelArm 4027 4044	cum benedictione,
+T11	ParallelArm 4045 4067	cum gratiarum actione.
+R5	Parallel Arg1:T9 Arg2:T10	
+R6	Parallel Arg1:T10 Arg2:T11	
+R7	Parallel Arg1:T9 Arg2:T11	
+T12	ParallelArm 5407 5437	quaecumque ligaueris in terra,
+T13	ParallelArm 5438 5463	erunt ligata et in caelo;
+T14	ParallelArm 5467 5495	quaecumque solueris in terra
+T15	ParallelArm 5497 5521	erunt soluta et in caelo
+R8	Parallel Arg1:T12 Arg2:T14	
+R9	Parallel Arg1:T13 Arg2:T15	
+T16	ParallelArm 5544 5558	Petrus accepit
+T17	ParallelArm 5563 5581	Paulus non accepit
+R10	Parallel Arg1:T16 Arg2:T17	
+T18	ParallelArm 5583 5598	Petrus accepit,
+T19	ParallelArm 5602 5633	Ioannes et Iacobus non accepit,
+R11	Parallel Arg1:T18 Arg2:T19	
+R12	Parallel Arg1:T18 Arg2:T16	
+R13	Parallel Arg1:T19 Arg2:T17	
+T20	ParallelArm 5798 5817	illi uni datum est,
+T21	ParallelArm 5818 5837	ecclesiae datum est
+R14	Parallel Arg1:T20 Arg2:T21	
+T22	ParallelArm 9374 9399	si hoc obseruare uoluero,
+T23	ParallelArm 9400 9417	in illud offendo:
+T24	ParallelArm 9418 9439	si illud obseruauero,
+T25	ParallelArm 9440 9450	hinc pecco
+R15	Parallel Arg1:T24 Arg2:T22	
+R16	Parallel Arg1:T25 Arg2:T23	
+T26	ParallelArm 10924 10949	quinque uirgines stultas,
+T27	ParallelArm 10984 11006	alias autem sapientes,
+T28	ParallelArm 10950 10983	quae oleum secum non portauerunt;
+T29	ParallelArm 11007 11036	quae oleum secum portauerunt.
+R17	Parallel Arg1:T26 Arg2:T27	
+R18	Parallel Arg1:T28 Arg2:T29	
+T30	ParallelArm 11168 11182	illae stultae,
+T31	ParallelArm 11183 11198	illae sapientes
+R19	Parallel Arg1:T30 Arg2:T31	
+T32	ParallelArm 11395 11411	quia facit enim,
+T33	ParallelArm 11412 11430	potest uidere homo
+T34	ParallelArm 11432 11454	quo autem animo faciat
+T35	ParallelArm 11456 11466	deus uidet
+R20	Parallel Arg1:T32 Arg2:T34	
+R21	Parallel Arg1:T33 Arg2:T35	
+T36	ParallelArm 11512 11531	utrumque seruantem,
+T37	ParallelArm 11532 11551	utrique obedientem.
+R22	Parallel Arg1:T36 Arg2:T37	
+T38	ParallelArm 11745 11765	manifestus in opere,
+T39	ParallelArm 11766 11783	deuotus in corde.
+R23	Parallel Arg1:T38 Arg2:T39	
+T40	ParallelArm 12294 12323	nullius praecepti contemptor,
+T41	ParallelArm 12328 12347	utriusque perfector
+R24	Parallel Arg1:T40 Arg2:T41	
+T42	ParallelArm 13301 13316	hominem uideant
+T43	ParallelArm 13321 13337	hominem laudent:
+R25	Parallel Arg1:T42 Arg2:T43	
+T44	ParallelArm 14136 14155	homo qui acceperat,
+T45	ParallelArm 14156 14169	cognoscebatur
+T46	ParallelArm 14175 14196	quia deus qui dederat
+T47	ParallelArm 14198 14208	laudabatur
+R26	Parallel Arg1:T44 Arg2:T46	
+R27	Parallel Arg1:T45 Arg2:T47	
+T48	ParallelArm 14759 14765	uereor
+T49	ParallelArm 14766 14797	ne oneri sim iam fastidientibus
+T50	ParallelArm 14804 14809	timeo
+T51	ParallelArm 14810 14837	ne fraudem adhuc esurientes
+R28	Parallel Arg1:T48 Arg2:T50	
+R29	Parallel Arg1:T49 Arg2:T51	
+T52	ParallelArm 14852 14866	quid soluerim,
+T53	ParallelArm 14870 14882	quid debeam.
+R30	Parallel Arg1:T52 Arg2:T53	
+T54	ParallelArm 15092 15103	si breuiter
+T55	ParallelArm 15162 15173	si diutius,
+R31	Parallel Arg1:T54 Arg2:T55	
+T58	ParallelArm 15440 15477	sinistra est animi cupiditas carnalis
+T59	ParallelArm 15479 15517	dextera est animi caritas spiritualis.
+R33	Parallel Arg1:T58 Arg2:T59	
+T56	ParallelArm 17013 17044	diliges proximum tuum, hominem;
+T57	ParallelArm 17048 17079	oderis inimicum tuum, diabolum.
+R32	Parallel Arg1:T56 Arg2:T57	
+T60	ParallelArm 17473 17503	diligas proximum tuum hominem,
+T61	ParallelArm 17507 17537	oderis inimicum tuum diabolum;
+R34	Parallel Arg1:T60 Arg2:T61	
+T62	ParallelArm 17554 17584	diligas inimicos tuos homines,
+T63	ParallelArm 17588 17621	ores pro eis qui te persequuntur.
+R35	Parallel Arg1:T62 Arg2:T63	
+T64	ParallelArm 17473 17537	diligas proximum tuum hominem, et oderis inimicum tuum diabolum;
+T65	ParallelArm 17554 17621	diligas inimicos tuos homines, et ores pro eis qui te persequuntur.
+R36	Parallel Arg1:T64 Arg2:T65	
+T66	ParallelArm 18199 18234	tunc pro se orantes persequebantur,
+T67	ParallelArm 18235 18266	nunc pro se exauditas defendunt
+R37	Parallel Arg1:T66 Arg2:T67	
+T68	ParallelArm 19652 19681	imple ergo praeceptum primum,
+T69	ParallelArm 19754 19772	imple et secundum.
+R38	Parallel Arg1:T68 Arg2:T69	
+T70	ParallelArm 19682 19703	dilige proximum tuum,
+T71	ParallelArm 19773 19794	dilige inimicos tuos,
+R39	Parallel Arg1:T71 Arg2:T70	
+T72	ParallelArm 19795 19807	sed homines:
+T73	ParallelArm 19841 19858	sed pro hominibus
+T74	ParallelArm 19889 19903	sed hominibus.
+R40	Parallel Arg1:T72 Arg2:T73	
+R41	Parallel Arg1:T72 Arg2:T74	
+R42	Parallel Arg1:T73 Arg2:T74	
+T75	ParallelArm 19913 19925	si esurierit
+T76	ParallelArm 19953 19961	si sitit
+R43	Parallel Arg1:T75 Arg2:T76	
+T77	ParallelArm 19941 19952	ciba illum;
+T78	ParallelArm 19963 19977	potum da illi;
+R44	Parallel Arg1:T77 Arg2:T78	

@@ -1,0 +1,199 @@
+T1	ChiasmA 783 812	periculosum ergo magisterium,
+T2	ChiasmB 813 833	discipulatus securus
+R1	Chiasm Arg1:T1 Arg2:T2	
+T3	ParallelArm 923 936	uerbi auditor
+T4	ParallelArm 943 958	uerbi prolator.
+R2	Parallel Arg1:T3 Arg2:T4	
+T5	ParallelArm 1198 1218	et nos qui loquimur,
+T6	ParallelArm 1219 1238	et uos qui auditis,
+R3	Parallel Arg1:T5 Arg2:T6	
+T7	ParallelArm 1871 1891	loquentium auditores
+T8	ParallelArm 1900 1921	timentium miseratores
+R4	Parallel Arg1:T7 Arg2:T8	
+T9	ParallelArm 2103 2116	sanctae sunt,
+T10	ParallelArm 2117 2129	ueraces sunt
+T11	ParallelArm 2131 2146	inculpatae sunt
+R5	Parallel Arg1:T9 Arg2:T10	
+R6	Parallel Arg1:T10 Arg2:T11	
+T12	ParallelArm 2195 2207	ad docendum,
+T13	ParallelArm 2208 2221	ad arguendum,
+T14	ParallelArm 2222 2239	ad exhortationem,
+T15	ParallelArm 2240 2253	ad doctrinam.
+R7	Parallel Arg1:T12 Arg2:T13	
+R8	Parallel Arg1:T14 Arg2:T15	
+T16	ParallelArm 2661 2704	lex enim, ut ait apostolus, spiritalis est,
+T17	ParallelArm 2705 2728	ego autem carnalis sum.
+R9	Parallel Arg1:T16 Arg2:T17	
+T18	ParallelArm 2862 2883	paruulum amat nutrire
+T19	ParallelArm 2893 2920	non amat paruulum remanere.
+R10	Parallel Arg1:T18 Arg2:T19	
+T20	ParallelArm 2921 2935	in sinu tenet,
+T21	ParallelArm 2936 2949	manibus fouet
+T22	ParallelArm 2951 2972	blanditiis consolatur
+T23	ParallelArm 2974 2987	lacte nutrit.
+R11	Parallel Arg1:T20 Arg2:T21	
+R12	Parallel Arg1:T21 Arg2:T22	
+R13	Parallel Arg1:T22 Arg2:T23	
+T24	ParallelArm 4501 4533	non inuenio perfectum cognitorem
+T25	ParallelArm 4539 4571	iam inuenio perfectum auditorem.
+R14	Parallel Arg1:T24 Arg2:T25	
+T26	ParallelArm 4638 4667	nullam faciat perturbationem,
+T27	ParallelArm 4668 4694	nullam ingerat cruditatem.
+R15	Parallel Arg1:T26 Arg2:T27	
+T28	ParallelArm 4770 4785	bene audientes,
+T29	ParallelArm 4786 4804	bene diiudicantes.
+R16	Parallel Arg1:T28 Arg2:T29	
+T30	ParallelArm 5264 5302	qui enim intellegit, uerum intellegit.
+T31	ParallelArm 5303 5342	qui autem putat falsum, non intellegit.
+R17	Parallel Arg1:T30 Arg2:T31	
+T32	ParallelArm 5435 5452	determinata forma
+T33	ParallelArm 5412 5429	distincta membris
+T34	ParallelArm 5454 5478	circumscripta quantitate
+T35	ParallelArm 5480 5492	manens loco,
+R18	Parallel Arg1:T33 Arg2:T32	
+R19	Parallel Arg1:T32 Arg2:T34	
+R20	Parallel Arg1:T34 Arg2:T35	
+T36	ParallelArm 5672 5683	de deo meo,
+T37	ParallelArm 5684 5713	de saluatore et redemtore meo
+T38	ParallelArm 5715 5725	de spe mea
+R21	Parallel Arg1:T36 Arg2:T37	
+R22	Parallel Arg1:T37 Arg2:T38	
+T39	ParallelArm 5803 5848	de tali falli molestum est et periculosum est
+T40	ParallelArm 5850 5901	de tali autem mentiri exitiosum est et perniciosum.
+R23	Parallel Arg1:T39 Arg2:T40	
+T41	ParallelArm 6309 6331	circumscriptum figura,
+T42	ParallelArm 6332 6349	terminatum forma,
+R24	Parallel Arg1:T41 Arg2:T42	
+T43	ParallelArm 6350 6369	localiter manentem,
+T44	ParallelArm 6370 6392	localiter se mouentem,
+R25	Parallel Arg1:T43 Arg2:T44	
+T45	ParallelArm 6466 6499	si ascendero in caelum, tu ibi es
+T46	ParallelArm 6501 6533	si descendero in infernum, ades.
+R26	Parallel Arg1:T45 Arg2:T46	
+T47	ParallelArm 6856 6869	non contemnit
+T48	ParallelArm 6871 6883	non refugit,
+T49	ParallelArm 6884 6899	non dedignatur,
+T50	ParallelArm 6900 6914	immo dignatur,
+T51	ParallelArm 6915 6932	si non indignatur
+R27	Parallel Arg1:T47 Arg2:T48	
+R28	Parallel Arg1:T49 Arg2:T50	
+R29	Parallel Arg1:T50 Arg2:T51	
+T52	ParallelArm 6934 6951	audi pollicentem,
+T53	ParallelArm 6952 6987	audi interim promittendo dignantem,
+T54	ParallelArm 6965 6987	promittendo dignantem,
+T55	ParallelArm 6992 7012	minando indignantem:
+R30	Parallel Arg1:T54 Arg2:T55	
+T56	ParallelArm 7093 7124	obeditorem praeceptorum suorum,
+T57	ParallelArm 7125 7145	custodem mandati sui
+R31	Parallel Arg1:T56 Arg2:T57	
+T58	ParallelArm 7147 7160	amatorem dei,
+T59	ParallelArm 7161 7182	amatorem proximi sui:
+R32	Parallel Arg1:T58 Arg2:T59	
+T60	ParallelArm 7252 7277	est angustum cor fidelis,
+T61	ParallelArm 7282 7314	angustum fuit templum Salomonis.
+R33	Parallel Arg1:T60 Arg2:T61	
+T62	ParallelArm 7842 7871	noli timere aduentum dei tui,
+T63	ParallelArm 7872 7901	noli timere affectum dei tui.
+R34	Parallel Arg1:T62 Arg2:T63	
+T64	ParallelArm 8138 8182	timor tormentum habet, ergo angustias habet;
+T65	ParallelArm 8194 8217	amor latitudinem habet.
+R35	Parallel Arg1:T64 Arg2:T65	
+T66	ParallelArm 10016 10039	ipsam apud se discutiat
+T67	ParallelArm 10041 10057	ipsam inspiciat,
+T68	ParallelArm 10001 10015	ipsam cogitet,
+T69	ParallelArm 10058 10111	ipsam de plenitudine illa quam non uidet, interroget,
+R36	Parallel Arg1:T68 Arg2:T66	
+R37	Parallel Arg1:T66 Arg2:T67	
+R38	Parallel Arg1:T67 Arg2:T69	
+T70	ParallelArm 10409 10429	inde habemus aliquid
+T71	ParallelArm 10431 10449	inde aspersi sumus
+T72	ParallelArm 10451 10464	inde irrorati
+R39	Parallel Arg1:T70 Arg2:T71	
+R40	Parallel Arg1:T71 Arg2:T72	
+T73	ParallelArm 11962 11992	homo non filius hominis, Adam;
+T74	ParallelArm 11993 12023	homo filius hominis, Christus.
+R41	Parallel Arg1:T73 Arg2:T74	
+T75	ParallelArm 12030 12053	in Adam omnes moriuntur
+T76	ParallelArm 12059 12091	in Christo omnes uiuificabuntur.
+R42	Parallel Arg1:T75 Arg2:T76	
+T77	ParallelArm 12092 12162	quaerunt salutem cum iumentis qui moriuntur, et non uicturi moriuntur.
+T78	ParallelArm 12163 12234	quaerunt salutem cum filiis hominum qui moriuntur, ut numquam moriantur
+R43	Parallel Arg1:T77 Arg2:T78	
+T79	ParallelArm 12266 12301	illi pertinent ad homines, homines;
+T80	ParallelArm 12302 12339	isti filii hominum ad filium hominis.
+R44	Parallel Arg1:T79 Arg2:T80	
+T81	ParallelArm 12425 12436	ecce spero,
+T82	ParallelArm 12437 12447	ecce spes.
+R45	Parallel Arg1:T81 Arg2:T82	
+T83	ParallelArm 12992 13001	quo uino,
+T84	ParallelArm 13002 13011	quo musto
+T85	ParallelArm 13013 13021	qua unda
+T86	ParallelArm 13023 13033	quo melle,
+T87	ParallelArm 13034 13046	quo nectare?
+R46	Parallel Arg1:T83 Arg2:T84	
+R47	Parallel Arg1:T84 Arg2:T85	
+R48	Parallel Arg1:T85 Arg2:T86	
+R49	Parallel Arg1:T86 Arg2:T87	
+T88	ParallelArm 13115 13143	conscientiam para non gulam,
+T89	ParallelArm 13144 13163	mentem non uentrem.
+R50	Parallel Arg1:T88 Arg2:T89	
+T90	ParallelArm 13164 13175	si audisti,
+T91	ParallelArm 13176 13191	si intellexisti
+T92	ParallelArm 13193 13206	si dilexisti,
+R51	Parallel Arg1:T90 Arg2:T91	
+R52	Parallel Arg1:T91 Arg2:T92	
+T93	ParallelArm 13383 13398	si nosti illam,
+T94	ParallelArm 13399 13416	si uidisti illam,
+R53	Parallel Arg1:T93 Arg2:T94	
+T95	ParallelArm 13417 13424	si amas
+T96	ParallelArm 13426 13436	unde amas?
+R54	Parallel Arg1:T95 Arg2:T96	
+T97	ParallelArm 13543 13551	si amas,
+T98	ParallelArm 13552 13562	unde amas?
+R55	Parallel Arg1:T97 Arg2:T98	
+T99	ParallelArm 13576 13589	et nosti eam,
+T100	ParallelArm 13590 13603	et uides eam.
+R56	Parallel Arg1:T99 Arg2:T100	
+T101	ParallelArm 13686 13705	nec auditur affatu,
+T102	ParallelArm 13729 13753	non sentiebatur incessu.
+R57	Parallel Arg1:T101 Arg2:T102	
+T103	ParallelArm 13927 13955	sed deambulauit in paradiso,
+T104	ParallelArm 13956 13987	sed uisus est ad ilicem Mambre,
+T105	ParallelArm 13988 14037	sed locutus est cum Moyse in monte Sina os ad os.
+R58	Parallel Arg1:T103 Arg2:T104	
+R59	Parallel Arg1:T104 Arg2:T105	
+T106	ParallelArm 14495 14507	quid uidebat
+T107	ParallelArm 14512 14526	quid sitiebat?
+R60	Parallel Arg1:T106 Arg2:T107	
+T108	ParallelArm 15135 15151	apparere specie,
+T109	ParallelArm 15152 15165	latere natura
+R61	Parallel Arg1:T108 Arg2:T109	
+T110	ParallelArm 15299 15323	incommutabilis est deus,
+T111	ParallelArm 15324 15349	inconuertibilis est deus,
+R62	Parallel Arg1:T110 Arg2:T111	
+T112	ParallelArm 15959 15979	unde fecerit caelum,
+T113	ParallelArm 15938 15958	unde fecerit mundum,
+T114	ParallelArm 15980 16000	unde fecerit terram,
+T115	ParallelArm 16001 16017	unde fecerit te.
+R63	Parallel Arg1:T113 Arg2:T112	
+R64	Parallel Arg1:T112 Arg2:T114	
+R65	Parallel Arg1:T114 Arg2:T115	
+T116	ParallelArm 16467 16501	apparuit, sicut congruum iudicabat
+T117	ParallelArm 16503 16522	latuit, sicut erat.
+R66	Parallel Arg1:T116 Arg2:T117	
+T118	ParallelArm 16554 16566	noster amor,
+T119	ParallelArm 16567 16582	nostra dilectio
+R67	Parallel Arg1:T118 Arg2:T119	
+T120	ParallelArm 16876 16912	non sicut uisus est ad ilicem Mambre
+T121	ParallelArm 16914 16939	non sicut uisus est Moysi
+R68	Parallel Arg1:T120 Arg2:T121	
+T122	ParallelArm 18434 18454	propterea contemnis,
+T123	ParallelArm 18455 18471	propterea rixas,
+T124	ParallelArm 18472 18495	propterea turbas moues?
+R69	Parallel Arg1:T122 Arg2:T123	
+R70	Parallel Arg1:T123 Arg2:T124	
+T125	ParallelArm 18877 18897	fide corda mundemus,
+T126	ParallelArm 18898 18915	caritate sanemus,
+T127	ParallelArm 18916 18930	pace firmemus,
+R71	Parallel Arg1:T125 Arg2:T126	
+R72	Parallel Arg1:T126 Arg2:T127	

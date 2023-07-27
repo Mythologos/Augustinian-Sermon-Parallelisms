@@ -1,0 +1,128 @@
+T1	ParallelArm 206 220	uita et lingua
+T2	ParallelArm 222 234	corde et ore
+T3	ParallelArm 236 255	uocibus et moribus.
+R1	Parallel Arg1:T1 Arg2:T2	
+R2	Parallel Arg1:T2 Arg2:T3	
+T4	ParallelArm 366 381	lingua cum uita
+T5	ParallelArm 383 402	os cum conscientia.
+R3	Parallel Arg1:T4 Arg2:T5	
+T6	ParallelArm 558 594	ibi enim concordia summa laudantium,
+T7	ParallelArm 595 632	ubi est exsultatio secura cantantium:
+R4	Parallel Arg1:T6 Arg2:T7	
+T8	ParallelArm 750 793	hic ergo cantemus alleluia adhuc solliciti,
+T9	ParallelArm 797 837	illic possimus aliquando cantare securi.
+R5	Parallel Arg1:T8 Arg2:T9	
+T10	ParallelArm 859 949	non uis ut sim sollicitus, quando lego, numquid non tentatio est uita humana super terram?
+T11	ParallelArm 950 1050	non uis ut sim sollicitus, quando mihi adhuc dicitur, uigilate et orate, ne intretis in tentationem?
+R6	Parallel Arg1:T10 Arg2:T11	
+T12	ParallelArm 1051 1227	non uis ut sim sollicitus, ubi sic abundat tentatio, ut nobis ipsa praescribat oratio, quando dicimus, dimitte nobis debita nostra, sicut et nos dimittimus debitoribus nostris?
+R7	Parallel Arg1:T11 Arg2:T12	
+T13	ParallelArm 1228 1247	quotidie petitores,
+T14	ParallelArm 1248 1267	quotidie debitores.
+R8	Parallel Arg1:T13 Arg2:T14	
+T15	ParallelArm 1306 1332	indulgentiam pro peccatis,
+T16	ParallelArm 1333 1358	adiutorium pro periculis?
+R9	Parallel Arg1:T15 Arg2:T16	
+T17	ParallelArm 2264 2325	putaui quia captiuauit te sub nescio quibus ignotis barbaris:
+T18	ParallelArm 2326 2387	putaui quia captiuauit te sub nescio quibus gentibus alienis,
+R10	Parallel Arg1:T17 Arg2:T18	
+T19	ParallelArm 2392 2428	sub nescio quibus hominibus dominis.
+R11	Parallel Arg1:T18 Arg2:T19	
+T20	ParallelArm 2553 2576	alius dicit ab optione,
+T21	ParallelArm 2577 2593	alius de carcere
+T22	ParallelArm 2595 2627	alius de barbarorum captiuitate,
+T23	ParallelArm 2628 2658	alius de febre atque languore:
+R12	Parallel Arg1:T20 Arg2:T21	
+R13	Parallel Arg1:T21 Arg2:T22	
+R14	Parallel Arg1:T22 Arg2:T23	
+T24	ParallelArm 2681 2694	quo mittamur,
+T25	ParallelArm 2699 2711	quo ducamur;
+R15	Parallel Arg1:T24 Arg2:T25	
+T26	ParallelArm 2716 2739	quid nobiscum portemus,
+T27	ParallelArm 2740 2760	quid nos ipsi simus,
+R16	Parallel Arg1:T26 Arg2:T27	
+T28	ParallelArm 2911 2937	carcer meus est ad tempus,
+T29	ParallelArm 2938 2963	catena mea est ad tempus:
+R17	Parallel Arg1:T28 Arg2:T29	
+T30	ParallelArm 2964 2990	in corpore mortis sum ego;
+T31	ParallelArm 2991 3016	non corpus mortis sum ego
+R18	Parallel Arg1:T30 Arg2:T31	
+T32	ParallelArm 3347 3375	audi mecum doctorem gentium:
+T33	ParallelArm 3376 3402	audi mecum uas electionis,
+R19	Parallel Arg1:T32 Arg2:T33	
+T34	ParallelArm 3633 3655	terra terrae redditur,
+T35	ParallelArm 3656 3681	spiritus caelo recipitur:
+R20	Parallel Arg1:T34 Arg2:T35	
+T36	ParallelArm 3811 3837	praedicasti, ut audireris;
+T37	ParallelArm 3838 3862	scripsisti, ut legereris
+T38	ParallelArm 3864 3895	totum factum est, ut credereris
+R21	Parallel Arg1:T36 Arg2:T37	
+R22	Parallel Arg1:T37 Arg2:T38	
+T39	ParallelArm 4101 4123	mente seruio legi dei,
+T40	ParallelArm 4124 4148	carne autem legi peccati
+R23	Parallel Arg1:T39 Arg2:T40	
+T41	ParallelArm 4193 4220	mente, inquit, quia diligo;
+T42	ParallelArm 4221 4244	carne, quia concupisco:
+R24	Parallel Arg1:T41 Arg2:T42	
+T43	ParallelArm 4488 4504	in aeternum pono
+T44	ParallelArm 4510 4526	ad tempus sepono
+R25	Parallel Arg1:T43 Arg2:T44	
+T45	ParallelArm 4904 4944	corruptibile hoc induere incorruptionem,
+T46	ParallelArm 4948 4983	mortale hoc induere immortalitatem.
+R26	Parallel Arg1:T45 Arg2:T46	
+T47	ParallelArm 5022 5039	corruptibile hoc,
+T48	ParallelArm 5040 5052	mortale hoc,
+R27	Parallel Arg1:T47 Arg2:T48	
+T49	ParallelArm 5145 5167	accipio corpus aereum,
+T50	ParallelArm 5172 5197	accipio corpus aethereum.
+T51	ParallelArm 5120 5141	pono corpus terrenum,
+R28	Parallel Arg1:T51 Arg2:T49	
+R29	Parallel Arg1:T49 Arg2:T50	
+T52	ParallelArm 5252 5309	corruptibile, non aliud, sed hoc, induere incorruptionem;
+T53	ParallelArm 5313 5365	mortale, non aliud, sed hoc, induere immortalitatem.
+R30	Parallel Arg1:T52 Arg2:T53	
+T54	ParallelArm 5366 5432;5433 5451	tunc fiet sermo qui scriptus, est, absorpta est mors in uictoriam. cantetur alleluia.
+T55	ParallelArm 5452 5485;5486 5535;5536 5567;5568 5585	tunc fiet sermo qui scriptus est: qui sermo, non iam pugnantium, sed triumphantium: absorpta est mors in uictoriam. cantetur alleluia
+R31	Parallel Arg1:T54 Arg2:T55	
+T56	ParallelArm 5587 5615;5616 5634	ubi est, mors, aculeus tuus? cantetur alleluia.
+R32	Parallel Arg1:T55 Arg2:T56	
+T57	ParallelArm 5733 5747	inter pericula
+T58	ParallelArm 5749 5767	inter tentationes,
+R33	Parallel Arg1:T57 Arg2:T58	
+T59	ParallelArm 5768 5779	et ab aliis
+T60	ParallelArm 5781 5791	et a nobis
+R34	Parallel Arg1:T59 Arg2:T60	
+T61	ParallelArm 6224 6247	formeris praedicatione,
+T62	ParallelArm 6248 6270	coquaris tribulatione.
+R35	Parallel Arg1:T61 Arg2:T62	
+T63	ParallelArm 6346 6361	introitum tuum,
+T64	ParallelArm 6365 6377	exitum tuum.
+R36	Parallel Arg1:T63 Arg2:T64	
+T65	ParallelArm 6878 6909	primus homo in animam uiuentem,
+T66	ParallelArm 6910 6951	nouissimus homo in spiritum uiuificantem.
+R37	Parallel Arg1:T65 Arg2:T66	
+T67	ParallelArm 7098 7116	nemo erit inimicus
+T68	ParallelArm 7118 7135	nemo perit amicus
+R38	Parallel Arg1:T67 Arg2:T68	
+T69	ParallelArm 7137 7152	ibi laudes deo,
+T70	ParallelArm 7156 7171	hic laudes deo:
+R39	Parallel Arg1:T69 Arg2:T70	
+T71	ParallelArm 7176 7208	hic a sollicitis, ibi a securis;
+T72	ParallelArm 7209 7248	hic a morituris, ibi a semper uicturis;
+R40	Parallel Arg1:T71 Arg2:T72	
+T73	ParallelArm 7249 7271	hic in spe, ibi in re;
+T74	ParallelArm 7272 7300	hic in uia, illic in patria.
+R41	Parallel Arg1:T73 Arg2:T74	
+T75	ParallelArm 7339 7364	ad delectationem quietis,
+T76	ParallelArm 7369 7389	ad solatium laboris.
+R42	Parallel Arg1:T75 Arg2:T76	
+T77	ParallelArm 7644 7659	in bono profice
+T78	ParallelArm 7661 7683	in recta fide profice,
+T79	ParallelArm 7684 7709	in bonis moribus profice:
+R43	Parallel Arg1:T77 Arg2:T78	
+R44	Parallel Arg1:T78 Arg2:T79	
+T80	ParallelArm 7728 7739	noli errare
+T81	ParallelArm 7741 7753	noli redire,
+T82	ParallelArm 7754 7768	noli remanere.
+R45	Parallel Arg1:T80 Arg2:T81	
+R46	Parallel Arg1:T81 Arg2:T82	

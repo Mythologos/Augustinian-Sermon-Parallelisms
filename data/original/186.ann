@@ -1,0 +1,44 @@
+T1	ParallelArm 285 301	concipiens uirgo
+T2	ParallelArm 303 316	pariens uirgo
+R1	Parallel Arg1:T1 Arg2:T2	
+T3	ParallelArm 318 331	uirgo grauida
+T4	ParallelArm 333 343	uirgo feta
+R2	Parallel Arg1:T3 Arg2:T4	
+T5	ParallelArm 345 359	uirgo perpetua
+R3	Parallel Arg1:T4 Arg2:T5	
+T6	ParallelArm 571 612	fecit sibi matrem, cum esset apud patrem:
+T7	ParallelArm 616 653	cum fieret ex matre, mansit in patre.
+R4	Parallel Arg1:T6 Arg2:T7	
+T8	ParallelArm 662 682	deus esse desisteret
+T9	ParallelArm 688 705	homo esse coepit,
+R5	Parallel Arg1:T8 Arg2:T9	
+T10	ParallelArm 816 848	uerbum in carnem pereundo cessit
+T11	ParallelArm 854 895	caro ad uerbum, ne ipsa periret, accessit
+R6	Parallel Arg1:T10 Arg2:T11	
+T12	ParallelArm 900 935	quemadmodum homo est anima et caro,
+T13	ParallelArm 936 968	sic esset Christus deus et homo.
+R7	Parallel Arg1:T12 Arg2:T13	
+T14	ParallelArm 969 988	idem deus qui homo,
+T15	ParallelArm 992 1011	qui deus idem homo:
+R8	Parallel Arg1:T14 Arg2:T15	
+T16	ParallelArm 1016 1035	confusione naturae,
+T17	ParallelArm 1040 1057	unitate personae.
+R9	Parallel Arg1:T16 Arg2:T17	
+T18	ParallelArm 1423 1469	qui filius est hominis, factus est filius dei;
+T19	ParallelArm 1470 1525	qui uero filius est dei, non est factus filius hominis.
+R10	Parallel Arg1:T18 Arg2:T19	
+T20	ParallelArm 2240 2263	assumptione inferioris,
+T21	ParallelArm 2268 2289	conuersione potioris;
+R11	Parallel Arg1:T20 Arg2:T21	
+T22	ParallelArm 2290 2315	accipiendo quod non erat,
+T23	ParallelArm 2316 2340	non amittendo quod erat.
+R12	Parallel Arg1:T22 Arg2:T23	
+T24	ParallelArm 2582 2602	deum hominem factum,
+T25	ParallelArm 2610 2630	hominem deum factum.
+R13	Parallel Arg1:T24 Arg2:T25	
+T26	ParallelArm 2806 2825	quod erat manentem,
+T27	ParallelArm 2826 2851	quod non erat assumentem:
+R14	Parallel Arg1:T26 Arg2:T27	
+T28	ParallelArm 4379 4412	de patre natus sine temporis die,
+T29	ParallelArm 4413 4435	de matre natus hoc die
+R15	Parallel Arg1:T28 Arg2:T29	

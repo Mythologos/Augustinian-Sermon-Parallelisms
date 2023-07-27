@@ -1,0 +1,110 @@
+T1	ParallelArm 1800 1833	hoc enim omni die licet accipere:
+T2	ParallelArm 1834 1875	illud uno et certo anni die fas est agere
+R1	Parallel Arg1:T1 Arg2:T2	
+T3	ParallelArm 1877 1907	hoc ad innouandam uitam datur:
+T4	ParallelArm 1908 1949	illud ad religionis memoriam commendatur.
+R2	Parallel Arg1:T3 Arg2:T4	
+T5	ParallelArm 2021 2054	gratia uberior salutis hic distat
+T6	ParallelArm 2060 2096	laetitia maior festiuitatis inuitat.
+R3	Parallel Arg1:T5 Arg2:T6	
+T7	ParallelArm 2434 2504	Ioannes enim baptizauit Christum, cum se Christo confiteretur minorem:
+T8	ParallelArm 2505 2576	Christus autem baptizat christianum, qui se ostendit et Ioanne maiorem.
+R4	Parallel Arg1:T7 Arg2:T8	
+T9	ParallelArm 3996 4039	et corpus impleat de castigatione militiam,
+T10	ParallelArm 4040 4085	et animus impetret de humiliatione uictoriam.
+R5	Parallel Arg1:T9 Arg2:T10	
+T11	ParallelArm 4142 4158	Iordanis tinctio
+T12	ParallelArm 4164 4180	diaboli tentatio
+R6	Parallel Arg1:T11 Arg2:T12	
+T13	ParallelArm 5882 5923	uidere quae uos uidetis, et non uiderunt;
+T14	ParallelArm 5927 5964	audire quae auditis, et non audierunt
+R7	Parallel Arg1:T13 Arg2:T14	
+T15	ParallelArm 6115 6155	quis non sancti desiderii flamma uratur?
+T16	ParallelArm 6156 6176	quis non hic lugeat?
+T17	ParallelArm 6177 6208	quis non laboret in gemitu suo?
+R8	Parallel Arg1:T15 Arg2:T16	
+R9	Parallel Arg1:T16 Arg2:T17	
+T18	ParallelArm 6903 6932	leo de tribu Iuda, rex noster
+T19	ParallelArm 6938 6970	leo diabolus, aduersarius noster
+R10	Parallel Arg1:T18 Arg2:T19	
+T20	ParallelArm 7052 7066	natus ut homo,
+T21	ParallelArm 7067 7083	operatus ut leo,
+T22	ParallelArm 7084 7105	immolatus ut uitulus,
+T23	ParallelArm 7106 7124	uolauit ut aquila.
+R11	Parallel Arg1:T20 Arg2:T21	
+R12	Parallel Arg1:T21 Arg2:T22	
+R13	Parallel Arg1:T22 Arg2:T23	
+T24	ParallelArm 7719 7733	quando potius,
+T25	ParallelArm 7734 7752	quando instantius,
+R14	Parallel Arg1:T24 Arg2:T25	
+T26	ParallelArm 8333 8348	per apostolatum
+T27	ParallelArm 8350 8364	per martyrium,
+T28	ParallelArm 8365 8384	per epistolas suas.
+R15	Parallel Arg1:T26 Arg2:T27	
+R16	Parallel Arg1:T27 Arg2:T28	
+T29	ParallelArm 8930 8955	incertus est mortis dies,
+T30	ParallelArm 8959 8982	molestus est uitae dies
+R17	Parallel Arg1:T29 Arg2:T30	
+T31	ParallelArm 9025 9062	pusillum, inquit, et non uidebitis me
+T32	ParallelArm 9074 9100	pusillum, et uidebitis me.
+R18	Parallel Arg1:T31 Arg2:T32	
+T33	ParallelArm 10502 10523	oriente et occidente,
+T34	ParallelArm 10524 10544	aquilone et meridie.
+R19	Parallel Arg1:T33 Arg2:T34	
+T35	ParallelArm 10589 10623	per litteram tantummodo metuendus,
+T36	ParallelArm 10628 10660	per gratiam caritatis implendus,
+R20	Parallel Arg1:T35 Arg2:T36	
+T37	ParallelArm 10988 11006	ternarius a tribus
+T38	ParallelArm 11008 11031	quaternarius a quatuor;
+T39	ParallelArm 11036 11052	denarius a decem
+R21	Parallel Arg1:T37 Arg2:T38	
+R22	Parallel Arg1:T38 Arg2:T39	
+T40	ParallelArm 11549 11570	quotidianis ieiuniis,
+T41	ParallelArm 11571 11595	largioribus eleemosynis,
+T42	ParallelArm 11596 11622	feruentioribus orationibus
+R23	Parallel Arg1:T40 Arg2:T41	
+R24	Parallel Arg1:T41 Arg2:T42	
+T43	ParallelArm 11664 11686	coniugati ab uxoribus,
+T44	ParallelArm 11690 11709	nuptae a suis uiris
+R25	Parallel Arg1:T43 Arg2:T44	
+T45	ParallelArm 12138 12194	quadraginta diebus ieiunauit Moyses legis administrator,
+T46	ParallelArm 12195 12242	quadraginta Elias excellentissimus prophetarum,
+T47	ParallelArm 12243 12307	quadraginta ipse dominus testimonium habens a lege et prophetis.
+R26	Parallel Arg1:T45 Arg2:T46	
+R27	Parallel Arg1:T46 Arg2:T47	
+T48	ParallelArm 13682 13723	ut solitam temperando minuant edacitatem;
+T49	ParallelArm 13728 13773	ut immoderatam differendo augeant auiditatem.
+R28	Parallel Arg1:T48 Arg2:T49	
+T50	ParallelArm 14029 14055	tantum capiunt manducando,
+T51	ParallelArm 14056 14098	quantum digerere non sufficiant ieiunando.
+R29	Parallel Arg1:T50 Arg2:T51	
+T52	ParallelArm 14274 14302	piae humilitatis obseruatio,
+T53	ParallelArm 14307 14332	nouae uoluptatis occasio.
+R30	Parallel Arg1:T52 Arg2:T53	
+T54	ParallelArm 14521 14547	ut potus mundior eligatur,
+T55	ParallelArm 14552 14576	ut frugalior improbetur?
+R31	Parallel Arg1:T54 Arg2:T55	
+T56	ParallelArm 15348 15375	accipiat esuriens Christus,
+T57	ParallelArm 15381 15416	ieiunans minus accipit christianus.
+R32	Parallel Arg1:T56 Arg2:T57	
+T58	ParallelArm 15417 15437	castigatio uolentis,
+T59	ParallelArm 15443 15468	sustentatio non habentis.
+R33	Parallel Arg1:T58 Arg2:T59	
+T60	ParallelArm 15469 15495	uoluntaria copiosi inopia,
+T61	ParallelArm 15501 15525	necessaria inopis copia.
+R34	Parallel Arg1:T60 Arg2:T61	
+T62	ParallelArm 15598 15631	petat ueniam, qui fecit iniuriam:
+T63	ParallelArm 15632 15665	det ueniam, qui accepit iniuriam:
+R35	Parallel Arg1:T62 Arg2:T63	
+T64	ParallelArm 15906 15937	remittite, et remittetur uobis;
+T65	ParallelArm 15938 15961	date, et dabitur uobis.
+R36	Parallel Arg1:T64 Arg2:T65	
+T66	ParallelArm 16820 16837	uoluntate agitur,
+T67	ParallelArm 16838 16858	uoluntate perficitur
+R37	Parallel Arg1:T66 Arg2:T67	
+T68	ParallelArm 16860 16872	fac securus,
+T69	ParallelArm 16873 16884	da securus,
+R38	Parallel Arg1:T68 Arg2:T69	
+T70	ParallelArm 16885 16910	nihil in corpore dolebis,
+T71	ParallelArm 16911 16939	nihil in domo minus habebis.
+R39	Parallel Arg1:T70 Arg2:T71	

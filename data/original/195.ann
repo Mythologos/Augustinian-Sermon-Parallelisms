@@ -1,0 +1,73 @@
+T1	ParallelArm 73 119	sine matre de patre natus, creauit omnem diem;
+T2	ParallelArm 8 18	filius dei
+T3	ParallelArm 27 41	filius hominis
+R1	Parallel Arg1:T2 Arg2:T3	
+T4	ParallelArm 120 169	sine patre de matre natus, consecrauit hunc diem;
+R2	Parallel Arg1:T1 Arg2:T4	
+T5	ParallelArm 170 200	diuina natiuitate inuisibilis,
+T6	ParallelArm 201 218	humana uisibilis,
+T7	ParallelArm 219 236	utraque mirabilis
+R3	Parallel Arg1:T5 Arg2:T6	
+R4	Parallel Arg1:T6 Arg2:T7	
+T8	ParallelArm 771 807	nec transierit, quo praeterita esset
+T9	ParallelArm 809 844	nec praecesserit, quo futura esset;
+R5	Parallel Arg1:T8 Arg2:T9	
+T10	ParallelArm 845 908	nec praesens fuerit, quasi adhuc fieret, et perfecta non esset?
+R6	Parallel Arg1:T9 Arg2:T10	
+T11	ParallelArm 952 996	id quod enarrandum est supra tempora maneat,
+T12	ParallelArm 997 1039	sermo autem enarrantis in tempore transeat
+R7	Parallel Arg1:T11 Arg2:T12	
+T13	ParallelArm 1094 1118	cuius conceptus in carne
+T14	ParallelArm 1142 1162	cuius ortus ex carne
+R8	Parallel Arg1:T13 Arg2:T14	
+T15	ParallelArm 1163 1191	ubertatem nutrienti attulit,
+T16	ParallelArm 1192 1227	integritatem parienti non abstulit?
+R9	Parallel Arg1:T15 Arg2:T16	
+T17	ParallelArm 1395 1428	natus de patre creauit et matrem;
+T18	ParallelArm 1429 1469	creatus de matre glorificauit et patrem:
+R10	Parallel Arg1:T17 Arg2:T18	
+T19	ParallelArm 1470 1502	sine femineo partu unicus patri,
+T20	ParallelArm 1503 1537	sine uirili complexu unicus matri.
+R11	Parallel Arg1:T19 Arg2:T20	
+T21	ParallelArm 1583 1605	sanctae filius Mariae,
+T22	ParallelArm 1606 1632	sanctae sponsus ecclesiae,
+R12	Parallel Arg1:T21 Arg2:T22	
+T23	ParallelArm 1675 1701	et nobis eam matrem fecit,
+T24	ParallelArm 1702 1727	et uirginem sibi custodit
+R13	Parallel Arg1:T23 Arg2:T24	
+T25	ParallelArm 1977 1996	perpetua integritas
+T26	ParallelArm 2001 2023	incorrupta fecunditas.
+R14	Parallel Arg1:T25 Arg2:T26	
+T27	ParallelArm 2034 2055	illa meruit in carne,
+T28	ParallelArm 2056 2078	haec seruauit in mente
+R15	Parallel Arg1:T27 Arg2:T28	
+T29	ParallelArm 2090 2108	illa peperit unum,
+T30	ParallelArm 2109 2127	haec parit multos,
+R16	Parallel Arg1:T29 Arg2:T30	
+T31	ParallelArm 2185 2205	quo uenit in mundum,
+T32	ParallelArm 2206 2232	per quem factus est mundus
+R17	Parallel Arg1:T31 Arg2:T32	
+T33	ParallelArm 2238 2263	carne factus est praesens
+T34	ParallelArm 2265 2288	uirtute nunquam absens:
+R18	Parallel Arg1:T33 Arg2:T34	
+T35	ParallelArm 2682 2709	luceat praesens absentibus,
+T36	ParallelArm 2714 2741	appareat certa cernentibus.
+R19	Parallel Arg1:T35 Arg2:T36	
+T37	ParallelArm 2825 2845	speciosus ut sponsus
+T38	ParallelArm 2847 2863	fortis ut gigas,
+R20	Parallel Arg1:T37 Arg2:T38	
+T39	ParallelArm 2864 2886	amabilis et terribilis
+T40	ParallelArm 2888 2907	seuerus et serenus,
+R21	Parallel Arg1:T39 Arg2:T40	
+T41	ParallelArm 2908 2922	pulcher bonis,
+T42	ParallelArm 2923 2934	asper malis
+R22	Parallel Arg1:T41 Arg2:T42	
+T43	ParallelArm 2936 2958	manens in sinu patris,
+T44	ParallelArm 2959 2982	impleuit uterum matris.
+R23	Parallel Arg1:T43 Arg2:T44	
+T45	ParallelArm 3099 3140	ut a matre procedens, habitaret in nobis;
+T46	ParallelArm 3141 3195	ut ad patrem praecedens, ubi habitemus praeparet nobis
+R24	Parallel Arg1:T45 Arg2:T46	
+T47	ParallelArm 3197 3240	hunc ergo diem laeti solemniter celebremus;
+T48	ParallelArm 3244 3328	aeternum diem, per cum qui nobis aeternus in tempore natus est, fideliter exoptemus.
+R25	Parallel Arg1:T47 Arg2:T48	

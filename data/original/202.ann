@@ -1,0 +1,35 @@
+T1	ParallelArm 314 334	apparente commoniti,
+T2	ParallelArm 338 358	praecedente perducti
+R1	Parallel Arg1:T1 Arg2:T2	
+T3	ChiasmA 1118 1138	Israelitae pastores,
+T4	ChiasmB 1139 1153	magi gentiles:
+R2	Chiasm Arg1:T3 Arg2:T4	
+T5	ParallelArm 1154 1165	illi prope,
+T6	ParallelArm 1166 1177	isti longe:
+R3	Parallel Arg1:T5 Arg2:T6	
+T7	ParallelArm 2801 2813	uoce carnis,
+T8	ParallelArm 2818 2832	uirtute uerbi,
+R4	Parallel Arg1:T7 Arg2:T8	
+T9	ParallelArm 3014 3042	sursum angelos non deserens,
+T10	ParallelArm 3046 3090	deorsum ad se homines per angelos colligens;
+R5	Parallel Arg1:T9 Arg2:T10	
+T11	ParallelArm 3222 3261	ab ipso in caelo demonstrabatur stella,
+T12	ParallelArm 3265 3303	ipsum adorandum demonstrabat in terra.
+R6	Parallel Arg1:T11 Arg2:T12	
+T13	ChiasmA 3313 3330	infans tam potens
+T14	ChiasmB 3332 3352	tam magnus, paruulus
+R7	Chiasm Arg1:T13 Arg2:T14	
+T15	ParallelArm 3703 3720	aurum honorandus,
+T16	ParallelArm 3724 3739	thus adorandus,
+T17	ParallelArm 3752 3771	myrrham sepeliendus
+R8	Parallel Arg1:T15 Arg2:T16	
+R9	Parallel Arg1:T16 Arg2:T17	
+T18	ParallelArm 3831 3847	quam innocentes,
+T20	ParallelArm 3848 3861	quam humiles,
+R10	Parallel Arg1:T18 Arg2:T20	
+T19	ParallelArm 5182 5195	in hac terra,
+T21	ParallelArm 5196 5210	in hac regione
+R11	Parallel Arg1:T19 Arg2:T21	
+T22	ParallelArm 5370 5381	uia mutata,
+T23	ParallelArm 5382 5393	uita mutata
+R12	Parallel Arg1:T22 Arg2:T23	

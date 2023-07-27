@@ -1,0 +1,6 @@
+T1	ParallelArm 258 282	uox ad homines sonus est
+T2	ParallelArm 284 309	uox ad deum affectus est.
+R1	Parallel Arg1:T1 Arg2:T2	
+T3	ParallelArm 347 361	sicut legistis
+T4	ParallelArm 363 378	sicut audistis:
+R2	Parallel Arg1:T3 Arg2:T4	

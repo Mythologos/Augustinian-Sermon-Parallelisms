@@ -1,0 +1,108 @@
+T1	ChiasmA 8 28	audite, filii lucis,
+T2	ChiasmB 53 79	fratres carissimi, audite;
+R1	Chiasm Arg1:T1 Arg2:T2	
+T3	ParallelArm 158 176	audite quod nostis
+T4	ParallelArm 178 201	recolite quod audistis,
+T5	ParallelArm 202 221	amate quod creditis
+T6	ParallelArm 223 245	praedicate quod amatis
+R2	Parallel Arg1:T3 Arg2:T4	
+R3	Parallel Arg1:T4 Arg2:T5	
+R4	Parallel Arg1:T5 Arg2:T6	
+T7	ParallelArm 247 288	sicut anniuersarium celebramus hunc diem,
+T8	ParallelArm 289 331	sic huic diei debitum exspectate sermonem.
+R5	Parallel Arg1:T7 Arg2:T8	
+T9	ParallelArm 352 366	deus de patre,
+T10	ParallelArm 367 380	homo de matre
+R6	Parallel Arg1:T9 Arg2:T10	
+T11	ParallelArm 382 405	de patris immortalitate
+T12	ParallelArm 407 429	de matris uirginitate.
+R7	Parallel Arg1:T11 Arg2:T12	
+T13	ParallelArm 430 449	de patre sine matre
+T14	ParallelArm 451 470	de matre sine patre
+R8	Parallel Arg1:T13 Arg2:T14	
+T15	ParallelArm 472 494	de patre sine tempore,
+T16	ParallelArm 495 516	de matre sine semine.
+R9	Parallel Arg1:T15 Arg2:T16	
+T17	ParallelArm 517 543	de patre principium uitae,
+T18	ParallelArm 544 565	de matre finis mortis
+R10	Parallel Arg1:T17 Arg2:T18	
+T19	ParallelArm 567 596	de patre ordinans omnem diem,
+T20	ParallelArm 597 628	de matre consecrans istum diem.
+R11	Parallel Arg1:T19 Arg2:T20	
+T21	ParallelArm 661 708	qui tunc nasceretur, cum dies inciperent minui;
+T22	ParallelArm 712 757	natus est ipse, cum dies inciperent crescere,
+R12	Parallel Arg1:T21 Arg2:T22	
+T23	ParallelArm 807 830	illum oportet crescere,
+T24	ParallelArm 831 845	me autem minui
+R13	Parallel Arg1:T23 Arg2:T24	
+T25	ParallelArm 870 885	in se deficere,
+T26	ParallelArm 886 907	in Christo proficere;
+R14	Parallel Arg1:T25 Arg2:T26	
+T27	ParallelArm 1045 1067	uiuo autem iam non ego
+T28	ParallelArm 1069 1095	uiuit uero in me Christus.
+R15	Parallel Arg1:T27 Arg2:T28	
+T29	ParallelArm 1096 1124	illum enim oportet crescere,
+T30	ParallelArm 1125 1139	me autem minui
+R16	Parallel Arg1:T29 Arg2:T30	
+T31	ParallelArm 1275 1293	cuius uita uiuunt,
+T32	ParallelArm 1294 1325	cuius aeternitate semper uiuunt
+T33	ParallelArm 1327 1362	cuius bonitate semper beate uiuunt.
+R17	Parallel Arg1:T31 Arg2:T32	
+R18	Parallel Arg1:T32 Arg2:T33	
+T34	ParallelArm 1724 1753	laudant ergo illi competenter
+T35	ParallelArm 1755 1781	laudemus et nos obedienter
+R19	Parallel Arg1:T34 Arg2:T35	
+T36	ParallelArm 1783 1805	sunt illi nuntii eius,
+T37	ParallelArm 1806 1830	sumus et nos pecora eius
+R20	Parallel Arg1:T36 Arg2:T37	
+T38	ParallelArm 1832 1865	impleuit in caelo mensam ipsorum,
+T39	ParallelArm 1866 1901	impleuit in terra praesepe nostrum.
+R21	Parallel Arg1:T38 Arg2:T39	
+T40	ParallelArm 1902 1941	plenitudo enim mensae ipsorum est, quia
+T41	ParallelArm 2015 2051	plenitudo praesepii nostri est, quia
+R22	Parallel Arg1:T40 Arg2:T41	
+T42	ParallelArm 2107 2139	panem angelorum manducaret homo,
+T43	ParallelArm 2140 2174	creator angelorum factus est homo.
+R23	Parallel Arg1:T42 Arg2:T43	
+T44	ParallelArm 2175 2210	illi laudant uiuendo, nos credendo:
+T45	ParallelArm 2211 2237	illi fruendo, nos petendo:
+T46	ParallelArm 2238 2267	illi capiendo, nos quaerendo:
+T47	ParallelArm 2268 2296	illi intrando, nos pulsando.
+R24	Parallel Arg1:T44 Arg2:T45	
+R25	Parallel Arg1:T45 Arg2:T46	
+R26	Parallel Arg1:T46 Arg2:T47	
+T48	ParallelArm 2617 2634	dilatas promisit,
+T49	ParallelArm 2639 2653	ablatas amisit
+R27	Parallel Arg1:T48 Arg2:T49	
+T50	ParallelArm 2698 2722	abscondit timentibus se,
+T51	ParallelArm 2723 2756	perficit autem sperantibus in se.
+R28	Parallel Arg1:T50 Arg2:T51	
+T52	ParallelArm 2958 2998	factus filius hominis unicus filius dei,
+T53	ParallelArm 2999 3037	multos filios hominum facit filios dei
+R29	Parallel Arg1:T52 Arg2:T53	
+T54	ParallelArm 3042 3084	nutritos seruos per uisibilem formam serui
+T55	ParallelArm 3086 3126	perficit liberos ad uidendam formam dei.
+R30	Parallel Arg1:T54 Arg2:T55	
+T56	ParallelArm 3507 3516	ex nobis,
+T57	ParallelArm 3517 3530	uel in nobis,
+T58	ParallelArm 3531 3545	uel pro nobis,
+R31	Parallel Arg1:T56 Arg2:T57	
+R32	Parallel Arg1:T57 Arg2:T58	
+T59	ParallelArm 3754 3770	et salui erimus,
+T60	ParallelArm 3771 3784	et satiabimur
+T61	ParallelArm 3786 3804	et sufficiet nobis
+R33	Parallel Arg1:T59 Arg2:T60	
+R34	Parallel Arg1:T60 Arg2:T61	
+T62	ChiasmA 3845 3866	quaesiui uultum tuum;
+T63	ChiasmB 3867 3897	uultum tuum, domine, requiram;
+R35	Chiasm Arg1:T62 Arg2:T63	
+T64	ParallelArm 3960 3974	qui diligit me
+T65	ParallelArm 4001 4016	qui diligit me,
+R36	Parallel Arg1:T64 Arg2:T65	
+T66	ParallelArm 4645 4769	nondum contemplari possumus quod genitus est ante luciferum a patre, frequentemus quod nocturnis horis est natus ex uirgine.
+T67	ParallelArm 4770 4868	nondum capimus, quod ante solem permanet nomen eius, agnoscamus in sole positum tabernaculum eius.
+R37	Parallel Arg1:T66 Arg2:T67	
+T68	ParallelArm 4869 4965	nondum contuemur unicum permanentem in patre suo, recordemur sponsum procedentem de thalamo suo.
+R38	Parallel Arg1:T67 Arg2:T68	
+T69	ParallelArm 4966 5056	nondum idonei sumus conuiuio patris nostri, agnoscamus praesepe domini nostri Iesu Christi
+R39	Parallel Arg1:T68 Arg2:T69	

@@ -1,0 +1,123 @@
+T1	ParallelArm 32 63	et altitudinem diuinitatis suae
+T2	ParallelArm 65 93	et misericordiam humanitatis
+T3	ParallelArm 208 226	petentes accipiant
+T4	ParallelArm 231 251	quaerentes inueniant
+T5	ParallelArm 256 278	pulsantibus aperiatur.
+R1	Parallel Arg1:T3 Arg2:T4	
+R2	Parallel Arg1:T4 Arg2:T5	
+T6	ParallelArm 1972 2020	quare ibi retia rumpebantur, hic non rupta sunt?
+T7	ParallelArm 2021 2138	quare ibi non dictum est, ut ad dexteram partem mitterentur retia, hic autem dixit, mittite retia in dexteram partem?
+R3	Parallel Arg1:T6 Arg2:T7	
+T8	ParallelArm 2804 2850	non solum diuinitate, qua nunquam mortuus est,
+T9	ParallelArm 2851 2902	sed etiam corpore, quo pro nobis mori dignatus est.
+R4	Parallel Arg1:T8 Arg2:T9	
+T10	ParallelArm 2920 2941	illud ante passionem,
+T11	ParallelArm 2942 2966	hoc post resurrectionem.
+R5	Parallel Arg1:T10 Arg2:T11	
+T12	ParallelArm 2973 2989	nec in dexteram,
+T13	ParallelArm 2990 3007	nec in sinistram,
+R6	Parallel Arg1:T12 Arg2:T13	
+T14	ParallelArm 4511 4533	fluctibus turbulentum,
+T15	ParallelArm 4537 4563	tempestatibus periculosum,
+T16	ParallelArm 4567 4587	naufragiis molestum,
+R7	Parallel Arg1:T14 Arg2:T15	
+R8	Parallel Arg1:T15 Arg2:T16	
+T17	ParallelArm 4923 4964	uenit ex circumcisione populus Iudaeorum:
+T18	ParallelArm 4965 5000	uenit ex praeputio populus gentium.
+R9	Parallel Arg1:T17 Arg2:T18	
+T19	ParallelArm 4827 4883	uenit enim populus Iudaeorum ex alia longe consuetudine:
+T20	ParallelArm 4884 4922	uenit autem populus gentium ab idolis.
+R10	Parallel Arg1:T19 Arg2:T20	
+T21	ParallelArm 5171 5198	ex Iudaeis qui erant prope,
+T22	ParallelArm 5202 5230	ex gentibus qui erant longe.
+R11	Parallel Arg1:T21 Arg2:T22	
+T23	ParallelArm 6814 6834	quam multi raptores,
+T24	ParallelArm 6835 6853	quam multi ebriosi
+T25	ParallelArm 6855 6875	quam multi maledici,
+T26	ParallelArm 6876 6910	quam multi spectatores theatrorum.
+R12	Parallel Arg1:T23 Arg2:T24	
+R13	Parallel Arg1:T24 Arg2:T25	
+R14	Parallel Arg1:T25 Arg2:T26	
+T27	ParallelArm 7131 7148	sequentes carnem,
+T28	ParallelArm 7149 7177	repugnantes spiritui sancto.
+R15	Parallel Arg1:T27 Arg2:T28	
+T29	ParallelArm 7824 7854	Donatistae ruperunt in Africa,
+T30	ParallelArm 7855 7882	Ariani ruperunt in Aegypto,
+T31	ParallelArm 7883 7915	Photiniani ruperunt in Pannonia,
+T32	ParallelArm 7916 7948	Cataphryges ruperunt in Phrygia,
+T33	ParallelArm 7949 7979	Manichaei ruperunt in Perside.
+R16	Parallel Arg1:T29 Arg2:T30	
+R17	Parallel Arg1:T30 Arg2:T31	
+R18	Parallel Arg1:T31 Arg2:T32	
+R19	Parallel Arg1:T32 Arg2:T33	
+T34	ParallelArm 8366 8376	est palea,
+T35	ParallelArm 8377 8390	sunt frumenta
+R20	Parallel Arg1:T34 Arg2:T35	
+T36	ParallelArm 9134 9163	frumenta recondet in horreum,
+T37	ParallelArm 9164 9207	paleam autem comburet igni inexstinguibili.
+R21	Parallel Arg1:T36 Arg2:T37	
+T38	ParallelArm 10539 10554	heri fuit palea
+T39	ParallelArm 10556 10576	hodie fit frumentum:
+R22	Parallel Arg1:T38 Arg2:T39	
+T40	ParallelArm 11058 11074	nec in dexteram,
+T41	ParallelArm 11075 11092	nec in sinistram:
+R23	Parallel Arg1:T40 Arg2:T41	
+T42	ParallelArm 11131 11192	si enim diceretur, in dexteram; non ibi intelligerentur mali:
+T43	ParallelArm 11193 11249	si diceretur, in sinistram; non ibi intelligerentur boni
+R24	Parallel Arg1:T42 Arg2:T43	
+T44	ParallelArm 13810 13823	non esuriunt,
+T45	ParallelArm 13824 13836	non sitiunt,
+T46	ParallelArm 13837 13851	non aegrotant,
+T47	ParallelArm 13852 13866	non moriuntur.
+R25	Parallel Arg1:T44 Arg2:T45	
+R26	Parallel Arg1:T45 Arg2:T46	
+R27	Parallel Arg1:T46 Arg2:T47	
+T48	ParallelArm 14377 14399	cibus noster alleluia,
+T49	ParallelArm 14400 14414	potus alleluia
+T50	ParallelArm 14416 14439	actio quietis alleluia,
+T51	ParallelArm 14440 14468	totum gaudium erit alleluia,
+R28	Parallel Arg1:T48 Arg2:T49	
+R29	Parallel Arg1:T49 Arg2:T50	
+R30	Parallel Arg1:T50 Arg2:T51	
+T52	ParallelArm 14487 14525	quis enim laudat aliquid sine defectu,
+T53	ParallelArm 14531 14557	qui fruitur sine fastidio?
+R31	Parallel Arg1:T52 Arg2:T53	
+T54	ParallelArm 14558 14591	quantum ergo erit robur in mente,
+T55	ParallelArm 14592 14635	quanta immortalitas et firmitas in corpore,
+R32	Parallel Arg1:T54 Arg2:T55	
+T56	ParallelArm 14639 14692	neque mentis deficiat intentio in contemplatione dei,
+T57	ParallelArm 14693 14745	neque membra succumbant in continuatione laudis dei?
+R33	Parallel Arg1:T56 Arg2:T57	
+T58	ParallelArm 15384 15411	dominus tanquam euangelium,
+T59	ParallelArm 15412 15430	Moyses tanquam lex
+T60	ParallelArm 15432 15456	Elias tanquam prophetia:
+R34	Parallel Arg1:T58 Arg2:T59	
+R35	Parallel Arg1:T59 Arg2:T60	
+T61	ParallelArm 16546 16562	quomodo hic erat
+T62	ParallelArm 16567 16580	quomodo uenit
+R36	Parallel Arg1:T61 Arg2:T62	
+T63	ParallelArm 16592 16610	hic erat maiestate
+T64	ParallelArm 16612 16629	uenit humanitate?
+R37	Parallel Arg1:T63 Arg2:T64	
+T65	ParallelArm 16704 16727	temporaliter per legem,
+T66	ParallelArm 16728 16755	temporaliter per prophetas,
+T67	ParallelArm 16756 16794	temporaliter per scripturas euangelii.
+R38	Parallel Arg1:T65 Arg2:T66	
+R39	Parallel Arg1:T66 Arg2:T67	
+T68	ParallelArm 18657 18675	et quos medio die,
+T69	ParallelArm 18676 18694	et quos fine diei,
+T70	ParallelArm 18632 18655	et quos mane conduxerat
+R40	Parallel Arg1:T70 Arg2:T68	
+R41	Parallel Arg1:T68 Arg2:T69	
+T71	ParallelArm 18961 19055	sed credidit aliquis iuuenis, et priore tempore suo non fuit fidelis; denarium est accepturus.
+T72	ParallelArm 19056 19169	sed credidit senex, iam in occasu diei quasi hora undecima conductus ad uineam; et ipse denarium percepturus est.
+R42	Parallel Arg1:T71 Arg2:T72	
+T73	ParallelArm 20784 20851	tu nobis tractasti quia isti dies laetitiam sempiternam significant
+T74	ParallelArm 20853 20930	tu nobis insinuasti quia hoc tempus gaudium angelicum et caeleste praenuntiat
+R43	Parallel Arg1:T73 Arg2:T74	
+T75	ParallelArm 21250 21289	minus intelligentem et melius uiuentem,
+T76	ParallelArm 21295 21337	multum intelligentem et non bene uiuentem.
+R44	Parallel Arg1:T75 Arg2:T76	
+T77	ParallelArm 21505 21554	qui enim bene uiuit, meretur amplius intelligere:
+T78	ParallelArm 21555 21596	qui male uiuit, et quod intelligit perdet
+R45	Parallel Arg1:T77 Arg2:T78	

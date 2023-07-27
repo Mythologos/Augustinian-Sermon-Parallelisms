@@ -1,0 +1,38 @@
+T1	ParallelArm 75 96	solemnis congregatio,
+T2	ParallelArm 97 113	solemnis lectio,
+T3	ParallelArm 114 128	solemnis sermo
+R1	Parallel Arg1:T1 Arg2:T2	
+R2	Parallel Arg1:T2 Arg2:T3	
+T4	ParallelArm 291 325	et linguas omnes indoctis donauit,
+T5	ParallelArm 326 376	et linguas doctorum in omnibus gentibus subiugauit
+T6	ParallelArm 378 436	et diuersas linguas gentium ad unitatem fidei congregauit.
+R3	Parallel Arg1:T4 Arg2:T5	
+R4	Parallel Arg1:T5 Arg2:T6	
+T7	ParallelArm 4711 4732	ego quidem sum Pauli,
+T8	ParallelArm 4733 4750	ego autem Apollo,
+T9	ParallelArm 4751 4766	ego uero Cephae
+T10	ParallelArm 4768 4786	ego autem Christi.
+R5	Parallel Arg1:T7 Arg2:T8	
+R6	Parallel Arg1:T8 Arg2:T9	
+R7	Parallel Arg1:T9 Arg2:T10	
+T11	ParallelArm 4887 4925	sicut enim spirituales unitate gaudent
+T12	ParallelArm 4927 4962	sic animales dissensionibus student
+R8	Parallel Arg1:T11 Arg2:T12	
+T13	ParallelArm 5088 5104	quid euidentius?
+T14	ParallelArm 5105 5121	quid expressius?
+R9	Parallel Arg1:T13 Arg2:T14	
+T15	ParallelArm 5448 5484	induistis Christum forma sacramenti;
+T16	ParallelArm 5485 5512	induite imitatione exempli.
+R10	Parallel Arg1:T15 Arg2:T16	
+T17	ChiasmA 5618 5643	habentes formam pietatis,
+T18	ChiasmB 5644 5675	uirtutem autem eius abnegantes.
+R11	Chiasm Arg1:T17 Arg2:T18	
+T19	ParallelArm 6757 6777	quae dicunt, facite;
+T20	ParallelArm 6778 6812	quae autem faciunt, facere nolite.
+R12	Parallel Arg1:T19 Arg2:T20	
+T21	ParallelArm 7365 7392	quemadmodum negatur factis,
+T22	ParallelArm 7393 7412	sic dicitur factis.
+R13	Parallel Arg1:T21 Arg2:T22	
+T23	ParallelArm 7902 7931	nec quia stamus superbientes,
+T24	ParallelArm 7932 7961	nec de iacentibus desperantes
+R14	Parallel Arg1:T23 Arg2:T24	

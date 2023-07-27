@@ -1,0 +1,103 @@
+T1	ParallelArm 352 396	quis enim gloriabitur, castum se habere cor?
+T2	ParallelArm 401 444	quis gloriabitur mundum se esse a peccatis?
+R1	Parallel Arg1:T1 Arg2:T2	
+T3	ParallelArm 4679 4689	dura sunt,
+T4	ParallelArm 4690 4702	molesta sunt
+R2	Parallel Arg1:T3 Arg2:T4	
+T5	ParallelArm 4840 4866	siue ergo nos flagellemur,
+T6	ParallelArm 4867 4894	siue cum alii flagellantur,
+R3	Parallel Arg1:T5 Arg2:T6	
+T7	ParallelArm 5501 5516	dolorem habens,
+T8	ParallelArm 5517 5538	medicinam non habens.
+R4	Parallel Arg1:T7 Arg2:T8	
+T9	ChiasmA 5548 5570	fructuosa paenitentia,
+T10	ChiasmB 5578 5594	correctio libera
+R5	Chiasm Arg1:T9 Arg2:T10	
+T11	ParallelArm 6018 6058	contemserunt Iudaei mortuos suscitantem,
+T12	ParallelArm 6059 6104	non contemsit latro secum in cruce pendentem.
+R6	Parallel Arg1:T11 Arg2:T12	
+T13	ParallelArm 6275 6296	uidete quia non tacet
+T14	ParallelArm 6298 6317	uidete quia differt
+T15	ParallelArm 6319 6341	uidete quia blanditur,
+R7	Parallel Arg1:T13 Arg2:T14	
+R8	Parallel Arg1:T14 Arg2:T15	
+T16	ParallelArm 7137 7155	dicebatur a paucis
+T17	ParallelArm 7159 7178	ridebatur a multis.
+R9	Parallel Arg1:T16 Arg2:T17	
+T18	ParallelArm 8592 8603	bona bonis,
+T19	ParallelArm 8604 8615	mala malis.
+R10	Parallel Arg1:T18 Arg2:T19	
+T20	ParallelArm 8965 8989	utrumque se exhibet deus
+T21	ParallelArm 8991 9008	utrumque praestat
+R11	Parallel Arg1:T20 Arg2:T21	
+T22	ParallelArm 9010 9054	nec misericordia eius praescribit iustitiae,
+T23	ParallelArm 9055 9089	nec iustitia aufert misericordiam.
+R12	Parallel Arg1:T22 Arg2:T23	
+T24	ParallelArm 9807 9828	sit fructuosus dolor,
+T25	ParallelArm 9833 9855	sit sterilis paenitudo
+R13	Parallel Arg1:T24 Arg2:T25	
+T26	ParallelArm 10089 10127	si paenituerit uos de peccatis uestris
+T27	ParallelArm 10129 10162	paenitebit et me de omnibus malis
+R14	Parallel Arg1:T26 Arg2:T27	
+T28	ParallelArm 10642 10662	reum te fecerat lex,
+T29	ParallelArm 10663 10691	absoluit te qui dedit legem.
+R15	Parallel Arg1:T28 Arg2:T29	
+T30	ParallelArm 11231 11251	homo unum nomen est,
+T31	ParallelArm 11255 11279	peccator unum nomen est.
+R16	Parallel Arg1:T30 Arg2:T31	
+T32	ParallelArm 11145 11171	peribunt utique peccatores
+T33	ParallelArm 11173 11198	sed non peribunt homines.
+R17	Parallel Arg1:T32 Arg2:T33	
+T34	ParallelArm 11323 11344	unum horum deus fecit
+T35	ParallelArm 11346 11371	alterum horum homo fecit.
+R18	Parallel Arg1:T34 Arg2:T35	
+T36	ParallelArm 11372 11395	hominem enim deus fecit
+T37	ParallelArm 11397 11417	peccatum homo fecit.
+R19	Parallel Arg1:T36 Arg2:T37	
+T38	ParallelArm 11519 11548	pereat in te quod tu fecisti,
+T39	ParallelArm 11552 11571	seruo quod ego feci
+R20	Parallel Arg1:T38 Arg2:T39	
+T40	ParallelArm 12114 12141	fac quod in posterum times,
+T41	ParallelArm 12149 12181	habebis quod in posterum timeas.
+R21	Parallel Arg1:T40 Arg2:T41	
+T42	ParallelArm 12793 12812	nondum sic euanuit,
+T43	ParallelArm 12813 12837	nondum sic est dispersus
+R22	Parallel Arg1:T42 Arg2:T43	
+T44	ParallelArm 13204 13227	habes quasi quod uideas
+T45	ParallelArm 13236 13254	habes quod teneas.
+R23	Parallel Arg1:T44 Arg2:T45	
+T46	ParallelArm 14395 14410	innocenter nati
+T47	ParallelArm 14412 14431	innocenter uiuentis
+T48	ParallelArm 14433 14450	innocenter mortui
+R24	Parallel Arg1:T46 Arg2:T47	
+R25	Parallel Arg1:T47 Arg2:T48	
+T49	ParallelArm 14513 14530	emit quos perdat,
+T50	ParallelArm 14535 14555	emit quos uiuificet.
+R26	Parallel Arg1:T49 Arg2:T50	
+T51	ParallelArm 15267 15295	talis est enim uia iustorum,
+T52	ParallelArm 15296 15319	talis est uia sanctorum
+R27	Parallel Arg1:T51 Arg2:T52	
+T53	ParallelArm 15320 15342	tenentium deum patrem,
+T54	ParallelArm 15343 15370	tenentium ecclesiam matrem.
+R28	Parallel Arg1:T53 Arg2:T54	
+T55	ParallelArm 15494 15509	non laeso patre
+T56	ParallelArm 15510 15525	non laesa matre
+R29	Parallel Arg1:T55 Arg2:T56	
+T57	ParallelArm 15567 15604	duo parentes nos genuerunt ad mortem,
+T58	ParallelArm 15605 15641	duo parentes nos genuerunt ad uitam.
+R30	Parallel Arg1:T57 Arg2:T58	
+T59	ParallelArm 15642 15696	parentes qui nos genuerunt ad mortem, Adam est et Eua.
+T60	ParallelArm 15697 15759	parentes qui nos genuerunt ad uitam, Christus est et ecclesia.
+R31	Parallel Arg1:T59 Arg2:T60	
+T61	ParallelArm 15760 15804	et pater meus qui me genuit, Adam mihi fuit;
+T62	ParallelArm 15805 15831	et mater mea Eua mihi fuit
+R32	Parallel Arg1:T61 Arg2:T62	
+T63	ParallelArm 17281 17316	aliquid non aeternum promisit suis,
+T64	ParallelArm 17320 17357	aliquid temporale minatus est impiis.
+R33	Parallel Arg1:T63 Arg2:T64	
+T65	ParallelArm 17358 17446	quomodo uitam, beatitudinem, regnum, hereditatem sempiternam sine fine promisit sanctis,
+T66	ParallelArm 17447 17485	sic ignem aeternum minatus est impiis.
+R34	Parallel Arg1:T65 Arg2:T66	
+T67	ParallelArm 17489 17516	quod promisit nondum amamus
+T68	ParallelArm 17525 17551	quod minatus est timeamus.
+R35	Parallel Arg1:T67 Arg2:T68	

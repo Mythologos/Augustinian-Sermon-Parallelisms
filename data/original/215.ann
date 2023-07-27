@@ -1,0 +1,135 @@
+T1	ParallelArm 350 393	quod animo et corde semper retinere debetis
+T2	ParallelArm 395 427	quod in stratis uestris dicatis,
+T3	ParallelArm 428 453	quod in plateis cogitetis
+T4	ParallelArm 455 492	et quod inter cibos non obliuiscamini
+R1	Parallel Arg1:T1 Arg2:T2	
+R2	Parallel Arg1:T2 Arg2:T3	
+R3	Parallel Arg1:T3 Arg2:T4	
+T5	ChiasmA 507 526	dormientes corpore,
+T6	ChiasmB 527 542	corde uigiletis
+R4	Chiasm Arg1:T5 Arg2:T6	
+T7	ChiasmA 1153 1175	uniuersorum creatorem,
+T8	ChiasmB 1176 1193	regem saeculorum,
+R5	Chiasm Arg1:T7 Arg2:T8	
+T9	ParallelArm 1363 1378	tempore augetur
+T10	ParallelArm 1384 1400	loco distenditur
+R6	Parallel Arg1:T9 Arg2:T10	
+T11	ParallelArm 1406 1448	aliqua materia concluditur aut terminatur:
+R7	Parallel Arg1:T10 Arg2:T11	
+T12	ParallelArm 1621 1638	nec oculus uidit,
+T13	ParallelArm 1639 1656	nec auris audiuit
+T14	ParallelArm 1658 1686	nec in cor hominis ascendit:
+R8	Parallel Arg1:T12 Arg2:T13	
+R9	Parallel Arg1:T13 Arg2:T14	
+T15	ParallelArm 1723 1742	aut mens concipere,
+T16	ParallelArm 1743 1760	aut cor cogitare,
+T17	ParallelArm 1761 1780	aut lingua narrare?
+R10	Parallel Arg1:T15 Arg2:T16	
+R11	Parallel Arg1:T16 Arg2:T17	
+T18	ParallelArm 2746 2785	sine uirili semine uirginem concepisse,
+T19	ParallelArm 2786 2813	sine corruptione peperisse,
+T20	ParallelArm 2817 2853	post partum in integritate mansisse?
+R12	Parallel Arg1:T18 Arg2:T19	
+R13	Parallel Arg1:T19 Arg2:T20	
+T21	ParallelArm 2889 2923	uterum uirginis dignatus intrauit,
+T22	ParallelArm 2924 2959	membra feminae immaculatus impleuit
+R14	Parallel Arg1:T21 Arg2:T22	
+T23	ParallelArm 3102 3118	et matris honore
+T24	ParallelArm 3132 3155	et uirginis sanctitate.
+R15	Parallel Arg1:T23 Arg2:T24	
+T25	ParallelArm 3156 3173	quis hoc cogitat?
+T26	ParallelArm 3174 3186	quis enarrat
+R16	Parallel Arg1:T25 Arg2:T26	
+T27	ChiasmA 3234 3264	cuius enim mens ad cogitandum,
+T28	ChiasmB 3265 3292	cuius ad enuntiandum lingua
+R17	Chiasm Arg1:T27 Arg2:T28	
+T29	ParallelArm 3424 3466	eligens uirginem quam sibi faceret matrem,
+T30	ParallelArm 3467 3508	faciens matrem quam seruaret et uirginem:
+R18	Parallel Arg1:T29 Arg2:T30	
+T31	ParallelArm 3509 3544	dei filius nulla matre concipiente,
+T32	ParallelArm 3545 3583	hominis filius nullo homine seminante;
+R19	Parallel Arg1:T31 Arg2:T32	
+T33	ParallelArm 3584 3623	fecunditatem feminae ueniendo afferens,
+T34	ParallelArm 3624 3658	integritatem nascendo non auferens
+R20	Parallel Arg1:T33 Arg2:T34	
+T35	ParallelArm 3674 3685	quis dicat?
+T36	ParallelArm 3686 3698	quis taceat?
+R21	Parallel Arg1:T35 Arg2:T36	
+T37	ParallelArm 3720 3738	eloqui non ualemus
+T38	ParallelArm 3740 3759	silere non sinimur;
+R22	Parallel Arg1:T37 Arg2:T38	
+T39	ParallelArm 3760 3779	sonando praedicamus
+T40	ParallelArm 3790 3814	cogitando comprehendimus
+R23	Parallel Arg1:T39 Arg2:T40	
+T41	ParallelArm 4007 4034	competenter non potest dici
+T42	ParallelArm 4036 4059	potest fideliter credi.
+R24	Parallel Arg1:T41 Arg2:T42	
+T43	ParallelArm 4884 4928	nascatur de spiritu sancto et integra femina
+T44	ParallelArm 4937 4983	renascatur de spiritu sancto integra ecclesia.
+R25	Parallel Arg1:T43 Arg2:T44	
+T45	ParallelArm 5163 5214	in ea carne natus, per clausa uiscera paruus exiret
+T46	ParallelArm 5216 5268	in qua resuscitatus per clausa ostia magnus intraret
+R26	Parallel Arg1:T45 Arg2:T46	
+T47	ParallelArm 5270 5302	mira sunt haec, quia diuina sunt
+T48	ParallelArm 5304 5338	ineffabilia, quia et inscrutabilia
+R27	Parallel Arg1:T47 Arg2:T48	
+T49	ParallelArm 5340 5375	non sufficit explicando os hominis,
+T50	ParallelArm 5381 5410	nec inuestigando cor hominis.
+R28	Parallel Arg1:T49 Arg2:T50	
+T51	ParallelArm 5411 5461	credidit Maria, et in ea quod credidit factum est.
+T52	ParallelArm 5462 5522	credamus et nos, ut et nobis possit prodesse quod factum est
+R29	Parallel Arg1:T51 Arg2:T52	
+T53	ParallelArm 5654 5672	deus in deo manens
+T54	ParallelArm 5674 5701	aeternus cum aeterno uiuens
+R30	Parallel Arg1:T53 Arg2:T54	
+T55	ParallelArm 6118 6137	pro hominibus deus,
+T56	ParallelArm 6138 6162	pro peccatoribus iustus,
+T57	ParallelArm 6163 6181	pro reis innocens,
+T58	ParallelArm 6182 6199	pro captiuis rex,
+T59	ParallelArm 6200 6218	pro seruis dominus
+R31	Parallel Arg1:T55 Arg2:T56	
+R32	Parallel Arg1:T56 Arg2:T57	
+R33	Parallel Arg1:T57 Arg2:T58	
+R34	Parallel Arg1:T58 Arg2:T59	
+T60	ParallelArm 7329 7362	corde enim creditur ad iustitiam,
+T61	ParallelArm 7363 7398	ore autem confessio fit ad salutem.
+R35	Parallel Arg1:T60 Arg2:T61	
+T62	ParallelArm 7408 7421	ne dubitares,
+T63	ParallelArm 7422 7436	ne erubesceres
+R36	Parallel Arg1:T62 Arg2:T63	
+T64	ParallelArm 7607 7641	confusus me fuerit coram hominibus
+T65	ParallelArm 7643 7691	confundet illum filius hominis coram angelis dei
+R37	Parallel Arg1:T64 Arg2:T65	
+T66	ParallelArm 8165 8186	accipe consolationem,
+T67	ParallelArm 8187 8206	habe exsultationem.
+R38	Parallel Arg1:T66 Arg2:T67	
+T68	ParallelArm 8357 8369	crede natum,
+T69	ParallelArm 8370 8383	crede passum,
+R39	Parallel Arg1:T68 Arg2:T69	
+T70	ParallelArm 8562 8575	deum attende,
+T71	ParallelArm 8576 8596	omnipotentem cogita:
+R40	Parallel Arg1:T70 Arg2:T71	
+T72	ParallelArm 8623 8666	potuit te, cum non esses, ex nihilo facere;
+T73	ParallelArm 8675 8732	potuit hominem suum, quem iam fecerat, a mortuis excitare
+R41	Parallel Arg1:T72 Arg2:T73	
+T74	ParallelArm 8924 8947	et pagani nunc credunt,
+T75	ParallelArm 8948 8972	et Iudaei tunc uiderunt;
+R42	Parallel Arg1:T74 Arg2:T75	
+T76	ParallelArm 9804 9817	siue uiuamus,
+T77	ParallelArm 9818 9832	siue moriamur,
+R43	Parallel Arg1:T76 Arg2:T77	
+T78	ParallelArm 9946 9989	per ipsum remissionem accepimus peccatorum,
+T79	ParallelArm 9990 10031	per ipsum resurrectionem credimus carnis,
+T80	ParallelArm 10032 10066	per ipsum uitam speramus aeternam.
+R44	Parallel Arg1:T78 Arg2:T79	
+R45	Parallel Arg1:T79 Arg2:T80	
+T81	ParallelArm 10217 10228	una uirtus,
+T82	ParallelArm 10229 10242	una potestas,
+T83	ParallelArm 10243 10256	una maiestas,
+T84	ParallelArm 10257 10280	unum nomen diuinitatis;
+R46	Parallel Arg1:T81 Arg2:T82	
+R47	Parallel Arg1:T82 Arg2:T83	
+R48	Parallel Arg1:T83 Arg2:T84	
+T85	ParallelArm 10454 10472	diuinam trinitatem
+T86	ParallelArm 10476 10492	trinam unitatem,
+R49	Parallel Arg1:T85 Arg2:T86	

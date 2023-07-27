@@ -1,0 +1,269 @@
+T1	ParallelArm 1029 1063	magnum est autem non illam habere,
+T2	ParallelArm 1067 1097	multo plus est non eam habere,
+R1	Parallel Arg1:T1 Arg2:T2	
+T3	ParallelArm 2981 3007	huius familia facti sumus,
+T4	ParallelArm 3008 3040	in huius familia adoptati sumus;
+R2	Parallel Arg1:T3 Arg2:T4	
+T5	ParallelArm 3099 3115	nimis graue est,
+T6	ParallelArm 3116 3132	nimis horribile,
+R3	Parallel Arg1:T5 Arg2:T6	
+T7	ParallelArm 3270 3291	inter quae nati sumus
+T8	ParallelArm 3298 3325	propter illum renati sumus.
+R4	Parallel Arg1:T7 Arg2:T8	
+T9	ParallelArm 3336 3357	ad necessitatis usum,
+T10	ParallelArm 3362 3384	ad caritatis affectum:
+R5	Parallel Arg1:T9 Arg2:T10	
+T11	ParallelArm 3390 3416	tamquam stabulum uiatoris,
+T12	ParallelArm 3421 3450	tamquam praedium possessoris.
+R6	Parallel Arg1:T11 Arg2:T12	
+T13	ParallelArm 3811 3844	aliud est ergo iter mortalitatis,
+T14	ParallelArm 3845 3865	aliud iter pietatis.
+R7	Parallel Arg1:T13 Arg2:T14	
+T15	ParallelArm 3866 3918	iter mortalitatis commune est uniuersis nascentibus,
+T16	ParallelArm 3919 3957	iter pietatis non commune est omnibus:
+R8	Parallel Arg1:T15 Arg2:T16	
+T17	ParallelArm 3958 3989	illud enim ambulant omnes nati:
+T18	ParallelArm 3990 4012	istum non nisi renati.
+R9	Parallel Arg1:T17 Arg2:T18	
+T19	ParallelArm 4382 4411	premit te in hac uia pecunia,
+T20	ParallelArm 4415 4449	post hanc uiam premit te auaritia.
+R10	Parallel Arg1:T19 Arg2:T20	
+T21	ParallelArm 4487 4526	nihil tollis de hoc mundo, quod amasti:
+T22	ParallelArm 4531 4558	tollis uitium, quod amasti.
+R11	Parallel Arg1:T21 Arg2:T22	
+T23	ParallelArm 4593 4606	fecit mundum,
+T24	ParallelArm 4576 4588	amas mundum,
+T25	ParallelArm 4614 4628	inuenit mundum
+R12	Parallel Arg1:T24 Arg2:T23	
+R13	Parallel Arg1:T24 Arg2:T25	
+R14	Parallel Arg1:T23 Arg2:T25	
+T26	ParallelArm 5131 5149	cupiditas non sit,
+T27	ParallelArm 5150 5167	pietas non desit;
+R15	Parallel Arg1:T26 Arg2:T27	
+T28	ParallelArm 5225 5274	si dominus auri es, facis de illo quod bonum est:
+T29	ParallelArm 5275 5313	si seruus, facit de te quod malum est.
+T30	ParallelArm 5314 5364	si dominus auri es, uestitus de te dominum laudat:
+T31	ParallelArm 5365 5416	si seruus auri es, spoliatus de te deum blasphemat.
+R16	Parallel Arg1:T28 Arg2:T29	
+R17	Parallel Arg1:T30 Arg2:T31	
+R18	Parallel Arg1:T28 Arg2:T30	
+R19	Parallel Arg1:T29 Arg2:T31	
+T32	ParallelArm 5934 5970	non quilibet potentissimus inimicus,
+T33	ParallelArm 5918 5933	non tibi latro,
+T34	ParallelArm 5971 6003	non irruens hostis aut barbarus,
+R20	Parallel Arg1:T33 Arg2:T32	
+R21	Parallel Arg1:T33 Arg2:T34	
+R22	Parallel Arg1:T32 Arg2:T34	
+T35	ParallelArm 6163 6177	dominus dedit,
+T36	ParallelArm 6178 6195	dominus abstulit;
+R23	Parallel Arg1:T35 Arg2:T36	
+T37	ParallelArm 6263 6289	laudabilis ista plenitudo,
+T38	ParallelArm 6290 6308	ingentes diuitiae;
+R24	Parallel Arg1:T37 Arg2:T38	
+T39	ParallelArm 6309 6321	inanis auro,
+T40	ParallelArm 6322 6333	plenus deo;
+R25	Parallel Arg1:T39 Arg2:T40	
+T41	ParallelArm 6334 6368	inanis omni transitoria facultate,
+T42	ParallelArm 6369 6397	plenus sui domini uoluntate.
+R26	Parallel Arg1:T41 Arg2:T42	
+R27	Parallel Arg1:T39 Arg2:T41	
+R28	Parallel Arg1:T40 Arg2:T42	
+T43	ParallelArm 7032 7057	redit aliquid de negotio,
+T44	ParallelArm 7058 7085	redit aliquid de artificio,
+T45	ParallelArm 7086 7110	redit aliquid de pretio:
+R29	Parallel Arg1:T43 Arg2:T44	
+R30	Parallel Arg1:T44 Arg2:T45	
+R31	Parallel Arg1:T43 Arg2:T45	
+T46	ParallelArm 7144 7169	ubi ponis thesaurum tuum,
+T47	ParallelArm 7170 7195	ibi remaneat et cor tuum,
+R32	Parallel Arg1:T46 Arg2:T47	
+T48	ParallelArm 7619 7628;7629 7644	tu dicis: non illic erit.
+T49	ParallelArm 7645 7659;7660 7670	ueritas dicit: illic erit
+R33	Parallel Arg1:T48 Arg2:T49	
+T50	ParallelArm 7944 7961	ibi facultas est,
+T51	ParallelArm 7962 7976	hic cupiditas.
+R34	Parallel Arg1:T50 Arg2:T51	
+T52	ParallelArm 8836 8856	humore periclitatur,
+T53	ParallelArm 8860 8880	humore non satiatur:
+R35	Parallel Arg1:T52 Arg2:T53	
+T54	ParallelArm 8799 8816	hydrops in carne,
+T55	ParallelArm 8885 8902	hydrops in corde,
+R36	Parallel Arg1:T54 Arg2:T55	
+T56	ParallelArm 8903 8921	quanto plus habet,
+T57	ParallelArm 8922 8938	tanto plus eget.
+R37	Parallel Arg1:T56 Arg2:T57	
+T58	ParallelArm 8977 8998	paucioribus gaudebat,
+T59	ParallelArm 8999 9030	exiguis locellis exhilarabatur:
+R38	Parallel Arg1:T58 Arg2:T59	
+T60	ParallelArm 9041 9054	impletus est,
+T61	ParallelArm 9055 9068	distentus est
+T62	ParallelArm 9070 9096	abundantissimus factus est
+R39	Parallel Arg1:T60 Arg2:T61	
+R40	Parallel Arg1:T60 Arg2:T62	
+R41	Parallel Arg1:T61 Arg2:T62	
+T63	ParallelArm 9148 9158	hoc habeo,
+T64	ParallelArm 9159 9172	illud potero;
+R42	Parallel Arg1:T63 Arg2:T64	
+T65	ParallelArm 9173 9186	parum possum,
+T66	ParallelArm 9192 9203	parum habeo
+R43	Parallel Arg1:T65 Arg2:T66	
+T67	ParallelArm 9490 9509	non a me accusatus,
+T68	ParallelArm 9510 9532	sed a te interrogatus.
+R44	Parallel Arg1:T67 Arg2:T68	
+T69	ParallelArm 9826 9839	iam es diues?
+T70	ParallelArm 9852 9865	non esse uis?
+T71	ParallelArm 9840 9851	iam inquit.
+T72	ParallelArm 9866 9877	non, inquit
+T73	ParallelArm 9879 9900	si non esses, nolles?
+T74	ParallelArm 9901 9916	nollem, inquit.
+R45	Parallel Arg1:T69 Arg2:T70	
+R46	Parallel Arg1:T70 Arg2:T73	
+R47	Parallel Arg1:T69 Arg2:T73	
+R48	Parallel Arg1:T71 Arg2:T72	
+R49	Parallel Arg1:T71 Arg2:T74	
+R50	Parallel Arg1:T72 Arg2:T74	
+T75	ParallelArm 9952 9974	foris diuitem inuenit,
+T76	ParallelArm 9975 9995	intus diuitem fecit,
+R51	Parallel Arg1:T75 Arg2:T76	
+T77	ParallelArm 11736 11767	ambos enim terra nudos excepit,
+T78	ParallelArm 11768 11789	ambos exspectat mors,
+T79	ParallelArm 11790 11813	ambos non timet febris.
+R52	Parallel Arg1:T77 Arg2:T78	
+R53	Parallel Arg1:T78 Arg2:T79	
+R54	Parallel Arg1:T77 Arg2:T79	
+T80	ParallelArm 11814 11849	habet eam pauper in strato terreno,
+T81	ParallelArm 11854 11900	nec diues eam uenientem lecto terret argenteo.
+R55	Parallel Arg1:T80 Arg2:T81	
+T82	ParallelArm 12024 12042	dissimilis uestis,
+T83	ParallelArm 12047 12061	similis cutis:
+R56	Parallel Arg1:T82 Arg2:T83	
+T84	ParallelArm 12654 12663	modo erat
+T85	ParallelArm 12665 12675	modo perit
+R57	Parallel Arg1:T84 Arg2:T85	
+T86	ParallelArm 13138 13166	utimur enim pro necessitate,
+T87	ParallelArm 13167 13191	fruimur pro iocunditate.
+R58	Parallel Arg1:T86 Arg2:T87	
+T88	ParallelArm 13197 13230	ista temporalia dedit ad utendum,
+T89	ParallelArm 13231 13246	se ad fruendum.
+R59	Parallel Arg1:T88 Arg2:T89	
+T90	ParallelArm 13382 13396	solue te hinc,
+T91	ParallelArm 13401 13411	alliga ibi
+R60	Parallel Arg1:T90 Arg2:T91	
+T92	ParallelArm 14029 14046	sed sanctis suis,
+T93	ParallelArm 14047 14062	sed iustis suis
+R61	Parallel Arg1:T92 Arg2:T93	
+T94	ParallelArm 14091 14110	ipse ergo sufficit,
+T95	ParallelArm 14111 14126	solus sufficit,
+R62	Parallel Arg1:T94 Arg2:T95	
+T96	ParallelArm 14354 14369	si auari sumus,
+T97	ParallelArm 14370 14383	ipsum amemus.
+T98	ParallelArm 14384 14403	si opes desideramus
+T99	ParallelArm 14404 14422	ipsum desideremus.
+R63	Parallel Arg1:T96 Arg2:T98	
+R64	Parallel Arg1:T97 Arg2:T99	
+T100	ParallelArm 14354 14383	si auari sumus, ipsum amemus.
+T101	ParallelArm 14384 14421	si opes desideramus ipsum desideremus
+R65	Parallel Arg1:T100 Arg2:T101	
+T102	ParallelArm 14837 14857	ecce porcos pauisti;
+T103	ParallelArm 14858 14880	ecce omnia perdidisti;
+T104	ParallelArm 14881 14903	ecce egens remansisti,
+R66	Parallel Arg1:T102 Arg2:T103	
+R67	Parallel Arg1:T103 Arg2:T104	
+R68	Parallel Arg1:T102 Arg2:T104	
+T105	ParallelArm 15105 15118	facta turpis,
+T106	ParallelArm 15119 15133	facta decolor,
+T107	ParallelArm 15134 15147	facta immunda
+R69	Parallel Arg1:T105 Arg2:T106	
+R70	Parallel Arg1:T106 Arg2:T107	
+R71	Parallel Arg1:T105 Arg2:T107	
+T108	ParallelArm 15391 15404	non in terra,
+T109	ParallelArm 15405 15434	non in mendicissimo thesauro,
+T110	ParallelArm 15435 15457	non in loco putredinis
+R72	Parallel Arg1:T108 Arg2:T109	
+R73	Parallel Arg1:T109 Arg2:T110	
+R74	Parallel Arg1:T108 Arg2:T110	
+T111	ParallelArm 15685 15703;15704 15710	non superbe sapis: recte.
+T112	ParallelArm 15711 15744;15745 15752	non speras in incerto diuitiarum: optime.
+R75	Parallel Arg1:T111 Arg2:T112	
+T113	ParallelArm 16283 16305	apud illum difficultas
+T114	ParallelArm 16307 16325	apud te facilitas.
+R76	Parallel Arg1:T113 Arg2:T114	
+T115	ParallelArm 16791 16824	non aurum, quod in terra remanet,
+T116	ParallelArm 16825 16851	non facultates putribiles,
+T117	ParallelArm 16852 16873	non bona transeuntia,
+R77	Parallel Arg1:T115 Arg2:T116	
+R78	Parallel Arg1:T116 Arg2:T117	
+R79	Parallel Arg1:T115 Arg2:T117	
+T118	ParallelArm 17078 17101	quod hic abundat damus,
+T119	ParallelArm 17102 17128	quod ibi abundat accipimus
+R80	Parallel Arg1:T118 Arg2:T119	
+T120	ParallelArm 17312 17321	et migrat
+T121	ParallelArm 17322 17336	et non migrat:
+R81	Parallel Arg1:T120 Arg2:T121	
+T122	ParallelArm 17471 17482	quid damus,
+T123	ParallelArm 17486 17501	quid accipimus?
+R82	Parallel Arg1:T122 Arg2:T123	
+T124	ParallelArm 17579 17604	hic quod minus est detur,
+T125	ParallelArm 17608 17638	quod est maius ibi inueniatur.
+R83	Parallel Arg1:T124 Arg2:T125	
+T126	ParallelArm 17639 17652	damus terram,
+T127	ParallelArm 17656 17673	accipimus caelum;
+R84	Parallel Arg1:T126 Arg2:T127	
+T128	ParallelArm 17674 17691	damus temporalia,
+T129	ParallelArm 17692 17710	accipimus aeterna;
+R85	Parallel Arg1:T128 Arg2:T129	
+T130	ParallelArm 17711 17730	damus putrescentia,
+T131	ParallelArm 17731 17752	accipimus immortalia;
+R86	Parallel Arg1:T130 Arg2:T131	
+T132	ParallelArm 17762 17784	damus quod dedit deus,
+T133	ParallelArm 17788 17809	accipimus ipsum deum.
+R87	Parallel Arg1:T132 Arg2:T133	
+R88	Parallel Arg1:T126 Arg2:T128	
+R89	Parallel Arg1:T126 Arg2:T130	
+R90	Parallel Arg1:T126 Arg2:T132	
+R91	Parallel Arg1:T127 Arg2:T129	
+R92	Parallel Arg1:T127 Arg2:T131	
+R93	Parallel Arg1:T127 Arg2:T133	
+R94	Parallel Arg1:T128 Arg2:T130	
+R95	Parallel Arg1:T128 Arg2:T132	
+R96	Parallel Arg1:T129 Arg2:T131	
+R97	Parallel Arg1:T129 Arg2:T133	
+R98	Parallel Arg1:T130 Arg2:T132	
+R99	Parallel Arg1:T131 Arg2:T133	
+T134	ParallelArm 17639 17673	damus terram, et accipimus caelum;
+T135	ParallelArm 17674 17710	damus temporalia, accipimus aeterna;
+T136	ParallelArm 17711 17752	damus putrescentia, accipimus immortalia;
+T137	ParallelArm 17762 17809	damus quod dedit deus, et accipimus ipsum deum.
+R100	Parallel Arg1:T134 Arg2:T135	
+R101	Parallel Arg1:T134 Arg2:T136	
+R102	Parallel Arg1:T134 Arg2:T137	
+R103	Parallel Arg1:T135 Arg2:T136	
+R104	Parallel Arg1:T135 Arg2:T137	
+R105	Parallel Arg1:T136 Arg2:T137	
+T138	ParallelArm 17895 17917	prosit quia hic sumus,
+T139	ParallelArm 17918 17941	prosit quia nati sumus,
+T140	ParallelArm 17942 17967	prosit quia peregrinamur.
+R106	Parallel Arg1:T138 Arg2:T139	
+R107	Parallel Arg1:T138 Arg2:T140	
+R108	Parallel Arg1:T139 Arg2:T140	
+T141	ParallelArm 18476 18495	diuites dormierunt,
+T142	ParallelArm 18496 18517	pauperes surrexerunt.
+R109	Parallel Arg1:T141 Arg2:T142	
+T143	ParallelArm 18731 18750	abundat unde uiuam,
+T144	ParallelArm 18751 18771	sufficit unde uiuam;
+R110	Parallel Arg1:T143 Arg2:T144	
+T145	ParallelArm 18776 18808	quid, si impingat mihi calumnia:
+T146	ParallelArm 18826 18861	quid, si mihi necesse sit litigare:
+R111	Parallel Arg1:T145 Arg2:T146	
+T147	ParallelArm 18809 18825	unde me redimam?
+T148	ParallelArm 18862 18884	unde sumptus impendam?
+R112	Parallel Arg1:T147 Arg2:T148	
+T149	ParallelArm 19467 19486	non te derelinquam,
+T150	ParallelArm 19487 19502	non te deseram;
+R113	Parallel Arg1:T149 Arg2:T150	
+T151	ParallelArm 19660 19679	non te derelinquam,
+T152	ParallelArm 19680 19695	non te deseram.
+R114	Parallel Arg1:T151 Arg2:T152	
+T153	ParallelArm 19696 19726	homo si promitteret, crederes;
+T154	ParallelArm 19727 19754	deus promittit, et dubitas?
+R115	Parallel Arg1:T153 Arg2:T154	

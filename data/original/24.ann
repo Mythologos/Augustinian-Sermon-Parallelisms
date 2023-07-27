@@ -1,0 +1,154 @@
+T1	ParallelArm 300 323	tamquam dominum timetis
+T2	ParallelArm 325 350	tamquam patrem diligitis.
+R1	Parallel Arg1:T1 Arg2:T2	
+T3	ParallelArm 400 421	et praesens sentitur,
+T4	ParallelArm 422 442	et futurus speratur.
+R2	Parallel Arg1:T3 Arg2:T4	
+T5	ParallelArm 457 488	cuius timorem non excutit amor,
+T6	ParallelArm 489 520	cuius amorem non impedit timor.
+R3	Parallel Arg1:T5 Arg2:T6	
+T7	ParallelArm 521 539	ipsum benedicimus,
+T8	ParallelArm 540 556	ipsum honoramus,
+R4	Parallel Arg1:T7 Arg2:T8	
+T9	ParallelArm 557 569	et pro uobis
+T10	ParallelArm 570 582	et in uobis.
+R5	Parallel Arg1:T9 Arg2:T10	
+T11	ParallelArm 790 812;813 836	templa dicunt deo suo: deus quis similis tibi?
+T12	ParallelArm 837 872;873 895	lapides uiui dicunt habitatori suo: deus quis similis tibi
+R6	Parallel Arg1:T11 Arg2:T12	
+T13	ParallelArm 942 968	terra et quidquid in terra
+T14	ParallelArm 970 995	mare et quidquid in mare,
+T15	ParallelArm 996 1020	aer et quidquid in aere,
+T16	ParallelArm 1021 1049	caelum et quidquid in caelo.
+R7	Parallel Arg1:T13 Arg2:T14	
+R8	Parallel Arg1:T14 Arg2:T15	
+R9	Parallel Arg1:T15 Arg2:T16	
+T17	ParallelArm 1132 1159	dicat uniuersum fidele cor,
+T18	ParallelArm 1160 1190	dicat uniuersa obediens lingua
+T19	ParallelArm 1192 1223	dicat omnis deuota conscientia,
+R10	Parallel Arg1:T17 Arg2:T18	
+R11	Parallel Arg1:T18 Arg2:T19	
+T20	ParallelArm 1997 2010	quid curamus,
+T21	ParallelArm 2011 2025	quid studemus,
+R12	Parallel Arg1:T20 Arg2:T21	
+T22	ParallelArm 2080 2104	oculos habent et uident,
+T23	ParallelArm 2105 2128	aures habent et audiunt
+T24	ParallelArm 2130 2156	manus habent et operantur,
+T25	ParallelArm 2157 2182	pedes habent et ambulant.
+R13	Parallel Arg1:T22 Arg2:T23	
+R14	Parallel Arg1:T23 Arg2:T24	
+R15	Parallel Arg1:T24 Arg2:T25	
+T26	ParallelArm 2190 2213	nouerunt factorem suum,
+T27	ParallelArm 2214 2239	et adorant artificem suum
+T28	ParallelArm 2240 2267	et laudant sculptorem suum.
+R16	Parallel Arg1:T26 Arg2:T27	
+R17	Parallel Arg1:T27 Arg2:T28	
+T29	ParallelArm 2317 2343	attendunt nec attenduntur,
+T30	ParallelArm 2344 2368	adorant nec agnoscuntur,
+R18	Parallel Arg1:T29 Arg2:T30	
+T31	ParallelArm 2497 2543	quantum erat uidere impleri Christi prophetias
+T32	ParallelArm 2545 2610	quantum erat attendere ueridicos codices et oracula non fallacia?
+R19	Parallel Arg1:T31 Arg2:T32	
+T33	ParallelArm 2615 2632	quare non uident?
+T34	ParallelArm 2633 2650	quare non audiunt
+R20	Parallel Arg1:T33 Arg2:T34	
+T35	ParallelArm 3052 3110	cuius titulum non in lapide legimus sed in corde gestamus,
+T36	ParallelArm 3111 3168	cuius nomen et notum est omnibus et uiuit in credentibus,
+T37	ParallelArm 3169 3189	habitat in subiectis
+T38	ParallelArm 3190 3208	debellat superbos,
+R21	Parallel Arg1:T35 Arg2:T36	
+R22	Parallel Arg1:T37 Arg2:T38	
+T39	ParallelArm 3874 3892	quanta ad quantum?
+T40	ParallelArm 3893 3906	quid ad quem?
+T41	ParallelArm 3545 3578	pecoris, et piscis, et uolatilis,
+T42	ParallelArm 3582 3610	angeli, et caeli, et terrae,
+T43	ParallelArm 3614 3642	siderum, et solis, et lunae,
+R23	Parallel Arg1:T41 Arg2:T42	
+R24	Parallel Arg1:T42 Arg2:T43	
+T44	ParallelArm 3907 3920	homo ad deum.
+R25	Parallel Arg1:T39 Arg2:T40	
+R26	Parallel Arg1:T40 Arg2:T44	
+T45	ParallelArm 4626 4641	utrumque mutum,
+T46	ParallelArm 4642 4662	utrumque insensatum.
+R27	Parallel Arg1:T45 Arg2:T46	
+T47	ParallelArm 4663 4679	supra mendacium,
+T48	ParallelArm 4680 4696	infra figmentum.
+R28	Parallel Arg1:T47 Arg2:T48	
+T49	ParallelArm 4443 4456	legit sursum,
+T50	ParallelArm 4457 4475	attendens deorsum,
+R29	Parallel Arg1:T49 Arg2:T50	
+T51	ParallelArm 4697 4751	titulus accusans conscriptorem, confundens adoratorem.
+T52	ParallelArm 4752 4818	titulus non commendans lapidem deum, sed indicans hominem stultum.
+R30	Parallel Arg1:T51 Arg2:T52	
+T53	ParallelArm 4819 4910	titulus dei nomen imponens figmento figmentum, et nomen cultoris delens de libro uiuentium.
+R31	Parallel Arg1:T52 Arg2:T53	
+T54	ParallelArm 5247 5266	percutiat et sanet,
+T55	ParallelArm 5267 5287	occidat et uiuificet
+R32	Parallel Arg1:T54 Arg2:T55	
+T56	ParallelArm 5930 5945	pia intentione,
+T57	ParallelArm 5946 5960	casta oratione
+R33	Parallel Arg1:T56 Arg2:T57	
+T58	ParallelArm 6506 6516	quis uocat
+T59	ParallelArm 6518 6529	quem uocat?
+T60	ParallelArm 6530 6544	ad quid uocat?
+R34	Parallel Arg1:T58 Arg2:T59	
+R35	Parallel Arg1:T59 Arg2:T60	
+T61	ParallelArm 6829 6861	nemo cognoscit filium nisi pater
+T62	ParallelArm 6866 6899	nemo cognoscit patrem nisi filius
+R36	Parallel Arg1:T61 Arg2:T62	
+T63	ParallelArm 6934 6951	ingens magnitudo,
+T64	ParallelArm 6955 6976	ineffabilis altitudo.
+R37	Parallel Arg1:T63 Arg2:T64	
+T65	ParallelArm 7531 7546	seruos pastoris
+T66	ParallelArm 7550 7565	membra pastoris
+R38	Parallel Arg1:T65 Arg2:T66	
+T67	ParallelArm 8414 8464	oculus in sublimi locatus quod ad oculum pertinet,
+T68	ParallelArm 8465 8485	auris quod ad aurem,
+T69	ParallelArm 8486 8506	manus quod ad manum,
+T70	ParallelArm 8507 8527	pedes quod ad pedem,
+R39	Parallel Arg1:T70 Arg2:T69	
+R40	Parallel Arg1:T69 Arg2:T68	
+R41	Parallel Arg1:T68 Arg2:T67	
+T71	ParallelArm 9039 9060	fragilitatem nostram,
+T72	ParallelArm 9061 9081	humilitatem nostram,
+R42	Parallel Arg1:T71 Arg2:T72	
+T73	ParallelArm 9472 9481	deus uult
+T74	ParallelArm 9483 9494	deus iussit
+T75	ParallelArm 9496 9511	deus praedixit,
+R43	Parallel Arg1:T73 Arg2:T74	
+R44	Parallel Arg1:T74 Arg2:T75	
+T76	ParallelArm 10586 10621	quia deos Romanos adorare nolebant,
+T77	ParallelArm 10622 10656	quia cerimonias Romanas respuebant
+T78	ParallelArm 10658 10692	quia diis Romanis non supplicabant
+R45	Parallel Arg1:T76 Arg2:T77	
+R46	Parallel Arg1:T77 Arg2:T78	
+T79	ParallelArm 11324 11337	nihil uoluit,
+T80	ParallelArm 11338 11350	nihil potuit
+R47	Parallel Arg1:T79 Arg2:T80	
+T81	ParallelArm 11584 11610	inclinauit ad obsequendum,
+T82	ParallelArm 11615 11636	mouit ad uindicandum.
+R48	Parallel Arg1:T81 Arg2:T82	
+T83	ParallelArm 11680 11692	barbam radi,
+T84	ParallelArm 11698 11713	caput praecidi.
+R49	Parallel Arg1:T83 Arg2:T84	
+T85	ParallelArm 11724 11755	positum est cum errore illorum,
+T86	ParallelArm 11756 11789	ablatum est cum dedecore illorum.
+R50	Parallel Arg1:T85 Arg2:T86	
+T87	ParallelArm 12239 12288	irascitur ad percutiendum, miseretur ad sanandum.
+T88	ParallelArm 12289 12343	irascitur ad mortificandum, miseretur ad uiuificandum.
+R51	Parallel Arg1:T87 Arg2:T88	
+T89	ParallelArm 12379 12397	alios mortificans,
+T90	ParallelArm 12398 12415	alios uiuificans,
+R52	Parallel Arg1:T89 Arg2:T90	
+T91	ParallelArm 12464 12484	irascitur erroribus,
+T92	ParallelArm 12485 12512	mitescit correctis moribus.
+R53	Parallel Arg1:T91 Arg2:T92	
+T93	ParallelArm 12513 12542	ego percutiam, et ego sanabo;
+T94	ParallelArm 12543 12573	ego occidam, et uiuere faciam.
+R54	Parallel Arg1:T93 Arg2:T94	
+T95	ParallelArm 12627 12664	prostrauit infidelem, erexit fidelem.
+T96	ParallelArm 12665 12711	prostrauit persecutorem, erexit praedicatorem.
+R55	Parallel Arg1:T95 Arg2:T96	
+T97	ParallelArm 12774 12791	per fideles suos,
+T98	ParallelArm 12792 12813	per christianos suos,
+R56	Parallel Arg1:T97 Arg2:T98	

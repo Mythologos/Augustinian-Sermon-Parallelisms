@@ -1,0 +1,162 @@
+T1	ParallelArm 288 303	consonantes ore
+T2	ParallelArm 307 327	consentientes corde,
+R1	Parallel Arg1:T1 Arg2:T2	
+T3	ParallelArm 840 884	agebat rem necessariam, sed non permansuram:
+T4	ParallelArm 885 916	agebat rem uiae, nondum patriae
+R2	Parallel Arg1:T3 Arg2:T4	
+T5	ParallelArm 918 966	agebat rem peregrinationis, nondum possessionis.
+R3	Parallel Arg1:T4 Arg2:T5	
+T6	ParallelArm 1665 1681	multum habentes,
+T7	ParallelArm 1682 1698	nihil quaerentes
+R4	Parallel Arg1:T6 Arg2:T7	
+T8	ParallelArm 1940 1959	credentibus in eum,
+T9	ParallelArm 1960 1979	sperantibus in eum,
+R5	Parallel Arg1:T8 Arg2:T9	
+T10	ParallelArm 1924 1939	colentibus eum,
+T11	ParallelArm 1980 1993	amantibus eum
+R6	Parallel Arg1:T10 Arg2:T11	
+T12	ParallelArm 2053 2075	diffidentibus de illo,
+T13	ParallelArm 2076 2098	desperantibus de illo,
+T14	ParallelArm 2099 2115	auersis ab illo,
+T15	ParallelArm 2116 2138	blasphemantibus illum;
+R7	Parallel Arg1:T12 Arg2:T13	
+R8	Parallel Arg1:T13 Arg2:T14	
+R9	Parallel Arg1:T14 Arg2:T15	
+T16	ParallelArm 2255 2292	quando hanc habet, quid deest pauperi
+T17	ParallelArm 2294 2353	quando istam non habet, quidquid habet quid prodest diuiti?
+R10	Parallel Arg1:T16 Arg2:T17	
+T18	ParallelArm 2380 2412	a domino deo nostro quem colimus
+T19	ParallelArm 2414 2441	a uero deo in quem credimus
+R11	Parallel Arg1:T18 Arg2:T19	
+T20	ParallelArm 2443 2462	et in quo speramus,
+T21	ParallelArm 2463 2481	et quem diligimus;
+R12	Parallel Arg1:T20 Arg2:T21	
+T22	ParallelArm 2571 2579	et bonis
+T23	ParallelArm 2580 2589	et malis,
+R13	Parallel Arg1:T22 Arg2:T23	
+T24	ParallelArm 2590 2614	et blasphematoribus suis
+T25	ParallelArm 2615 2636	et laudatoribus suis.
+R14	Parallel Arg1:T24 Arg2:T25	
+T26	ChiasmA 2712 2754	dat sanitatem etiam iumentis et draconibus
+T27	ChiasmB 2756 2802	usque ad muscas et uermiculos donat sanitatem;
+R15	Chiasm Arg1:T26 Arg2:T27	
+T28	ParallelArm 3410 3427	et bonis et malis
+T29	ParallelArm 3429 3454	et hominibus et iumentis;
+R16	Parallel Arg1:T28 Arg2:T29	
+T30	ParallelArm 3780 3823	aliud enim sunt homines quam filii hominum,
+T31	ParallelArm 3827 3865	aliud sunt filii hominum quam homines?
+R17	Parallel Arg1:T30 Arg2:T31	
+T32	ParallelArm 3919 3948	homines pertinent ad hominem,
+T33	ParallelArm 3949 3981	filii hominum ad filium hominis:
+R18	Parallel Arg1:T32 Arg2:T33	
+T34	ParallelArm 3982 4002	homines, ad hominem;
+T35	ParallelArm 4003 4036	filii hominum, ad filium hominis.
+R19	Parallel Arg1:T34 Arg2:T35	
+T36	ParallelArm 4151 4185	quid ergo nobis uenit per hominem,
+T37	ParallelArm 4189 4225	quid nobis uenit per filium hominis?
+R20	Parallel Arg1:T36 Arg2:T37	
+T38	ParallelArm 4702 4767	per inobedientiam unius hominis peccatores constituti sunt multi;
+T39	ParallelArm 4775 4831	per obedientiam unius hominis, iusti constituentur multi
+R21	Parallel Arg1:T38 Arg2:T39	
+T40	ParallelArm 4833 4857	per illum ergo peccatum,
+T41	ParallelArm 4858 4880	per Christum iustitia.
+R22	Parallel Arg1:T40 Arg2:T41	
+T42	ParallelArm 4881 4924	omnes ergo peccatores ad hominem pertinent:
+T43	ParallelArm 4925 4955	omnes iusti ad filium hominis.
+R23	Parallel Arg1:T42 Arg2:T43	
+T44	ParallelArm 4976 4992	quia peccatores,
+T45	ParallelArm 4993 5003	quia impii
+T46	ParallelArm 5005 5017	quia iniqui,
+T47	ParallelArm 5018 5039	quia dei contemptores
+R24	Parallel Arg1:T44 Arg2:T45	
+R25	Parallel Arg1:T45 Arg2:T46	
+R26	Parallel Arg1:T46 Arg2:T47	
+T48	ParallelArm 5075 5100	amplectentes iniquitatem,
+T49	ParallelArm 5101 5125	odio habentes ueritatem,
+R27	Parallel Arg1:T48 Arg2:T49	
+T50	ParallelArm 5412 5425	cum asino tuo
+T51	ParallelArm 5442 5457	cum gallina tua
+R28	Parallel Arg1:T50 Arg2:T51	
+T52	ParallelArm 5920 5930	lactat nos
+T53	ParallelArm 5932 5943	nutrit nos,
+T54	ParallelArm 5944 5957	confirmat nos
+R29	Parallel Arg1:T52 Arg2:T53	
+R30	Parallel Arg1:T53 Arg2:T54	
+T55	ParallelArm 6227 6239	in uia fames
+T56	ParallelArm 6241 6259	in patria satietas
+R31	Parallel Arg1:T55 Arg2:T56	
+T57	ParallelArm 6335 6352	gloria dei nostri
+T58	ParallelArm 6354 6375	gloria Christi nostri
+R32	Parallel Arg1:T57 Arg2:T58	
+T59	ParallelArm 6570 6587	amor cantat modo,
+T60	ParallelArm 6588 6610	amor cantabit et tunc:
+R33	Parallel Arg1:T59 Arg2:T60	
+T61	ParallelArm 6615 6641	modo cantat amor esuriens,
+T62	ParallelArm 6642 6668	tunc cantabit amor fruens.
+R34	Parallel Arg1:T61 Arg2:T62	
+T63	ParallelArm 6758 6784	et in audiendo delectamini
+T64	ParallelArm 6786 6814	et in delectatione laudatis.
+R35	Parallel Arg1:T63 Arg2:T64	
+T65	ParallelArm 6818 6835	rorem sic amatis,
+T66	ParallelArm 6836 6866	fontem ipsum quomodo amabitis?
+R36	Parallel Arg1:T65 Arg2:T66	
+T67	ParallelArm 6867 6908	quod est enim stomacho ructanti ructatio,
+T68	ParallelArm 6909 6941	hoc est cordi saginato laudatio.
+R37	Parallel Arg1:T67 Arg2:T68	
+T69	ParallelArm 6942 6973	si enim laudamus quod credimus,
+T70	ParallelArm 6974 7007	quomodo laudabimus cum uiderimus?
+R38	Parallel Arg1:T69 Arg2:T70	
+T71	ParallelArm 7110 7141	una pertinens ad delectationem,
+T72	ParallelArm 7142 7175	altera pertinens ad necessitatem.
+R39	Parallel Arg1:T71 Arg2:T72	
+T73	ParallelArm 7176 7212	quae ad necessitatem, laboriosa est:
+T74	ParallelArm 7213 7250	quae ad delectationem, uoluptuosa est
+R40	Parallel Arg1:T73 Arg2:T74	
+T75	ParallelArm 7380 7405	dominum uidebat in carne,
+T76	ParallelArm 7409 7437	dominum audiebat per carnem,
+R41	Parallel Arg1:T75 Arg2:T76	
+T77	ChiasmA 8109 8143	unum enim extendit, non distendit.
+T78	ChiasmB 8144 8175	multa distendunt, unum extendit
+R42	Chiasm Arg1:T77 Arg2:T78	
+T79	ParallelArm 9346 9362	aut quia habemus
+T80	ParallelArm 9364 9380	aut ut habeamus?
+R43	Parallel Arg1:T79 Arg2:T80	
+T81	ParallelArm 9699 9717	ubi non manducabo,
+T82	ParallelArm 9718 9732	ubi non bibam,
+T83	ParallelArm 9733 9763	ubi cum uxore mea non dormiam?
+R44	Parallel Arg1:T81 Arg2:T82	
+R45	Parallel Arg1:T82 Arg2:T83	
+T84	ParallelArm 10057 10073	alicuius fontis,
+T85	ParallelArm 10078 10091	alicuius pomi
+R46	Parallel Arg1:T84 Arg2:T85	
+T86	ParallelArm 10180 10194	uenit sanitas,
+T87	ParallelArm 10198 10214	perit cupiditas.
+R47	Parallel Arg1:T86 Arg2:T87	
+T88	ParallelArm 10630 10670	corruptibile hoc induere incorruptionem,
+T89	ParallelArm 10674 10709	mortale hoc induere immortalitatem.
+R48	Parallel Arg1:T88 Arg2:T89	
+T90	ParallelArm 10946 10970	habent magnas facultates
+T91	ParallelArm 10976 11001	habent magnas facilitates
+R49	Parallel Arg1:T90 Arg2:T91	
+T92	ParallelArm 11037 11047	magnus est
+T93	ParallelArm 11049 11061	dominus est,
+T94	ParallelArm 11062 11072	diues est,
+T95	ParallelArm 11073 11084	potens est.
+R50	Parallel Arg1:T92 Arg2:T93	
+R51	Parallel Arg1:T93 Arg2:T94	
+R52	Parallel Arg1:T94 Arg2:T95	
+T96	ParallelArm 11117 11132	iumenta adsunt,
+T97	ParallelArm 11133 11147	sumptus adsunt
+T98	ParallelArm 11149 11162	serui adsunt,
+T99	ParallelArm 11163 11181	ministeria adsunt.
+R53	Parallel Arg1:T96 Arg2:T97	
+R54	Parallel Arg1:T97 Arg2:T98	
+R55	Parallel Arg1:T98 Arg2:T99	
+T100	ParallelArm 11272 11289	nec dicit, iunge;
+T101	ParallelArm 11290 11308	nec dicit, sterne;
+R56	Parallel Arg1:T100 Arg2:T101	
+T102	ParallelArm 11605 11633	pro magno cibum hic quaeris:
+T103	ParallelArm 11656 11684	amplexum carnis hic quaeris:
+T104	ParallelArm 11722 11743	diuitias hic quaeris:
+R57	Parallel Arg1:T102 Arg2:T103	
+R58	Parallel Arg1:T103 Arg2:T104	

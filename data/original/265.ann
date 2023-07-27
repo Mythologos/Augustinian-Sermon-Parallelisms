@@ -1,0 +1,182 @@
+T1	ParallelArm 31 50	admonemus scientes,
+T2	ParallelArm 51 73	instruimus negligentes
+R1	Parallel Arg1:T1 Arg2:T2	
+T3	ParallelArm 160 175	posito corpore,
+T4	ParallelArm 179 195	recepto corpore,
+R2	Parallel Arg1:T3 Arg2:T4	
+T5	ParallelArm 229 261	exhibuit se discipulis uiuentem,
+T6	ParallelArm 262 291	quem desperauerant morientem.
+R3	Parallel Arg1:T5 Arg2:T6	
+T7	ParallelArm 315 332	oculis intuendum,
+T8	ParallelArm 333 355	manibus contrectandum,
+R4	Parallel Arg1:T7 Arg2:T8	
+T9	ParallelArm 356 373	aedificans fidem,
+T10	ParallelArm 374 394	exhibendo ueritatem;
+R5	Parallel Arg1:T9 Arg2:T10	
+T11	ParallelArm 662 680	intrans et exiens,
+T12	ParallelArm 681 701	manducans et bibens:
+R6	Parallel Arg1:T11 Arg2:T12	
+T13	ParallelArm 705 725	exhiberet ueritatem,
+T14	ParallelArm 735 756	haberet necessitatem.
+R7	Parallel Arg1:T13 Arg2:T14	
+T15	ParallelArm 1270 1288	ad homines ueniet,
+T16	ParallelArm 1289 1301	homo ueniet;
+T17	ParallelArm 1306 1323	deus homo ueniet.
+R8	Parallel Arg1:T15 Arg2:T16	
+R9	Parallel Arg1:T16 Arg2:T17	
+T18	ParallelArm 1375 1395	ascendit iudex caeli
+T19	ParallelArm 1397 1416	sonuit praeco caeli
+R10	Parallel Arg1:T18 Arg2:T19	
+T20	ParallelArm 1418 1440	bonam causam habeamus,
+T21	ParallelArm 1444 1474	futurum iudicium non timeamus.
+R11	Parallel Arg1:T20 Arg2:T21	
+T22	ParallelArm 1769 1791	mortem Christi miremur
+T23	ParallelArm 1793 1842	resurrectionem uero laudemus potius quam miremur.
+R12	Parallel Arg1:T22 Arg2:T23	
+T25	ParallelArm 1878 1911	sanguis Christi, pretium nostrum.
+T26	ParallelArm 1912 1944	resurrectio Christi, spes nostra
+T27	ParallelArm 1946 1975	aduentus Christi, res nostra.
+T24	ParallelArm 1843 1877	perditio nostra, peccatum nostrum:
+R13	Parallel Arg1:T24 Arg2:T25	
+R14	Parallel Arg1:T25 Arg2:T26	
+R15	Parallel Arg1:T26 Arg2:T27	
+T28	ParallelArm 3307 3333	nonne praesentem uidebant?
+T29	ParallelArm 3334 3361	nonne praesentem audiebant?
+T30	ParallelArm 3362 3395	nonne praesentem etiam tangebant?
+R16	Parallel Arg1:T28 Arg2:T29	
+R17	Parallel Arg1:T29 Arg2:T30	
+T31	ParallelArm 3799 3830	dicturus quod utrique audirent,
+T32	ParallelArm 3831 3868	oblaturus quod non utrique acciperent
+T33	ParallelArm 3870 3915	comminaturus quod non utrique pertimescerent.
+R18	Parallel Arg1:T31 Arg2:T32	
+R19	Parallel Arg1:T32 Arg2:T33	
+T34	ParallelArm 4519 4534	terribilis uox,
+T35	ParallelArm 4535 4548	tremenda uox:
+R20	Parallel Arg1:T34 Arg2:T35	
+T36	ParallelArm 4614 4624	istis hoc,
+T37	ParallelArm 4625 4637	illis illud:
+R21	Parallel Arg1:T36 Arg2:T37	
+T38	ParallelArm 4638 4655	in utroque uerax,
+T39	ParallelArm 4661 4679	in utroque iustus.
+R22	Parallel Arg1:T38 Arg2:T39	
+T40	ParallelArm 4751 4775	quod audierunt teneamus;
+T41	ParallelArm 4779 4811	quod uenturum est, non timeamus.
+R23	Parallel Arg1:T40 Arg2:T41	
+T42	ParallelArm 5002 5023	quando regnum tuorum,
+T43	ParallelArm 5024 5047	quando regnum humilium,
+T44	ParallelArm 5048 5074	quamdiu typhus superborum?
+R24	Parallel Arg1:T42 Arg2:T43	
+R25	Parallel Arg1:T43 Arg2:T44	
+T45	ParallelArm 5081 5106	hoc est quod quaerebatis,
+T46	ParallelArm 5107 5141	hoc est quod audire desiderabatis.
+R26	Parallel Arg1:T45 Arg2:T46	
+T47	ParallelArm 5847 5867	curiositas abscedat,
+T48	ParallelArm 5868 5884	pietas succedat.
+R27	Parallel Arg1:T47 Arg2:T48	
+T49	ParallelArm 6020 6034	magistri boni,
+T50	ParallelArm 6035 6055	magistri singularis,
+T51	ParallelArm 6056 6071	magistri solius
+R28	Parallel Arg1:T49 Arg2:T50	
+R29	Parallel Arg1:T50 Arg2:T51	
+T52	ParallelArm 6073 6103	non dixit quod interrogauerunt
+T53	ParallelArm 6108 6138	dixit quod non interrogauerunt
+R30	Parallel Arg1:T52 Arg2:T53	
+T54	ParallelArm 6884 6904	ecclesia praedicatur
+T55	ParallelArm 6906 6927	ecclesia commendatur,
+R31	Parallel Arg1:T54 Arg2:T55	
+T56	ParallelArm 6928 6947	unitas annuntiatur,
+T57	ParallelArm 6948 6966	diuisio accusatur.
+R32	Parallel Arg1:T56 Arg2:T57	
+T58	ParallelArm 7012 7030	fidelibus dicitur,
+T59	ParallelArm 7031 7049	uasis dei dicitur,
+T60	ParallelArm 7050 7077	uasis misericordiae dicitur
+R33	Parallel Arg1:T58 Arg2:T59	
+R34	Parallel Arg1:T59 Arg2:T60	
+T61	ParallelArm 7191 7208	ecce quod audite,
+T62	ParallelArm 7209 7226	ecce quod tenete.
+R35	Parallel Arg1:T61 Arg2:T62	
+T63	ParallelArm 7227 7241	sponsa estote,
+T64	ParallelArm 7245 7271	sponsum securi exspectate.
+R36	Parallel Arg1:T63 Arg2:T64	
+T65	ParallelArm 7549 7579	tu ex una parte, ecce hic est:
+T66	ParallelArm 7580 7614	alius ex parte alia, ecce hic est.
+R37	Parallel Arg1:T65 Arg2:T66	
+T67	ParallelArm 7615 7636	dominum interrogemus,
+T68	ParallelArm 7637 7658	dominum interpellemus
+R38	Parallel Arg1:T67 Arg2:T68	
+T69	ChiasmA 7660 7675	sileant partes,
+T70	ChiasmB 7676 7691	totum audiamus.
+R39	Chiasm Arg1:T69 Arg2:T70	
+T71	ParallelArm 7698 7731	unus ex uno angulo, ecce hic est:
+T72	ParallelArm 7732 7776	alius ex alio angulo, non, sed ecce hic est.
+R40	Parallel Arg1:T71 Arg2:T72	
+T73	ParallelArm 7797 7818	assere quam redemisti
+T74	ParallelArm 7820 7843	ostende quam dilexisti.
+R41	Parallel Arg1:T73 Arg2:T74	
+T75	ParallelArm 7930 7942	dicit plane,
+T76	ParallelArm 7943 7958	ostendit plane:
+R42	Parallel Arg1:T75 Arg2:T76	
+T77	ParallelArm 7959 7983	non deserit inquirentes,
+T78	ParallelArm 7984 8004	non amat litigantes.
+R43	Parallel Arg1:T77 Arg2:T78	
+T79	ParallelArm 8031 8054	non quaerentibus dicit;
+T80	ParallelArm 8060 8087	contendentibus contradicit.
+R44	Parallel Arg1:T79 Arg2:T80	
+T81	ParallelArm 8263 8296	apostoli quaerunt tempus iudicii,
+T82	ParallelArm 8300 8334	dominus respondet locum ecclesiae.
+R45	Parallel Arg1:T81 Arg2:T82	
+T83	ParallelArm 8663 8689	sileat humana praesumptio,
+T84	ParallelArm 8690 8718	audiatur diuina praedicatio,
+T85	ParallelArm 8719 8743	teneatur uera promissio:
+R46	Parallel Arg1:T83 Arg2:T84	
+R47	Parallel Arg1:T84 Arg2:T85	
+T86	ParallelArm 9275 9317	quare enim non diuidant, quod non emerunt?
+T87	ParallelArm 9318 9368	quare non concidant, pro quo pretium non dederunt?
+R48	Parallel Arg1:T86 Arg2:T87	
+T88	ParallelArm 9451 9487	in illa ueste unitas commendata est,
+T89	ParallelArm 9488 9524	in illa ueste caritas praedicata est
+R49	Parallel Arg1:T88 Arg2:T89	
+T90	ParallelArm 9551 9574	de terra est cupiditas,
+T91	ParallelArm 9575 9591	desuper caritas.
+R50	Parallel Arg1:T90 Arg2:T91	
+T92	ParallelArm 9608 9636	testamentum scripsit dominus
+T93	ParallelArm 9638 9660	nouissima uerba posuit
+R51	Parallel Arg1:T92 Arg2:T93	
+T94	ParallelArm 9806 9845	una, qua surrexit a mortuis tertio die;
+T95	ParallelArm 9846 9907	alia, qua ascendit in caelum ante oculos discipulorum suorum.
+R52	Parallel Arg1:T94 Arg2:T95	
+T96	ParallelArm 11870 11893	duo sunt enim praecepta
+T97	ParallelArm 11898 11913	una est caritas
+R53	Parallel Arg1:T96 Arg2:T97	
+T98	ParallelArm 12082 12111	una caritas, et duo praecepta
+T99	ParallelArm 12113 12139	unus spiritus, et duo data
+R54	Parallel Arg1:T98 Arg2:T99	
+T100	ParallelArm 12141 12199	non enim alius datus est prius, et alius datus est postea:
+T101	ParallelArm 12205 12268	non alia caritas diligit proximum, quam illa quae diligit deum.
+R55	Parallel Arg1:T100 Arg2:T101	
+T102	ParallelArm 12897 12950	spiritum sanctum accipe in terra, et diligis fratrem:
+T103	ParallelArm 12951 12984	accipe de caelo, et diligis deum.
+R56	Parallel Arg1:T102 Arg2:T103	
+T104	ParallelArm 14129 14150	humilians uocem suam,
+T105	ParallelArm 14151 14171	extendens alas suas:
+R57	Parallel Arg1:T104 Arg2:T105	
+T106	ParallelArm 15086 15099	non hac uoce,
+T107	ParallelArm 15100 15120	non hac postulatione
+R58	Parallel Arg1:T106 Arg2:T107	
+T108	ParallelArm 15122 15138;15139 15188	ille enim dicit: domine, dic fratri meo diuidat mecum haereditatem
+T109	ParallelArm 15190 15202;15203 15252	nos dicimus: domine, dic fratri meo teneat mecum haereditatem.
+R59	Parallel Arg1:T108 Arg2:T109	
+T110	ParallelArm 15331 15384	glorificatus dominus resurgendo, commendat ecclesiam:
+T111	ParallelArm 15385 15431	glorificandus ascendendo, commendat ecclesiam:
+R60	Parallel Arg1:T110 Arg2:T111	
+T112	ParallelArm 15990 16021	hoc resurrectione glorificatus.
+T113	ParallelArm 16022 16052	quid ascensione glorificandus?
+R61	Parallel Arg1:T112 Arg2:T113	
+T114	ParallelArm 16389 16403	in hoc firmati
+T115	ParallelArm 16405 16421	in hoc roborati,
+T116	ParallelArm 16422 16455	in hoc inconcussa caritate defixi
+R62	Parallel Arg1:T114 Arg2:T115	
+R63	Parallel Arg1:T115 Arg2:T116	
+T117	ParallelArm 16457 16480	laudemus pueri dominum,
+T118	ParallelArm 16484 16501	dicamus alleluia.
+R64	Parallel Arg1:T117 Arg2:T118	

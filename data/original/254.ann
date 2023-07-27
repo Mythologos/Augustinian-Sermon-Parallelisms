@@ -1,0 +1,131 @@
+T1	ParallelArm 157 216	prius sit tempus maestitiae, posterius sit tempus laetitiae
+T2	ParallelArm 218 262	prius sit tempus laboris, posterius quietis;
+T3	ParallelArm 263 315	prius sit tempus calamitatis, posterius felicitatis.
+R1	Parallel Arg1:T1 Arg2:T2	
+R2	Parallel Arg1:T2 Arg2:T3	
+T4	ParallelArm 391 466	tempus enim maestitiae, laboris, miseriae, peccata nostra nobis pepererunt:
+T5	ParallelArm 467 567	tempus uero laetitiae, quietis, felicitatis non ueniet de meritis nostris, sed de gratia saluatoris.
+R3	Parallel Arg1:T4 Arg2:T5	
+T6	ParallelArm 522 541	de meritis nostris,
+T7	ParallelArm 546 566	de gratia saluatoris
+R4	Parallel Arg1:T6 Arg2:T7	
+T8	ParallelArm 568 582	aliud meremur,
+T9	ParallelArm 583 598	aliud speramus:
+R5	Parallel Arg1:T8 Arg2:T9	
+T10	ParallelArm 599 612	meremur mala,
+T11	ParallelArm 613 626	speramus bona
+R6	Parallel Arg1:T10 Arg2:T11	
+T12	ParallelArm 912 950	loco suo positum inmundam facit domum;
+T13	ParallelArm 951 989	loco suo positum fertilem facit agrum.
+R7	Parallel Arg1:T12 Arg2:T13	
+T14	ParallelArm 1858 1875	ad illum nitorem,
+T15	ParallelArm 1876 1910	ad illam speciem et pulchritudinem
+R8	Parallel Arg1:T14 Arg2:T15	
+T16	ParallelArm 3070 3080	sunt boni,
+T17	ParallelArm 3081 3091	sunt mali,
+R9	Parallel Arg1:T16 Arg2:T17	
+T18	ParallelArm 3103 3124	tamquam in uno coetu,
+T19	ParallelArm 3125 3147	tamquam in uno corpore
+R10	Parallel Arg1:T18 Arg2:T19	
+T20	ParallelArm 3212 3234	oportunus dat fructum,
+T21	ParallelArm 3235 3274	inoportunus autem locum facit inmundum.
+R11	Parallel Arg1:T20 Arg2:T21	
+T22	ParallelArm 3329 3342	stercus uideo
+T23	ParallelArm 3344 3356	locum quaero
+R12	Parallel Arg1:T22 Arg2:T23	
+T24	ParallelArm 3405 3420	locus inmundus,
+T25	ParallelArm 3421 3436	fructus nullus,
+R13	Parallel Arg1:T24 Arg2:T25	
+T26	ChiasmA 3498 3513	fructus nullus,
+T27	ChiasmB 3521 3537	magna pernicies.
+R14	Chiasm Arg1:T26 Arg2:T27	
+T28	ParallelArm 3979 3989	iam plorat
+T29	ParallelArm 3991 4001	iam rogat,
+T30	ParallelArm 4002 4010	iam orat
+R15	Parallel Arg1:T28 Arg2:T29	
+R16	Parallel Arg1:T29 Arg2:T30	
+T31	ParallelArm 4012 4027	locus inmundus,
+T32	ParallelArm 4028 4043	fructus nullus.
+R17	Parallel Arg1:T31 Arg2:T32	
+T33	ParallelArm 4226 4241	stercus agnosco
+T34	ParallelArm 4243 4256	locum quaero.
+R18	Parallel Arg1:T33 Arg2:T34	
+T35	ParallelArm 4396 4410	agnosco agrum,
+T36	ParallelArm 4411 4427	expecto fructum.
+R19	Parallel Arg1:T35 Arg2:T36	
+T37	ParallelArm 4575 4600	abundantiam temptationum,
+T38	ParallelArm 4601 4625	subreptiones peccatorum,
+R20	Parallel Arg1:T37 Arg2:T38	
+T39	ParallelArm 4626 4651	aduersitates cupiditatum,
+R21	Parallel Arg1:T38 Arg2:T39	
+T40	ParallelArm 4652 4675	rixas concupiscentiarum
+R22	Parallel Arg1:T39 Arg2:T40	
+T41	ParallelArm 4724 4737	hoc doleamus,
+T42	ParallelArm 4738 4757	hinc tristes simus.
+R23	Parallel Arg1:T41 Arg2:T42	
+T43	ParallelArm 4777 4793	miseriae nostrae
+T44	ParallelArm 4797 4811	gemitus nostri
+R24	Parallel Arg1:T43 Arg2:T44	
+T45	ParallelArm 5121 5153	unum ante domini resurrectionem,
+T46	ParallelArm 5154 5189	alterum post domini resurrectionem;
+R25	Parallel Arg1:T45 Arg2:T46	
+T47	ParallelArm 5190 5208	unum in quo sumus,
+T48	ParallelArm 5209 5249	alterum in quo nos futuros esse speramus
+R26	Parallel Arg1:T47 Arg2:T48	
+T49	ParallelArm 5251 5332	tempus maeroris, quod significant dies quadragesimae, et significamus et habemus;
+T50	ParallelArm 5333 5493	tempus autem laetitiae et quietis et regni, quod significant dies isti, significamus quidem per alleluia, sed nondum habemus laudes, sed nunc suspiras alleluia.
+R27	Parallel Arg1:T49 Arg2:T50	
+T51	ChiasmA 5769 5783	spinea corona,
+T52	ChiasmB 5784 5799	uinum fellitum,
+R28	Chiasm Arg1:T51 Arg2:T52	
+T53	ParallelArm 5946 5962	tempus maeroris,
+T54	ParallelArm 5963 5982	tempus mortalitatis
+T55	ParallelArm 5984 6004	tempus temptationis?
+R29	Parallel Arg1:T53 Arg2:T54	
+R30	Parallel Arg1:T54 Arg2:T55	
+T56	ParallelArm 6057 6064	in agro
+T57	ParallelArm 6070 6077	in domo
+R31	Parallel Arg1:T56 Arg2:T57	
+T58	ParallelArm 6135 6149	foedum tempus,
+T59	ParallelArm 6171 6186	fertile tempus.
+R32	Parallel Arg1:T58 Arg2:T59	
+T60	ParallelArm 6890 6909	promissorem tenemus
+T61	ParallelArm 6918 6937	debitorem exigamus?
+R33	Parallel Arg1:T60 Arg2:T61	
+T62	ParallelArm 7374 7397	nihil eram, et fecit me
+T63	ParallelArm 7399 7421	perieram, quaesiuit me
+R34	Parallel Arg1:T62 Arg2:T63	
+T64	ParallelArm 7444 7464	captiuum redemit me;
+T65	ParallelArm 7465 7485	emptum liberauit me;
+R35	Parallel Arg1:T64 Arg2:T65	
+T66	ParallelArm 7818 7839	retribuere cogitabas,
+T67	ParallelArm 7846 7864	accipere quaerebas
+R36	Parallel Arg1:T66 Arg2:T67	
+T68	ParallelArm 8491 8513	fingat quicquid potest
+T69	ParallelArm 8515 8539	mentitur quicquid potest
+R37	Parallel Arg1:T68 Arg2:T69	
+T70	ParallelArm 9226 9264	ideo enim ille uerax, quia non de suo.
+T71	ParallelArm 9265 9301	ideo omnis homo mendax, quia de suo.
+R38	Parallel Arg1:T70 Arg2:T71	
+T72	ParallelArm 9538 9552	laudemus deum.
+T73	ParallelArm 9553 9570	dicamus alleluia.
+R39	Parallel Arg1:T72 Arg2:T73	
+T74	ParallelArm 9571 9611	significemus istis diebus diem sine fine
+T75	ParallelArm 9613 9666	significemus loco mortalitatis tempus immortalitatis.
+R40	Parallel Arg1:T74 Arg2:T75	
+T76	ParallelArm 9765 9775	lex dicit,
+T77	ParallelArm 9776 9792	scriptura dicit,
+T78	ParallelArm 9793 9806	ueritas dicit
+R41	Parallel Arg1:T76 Arg2:T77	
+R42	Parallel Arg1:T77 Arg2:T78	
+T79	ParallelArm 9988 10016	nec quod uidebimus deficiet,
+T80	ParallelArm 10017 10042	nec quod amabimus periet,
+T81	ParallelArm 10043 10070	nec quod laudabimus tacebit
+R43	Parallel Arg1:T79 Arg2:T80	
+R44	Parallel Arg1:T80 Arg2:T81	
+T82	ParallelArm 10112 10144	laudemus, sed non solis uocibus,
+T83	ParallelArm 10145 10165	laudemus et moribus.
+R45	Parallel Arg1:T82 Arg2:T83	
+T84	ParallelArm 10166 10179	laudet lingua
+T85	ParallelArm 10181 10193	laudet uita,
+R46	Parallel Arg1:T84 Arg2:T85	

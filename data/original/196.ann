@@ -1,0 +1,110 @@
+T1	ParallelArm 211 222	una diuina,
+T2	ParallelArm 223 236	altera humana
+R1	Parallel Arg1:T1 Arg2:T2	
+T3	ParallelArm 255 278	illa sine femina matre,
+T4	ParallelArm 279 300	ista sine uiro patre.
+R2	Parallel Arg1:T3 Arg2:T4	
+T5	ParallelArm 407 442	quis digne enarret generantem deum?
+T6	ParallelArm 443 478	quis digne enarret uirginis partum?
+R3	Parallel Arg1:T5 Arg2:T6	
+T7	ParallelArm 479 494	illud sine die,
+T8	ParallelArm 495 508	hoc certo die
+R4	Parallel Arg1:T7 Arg2:T8	
+T9	ParallelArm 519 544	sine humana aestimatione,
+T10	ParallelArm 548 569	cum magna admiratione
+R5	Parallel Arg1:T9 Arg2:T10	
+T11	ParallelArm 681 694;695 708	cuius uerbum? ipsius patris
+T12	ParallelArm 710 722;723 735	quod uerbum? ipse filius.
+R6	Parallel Arg1:T11 Arg2:T12	
+T13	ParallelArm 877 892	et tamen filius
+T14	ParallelArm 894 911	et tamen genitus.
+R7	Parallel Arg1:T13 Arg2:T14	
+T15	ParallelArm 1295 1329	si forte uel ipsam capere possimus
+T16	ParallelArm 1331 1375	si forte uel de ipsa aliquid loqui ualeamus.
+R8	Parallel Arg1:T15 Arg2:T16	
+T17	ParallelArm 1470 1485	quis hoc capiat
+T18	ParallelArm 1487 1510	quis hoc digne cogitet?
+R9	Parallel Arg1:T17 Arg2:T18	
+T19	ParallelArm 1511 1544	cuius mens hoc audeat perscrutari
+T20	ParallelArm 1546 1578	cuius lingua audeat pronuntiare?
+T21	ParallelArm 1579 1609	cuius ualeat cogitatio capere?
+R10	Parallel Arg1:T19 Arg2:T20	
+R11	Parallel Arg1:T20 Arg2:T21	
+T22	ParallelArm 1836 1852	angelus nuntiat,
+T23	ParallelArm 1853 1864	uirgo audit
+R12	Parallel Arg1:T22 Arg2:T23	
+T24	ParallelArm 1887 1901	fides in mente
+T25	ParallelArm 1903 1922	Christus in uentre.
+R13	Parallel Arg1:T24 Arg2:T25	
+T26	ParallelArm 1923 1947	uirgo concepit, miramini
+T27	ParallelArm 1949 1977	uirgo peperit, plus miramini
+R14	Parallel Arg1:T26 Arg2:T27	
+T28	ParallelArm 2536 2551	ille exsultauit
+T29	ParallelArm 2553 2569	illa prophetauit
+R15	Parallel Arg1:T28 Arg2:T29	
+T30	ParallelArm 2879 2892	uidit paruum,
+T31	ParallelArm 2893 2908	agnouit magnum.
+R16	Parallel Arg1:T30 Arg2:T31	
+T32	ParallelArm 2941 2964	in ista uitam uidualem.
+T33	ParallelArm 2965 2986	in Maria, uirginalem.
+R17	Parallel Arg1:T32 Arg2:T33	
+T34	ParallelArm 3385 3434	si pudicitiam coniugalem quaeris; habes Susannam:
+T35	ParallelArm 3435 3460	si uidualem; habes Annam:
+T36	ParallelArm 3461 3489	si uirginalem; habes Mariam.
+R18	Parallel Arg1:T34 Arg2:T35	
+R19	Parallel Arg1:T35 Arg2:T36	
+T37	ParallelArm 3696 3718	de te implentur angeli
+T38	ParallelArm 3720 3735	de te satiantur
+R20	Parallel Arg1:T37 Arg2:T38	
+T39	ParallelArm 3756 3769	de te uiuunt,
+T40	ParallelArm 3770 3783	de te sapiunt
+T41	ParallelArm 3785 3801	de te beati sunt
+R21	Parallel Arg1:T39 Arg2:T40	
+R22	Parallel Arg1:T40 Arg2:T41	
+T42	ParallelArm 3822 3844	in diuersorio angusto,
+T43	ParallelArm 3845 3854	in pannis
+T44	ParallelArm 3856 3868	in praesepio
+R23	Parallel Arg1:T42 Arg2:T43	
+R24	Parallel Arg1:T43 Arg2:T44	
+T45	ParallelArm 3888 3901	regit sidera,
+T46	ParallelArm 3902 3914	sugit ubera:
+R25	Parallel Arg1:T45 Arg2:T46	
+T47	ParallelArm 3931 3952	fatur in sinu patris,
+T48	ParallelArm 3953 3974	tacet in sinu matris.
+R26	Parallel Arg1:T47 Arg2:T48	
+T49	ParallelArm 4041 4062	propter nos passurus,
+T50	ParallelArm 4063 4085	propter nos moriturus,
+R27	Parallel Arg1:T49 Arg2:T50	
+T51	ParallelArm 4086 4127	ad exemplum praemii nostri resurrecturus,
+T52	ParallelArm 4128 4174	ante oculos discipulorum in caelum ascensurus,
+T53	ParallelArm 4175 4205	ad iudicium de caelo uenturus.
+R28	Parallel Arg1:T51 Arg2:T52	
+R29	Parallel Arg1:T52 Arg2:T53	
+T54	ParallelArm 4272 4293	accepit quod non erat
+T55	ParallelArm 4299 4315	mansit quod erat
+R30	Parallel Arg1:T54 Arg2:T55	
+T56	ParallelArm 4651 4670	per lusum iniquitas
+T57	ParallelArm 4672 4693	per iocum improbitas.
+R31	Parallel Arg1:T56 Arg2:T57	
+T58	ParallelArm 4694 4727	non sibi faciant homines iudices,
+T59	ParallelArm 4728 4761	ne ueniant in manus ueri iudicis.
+R32	Parallel Arg1:T58 Arg2:T59	
+T60	ParallelArm 4770 4786	christiani estis
+T61	ParallelArm 4788 4809	membra Christi estis.
+R33	Parallel Arg1:T60 Arg2:T61	
+T62	ParallelArm 4810 4830	cogitate quid estis,
+T63	ParallelArm 4831 4859	cogitate quanti empti estis.
+R34	Parallel Arg1:T62 Arg2:T63	
+T64	ParallelArm 5547 5584	si ante praemoneremur, non faceremus.
+T65	ParallelArm 5585 5632	ipsi praemonuissent presbyteri, non fecissemus.
+R35	Parallel Arg1:T64 Arg2:T65	
+T66	ParallelArm 5686 5711	audiatur episcopus iubens
+T67	ParallelArm 5713 5738	audiatur episcopus monens
+T68	ParallelArm 5740 5765	audiatur episcopus rogans
+T69	ParallelArm 5767 5794	audiatur episcopus adiurans
+R36	Parallel Arg1:T66 Arg2:T67	
+R37	Parallel Arg1:T67 Arg2:T68	
+R38	Parallel Arg1:T68 Arg2:T69	
+T70	ParallelArm 5896 5910	monens audiar,
+T71	ParallelArm 5916 5932	tristis sentiar.
+R39	Parallel Arg1:T70 Arg2:T71	

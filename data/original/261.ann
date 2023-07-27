@@ -1,0 +1,163 @@
+T1	ParallelArm 8 40	resurrectio domini, spes nostra:
+T2	ParallelArm 41 78	ascensio domini, glorificatio nostra.
+R1	Parallel Arg1:T1 Arg2:T2	
+T3	ParallelArm 124 138	si ergo recte,
+T4	ParallelArm 139 152	si fideliter,
+T5	ParallelArm 153 163	si deuote,
+T6	ParallelArm 164 174	si sancte,
+T7	ParallelArm 175 181	si pie
+R2	Parallel Arg1:T3 Arg2:T4	
+R3	Parallel Arg1:T4 Arg2:T5	
+R4	Parallel Arg1:T5 Arg2:T6	
+R5	Parallel Arg1:T6 Arg2:T7	
+T8	ParallelArm 340 389	sursum enim cor non ad dominum, superbia uocatur:
+T9	ParallelArm 390 436	sursum autem cor ad dominum, refugium uocatur.
+R6	Parallel Arg1:T8 Arg2:T9	
+T10	ParallelArm 772 797	descendit, ut sanaret te:
+T11	ParallelArm 798 822	ascendit, ut leuaret te.
+R7	Parallel Arg1:T10 Arg2:T11	
+T12	ParallelArm 823 846	cades, si leuaueris te:
+T13	ParallelArm 847 870	manes, si leuauerit te.
+R8	Parallel Arg1:T12 Arg2:T13	
+T14	ParallelArm 871 917	sursum ergo cor, sed ad dominum, refugium est:
+T15	ParallelArm 918 963	sursum cor, sed non ad dominum, superbia est.
+R9	Parallel Arg1:T14 Arg2:T15	
+T16	ParallelArm 1441 1456	initium habebit
+T17	ParallelArm 1458 1476	finem non habebit.
+R10	Parallel Arg1:T16 Arg2:T17	
+T18	ParallelArm 1802 1817	simul audiamus,
+T19	ParallelArm 1818 1832	simul discamus
+R11	Parallel Arg1:T18 Arg2:T19	
+T20	ParallelArm 2461 2484	quomodo quaerit pietas,
+T21	ParallelArm 2485 2501	quomodo uanitas?
+R12	Parallel Arg1:T20 Arg2:T21	
+T22	ParallelArm 2502 2526	pietas quaerit credendo,
+T23	ParallelArm 2527 2545	uanitas litigando.
+R13	Parallel Arg1:T22 Arg2:T23	
+T24	ParallelArm 2592 2608	quem deum colis?
+T25	ParallelArm 2609 2627	qualem deum colis?
+R14	Parallel Arg1:T24 Arg2:T25	
+T26	ParallelArm 3950 3972	aut aliquod sidus est,
+T27	ParallelArm 3973 3990	aut aliqua stella
+R15	Parallel Arg1:T26 Arg2:T27	
+T28	ParallelArm 3992 4000	aut sol,
+T29	ParallelArm 4001 4010	aut luna:
+R16	Parallel Arg1:T28 Arg2:T29	
+T30	ParallelArm 4070 4097	est quo digitus extendatur,
+T31	ParallelArm 4102 4126	est quo mens extendatur.
+R17	Parallel Arg1:T30 Arg2:T31	
+T32	ParallelArm 4822 4837	conseruis meis,
+T33	ParallelArm 4838 4850	seruis suis.
+R18	Parallel Arg1:T32 Arg2:T33	
+T34	ParallelArm 5328 5349	fecit noua non nouus;
+T35	ParallelArm 5350 5379	fecit temporalia sempiternus;
+T36	ParallelArm 5380 5414	fecit mutabilia, qui nescit mutari
+R19	Parallel Arg1:T34 Arg2:T35	
+R20	Parallel Arg1:T35 Arg2:T36	
+T37	ChiasmA 5416 5430	facta inspice,
+T38	ChiasmB 5431 5446	lauda factorem:
+R21	Chiasm Arg1:T37 Arg2:T38	
+T39	ParallelArm 5484 5494	bonam rem,
+T40	ParallelArm 5495 5505	magnam rem
+R22	Parallel Arg1:T39 Arg2:T40	
+T41	ChiasmA 5677 5704	quod uis uidere mundum est,
+T42	ChiasmB 5705 5734	immundum est unde uis uidere.
+R23	Chiasm Arg1:T41 Arg2:T42	
+T43	ParallelArm 5885 5918	phantasmata sunt ista cordis tui,
+T44	ParallelArm 5919 5949	immunditia est ista cordis tui
+R24	Parallel Arg1:T43 Arg2:T44	
+T45	ParallelArm 6273 6287;6288 6311	tu mihi dicis: ostende mihi deum tuum.
+T46	ParallelArm 6312 6326;6327 6356	ego tibi dico: adtende paululum ad cor tuum.
+R25	Parallel Arg1:T45 Arg2:T46	
+T47	ParallelArm 6357 6389	ostende, inquis, mihi deum tuum.
+T48	ParallelArm 6390 6428	adtende, inquio, paululum ad cor tuum.
+R26	Parallel Arg1:T47 Arg2:T48	
+T49	ParallelArm 6862 6893	quid fecisti, quod deus iussit?
+T50	ParallelArm 6894 6933	quid non fecisti, quod auaritia iussit?
+R27	Parallel Arg1:T49 Arg2:T50	
+T51	ParallelArm 7077 7108	quod deus iussit, quid fecisti?
+T52	ParallelArm 7109 7147	quod auaritia iussit, quid distulisti?
+R28	Parallel Arg1:T51 Arg2:T52	
+T53	ParallelArm 7148 7189	iussit deus ut nudum uestires, tremuisti:
+T54	ParallelArm 7190 7241	iussit auaritia ut uestitum exspoliares, insanisti.
+R29	Parallel Arg1:T53 Arg2:T54	
+T55	ParallelArm 7566 7582	aut in cubiculo,
+T56	ParallelArm 7583 7597	aut in sacello
+T57	ParallelArm 7599 7611	aut in arca:
+R30	Parallel Arg1:T55 Arg2:T56	
+R31	Parallel Arg1:T56 Arg2:T57	
+T58	ParallelArm 7836 7856	implesti arcam tuam,
+T59	ParallelArm 7860 7887	fregisti conscientiam tuam.
+R32	Parallel Arg1:T58 Arg2:T59	
+T60	ParallelArm 7920 7933	dominus dedit
+T61	ParallelArm 7935 7952	dominus abstulit;
+R33	Parallel Arg1:T60 Arg2:T61	
+T62	ParallelArm 8591 8627	quae sunt tenebrae, nisi opera mala?
+T63	ParallelArm 8628 8671	quae sunt tenebrae, nisi cupiditates malae,
+R34	Parallel Arg1:T62 Arg2:T63	
+T64	ParallelArm 9074 9095	ubi maneas, deus est:
+T65	ParallelArm 9096 9114	qua eas, homo est.
+R35	Parallel Arg1:T64 Arg2:T65	
+T66	ParallelArm 9135 9146	et qua eas,
+T67	ParallelArm 9147 9158	et quo eas.
+R36	Parallel Arg1:T66 Arg2:T67	
+T68	ParallelArm 9215 9238	assumpsit quod non erat
+T69	ParallelArm 9240 9261	non amisit quod erat.
+R37	Parallel Arg1:T68 Arg2:T69	
+T70	ParallelArm 9262 9276	apparebat homo
+T71	ParallelArm 9281 9294	latebat deus.
+R38	Parallel Arg1:T70 Arg2:T71	
+T72	ParallelArm 9295 9334	occisus est homo, et offensus est deus:
+T73	ParallelArm 9339 9377	resurrexit homo, et inuentus est deus.
+R39	Parallel Arg1:T72 Arg2:T73	
+T74	ParallelArm 9390 9411	quanta fecit ut deus,
+T75	ParallelArm 9412 9438	quanta passus est ut homo.
+R40	Parallel Arg1:T74 Arg2:T75	
+T76	ParallelArm 9813 9849	aliquid dicit, quod ad deum pertinet
+T77	ParallelArm 9851 9890	aliquid dicit, quod ad animam pertinet;
+T78	ParallelArm 9891 9930	aliquid dicit, quod ad carnem pertinet:
+R41	Parallel Arg1:T76 Arg2:T77	
+R42	Parallel Arg1:T77 Arg2:T78	
+T79	ParallelArm 9979 10015	sicut pater habet uitam in semetipso
+T80	ParallelArm 10017 10059	sic dedit filio habere uitam in semetipso.
+R43	Parallel Arg1:T79 Arg2:T80	
+T81	ParallelArm 10147 10188	quid dicit Christus secundum animam suam?
+T82	ParallelArm 10228 10264	quid dicit Christus secundum carnem?
+R44	Parallel Arg1:T81 Arg2:T82	
+T83	ParallelArm 10522 10540	ex toto corde tuo,
+T84	ParallelArm 10541 10559	ex tota anima tua,
+T85	ParallelArm 10560 10578	ex tota mente tua;
+R45	Parallel Arg1:T83 Arg2:T84	
+R46	Parallel Arg1:T84 Arg2:T85	
+T86	ParallelArm 11484 11533	adtendere aliquid quod non debebas, peccatum est;
+T87	ParallelArm 11534 11596	audire aliquid libenter, quod audiendum non fuit, peccatum est
+T88	ParallelArm 11598 11655	cogitare aliquid, quod non fuit cogitandum, peccatum est.
+R47	Parallel Arg1:T86 Arg2:T87	
+R48	Parallel Arg1:T87 Arg2:T88	
+T89	ParallelArm 11750 11777	quotidiana nostra mundatio,
+T90	ParallelArm 11778 11794	dominica oratio.
+R49	Parallel Arg1:T89 Arg2:T90	
+T91	ParallelArm 12030 12040;12041 12074;12075 12111	non dicet: illa et illa magna fecistis, sed: esuriui, et dedistis mihi manducare.
+T92	ParallelArm 12134 12151;12152 12184;12185 12225	non est dicturus: illa et illa mala fecistis, sed: esuriui, et non dedistis mihi manducare.
+R50	Parallel Arg1:T92 Arg2:T91	
+T93	ParallelArm 12226 12265	illi pro eleemosyna, in uitam aeternam:
+T94	ParallelArm 12266 12311	illi propter sterilitatem, in ignem aeternum.
+R51	Parallel Arg1:T93 Arg2:T94	
+T95	ParallelArm 12400 12418	piger in remediis,
+T96	ParallelArm 12419 12436	creber in morbis?
+R52	Parallel Arg1:T95 Arg2:T96	
+T97	ParallelArm 12576 12605;12606 12623	quid minutius pluuiae guttis? flumina implentur
+T98	ParallelArm 12625 12654;12655 12672	quid minutius granis tritici? horrea implentur.
+R53	Parallel Arg1:T97 Arg2:T98	
+T99	ParallelArm 12676 12702	adtendis quia minora sunt,
+T100	ParallelArm 12710 12735	adtendis quia multa sunt.
+R54	Parallel Arg1:T99 Arg2:T100	
+T101	ParallelArm 12908 12932	captiuauit captiuitatem?
+T102	ParallelArm 12933 12948	occidit mortem.
+R55	Parallel Arg1:T101 Arg2:T102	
+T103	ParallelArm 12949 12974	captiuitas captiuata est:
+T104	ParallelArm 12975 12990	mors mortua est
+R56	Parallel Arg1:T103 Arg2:T104	
+T105	ParallelArm 13185 13206	aperi sinum pietatis,
+T106	ParallelArm 13207 13231	excipe donum felicitatis
+R57	Parallel Arg1:T105 Arg2:T106	

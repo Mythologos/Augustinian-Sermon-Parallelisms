@@ -1,0 +1,74 @@
+T1	ParallelArm 672 683	passus est,
+T2	ParallelArm 684 696	mortuus est,
+R1	Parallel Arg1:T1 Arg2:T2	
+T3	ParallelArm 1869 1885	alii admirantes,
+T4	ParallelArm 1886 1902	alii irridentes:
+R2	Parallel Arg1:T3 Arg2:T4	
+T5	ParallelArm 2137 2161	carnalitas uetustas est,
+T6	ParallelArm 2162 2181	gratia nouitas est.
+R3	Parallel Arg1:T5 Arg2:T6	
+T7	ParallelArm 3142 3167	in hominibus paucis erat,
+T8	ParallelArm 3168 3197	in linguis totius orbis erat.
+R4	Parallel Arg1:T7 Arg2:T8	
+T9	ParallelArm 3522 3537	audi promissum,
+T10	ParallelArm 3538 3553	uide completum.
+R5	Parallel Arg1:T9 Arg2:T10	
+T11	ParallelArm 3554 3580	non te fefellit deus tuus,
+T12	ParallelArm 3581 3610	non te fefellit sponsus tuus,
+T13	ParallelArm 3611 3655	non te fefellit qui suo sanguine te dotauit:
+R6	Parallel Arg1:T11 Arg2:T12	
+T14	ParallelArm 3656 3721	non te fefellit qui de foeda pulchram, de immunda uirginem fecit.
+R7	Parallel Arg1:T13 Arg2:T14	
+T15	ParallelArm 3747 3766	promissa in paucis,
+T16	ParallelArm 3767 3784	impleta in multis
+R8	Parallel Arg1:T15 Arg2:T16	
+T17	ParallelArm 3936 3988	spiritus noster quo uiuit omnis homo, anima uocatur;
+T18	ParallelArm 3989 4052	spiritus noster quo uiuit singulus quisque homo, anima uocatur:
+R9	Parallel Arg1:T17 Arg2:T18	
+T19	ParallelArm 4116 4133	per oculos uidet,
+T20	ParallelArm 4134 4149	per aures audit
+T21	ParallelArm 4151 4169	per nares olfacit,
+T22	ParallelArm 4170 4191	per linguam loquitur,
+T23	ParallelArm 4192 4211	per manus operatur,
+T24	ParallelArm 4212 4230	per pedes ambulat:
+R10	Parallel Arg1:T19 Arg2:T20	
+R11	Parallel Arg1:T20 Arg2:T21	
+R12	Parallel Arg1:T21 Arg2:T22	
+R13	Parallel Arg1:T22 Arg2:T23	
+R14	Parallel Arg1:T23 Arg2:T24	
+T25	ParallelArm 4308 4324	non audit oculus
+T26	ParallelArm 4326 4342	non uidet auris,
+T27	ParallelArm 4343 4360	non uidet lingua,
+R15	Parallel Arg1:T25 Arg2:T26	
+R16	Parallel Arg1:T26 Arg2:T27	
+T28	ParallelArm 4408 4419	uiuit auris
+T29	ParallelArm 4420 4433	uiuit lingua;
+R17	Parallel Arg1:T28 Arg2:T29	
+T30	ParallelArm 4434 4455	officia diuersa sunt,
+T31	ParallelArm 4456 4469	uita communis
+R18	Parallel Arg1:T30 Arg2:T31	
+T32	ParallelArm 4493 4525	in aliis sanctis facit miracula,
+T33	ParallelArm 4526 4562	in aliis sanctis loquitur ueritatem,
+T34	ParallelArm 4563 4602	in aliis sanctis custodit uirginitatem,
+T35	ParallelArm 4603 4651	in aliis sanctis custodit pudicitiam coniugalem,
+R19	Parallel Arg1:T32 Arg2:T33	
+R20	Parallel Arg1:T34 Arg2:T35	
+T36	ParallelArm 4652 4665	in aliis hoc,
+T37	ParallelArm 4666 4681	in aliis illud:
+R21	Parallel Arg1:T36 Arg2:T37	
+T38	ParallelArm 4729 4766	quod autem est anima corpori hominis,
+T39	ParallelArm 4767 4808	hoc est spiritus sanctus corpori Christi,
+R22	Parallel Arg1:T38 Arg2:T39	
+T40	ParallelArm 4828 4870	hoc agit spiritus sanctus in tota ecclesia
+T41	ParallelArm 4872 4922	quod agit anima in omnibus membris unius corporis.
+R23	Parallel Arg1:T40 Arg2:T41	
+T42	ParallelArm 4927 4948	uidete quid caueatis,
+T43	ParallelArm 4949 4972	uidete quid obseruetis,
+T44	ParallelArm 4973 4994	uidete quid timeatis.
+R24	Parallel Arg1:T42 Arg2:T43	
+R25	Parallel Arg1:T43 Arg2:T44	
+T45	ParallelArm 5359 5376	tenete caritatem,
+T46	ParallelArm 5377 5393	amate ueritatem,
+T47	ParallelArm 5394 5414	desiderate unitatem,
+R26	Parallel Arg1:T45 Arg2:T46	
+R27	Parallel Arg1:T46 Arg2:T47	

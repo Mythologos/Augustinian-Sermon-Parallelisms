@@ -1,0 +1,230 @@
+T1	ParallelArm 586 606	et qui inuocant deum
+T2	ParallelArm 607 631	et qui blasphemant deum;
+R1	Parallel Arg1:T1 Arg2:T2	
+T3	ParallelArm 1000 1014	modo speramus,
+T4	ParallelArm 1020 1037	postea accipiamus
+R2	Parallel Arg1:T3 Arg2:T4	
+T5	ParallelArm 1816 1865	quomodo autem inuocabunt, in quem non crediderunt
+T6	ParallelArm 1871 1907	quomodo credunt, quem non audierunt?
+R3	Parallel Arg1:T5 Arg2:T6	
+T7	ParallelArm 1908 1947	quomodo autem audient sine praedicante?
+T8	ParallelArm 1952 1991	quomodo praedicabunt, si non mittantur?
+R4	Parallel Arg1:T6 Arg2:T7	
+R5	Parallel Arg1:T7 Arg2:T8	
+T9	ParallelArm 2032 2054	euangelizantium pacem,
+T10	ParallelArm 2055 2075	euangelizantium bona
+R6	Parallel Arg1:T9 Arg2:T10	
+T11	ParallelArm 2077 2126	nemo ergo potest saluus esse, qui non inuocauerit
+T12	ParallelArm 2128 2172	nemo potest inuocare, nisi primo crediderit.
+R7	Parallel Arg1:T11 Arg2:T12	
+T13	ParallelArm 2201 2216	prius credatis,
+T14	ParallelArm 2217 2234	postea inuocetis,
+R8	Parallel Arg1:T13 Arg2:T14	
+T15	ParallelArm 2235 2283	hodie accipitis symbolum fidei, in quo credatis;
+T16	ParallelArm 2284 2333	post octo autem dies orationem, in qua inuocetis.
+R9	Parallel Arg1:T15 Arg2:T16	
+T17	ChiasmA 2732 2747	non est multum,
+T18	ChiasmB 2751 2762	multum est;
+R10	Chiasm Arg1:T17 Arg2:T18	
+T19	ParallelArm 2889 2898	deus est,
+T20	ParallelArm 2902 2912	pater est:
+R11	Parallel Arg1:T19 Arg2:T20	
+T21	ParallelArm 2913 2928	deus potestate,
+T22	ParallelArm 2929 2944	pater bonitate.
+R12	Parallel Arg1:T21 Arg2:T22	
+T23	ParallelArm 3692 3736	omnipotens est ad facienda maiora et minora,
+T24	ParallelArm 3737 3778	omnipotens est ad caelestia et terrestria
+T25	ParallelArm 3780 3830	omnipotens est ad facienda inmortalia et mortalia,
+T26	ParallelArm 3831 3883	omnipotens est ad facienda spiritalia et corporalia,
+T27	ParallelArm 3884 3936	omnipotens est ad facienda uisibilia et inuisibilia,
+T28	ParallelArm 3937 3954	magnus in magnis,
+T29	ParallelArm 3959 3977	paruus in minimis;
+T30	ParallelArm 3978 4041	postremo omnipotens est ad facienda omnia quae facere uoluerit.
+R13	Parallel Arg1:T23 Arg2:T24	
+R14	Parallel Arg1:T24 Arg2:T25	
+R15	Parallel Arg1:T25 Arg2:T26	
+R16	Parallel Arg1:T26 Arg2:T27	
+R17	Parallel Arg1:T27 Arg2:T30	
+R18	Parallel Arg1:T28 Arg2:T29	
+T31	ParallelArm 4074 4089	non potest mori
+T32	ParallelArm 4091 4110	non potest peccare,
+T33	ParallelArm 4111 4129	non potest mentiri
+T34	ParallelArm 4131 4148	non potest falli;
+R19	Parallel Arg1:T31 Arg2:T32	
+R20	Parallel Arg1:T32 Arg2:T33	
+R21	Parallel Arg1:T33 Arg2:T34	
+T35	ParallelArm 4242 4275	corde enim creditur ad iustitiam,
+T36	ParallelArm 4276 4311	ore autem confessio fit ad salutem.
+R22	Parallel Arg1:T35 Arg2:T36	
+T37	ParallelArm 4607 4645	si filium unicum, ergo patri aequalem:
+T38	ParallelArm 4646 4705	si filium unicum, ergo eiusdem substantiae cuius est pater:
+T39	ParallelArm 4706 4764	si filium unicum, ergo eius omnipotentiae cuius est pater:
+T40	ParallelArm 4765 4805	si filium unicum, ergo patri coaeternum.
+R23	Parallel Arg1:T37 Arg2:T40	
+R24	Parallel Arg1:T38 Arg2:T39	
+T41	ParallelArm 4845 4862	propter nos quid?
+T42	ParallelArm 4863 4875	ad nos quid?
+R25	Parallel Arg1:T41 Arg2:T42	
+T43	ParallelArm 4810 4816	in se,
+T44	ParallelArm 4820 4828	apud se,
+T45	ParallelArm 4832 4844	apud patrem.
+R26	Parallel Arg1:T43 Arg2:T44	
+R27	Parallel Arg1:T44 Arg2:T45	
+T46	ParallelArm 5038 5056	fecundauit castam,
+T47	ParallelArm 5060 5078	seruauit intactam.
+R28	Parallel Arg1:T46 Arg2:T47	
+T48	ParallelArm 5163 5187	assumendo quod non erat,
+T49	ParallelArm 5188 5211	non perdendo quod erat.
+R29	Parallel Arg1:T48 Arg2:T49	
+T50	ParallelArm 5516 5581	et nobis unicus saluator, nemo enim praeter ipsum saluator noster
+T51	ParallelArm 5583 5650	et nobis unicus redemptor, nemo enim praeter ipsum redemptor noster
+R30	Parallel Arg1:T50 Arg2:T51	
+T52	ParallelArm 5652 5661	non auro,
+T53	ParallelArm 5662 5674	non argento,
+R31	Parallel Arg1:T52 Arg2:T53	
+T54	ParallelArm 5919 5963	filius dei unicus dominus noster crucifixus?
+T55	ParallelArm 5964 6006	filius dei unicus dominus noster sepultus?
+R32	Parallel Arg1:T54 Arg2:T55	
+T56	ParallelArm 6028 6048	deus non est mutatus
+T57	ParallelArm 6050 6071	deus non est occisus;
+R33	Parallel Arg1:T56 Arg2:T57	
+T58	ParallelArm 6395 6410	conscidisti me,
+T59	ParallelArm 6411 6425	dissipasti me,
+R34	Parallel Arg1:T58 Arg2:T59	
+T60	ParallelArm 6568 6580	dominus est,
+T61	ParallelArm 6581 6598	unicus patri est,
+T62	ParallelArm 6599 6619	saluator noster est,
+T63	ParallelArm 6620 6640	dominus gloriae est:
+R35	Parallel Arg1:T60 Arg2:T61	
+R36	Parallel Arg1:T61 Arg2:T62	
+R37	Parallel Arg1:T62 Arg2:T63	
+T64	ParallelArm 6881 6926;6927 6932;6933 6983	natus est de spiritu sancto et uirgine Maria. quis? Iesus Christus, unicus filius dei, dominus noster.
+T65	ParallelArm 6984 7013;7014 7019;7020 7070	sub Pontio Pilato crucifixus. quis? Iesus Christus, unicus dei filius, dominus noster.
+T66	ParallelArm 7071 7083;7084 7089;7090 7139	et sepultus. quis? Iesus Christus, unicus dei filius, dominus noster
+R38	Parallel Arg1:T66 Arg2:T65	
+R39	Parallel Arg1:T65 Arg2:T64	
+T67	ParallelArm 7383 7406	formam serui accipiens,
+T68	ParallelArm 7411 7430	formam dei amittens
+R40	Parallel Arg1:T67 Arg2:T68	
+T69	ParallelArm 7731 7753;7754 7775	in passione quid egit? docuit quid toleremus
+T70	ParallelArm 7777 7804;7805 7828	in resurrectione quid egit? ostendit quid speremus.
+R41	Parallel Arg1:T69 Arg2:T70	
+T71	ParallelArm 7829 7837	hic opus
+T72	ParallelArm 7839 7850	ibi merces:
+R42	Parallel Arg1:T71 Arg2:T72	
+T73	ParallelArm 7851 7868	opus in passione,
+T74	ParallelArm 7869 7893	merces in resurrectione.
+R43	Parallel Arg1:T73 Arg2:T74	
+T75	ParallelArm 8068 8106	dextera dei dicitur aeterna felicitas;
+T76	ParallelArm 8107 8203	dextera dei dicitur ineffabilis, inaestimabilis, inconprehensibilis beatitudo atque prosperitas.
+R44	Parallel Arg1:T75 Arg2:T76	
+T77	ParallelArm 8247 8257	ibi sedet?
+T78	ParallelArm 8258 8270	ibi habitat:
+R45	Parallel Arg1:T77 Arg2:T78	
+T79	ParallelArm 8685 8705	dicamus quod docuit,
+T80	ParallelArm 8706 8727	dicamus quod nouimus.
+R46	Parallel Arg1:T79 Arg2:T80	
+T81	ParallelArm 9032 9062	quando uenit quem desideramus,
+T82	ParallelArm 9063 9088	quando uenit quem amamus?
+R47	Parallel Arg1:T81 Arg2:T82	
+T83	ParallelArm 9873 9893	ipse pro nobis orat,
+T84	ParallelArm 9894 9920	ipse pro nobis interpellat
+R48	Parallel Arg1:T83 Arg2:T84	
+T85	ParallelArm 9922 9944	aduocatum eum habemus,
+T86	ParallelArm 9948 9964	iudicem timemus?
+R49	Parallel Arg1:T85 Arg2:T86	
+T87	ParallelArm 10321 10331	non pater,
+T88	ParallelArm 10332 10352	non spiritus sanctus
+R50	Parallel Arg1:T87 Arg2:T88	
+T89	ParallelArm 10486 10511	minorem esse quam filium,
+T90	ParallelArm 10516 10541	minorem esse quam patrem.
+R51	Parallel Arg1:T89 Arg2:T90	
+T91	ParallelArm 10584 10598	tota trinitas,
+T92	ParallelArm 10599 10609	unus deus:
+R52	Parallel Arg1:T91 Arg2:T92	
+T93	ParallelArm 10628 10641	nihil uarium,
+T94	ParallelArm 10642 10659	nihil defectiuum,
+T95	ParallelArm 10660 10684	nihil alteri contrarium;
+R53	Parallel Arg1:T93 Arg2:T94	
+R54	Parallel Arg1:T94 Arg2:T95	
+T96	ParallelArm 11027 11043	in hac ecclesia,
+T97	ParallelArm 11051 11068	in ista ciuitate,
+R55	Parallel Arg1:T96 Arg2:T97	
+T98	ParallelArm 11069 11098	quotquot sunt in ista regione
+T99	ParallelArm 11100 11132	quotquot sunt in ista prouincia,
+T100	ParallelArm 11133 11161	quotquot sunt et trans mare,
+T101	ParallelArm 11162 11197	quotquot sunt in toto orbe terrarum
+R56	Parallel Arg1:T98 Arg2:T99	
+R57	Parallel Arg1:T99 Arg2:T100	
+R58	Parallel Arg1:T100 Arg2:T101	
+T102	ChiasmA 11294 11312	mater nostra uera,
+T103	ChiasmB 11313 11339	uera illius sponsi coniunx
+R59	Chiasm Arg1:T102 Arg2:T103	
+T104	ParallelArm 11444 11462	meretricem inuenit
+T105	ParallelArm 11464 11479	uirginem fecit.
+R60	Parallel Arg1:T104 Arg2:T105	
+T106	ParallelArm 11665 11682	in paucis carnis,
+T107	ParallelArm 11683 11701	in omnibus cordis.
+R61	Parallel Arg1:T106 Arg2:T107	
+T108	ParallelArm 11968 11992	apostolum Paulum audite,
+T109	ParallelArm 11993 12014	amicum sponsi audite,
+R62	Parallel Arg1:T108 Arg2:T109	
+T110	ParallelArm 12634 12644	uirgo est,
+T111	ParallelArm 12645 12654	uirgo sit
+R63	Parallel Arg1:T110 Arg2:T111	
+T112	ParallelArm 12656 12674	caueat seductorem,
+T113	ParallelArm 12678 12699	inueniat corruptorem.
+R64	Parallel Arg1:T112 Arg2:T113	
+T114	ParallelArm 12881 12894	et uirgo est,
+T115	ParallelArm 12895 12904	et parit:
+R65	Parallel Arg1:T114 Arg2:T115	
+T116	ParallelArm 12944 13005	numquid non uirgo sancta Maria et peperit, et uirgo permansit
+T117	ParallelArm 13007 13046	sic et ecclesia et parit, et uirgo est;
+R66	Parallel Arg1:T116 Arg2:T117	
+T118	ChiasmA 13509 13537	diluemini baptismo salutari,
+T119	ChiasmB 13538 13574	lauacro regenerationis renouabimini;
+R67	Chiasm Arg1:T118 Arg2:T119	
+T120	ParallelArm 13976 14012	si crucem uides, attende et cruorem:
+T121	ParallelArm 14013 14054	si uides quod pendet, attende quod fudit.
+R68	Parallel Arg1:T120 Arg2:T121	
+T122	ParallelArm 14456 14487	peccasti multa, peccasti pauca:
+T123	ParallelArm 14488 14519	peccasti magna, peccasti parua;
+R69	Parallel Arg1:T122 Arg2:T123	
+T124	ParallelArm 15124 15142	nulla mors carnis,
+T125	ParallelArm 15143 15163	nullus dolor carnis,
+T126	ParallelArm 15164 15188	nullae angustiae carnis,
+T127	ParallelArm 15189 15217	nulla fames et sitis carnis,
+T128	ParallelArm 15218 15244	nullae afflictiones carnis
+T129	ParallelArm 15246 15281	nulla senectus et lassitudo carnis.
+R70	Parallel Arg1:T124 Arg2:T125	
+R71	Parallel Arg1:T125 Arg2:T126	
+R72	Parallel Arg1:T126 Arg2:T127	
+R73	Parallel Arg1:T127 Arg2:T128	
+R74	Parallel Arg1:T128 Arg2:T129	
+T130	ParallelArm 15323 15337	bona eius uide
+T131	ParallelArm 15339 15356	mala obliuiscere.
+R75	Parallel Arg1:T130 Arg2:T131	
+T132	ParallelArm 15731 15761	possidebimus, et possidebimur:
+T133	ParallelArm 15762 15786	tenebimus, et tenebimur.
+R76	Parallel Arg1:T132 Arg2:T133	
+T134	ParallelArm 15799 15819	colimus, et colimur;
+R77	Parallel Arg1:T133 Arg2:T134	
+T135	ParallelArm 15824 15840	colimus ut deum;
+T136	ParallelArm 15841 15857	colimur ut ager.
+R78	Parallel Arg1:T135 Arg2:T136	
+T137	ParallelArm 16052 16065	arare potest,
+T138	ParallelArm 16066 16080	fodere potest,
+T139	ParallelArm 16081 16097	plantare potest,
+T140	ParallelArm 16098 16133	rigare, si aquam inuenerit, potest:
+R79	Parallel Arg1:T137 Arg2:T138	
+R80	Parallel Arg1:T138 Arg2:T139	
+R81	Parallel Arg1:T139 Arg2:T140	
+T141	ParallelArm 16157 16173	incrementum dare
+T142	ParallelArm 16175 16190	germen educere,
+R82	Parallel Arg1:T141 Arg2:T142	
+T143	ParallelArm 16191 16216	in terram radicem figere,
+T144	ParallelArm 16217 16236	in auras promouere,
+R83	Parallel Arg1:T143 Arg2:T144	
+T145	ParallelArm 16257 16275	fructibus onerare,
+T146	ParallelArm 16276 16292	foliis honestare
+R84	Parallel Arg1:T145 Arg2:T146	

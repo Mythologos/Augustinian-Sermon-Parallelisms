@@ -1,0 +1,82 @@
+T1	ParallelArm 1220 1256	festucam in oculo fratris tui uides;
+T2	ParallelArm 1257 1292	trabem autem in oculo tuo non uides
+R1	Parallel Arg1:T1 Arg2:T2	
+T4	ParallelArm 1420 1454	si euellas et proicias nihil erit.
+T3	ParallelArm 1386 1419	festucam si nutrias, trabes erit;
+R2	Parallel Arg1:T3 Arg2:T4	
+T5	ParallelArm 1871 1928	in his autem carcerum tenebris possunt includi innocentes
+T6	ParallelArm 1930 1977	in talibus enim tenebris inclusi sunt martyres.
+R3	Parallel Arg1:T5 Arg2:T6	
+T7	ParallelArm 2350 2373	nullis catenis oneratus
+T8	ParallelArm 2375 2398	nullo carcere inclusus,
+R4	Parallel Arg1:T7 Arg2:T8	
+T9	ParallelArm 2498 2548	qui odit fratrem suum in tenebris est usque adhuc,
+T10	ParallelArm 2598 2632	qui odit fratrem suum homicida est
+R5	Parallel Arg1:T9 Arg2:T10	
+T11	ParallelArm 2820 2837	parcit deus tibi,
+T12	ParallelArm 2838 2852	parce tu tibi,
+R6	Parallel Arg1:T11 Arg2:T12	
+T13	ParallelArm 3126 3149	uis cum illo concordare
+T14	ParallelArm 3151 3165	uis ei dicere:
+R7	Parallel Arg1:T13 Arg2:T14	
+T15	ParallelArm 3208 3227	non uult ignoscere,
+T16	ParallelArm 3228 3254	non uult dimittere debitum
+R8	Parallel Arg1:T15 Arg2:T16	
+T17	ParallelArm 4291 4330	si non es dicturus, nihil es accepturus
+T18	ParallelArm 4332 4370	si autem dicturus, falsum es dicturus.
+R9	Parallel Arg1:T17 Arg2:T18	
+T19	ParallelArm 4617 4633	uera humilitate,
+T20	ParallelArm 4638 4653	ficta caritate,
+R10	Parallel Arg1:T19 Arg2:T20	
+T21	ParallelArm 5368 5379	de agro suo
+T22	ParallelArm 5389 5408	de cordibus uestris
+R11	Parallel Arg1:T21 Arg2:T22	
+T23	ParallelArm 5502 5546	non erubuerunt peccare et erubescunt rogare;
+T24	ParallelArm 5547 5603	non erubuerunt de iniquitate et erubescunt de humilitate
+R12	Parallel Arg1:T23 Arg2:T24	
+T25	ParallelArm 6066 6083	uiris et feminis,
+T26	ParallelArm 6084 6107	minoribus et maioribus,
+T27	ParallelArm 6108 6127	laicis et clericis,
+R13	Parallel Arg1:T25 Arg2:T26	
+R14	Parallel Arg1:T26 Arg2:T27	
+T28	ParallelArm 6147 6161	omnes audiamus
+T29	ParallelArm 6163 6178	omnes timeamus,
+R15	Parallel Arg1:T28 Arg2:T29	
+T30	ParallelArm 6213 6264	adhuc indutias uiuendi accepimus, non ideo morimur;
+T31	ParallelArm 6265 6306	adhuc enim uiuimus, nondum damnati sumus;
+R16	Parallel Arg1:T30 Arg2:T31	
+T32	ParallelArm 6658 6687	ambo tamen serui alieni sunt,
+T33	ParallelArm 6693 6729	ambo Christi sanguine redempti sunt,
+R17	Parallel Arg1:T32 Arg2:T33	
+T34	ParallelArm 6830 6848	iniuste litigando,
+T35	ParallelArm 6849 6866	iniuste caedendo,
+R18	Parallel Arg1:T34 Arg2:T35	
+T36	ParallelArm 6979 7008	ante oculos dei paeniteat eum
+T37	ParallelArm 7010 7042	ante oculos dei puniat cor suum,
+R19	Parallel Arg1:T36 Arg2:T37	
+T38	ParallelArm 7678 7692	meum est loqui
+T39	ParallelArm 7706 7737	uestrum autem tacere et audire,
+R20	Parallel Arg1:T38 Arg2:T39	
+T40	ParallelArm 7939 7953	nolo mentiaris
+T41	ParallelArm 7955 7966	nolo dicas:
+R21	Parallel Arg1:T40 Arg2:T41	
+T42	ParallelArm 8483 8506	paratus esto ignoscere,
+T43	ParallelArm 8515 8546	paratus esto e corde dimittere.
+R22	Parallel Arg1:T42 Arg2:T43	
+T44	ParallelArm 8968 8989	ieiuniorum uestrorum,
+T45	ParallelArm 8990 9013	obseruationum uestrarum
+T46	ParallelArm 9015 9035	continentiae uestrae
+R23	Parallel Arg1:T44 Arg2:T45	
+R24	Parallel Arg1:T45 Arg2:T46	
+T47	ParallelArm 9231 9252	securi agamus pascha,
+T48	ParallelArm 9253 9285	securi celebremus eius passionem
+R25	Parallel Arg1:T47 Arg2:T48	
+T49	ParallelArm 9974 9995	occidat inimicum tuum
+T50	ParallelArm 9999 10019	saluet fratrem tuum;
+R26	Parallel Arg1:T49 Arg2:T50	
+T51	ParallelArm 10020 10040	occidat inimicitiam,
+T52	ParallelArm 10041 10056	saluet naturam.
+R27	Parallel Arg1:T51 Arg2:T52	
+T53	ParallelArm 10086 10114	pereat qui te persequebatur,
+T54	ParallelArm 10119 10144	maneat qui tibi reddatur.
+R28	Parallel Arg1:T53 Arg2:T54	

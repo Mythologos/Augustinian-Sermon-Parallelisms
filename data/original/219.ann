@@ -1,0 +1,30 @@
+T1	ParallelArm 1490 1514	et qui uident in domino,
+T2	ParallelArm 1515 1537	et qui inuident domino
+R1	Parallel Arg1:T1 Arg2:T2	
+T3	ParallelArm 1563 1582	et mundus inimicus,
+T4	ParallelArm 1583 1607	et mundus reconciliatus.
+R2	Parallel Arg1:T3 Arg2:T4	
+T5	ParallelArm 1608 1650	uigilat iste, ut laudet medicum liberatus:
+T6	ParallelArm 1651 1699	uigilat ille, ut blasphemet iudicem condemnatus.
+R3	Parallel Arg1:T5 Arg2:T6	
+T7	ParallelArm 1700 1748	uigilat iste, mentibus piis feruens et lucescens
+T8	ParallelArm 1750 1799	uigilat ille, dentibus suis frendens et tabescens
+R4	Parallel Arg1:T7 Arg2:T8	
+T9	ParallelArm 1809 1823	istum caritas,
+T10	ParallelArm 1824 1839	illum iniquitas
+R5	Parallel Arg1:T9 Arg2:T10	
+T11	ParallelArm 1841 1864	istum christianus uigor
+T12	ParallelArm 1866 1888	illum diabolicus liuor
+R6	Parallel Arg1:T11 Arg2:T12	
+T13	ParallelArm 2165 2178	multi dolore,
+T14	ParallelArm 2179 2191	multi pudore
+R7	Parallel Arg1:T13 Arg2:T14	
+T15	ParallelArm 2324 2357	gaudendo uigilare Christi amicus,
+T16	ParallelArm 2368 2392	dolendo uigilat inimicus
+R8	Parallel Arg1:T15 Arg2:T16	
+T17	ParallelArm 2426 2458	inardescat uigilare christianus,
+T18	ParallelArm 2466 2492	erubescit dormire paganus?
+R9	Parallel Arg1:T17 Arg2:T18	
+T19	ParallelArm 2706 2746	deus nobis loquatur in lectionibus suis;
+T20	ParallelArm 2747 2779	deo loquamur in precibus nostris
+R10	Parallel Arg1:T19 Arg2:T20	

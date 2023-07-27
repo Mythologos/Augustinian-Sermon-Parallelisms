@@ -1,0 +1,80 @@
+T1	ParallelArm 14 40	ueritas de terra orta est,
+T2	ParallelArm 41 69	Christus de carne natus est.
+R1	Parallel Arg1:T1 Arg2:T2	
+T3	ParallelArm 232 285	propter uos temporalis effectus est temporum effector
+T4	ParallelArm 287 331	propter uos in carne apparuit mundi conditor
+T5	ParallelArm 333 365	propter uos creatus est creator.
+R2	Parallel Arg1:T3 Arg2:T4	
+R3	Parallel Arg1:T4 Arg2:T5	
+T6	ParallelArm 470 507	spes longe clarior effulsit in terris
+T7	ParallelArm 512 550	terrenis uita promitteretur in caelis.
+R4	Parallel Arg1:T6 Arg2:T7	
+T8	ParallelArm 604 636	deos facturus qui homines erant,
+T9	ParallelArm 637 667	homo factus est qui deus erat:
+R5	Parallel Arg1:T8 Arg2:T9	
+T10	ParallelArm 752 771	hominem deo addidit
+T11	ParallelArm 777 801	deum in homine perdidit.
+R6	Parallel Arg1:T10 Arg2:T11	
+T12	ParallelArm 1071 1093	et in conceptu clausa,
+T13	ParallelArm 1094 1116	et in partu incorrupta
+R7	Parallel Arg1:T12 Arg2:T13	
+T14	ParallelArm 1205 1218	nasci potuit,
+T15	ParallelArm 1219 1231	nasci uoluit
+R8	Parallel Arg1:T14 Arg2:T15	
+T16	ParallelArm 1343 1365	sempiternus cum patre,
+T17	ParallelArm 1366 1385	hodiernus ex matre:
+R9	Parallel Arg1:T16 Arg2:T17	
+T18	ParallelArm 1386 1414	post matrem de matre factus,
+T19	ParallelArm 1415 1446	ante omnia de patre non factus:
+R10	Parallel Arg1:T18 Arg2:T19	
+T20	ParallelArm 1447 1474	sine quo pater nunquam fuit
+T21	ParallelArm 1476 1507	sine quo mater nunquam fuisset.
+R11	Parallel Arg1:T20 Arg2:T21	
+T22	ParallelArm 1579 1609	Christum parere non potuistis,
+T23	ParallelArm 1614 1647	propter Christum parere noluistis
+R12	Parallel Arg1:T22 Arg2:T23	
+T24	ParallelArm 1657 1675	ex uobis natus est
+T25	ParallelArm 1677 1693	uobis natus est.
+R13	Parallel Arg1:T24 Arg2:T25	
+T26	ChiasmA 2108 2129	amisistis in corpore,
+T27	ChiasmB 2130 2146	in corde seruate
+R14	Chiasm Arg1:T26 Arg2:T27	
+T28	ParallelArm 2269 2310	in Maria Christum pia uirginitas peperit:
+T29	ParallelArm 2311 2363	in Anna Christum uiduitas paruum grandaeua cognouit:
+T30	ParallelArm 2364 2436	in Elisabeth Christo coniugalis castitas et anilis fecunditas militauit.
+R15	Parallel Arg1:T28 Arg2:T29	
+R16	Parallel Arg1:T29 Arg2:T30	
+T31	ParallelArm 2587 2602	fide concipite,
+T32	ParallelArm 2603 2617	operibus edite
+R17	Parallel Arg1:T31 Arg2:T32	
+T33	ParallelArm 2627 2662	egit uterus Mariae in carne Christi
+T34	ParallelArm 2664 2696	agat cor uestrum in lege Christi
+R18	Parallel Arg1:T33 Arg2:T34	
+T35	ParallelArm 2858 2884	mater uisceribus caritatis
+T36	ParallelArm 2886 2922	uirgo integritate fidei et pietatis.
+R19	Parallel Arg1:T35 Arg2:T36	
+T37	ChiasmA 3114 3129	castis mentibus
+T38	ChiasmB 3133 3152	affectibus sanctis,
+R20	Chiasm Arg1:T37 Arg2:T38	
+T39	ParallelArm 3324 3343	de terra ortus est,
+T40	ParallelArm 3353 3371	de carne natus est
+R21	Parallel Arg1:T39 Arg2:T40	
+T41	ParallelArm 3592 3602	de peccato
+T42	ParallelArm 3607 3618	de iustitia
+T43	ParallelArm 3623 3634	de iudicio.
+R22	Parallel Arg1:T41 Arg2:T42	
+R23	Parallel Arg1:T42 Arg2:T43	
+T44	ChiasmA 3785 3817	a summo enim caelo egressio eius
+T45	ChiasmB 3822 3858	occursus eius usque ad summum caeli.
+R24	Chiasm Arg1:T44 Arg2:T45	
+T46	ParallelArm 4451 4478	dignatio est, non conditio;
+T47	ParallelArm 4479 4509	misericordia est, non miseria.
+R25	Parallel Arg1:T46 Arg2:T47	
+T48	ParallelArm 4521 4538	de terra oriretur
+T49	ParallelArm 4540 4559	de caelo descendit:
+R26	Parallel Arg1:T48 Arg2:T49	
+T50	ParallelArm 4899 4963	qui pauper propter nos factus est, in illo diuites esse discamus
+T51	ParallelArm 4965 5032	qui propter nos formam serui accepit, in illo libertatem accipiamus
+T52	ParallelArm 5034 5097	qui propter nos de terra ortus est, in illo caelum possideamus.
+R27	Parallel Arg1:T50 Arg2:T51	
+R28	Parallel Arg1:T51 Arg2:T52	

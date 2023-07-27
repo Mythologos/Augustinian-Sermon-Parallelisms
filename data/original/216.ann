@@ -1,0 +1,212 @@
+T1	ParallelArm 133 175	et noster uos sermo salubriter alloquatur,
+T2	ParallelArm 176 219	et nos uester conceptus utiliter consoletur
+R1	Parallel Arg1:T1 Arg2:T2	
+T3	ChiasmA 18 36	ministerii nostri,
+T4	ChiasmB 40 56	uestri conceptus
+R2	Chiasm Arg1:T3 Arg2:T4	
+T5	ParallelArm 221 247	nos instruimus sermonibus,
+T6	ParallelArm 248 269	uos proficite moribus
+R3	Parallel Arg1:T5 Arg2:T6	
+T7	ParallelArm 271 295	spargimus sermonem uerbi
+T8	ParallelArm 297 319	fructum reddite fidei.
+R4	Parallel Arg1:T7 Arg2:T8	
+T9	ParallelArm 778 817	condocentes, concurrentes, considentes,
+T10	ParallelArm 842 890	simul docentes, simul currentes, simul sedentes;
+R5	Parallel Arg1:T9 Arg2:T10	
+T11	ParallelArm 1076 1106	abiectis desideriis carnalibus
+T12	ParallelArm 1110 1138	superatis terroribus saeculi
+R6	Parallel Arg1:T11 Arg2:T12	
+T13	ParallelArm 1158 1213	si consistant aduersum me castra, non timebit cor meum;
+T14	ParallelArm 1214 1258	si exsurgat in me bellum, in hoc ego sperabo
+R7	Parallel Arg1:T13 Arg2:T14	
+T15	ParallelArm 1987 2072	scitote autem, quoniam cum apparuerit, similes ei eritis, dum apparuerit quod eritis.
+T16	ParallelArm 2073 2110	scitote autem, quoniam uidebitis eum,
+R8	Parallel Arg1:T15 Arg2:T16	
+T17	ParallelArm 2115 2158	qualis in temporis plenitudine uenit ad nos
+T18	ParallelArm 2164 2197	qualis semper manens condidit nos
+R9	Parallel Arg1:T17 Arg2:T18	
+T19	ParallelArm 2365 2416	sicut ergo imaginem portastis eius qui de terra est
+T20	ParallelArm 2418 2464	ita etiam eius qui de caelo est ultra portate.
+R10	Parallel Arg1:T19 Arg2:T20	
+T21	ParallelArm 2517 2575	sicut exhibuistis corpora uestra arma iniquitatis peccato,
+T22	ParallelArm 2576 2629	ita nunc exhibeatis membra uestra arma iustitiae deo.
+R11	Parallel Arg1:T21 Arg2:T22	
+T23	ParallelArm 2630 2699	in perniciem aduersus uos uester oppugnator uestris iaculis armabatur
+T24	ParallelArm 2701 2783	in salutem uestram aduersus eum uicissim membris uestris uester protector armetur.
+R12	Parallel Arg1:T23 Arg2:T24	
+T25	ParallelArm 3689 3739	aut tanquam in uia indignorum transitu conculcetur
+T26	ParallelArm 3741 3836	aut tanquam inter petrosa durissimae conscientiae uestrae stoliditate iam germinans comprimatur
+T27	ParallelArm 3838 3908	aut inter spinas cupiditatum uestrarum perniciosis aculeis suffocetur.
+R13	Parallel Arg1:T25 Arg2:T26	
+R14	Parallel Arg1:T26 Arg2:T27	
+T28	ParallelArm 4279 4317	caelestibus omnes horreis excipientur,
+T29	ParallelArm 4318 4354	omnes in aeterna requie recondentur.
+R15	Parallel Arg1:T28 Arg2:T29	
+T30	ParallelArm 4944 4965	confortamini saeculo,
+T31	ParallelArm 4966 4982	reformamini deo.
+R16	Parallel Arg1:T30 Arg2:T31	
+T32	ParallelArm 5280 5301	quibus augeri, minui;
+T33	ParallelArm 5305 5330	quibus crescere, deficere
+T34	ParallelArm 5335 5368	quibus ascendere, uanescere fuit.
+R17	Parallel Arg1:T32 Arg2:T33	
+R18	Parallel Arg1:T33 Arg2:T34	
+T35	ParallelArm 5575 5586	nulla fame,
+T36	ParallelArm 5587 5597	nulla siti
+R19	Parallel Arg1:T35 Arg2:T36	
+T37	ParallelArm 5615 5634	cibus uester fides,
+T38	ParallelArm 5635 5650	potus sapientia
+R20	Parallel Arg1:T37 Arg2:T38	
+T39	ParallelArm 7107 7159	membra quibus corporis mundi huius compago consistit
+T40	ParallelArm 7170 7226	membra quibus animae uirilitas miserabiliter infirmatur.
+R21	Parallel Arg1:T39 Arg2:T40	
+T41	ParallelArm 7475 7520	in hac terra morientium mortificare debeatis,
+T42	ParallelArm 7525 7570	in illa terra uiuentium uiuere concupiscitis.
+R22	Parallel Arg1:T41 Arg2:T42	
+T43	ParallelArm 8036 8050	quanto iustius
+T44	ParallelArm 8052 8067	quanto utilius,
+R23	Parallel Arg1:T43 Arg2:T44	
+T45	ParallelArm 8294 8323	ecce ubi est stadium uestrum,
+T46	ParallelArm 8324 8350	ecce ubi lucta certantium,
+T47	ParallelArm 8351 8378	ecce ubi cursus currentium,
+T48	ParallelArm 8379 8409	ecce ubi ferientium pugillatus
+R24	Parallel Arg1:T45 Arg2:T46	
+R25	Parallel Arg1:T46 Arg2:T47	
+R26	Parallel Arg1:T47 Arg2:T48	
+T49	ParallelArm 8476 8492	prosternite mala
+T50	ParallelArm 8494 8513	complectimini bona.
+R27	Parallel Arg1:T49 Arg2:T50	
+T51	ParallelArm 8556 8571	fugite iniquum,
+T52	ParallelArm 8572 8592	consequimini iustum.
+R28	Parallel Arg1:T51 Arg2:T52	
+T53	ParallelArm 8514 8539	si uultis sic currere, ut
+T54	ParallelArm 8593 8620	si uultis sic pugillare, ut
+R29	Parallel Arg1:T53 Arg2:T54	
+T55	ParallelArm 9085 9118	eruamini de potestate tenebrarum,
+T56	ParallelArm 9122 9162	transferamini in regnum claritatis eius.
+R30	Parallel Arg1:T55 Arg2:T56	
+T57	ParallelArm 9163 9189	hoc est nunc opus uestrum,
+T58	ParallelArm 9193 9210	hic labor uester.
+R31	Parallel Arg1:T57 Arg2:T58	
+T59	ParallelArm 9445 9465	et in deum proteruus
+T60	ParallelArm 9467 9491	et aduersum uos nefarius
+T61	ParallelArm 9493 9513	et in se perniciosus
+R32	Parallel Arg1:T59 Arg2:T60	
+R33	Parallel Arg1:T60 Arg2:T61	
+T62	ParallelArm 9704 9745	quidquid facinorosissimis suggestionibus,
+T63	ParallelArm 9746 9782	quidquid flagitiosissimis illecebris
+R34	Parallel Arg1:T62 Arg2:T63	
+T64	ParallelArm 9795 9812	nunc exhaurietur,
+T65	ParallelArm 9813 9831	nunc publicabitur.
+R35	Parallel Arg1:T64 Arg2:T65	
+T66	ParallelArm 10400 10436	popule qui crearis, lauda deum tuum:
+T67	ParallelArm 10437 10476	lauda, qui crearis, lauda dominum tuum.
+R36	Parallel Arg1:T66 Arg2:T67	
+T68	ParallelArm 10477 10498	quia lactaris, lauda:
+T69	ParallelArm 10499 10518	quia aleris, lauda:
+R37	Parallel Arg1:T68 Arg2:T69	
+T70	ParallelArm 10616 10647	nec breuitate temporis deficit,
+T71	ParallelArm 10648 10686	nec longitudine ulla temporis proficit
+R38	Parallel Arg1:T70 Arg2:T71	
+T72	ParallelArm 11141 11151	filii dei,
+T73	ParallelArm 11155 11171	filii adoptionis
+R39	Parallel Arg1:T72 Arg2:T73	
+T74	ParallelArm 11183 11198	gratis dabitur,
+T75	ParallelArm 11199 11219	gratisque conferetur
+R40	Parallel Arg1:T74 Arg2:T75	
+T76	ParallelArm 11875 11885	pater deus
+T77	ParallelArm 11891 11905	mater ecclesia
+R41	Parallel Arg1:T76 Arg2:T77	
+T78	ParallelArm 11984 11994	non labor,
+T79	ParallelArm 11995 12006	non miseria
+T80	ParallelArm 12008 12019	non fletus,
+T81	ParallelArm 12020 12029	non mors;
+R42	Parallel Arg1:T78 Arg2:T79	
+R43	Parallel Arg1:T79 Arg2:T80	
+R44	Parallel Arg1:T80 Arg2:T81	
+T82	ParallelArm 12084 12116	per illos lamentabilis generatio
+T83	ParallelArm 12118 12143	per hos optanda generatio
+R45	Parallel Arg1:T82 Arg2:T83	
+T84	ParallelArm 12149 12220	illi nos generando in aeternam poenam generant, propter ueterem culpam:
+T85	ParallelArm 12221 12279	isti regenerando, nec poenam faciunt remanere, nec culpam.
+R46	Parallel Arg1:T84 Arg2:T85	
+T86	ParallelArm 12426 12458	infantia uestra innocentia erit,
+T87	ParallelArm 12459 12479	pueritia reuerentia,
+T88	ParallelArm 12480 12503	adolescentia patientia,
+T89	ParallelArm 12504 12520	iuuentus uirtus,
+T90	ParallelArm 12521 12536	senium meritum,
+T91	ParallelArm 12537 12592	senectus nihil aliud quam canus sapiensque intellectus.
+R47	Parallel Arg1:T86 Arg2:T87	
+R48	Parallel Arg1:T87 Arg2:T88	
+R49	Parallel Arg1:T88 Arg2:T89	
+R50	Parallel Arg1:T89 Arg2:T90	
+R51	Parallel Arg1:T90 Arg2:T91	
+T92	ParallelArm 13155 13180	certabunt quae non erunt,
+T93	ParallelArm 13185 13215	praeualebunt quae nec audebunt
+R52	Parallel Arg1:T92 Arg2:T93	
+T94	ParallelArm 13217 13241	ibi secura immortalitas,
+T95	ParallelArm 13242 13267	ibi immortalis securitas.
+R53	Parallel Arg1:T94 Arg2:T95	
+T96	ParallelArm 13437 13452	concreti bonis,
+T97	ParallelArm 13453 13470	discreti a malis:
+R54	Parallel Arg1:T96 Arg2:T97	
+T98	ParallelArm 13952 13978	clementissimi redemptoris,
+T99	ParallelArm 13982 14010	fulgentissimi illuminatoris.
+R55	Parallel Arg1:T98 Arg2:T99	
+T100	ParallelArm 14145 14163	uenite et adorate,
+T101	ParallelArm 14164 14184	procidite et plorate
+R56	Parallel Arg1:T100 Arg2:T101	
+T102	ChiasmA 14209 14211;14212 14250	et inebriabit uos ab ubertate domus suae,
+T103	ChiasmB 14251 14293	et torrente deliciarum suarum potabit uos.
+R57	Chiasm Arg1:T102 Arg2:T103	
+T104	ParallelArm 14307 14344	cauete, ne ueniat uobis pes superbiae
+T105	ParallelArm 14349 14391	uigilate, ne uos manus moueant peccatorum.
+R58	Parallel Arg1:T104 Arg2:T105	
+T106	ParallelArm 14532 14548	iacentes surgite
+T107	ParallelArm 14550 14566	surgentes state,
+T108	ParallelArm 14567 14585	stantes adsistite,
+T109	ParallelArm 14586 14609	adsistentes persistite.
+R59	Parallel Arg1:T106 Arg2:T107	
+R60	Parallel Arg1:T107 Arg2:T108	
+R61	Parallel Arg1:T108 Arg2:T109	
+T110	ParallelArm 14636 14668	disrumpite potius uincula eorum,
+T111	ParallelArm 14672 14703	abiicite a uobis iugum ipsorum,
+R62	Parallel Arg1:T110 Arg2:T111	
+T112	ChiasmA 14906 14921	meritum illius,
+T113	ChiasmB 14922 14942	huius est tolerantia
+R63	Chiasm Arg1:T112 Arg2:T113	
+T114	ChiasmA 15269 15288	redditur humilitati
+T115	ChiasmB 15294 15317	superbiae denegatum est
+R64	Chiasm Arg1:T114 Arg2:T115	
+T116	ChiasmA 15542 15582	calcanda sunt uitia uelleraque caprarum:
+T117	ChiasmB 15583 15627	sinistrorum haedorum conscindendi sunt panni
+R65	Chiasm Arg1:T116 Arg2:T117	
+T118	ParallelArm 15775 15798	eius carnibus pascemini
+T119	ParallelArm 15800 15824	eius sanguine potabimini
+R66	Parallel Arg1:T118 Arg2:T119	
+T120	ParallelArm 15842 15861	peccata dimittuntur
+T121	ParallelArm 15863 15878	debita donantur
+R67	Parallel Arg1:T120 Arg2:T121	
+T122	ParallelArm 15880 15899	maculae deterguntur
+R68	Parallel Arg1:T121 Arg2:T122	
+T123	ParallelArm 16135 16153	conuertit auersos,
+T124	ParallelArm 16154 16176	prosequitur fugitiuos,
+T125	ParallelArm 16177 16193	inuenit perditos
+T126	ParallelArm 16195 16212	humiliat superbos
+T127	ParallelArm 16214 16231	pascit famelicos,
+T128	ParallelArm 16232 16250	soluit compeditos,
+T129	ParallelArm 16251 16268	illuminat caecos,
+T130	ParallelArm 16269 16285	purgat immundos,
+T131	ParallelArm 16286 16303	recreat fatigatos
+T132	ParallelArm 16305 16322	suscitat mortuos,
+R69	Parallel Arg1:T123 Arg2:T124	
+R70	Parallel Arg1:T124 Arg2:T125	
+R71	Parallel Arg1:T125 Arg2:T126	
+R72	Parallel Arg1:T126 Arg2:T127	
+R73	Parallel Arg1:T127 Arg2:T128	
+R74	Parallel Arg1:T128 Arg2:T129	
+R75	Parallel Arg1:T129 Arg2:T130	
+R76	Parallel Arg1:T130 Arg2:T131	
+R77	Parallel Arg1:T131 Arg2:T132	
+T133	ChiasmA 16470 16502	quae apparuit in uestro corpore,
+T134	ChiasmB 16503 16540	haec in uestris cordibus conseruetur.
+R78	Chiasm Arg1:T133 Arg2:T134	

@@ -1,0 +1,83 @@
+T1	ParallelArm 593 610	alta dei quaerunt
+T2	ParallelArm 615 634	humilia non credunt
+R1	Parallel Arg1:T1 Arg2:T2	
+T3	ParallelArm 700 716	inanes et leues,
+T4	ParallelArm 717 733	inflati et elati
+R2	Parallel Arg1:T3 Arg2:T4	
+T5	ParallelArm 1043 1068	adsumpsisse quod non erat
+T6	ParallelArm 1073 1095	permansisse quod erat;
+R3	Parallel Arg1:T5 Arg2:T6	
+T7	ParallelArm 1099 1124	in homine ad nos uenisse,
+T8	ParallelArm 1128 1150	a patre non recessisse
+R4	Parallel Arg1:T7 Arg2:T8	
+T9	ParallelArm 1155 1189	apud patrem perseuerasse quod est,
+T10	ParallelArm 1193 1221	nobis apparuisse quod sumus;
+R5	Parallel Arg1:T9 Arg2:T10	
+T11	ParallelArm 1225 1266	corpori infantili potentiam esse inditam,
+T12	ParallelArm 1270 1304	mundanae moli non esse subtractam.
+R6	Parallel Arg1:T11 Arg2:T12	
+T13	ParallelArm 1305 1358	cuius opus est apud patrem manentis mundus uniuersus,
+T14	ParallelArm 1359 1407	huius opus est ad nos uenientis uirginis partus.
+R7	Parallel Arg1:T13 Arg2:T14	
+T15	ParallelArm 1459 1485	quam uirgo ante conceptum,
+T16	ParallelArm 1486 1508	tam uirgo post partum;
+R8	Parallel Arg1:T15 Arg2:T16	
+T17	ParallelArm 1742 1788	credere quoniam non possunt, humana contemnunt
+T18	ParallelArm 1790 1841	quoniam non possunt contemnere, diuina non credunt.
+R9	Parallel Arg1:T17 Arg2:T18	
+T19	ParallelArm 1854 1928	quanto illis abiectius, tanto sit gratius in humilitate dei hominis corpus
+T20	ParallelArm 1933 2022	quanto illis est impossibilior, tanto sit diuinior in hominis natiuitate uirginis partus.
+R10	Parallel Arg1:T19 Arg2:T20	
+T21	ParallelArm 2099 2114	exsultent uiri,
+T22	ParallelArm 2115 2133	exsultent feminae:
+R11	Parallel Arg1:T21 Arg2:T22	
+T23	ParallelArm 2143 2157	uir est natus,
+T24	ParallelArm 2158 2178	ex femina est natus;
+R12	Parallel Arg1:T23 Arg2:T24	
+T25	ParallelArm 2285 2317	mortem nobis persuaserat femina:
+T26	ParallelArm 2318 2345	uitam nobis peperit femina.
+R13	Parallel Arg1:T25 Arg2:T26	
+T27	ParallelArm 2569 2612	qui Christum praecipue sequendum elegistis,
+T28	ParallelArm 2613 2640	qui coniugia non quaesitis.
+R14	Parallel Arg1:T27 Arg2:T28	
+T29	ParallelArm 3143 3160;3161 3188	exsultate, iusti: natalis est iustificatoris.
+T30	ParallelArm 3189 3219;3220 3242	exsultate, debiles et aegroti: natalis est saluatoris
+R15	Parallel Arg1:T29 Arg2:T30	
+T31	ParallelArm 3244 3263;3264 3287	exsultate, captiui: natalis est redemptoris
+R16	Parallel Arg1:T30 Arg2:T31	
+T32	ParallelArm 3289 3305;3306 3328	exsultate serui: natalis est dominantis
+R17	Parallel Arg1:T32 Arg2:T31	
+T33	ParallelArm 3330 3347;3348 3370	exsultate liberi: natalis est liberantis
+R18	Parallel Arg1:T32 Arg2:T33	
+T34	ParallelArm 3372 3399;3400 3419	exsultate omnes christiani: natalis est Christi
+R19	Parallel Arg1:T33 Arg2:T34	
+T35	ParallelArm 3429 3471	hic de matre natus istum diem commendauit,
+T36	ParallelArm 3472 3514	qui de patre natus saecula cuncta creauit.
+R20	Parallel Arg1:T35 Arg2:T36	
+T37	ParallelArm 3515 3561	nec illa natiuitas ullam habere potuit matrem,
+T38	ParallelArm 3562 3596	nec ista quaesiuit hominem patrem.
+R21	Parallel Arg1:T37 Arg2:T38	
+T39	ParallelArm 3625 3648	et de patre et de matre
+T40	ParallelArm 3650 3678	et sine patre et sine matre:
+R22	Parallel Arg1:T39 Arg2:T40	
+T41	ParallelArm 3679 3708	de patre deus, de matre homo;
+T42	ParallelArm 3709 3742	sine matre deus, sine patre homo.
+R23	Parallel Arg1:T41 Arg2:T42	
+T43	ParallelArm 3782 3806	siue illam sine tempore,
+T44	ParallelArm 3807 3830	siue istam sine semine;
+R24	Parallel Arg1:T43 Arg2:T44	
+T45	ParallelArm 3831 3848	illam sine initio
+T46	ParallelArm 3850 3869	istam sine exemplo;
+R25	Parallel Arg1:T45 Arg2:T46	
+T47	ParallelArm 3870 3898	illam quae numquam non fuit,
+T48	ParallelArm 3899 3935	istam quae nec antea nec postea fuit
+R26	Parallel Arg1:T47 Arg2:T48	
+T49	ParallelArm 3937 3964	illam quae non habet finem,
+T50	ParallelArm 3965 4007	istam quae initium illic habet, ubi finem.
+R27	Parallel Arg1:T49 Arg2:T50	
+T51	ParallelArm 4292 4313	manifesta infirmitas,
+T52	ParallelArm 4317 4332	mira humilitas,
+R28	Parallel Arg1:T51 Arg2:T52	
+T53	ParallelArm 4378 4398	subiacebat infantia,
+T54	ParallelArm 4399 4415	regebat potentia
+R29	Parallel Arg1:T53 Arg2:T54	

@@ -1,0 +1,109 @@
+T1	ParallelArm 1024 1069	da mihi hominem religiosum, non uult fallere:
+T2	ParallelArm 1070 1119	da mihi hominem impium, sacrilegum, fallere uult,
+R1	Parallel Arg1:T1 Arg2:T2	
+T3	ParallelArm 2515 2534	inhaerete ueritati,
+T4	ParallelArm 2535 2554	resistite falsitati
+R2	Parallel Arg1:T3 Arg2:T4	
+T5	ParallelArm 2632 2706	omnis spiritus qui confitetur Iesum Christum in carne uenisse, ex deo est:
+T6	ParallelArm 2710 2792	omnis spiritus qui non confitetur Iesum Christum in carne uenisse, ex deo non est.
+R3	Parallel Arg1:T5 Arg2:T6	
+T7	ParallelArm 2977 2986	a domibus
+T8	ParallelArm 2988 2999	ab auribus,
+T9	ParallelArm 3000 3019	a cordibus uestris.
+R4	Parallel Arg1:T7 Arg2:T8	
+R5	Parallel Arg1:T8 Arg2:T9	
+T10	ParallelArm 3752 3767	moriatur error,
+T11	ParallelArm 3768 3778	uiuat homo
+R6	Parallel Arg1:T10 Arg2:T11	
+T12	ParallelArm 3824 3838	moriatur error
+T13	ParallelArm 3840 3851	uiuat homo;
+R7	Parallel Arg1:T12 Arg2:T13	
+T14	ParallelArm 4271 4292	error non est ex deo,
+T15	ParallelArm 4293 4309	homo ex deo est.
+R8	Parallel Arg1:T14 Arg2:T15	
+T16	ParallelArm 4608 4623	utrumque uideo,
+T17	ParallelArm 4624 4644	languidum intelligo;
+R9	Parallel Arg1:T16 Arg2:T17	
+T18	ParallelArm 4645 4660	uitium sanetur,
+T19	ParallelArm 4661 4678	natura liberetur.
+R10	Parallel Arg1:T18 Arg2:T19	
+T20	ParallelArm 4728 4746	sana unde langues,
+T21	ParallelArm 4747 4767	remanet unde laudes.
+R11	Parallel Arg1:T20 Arg2:T21	
+T22	ParallelArm 5130 5169	natura quae corrupta fuerat, reparatur;
+T23	ParallelArm 5170 5205	natura quae lapsa fuerat, erigitur;
+T24	ParallelArm 5206 5254	natura quae deformis iacebat, gratia reformatur.
+R12	Parallel Arg1:T22 Arg2:T23	
+R13	Parallel Arg1:T23 Arg2:T24	
+T25	ParallelArm 5421 5445	nec cadit, ut minus sit;
+T26	ParallelArm 5446 5475	nec transcendit, ut plus sit;
+R14	Parallel Arg1:T25 Arg2:T26	
+T27	ParallelArm 5753 5776	non inuenit saluatorem,
+T28	ParallelArm 5777 5800	sed inuenit damnatorem.
+R15	Parallel Arg1:T27 Arg2:T28	
+T29	ParallelArm 6339 6365	si bonus ero, sapiens ero;
+T30	ParallelArm 6366 6393	si sapiens ero, non errabo;
+T31	ParallelArm 6394 6432	si non errabo, a te decipi non potero.
+R16	Parallel Arg1:T29 Arg2:T30	
+R17	Parallel Arg1:T30 Arg2:T31	
+T32	ParallelArm 6935 6961	errauerat ergo natura dei?
+T33	ParallelArm 6962 6994	ierat in immunditiam natura dei?
+T34	ParallelArm 6995 7028	adulteria committebat natura dei?
+T35	ParallelArm 7029 7064	stupra illicita faciebat natura dei
+T36	ParallelArm 7066 7102	caeca nesciebat qua iret natura dei?
+T37	ParallelArm 7103 7150	facinoribus et flagitiis obruebatur natura dei?
+R18	Parallel Arg1:T32 Arg2:T33	
+R19	Parallel Arg1:T33 Arg2:T34	
+R20	Parallel Arg1:T34 Arg2:T35	
+R21	Parallel Arg1:T35 Arg2:T36	
+R22	Parallel Arg1:T36 Arg2:T37	
+T38	ParallelArm 7442 7489	lucerna et accendi potest, et exstingui potest:
+T39	ParallelArm 7490 7540	lumen uerum accendere potest, exstingui non potest
+R23	Parallel Arg1:T38 Arg2:T39	
+T40	ParallelArm 8075 8098	quod resistat caritati,
+T41	ParallelArm 8099 8122	quod repugnet ueritati,
+T42	ParallelArm 8123 8150	quod subiaceat infirmitati,
+R24	Parallel Arg1:T40 Arg2:T41	
+R25	Parallel Arg1:T41 Arg2:T42	
+T43	ParallelArm 8378 8407	ubi est, mors, contentio tua?
+T44	ParallelArm 8408 8436	ubi est, mors, aculeus tuus?
+R26	Parallel Arg1:T43 Arg2:T44	
+T45	ParallelArm 8675 8696	contra errorem clama,
+T46	ParallelArm 8722 8747	contra infirmitatem adde,
+R27	Parallel Arg1:T45 Arg2:T46	
+T47	ParallelArm 8781 8793	tu es malus,
+T48	ParallelArm 8794 8808	tu eris bonus.
+R28	Parallel Arg1:T47 Arg2:T48	
+T49	ParallelArm 9031 9055	accepisse quod non erat,
+T50	ParallelArm 9056 9079	non amisisse quod erat;
+R29	Parallel Arg1:T49 Arg2:T50	
+T51	ParallelArm 9080 9102	hominem in se mutasse,
+T52	ParallelArm 9103 9133	non in hominem fuisse mutatum.
+R30	Parallel Arg1:T51 Arg2:T52	
+T53	ParallelArm 9235 9253	apostolum accipis,
+T54	ParallelArm 9281 9297	apostolum legis,
+R31	Parallel Arg1:T53 Arg2:T54	
+T55	ParallelArm 9298 9311	et deciperis,
+T56	ParallelArm 9312 9323	et decipis.
+R32	Parallel Arg1:T55 Arg2:T56	
+T57	ParallelArm 9523 9538	tenebrae in te,
+T58	ParallelArm 9539 9552	lux in domino
+R33	Parallel Arg1:T57 Arg2:T58	
+T59	ParallelArm 9582 9604	accedendo illuminaris,
+T60	ParallelArm 9605 9625	recedendo tenebraris
+R34	Parallel Arg1:T59 Arg2:T60	
+T61	ParallelArm 10075 10093	in quantum errant,
+T62	ParallelArm 10094 10113	in quantum peccant,
+T63	ParallelArm 10114 10137	in quantum blasphemant,
+R35	Parallel Arg1:T61 Arg2:T62	
+R36	Parallel Arg1:T62 Arg2:T63	
+T64	ParallelArm 10402 10466	audiamus Donatistas, quia confitentur Christum in carne uenisse;
+T65	ParallelArm 10467 10528	audiamus Arianos, quia confitentur Christum in carne uenisse;
+T66	ParallelArm 10529 10593	audiamus Eunomianos, quia confitentur Christum in carne uenisse;
+T67	ParallelArm 10594 10659	audiamus Photinianos, quia confitentur Christum in carne uenisse.
+R37	Parallel Arg1:T64 Arg2:T65	
+R38	Parallel Arg1:T65 Arg2:T66	
+R39	Parallel Arg1:T66 Arg2:T67	
+T68	ParallelArm 10842 10866	quid ergo dicturi sumus?
+T69	ParallelArm 10867 10902	quomodo istam quaestionem soluturi?
+R40	Parallel Arg1:T68 Arg2:T69	

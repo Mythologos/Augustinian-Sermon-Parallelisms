@@ -1,0 +1,214 @@
+T1	ParallelArm 412 446	inanis est forinsecus praedicator,
+T2	ParallelArm 451 473	non est intus auditor.
+R1	Parallel Arg1:T1 Arg2:T2	
+T3	ParallelArm 639 675	periclitamur in ministeriis nostris,
+T4	ParallelArm 676 706	adiuuamur orationibus uestris.
+R2	Parallel Arg1:T3 Arg2:T4	
+T5	ParallelArm 850 869	uelox ad audiendum,
+T6	ParallelArm 870 896	tardus autem ad loquendum.
+R3	Parallel Arg1:T5 Arg2:T6	
+T7	ParallelArm 984 1008	uelociores ad audiendum,
+T8	ParallelArm 1009 1032	tardiores ad loquendum:
+R4	Parallel Arg1:T7 Arg2:T8	
+T9	ParallelArm 1345 1364	uelox ad audiendum,
+T10	ParallelArm 1365 1391	tardus autem ad loquendum?
+R5	Parallel Arg1:T9 Arg2:T10	
+T11	ParallelArm 2045 2056	ibi gaudeo,
+T12	ParallelArm 2057 2067	ubi audio.
+R6	Parallel Arg1:T11 Arg2:T12	
+T13	ParallelArm 2291 2313	sine fraudatore fruor,
+T14	ParallelArm 2314 2334	sine teste delector.
+R7	Parallel Arg1:T13 Arg2:T14	
+T15	ParallelArm 2653 2675	non propter uocem suam
+T16	ParallelArm 2677 2702	sed propter uocem sponsi.
+R8	Parallel Arg1:T15 Arg2:T16	
+T17	ParallelArm 2947 2962	Ioannes stabat,
+T18	ParallelArm 2963 2976	illa sedebat:
+R9	Parallel Arg1:T17 Arg2:T18	
+T19	ParallelArm 2981 2998	illa corde stabat
+T20	ParallelArm 3003 3027	ille humilitate sedebat.
+R10	Parallel Arg1:T19 Arg2:T20	
+T21	ParallelArm 3028 3064	statio enim significat permansionem;
+T22	ParallelArm 3065 3085	sessio, humilitatem.
+R11	Parallel Arg1:T21 Arg2:T22	
+T23	ParallelArm 4199 4206	o beata
+T24	ParallelArm 4208 4215	o felix
+R12	Parallel Arg1:T23 Arg2:T24	
+T25	ParallelArm 4713 4737	magnum ergo ministerium,
+T26	ParallelArm 4738 4751	magnum donum.
+R13	Parallel Arg1:T25 Arg2:T26	
+T27	ParallelArm 5123 5180	si ideo meliorem partem elegit, quia non auferetur ab ea;
+T28	ParallelArm 5181 5242	sine dubio Martha eam partem elegerat, quae auferretur ab ea.
+R14	Parallel Arg1:T27 Arg2:T28	
+T29	ParallelArm 5401 5437	cui enim ministrat, nisi infirmitati
+T30	ParallelArm 5439 5471	cui ministrat, nisi mortalitati?
+T31	ParallelArm 5472 5513	cui ministrat, nisi esurienti ac sitienti
+R15	Parallel Arg1:T29 Arg2:T30	
+R16	Parallel Arg1:T30 Arg2:T31	
+T32	ParallelArm 5541 5582	corruptibile hoc induerit incorruptionem,
+T33	ParallelArm 5586 5622	mortale hoc induerit immortalitatem.
+R17	Parallel Arg1:T32 Arg2:T33	
+T34	ParallelArm 5698 5714	auferetur labor,
+T35	ParallelArm 5719 5734	reddetur merces
+R18	Parallel Arg1:T34 Arg2:T35	
+T36	ParallelArm 5736 5782	cui tunc ministrabitur cibus, ubi esurit nemo?
+T37	ParallelArm 5783 5809	cui potus, ubi sitit nemo?
+T38	ParallelArm 5810 5824;5825 5848	cui hospitium? ubi peregrinus est nemo
+R19	Parallel Arg1:T36 Arg2:T37	
+R20	Parallel Arg1:T37 Arg2:T38	
+T39	ParallelArm 5984 5999	quia cogebatur,
+T40	ParallelArm 6004 6020	quia dignabatur.
+R21	Parallel Arg1:T39 Arg2:T40	
+T41	ParallelArm 6149 6159	quid dabat
+T42	ParallelArm 6161 6172	quis dabat?
+T43	ParallelArm 6173 6184	unde dabat?
+T44	ParallelArm 6185 6195	cui dabat?
+T45	ParallelArm 6196 6207	quid dabat?
+R22	Parallel Arg1:T41 Arg2:T42	
+R23	Parallel Arg1:T42 Arg2:T43	
+R24	Parallel Arg1:T43 Arg2:T44	
+R25	Parallel Arg1:T44 Arg2:T45	
+T46	ParallelArm 6428 6451	magnum hoc ministerium,
+T47	ParallelArm 6452 6468	magnum hoc opus,
+T48	ParallelArm 6469 6482	magnum donum.
+R27	Parallel Arg1:T46 Arg2:T47	
+R28	Parallel Arg1:T47 Arg2:T48	
+T49	ParallelArm 6548 6573	pars ergo Marthae transit
+T50	ParallelArm 6631 6660	pars uero Mariae non transit.
+R26	Parallel Arg1:T49 Arg2:T50	
+T51	ParallelArm 6731 6746	quid manducabat
+T52	ParallelArm 6748 6760	quid bibebat
+R29	Parallel Arg1:T51 Arg2:T52	
+T53	ParallelArm 6958 6972	de isto fonte,
+T54	ParallelArm 6973 6987	de isto horreo
+R30	Parallel Arg1:T53 Arg2:T54	
+T55	ParallelArm 7070 7100	tantum enim dominus tunc dabat
+T56	ParallelArm 7102 7123	quantum illa capiebat
+R31	Parallel Arg1:T55 Arg2:T56	
+T57	ParallelArm 7460 7482	ueritate delectabatur,
+T58	ParallelArm 7483 7502	ueritatem audiebat:
+R32	Parallel Arg1:T57 Arg2:T58	
+T59	ParallelArm 7503 7520	ueritati inhiabat
+T60	ParallelArm 7522 7541	ueritati suspirabat
+R33	Parallel Arg1:T59 Arg2:T60	
+T61	ParallelArm 7543 7573	ueritatem esuriens manducabat,
+T62	ParallelArm 7574 7590	sitiens bibebat:
+R34	Parallel Arg1:T61 Arg2:T62	
+T63	ParallelArm 7940 7952	qui reficit,
+T64	ParallelArm 7953 7964	nec deficit
+R35	Parallel Arg1:T63 Arg2:T64	
+T65	ParallelArm 8039 8052	cibum parare,
+T66	ParallelArm 8053 8069	potum ministrare
+T67	ParallelArm 8071 8085	mensam ponere,
+T68	ParallelArm 8086 8098	pedes lauare
+T69	ParallelArm 8100 8116	lectum sternere,
+T70	ParallelArm 8117 8133	tecto suscipere;
+R36	Parallel Arg1:T65 Arg2:T66	
+R37	Parallel Arg1:T66 Arg2:T67	
+R38	Parallel Arg1:T67 Arg2:T68	
+R39	Parallel Arg1:T68 Arg2:T69	
+R40	Parallel Arg1:T69 Arg2:T70	
+T71	ParallelArm 9023 9042	faciet requiescere,
+T72	ParallelArm 9043 9057	faciet uacare?
+R41	Parallel Arg1:T71 Arg2:T72	
+T73	ParallelArm 9555 9575	de lumine ueritatis,
+T74	ParallelArm 9576 9600	de affluentia sapientiae
+R42	Parallel Arg1:T73 Arg2:T74	
+T75	ParallelArm 9613 9627	cordis humani,
+T76	ParallelArm 9628 9643	cordis fidelis,
+T77	ParallelArm 9644 9657	cordis sancti
+R43	Parallel Arg1:T75 Arg2:T76	
+R44	Parallel Arg1:T76 Arg2:T77	
+T78	ParallelArm 9893 9910	omnes attenditis,
+T79	ParallelArm 9911 9925	omnes auditis,
+T80	ParallelArm 9926 9943	omnes excitamini,
+R45	Parallel Arg1:T78 Arg2:T79	
+R46	Parallel Arg1:T79 Arg2:T80	
+T81	ParallelArm 9990 10004	quid uidistis?
+T82	ParallelArm 10005 10020	quid tenuistis?
+R47	Parallel Arg1:T81 Arg2:T82	
+T83	ParallelArm 10057 10068	quae forma,
+T84	ParallelArm 10069 10081	quae figura,
+T85	ParallelArm 10082 10094	quae statura
+R48	Parallel Arg1:T83 Arg2:T84	
+R49	Parallel Arg1:T84 Arg2:T85	
+T86	ParallelArm 10096 10122	quae lineamenta membrorum,
+T87	ParallelArm 10123 10149	quae corporis pulchritudo?
+R50	Parallel Arg1:T86 Arg2:T87	
+T88	ParallelArm 10180 10224	quando enim sic laudaretis, si non amaretis?
+T89	ParallelArm 10225 10261	quando amaretis, si nihil uideretis?
+R51	Parallel Arg1:T88 Arg2:T89	
+T90	ParallelArm 10683 10709	hoc enim modo uos facitis,
+T91	ParallelArm 10710 10740	quod tunc omnes facturi sumus.
+R52	Parallel Arg1:T90 Arg2:T91	
+T92	ParallelArm 10832 10855	ad uos pertinet facere,
+T93	ParallelArm 10856 10870	ad nos monere.
+R53	Parallel Arg1:T92 Arg2:T93	
+T94	ParallelArm 10871 10902	uos enim estis auditores uerbi,
+T95	ParallelArm 10903 10921	nos praedicatores.
+R54	Parallel Arg1:T94 Arg2:T95	
+T96	ParallelArm 11044 11071	ego enim forinsecus loquor,
+T97	ParallelArm 11072 11091	ille intus excitat.
+R55	Parallel Arg1:T96 Arg2:T97	
+T98	ParallelArm 11323 11345	nullo hominum uidente,
+T99	ParallelArm 11350 11363	deo puniente.
+R56	Parallel Arg1:T98 Arg2:T99	
+T100	ParallelArm 11364 11391	quis est ergo intus factor?
+T101	ParallelArm 11425 11447	quis est foris factor?
+R57	Parallel Arg1:T100 Arg2:T101	
+T102	ParallelArm 11486 11513	cum fit, uidet et proximus:
+T103	ParallelArm 11518 11553	quo animo fit, non uidet nisi deus.
+R58	Parallel Arg1:T102 Arg2:T103	
+T104	ParallelArm 11918 11931	quid cogites,
+T105	ParallelArm 11932 11944	quid teneas,
+R59	Parallel Arg1:T104 Arg2:T105	
+T106	ParallelArm 11945 11984	quantum proficias de supplementis suis,
+T107	ParallelArm 11985 12005	quam instanter ores,
+T108	ParallelArm 12006 12055	quemadmodum depreceris deum ex eo quod non habes,
+T109	ParallelArm 12056 12094	quomodo gratias agas ex eo quod habes:
+R60	Parallel Arg1:T106 Arg2:T107	
+R61	Parallel Arg1:T107 Arg2:T108	
+R62	Parallel Arg1:T108 Arg2:T109	
+T110	ParallelArm 12468 12516	si non audis, auditum negligis, nihil aedificas.
+T111	ParallelArm 12517 12557	si audis et non facis, ruinam aedificas.
+R63	Parallel Arg1:T110 Arg2:T111	
+T112	ParallelArm 12739 12756	descendit pluuia,
+T113	ParallelArm 12757 12774	uenerunt flumina,
+T114	ParallelArm 12775 12791	flauerunt uenti,
+R64	Parallel Arg1:T112 Arg2:T113	
+R65	Parallel Arg1:T113 Arg2:T114	
+T115	ParallelArm 13384 13401	descendit pluuia,
+T116	ParallelArm 13402 13418	uenerunt flumina
+T117	ParallelArm 13420 13435	flauerunt uenti
+R66	Parallel Arg1:T115 Arg2:T116	
+R67	Parallel Arg1:T116 Arg2:T117	
+T118	ParallelArm 13860 13920	non aedificas super petram, ut ueniant, et non te deiiciant?
+T119	ParallelArm 13921 13982	non aedificas super arenam, ne cum uenirent, domum deiiciant?
+R68	Parallel Arg1:T118 Arg2:T119	
+T120	ParallelArm 14038 14051	uenit pluuia,
+T121	ParallelArm 14052 14068	ueniunt flumina:
+R69	Parallel Arg1:T120 Arg2:T121	
+T122	ParallelArm 14265 14299	malum est super arenam aedificare,
+T123	ParallelArm 14300 14327	malum est nihil aedificare;
+R70	Parallel Arg1:T122 Arg2:T123	
+T124	ParallelArm 14378 14404	malum est ergo non audire:
+T125	ParallelArm 14405 14436	malum est audire et non facere:
+R71	Parallel Arg1:T124 Arg2:T125	
+T126	ParallelArm 14956 14984	quid nunc sim, possum scire;
+T127	ParallelArm 14985 15015	quid cras futurus sim, nescio.
+R72	Parallel Arg1:T126 Arg2:T127	
+T128	ParallelArm 15213 15233	quae dicunt, facite;
+T129	ParallelArm 15234 15268	quae autem faciunt, facere nolite.
+R73	Parallel Arg1:T128 Arg2:T129	
+T130	ParallelArm 15274 15306	si bene de me sentis, laudas me:
+T131	ParallelArm 15307 15334	si male sentis, accusas me,
+R74	Parallel Arg1:T130 Arg2:T131	
+T132	ParallelArm 15502 15515	dominus tuus,
+T133	ParallelArm 15516 15531	redemptor tuus,
+R75	Parallel Arg1:T132 Arg2:T133	
+T134	ParallelArm 15743 15754	bona dicunt
+T135	ParallelArm 15756 15769	mala faciunt:
+R76	Parallel Arg1:T134 Arg2:T135	
+T136	ParallelArm 15773 15783	audi bona,
+T137	ParallelArm 15787 15804	noli facere mala.
+R77	Parallel Arg1:T136 Arg2:T137	

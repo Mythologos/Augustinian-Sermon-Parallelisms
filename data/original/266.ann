@@ -1,0 +1,98 @@
+T1	ParallelArm 513 524	a quo datur
+T2	ParallelArm 526 535	cui datur
+T3	ParallelArm 537 551	per quem datur
+R1	Parallel Arg1:T1 Arg2:T2	
+R2	Parallel Arg1:T2 Arg2:T3	
+T4	ParallelArm 936 970	non erat inanis spes exspectantis,
+T5	ParallelArm 976 1018	non erat fallax pollicitatio promittentis:
+R3	Parallel Arg1:T4 Arg2:T5	
+T6	ParallelArm 1379 1407	omnes linguae in uno homine,
+T7	ParallelArm 1408 1431	omnes gentes in unitate
+R4	Parallel Arg1:T6 Arg2:T7	
+T8	ParallelArm 1433 1462	qui pleni erant, loquebantur:
+T9	ParallelArm 1466 1494	qui inanes erant, mirabantur
+R5	Parallel Arg1:T8 Arg2:T9	
+T10	ParallelArm 2059 2083	audiendo compuncti sunt,
+T11	ParallelArm 2084 2109	compunctione mutati sunt,
+T12	ParallelArm 2110 2128	mutati crediderunt
+R6	Parallel Arg1:T10 Arg2:T11	
+R7	Parallel Arg1:T11 Arg2:T12	
+T13	ParallelArm 2385 2402	alius est donator
+T14	ParallelArm 2404 2421	alius ministrator
+R8	Parallel Arg1:T13 Arg2:T14	
+T15	ParallelArm 2876 2900	qui impletur, diues est:
+T16	ParallelArm 2901 2926	qui inflatur, inanis est.
+R9	Parallel Arg1:T15 Arg2:T16	
+T17	ParallelArm 3294 3309	fides uerborum,
+T18	ParallelArm 3310 3329	ueritas exemplorum.
+R10	Parallel Arg1:T17 Arg2:T18	
+T19	ParallelArm 3330 3344	totum legimus,
+T20	ParallelArm 3345 3359	totum credamus
+R11	Parallel Arg1:T19 Arg2:T20	
+T21	ParallelArm 3537 3562	unusquisque eorum orabat,
+T22	ParallelArm 3563 3585	nullus manum imponebat
+R12	Parallel Arg1:T21 Arg2:T22	
+T23	ParallelArm 3587 3608	orantibus superuenit,
+T24	ParallelArm 3609 3626	orantes impleuit,
+R13	Parallel Arg1:T23 Arg2:T24	
+T25	ParallelArm 6079 6106	uenit ut deus, et impleuit:
+T26	ParallelArm 6107 6136	ut uenit dominus, et redemit.
+R14	Parallel Arg1:T25 Arg2:T26	
+T27	ParallelArm 7004 7020	lege diligenter,
+T28	ParallelArm 7024 7044	intellige prudenter.
+R15	Parallel Arg1:T27 Arg2:T28	
+T29	ParallelArm 7222 7242	acceptas eleemosynas
+T30	ParallelArm 7249 7269	exauditas orationes:
+R16	Parallel Arg1:T29 Arg2:T30	
+T31	ParallelArm 8894 8911	occide quod sunt,
+T32	ParallelArm 8912 8924	fac quod es.
+R17	Parallel Arg1:T31 Arg2:T32	
+T33	ParallelArm 9183 9202	occurrit humiliter,
+T34	ParallelArm 9163 9182	nuntiatur Cornelio,
+T35	ParallelArm 9203 9225	prosternitur humiliter
+R18	Parallel Arg1:T34 Arg2:T33	
+R19	Parallel Arg1:T33 Arg2:T35	
+T36	ParallelArm 9227 9244	leuatur humilius.
+R20	Parallel Arg1:T35 Arg2:T36	
+T37	ParallelArm 10477 10564	ecce impletum est, ecce demonstratum est, quod dominus ait, spiritus ubi uult inspirat.
+T38	ParallelArm 10565 10655	ecce impletum est, ecce monstratur quam uerum dominus dixerit, spiritus ubi uult inspirat.
+R21	Parallel Arg1:T37 Arg2:T38	
+T39	ParallelArm 10900 10918	si tuum est, nolo:
+T40	ParallelArm 10919 10942	si tuum est, malum est.
+R22	Parallel Arg1:T39 Arg2:T40	
+T41	ParallelArm 10988 11021	caenum non inquinat solis radium,
+T42	ParallelArm 11025 11047	tu inquinas dei oleum?
+R23	Parallel Arg1:T41 Arg2:T42	
+T43	ParallelArm 11356 11379	numquid a malo accepit?
+T44	ParallelArm 11380 11402	numquid malum accepit?
+R24	Parallel Arg1:T43 Arg2:T44	
+T45	ParallelArm 11468 11485	oleum peccatoris,
+T46	ParallelArm 11486 11502	oleum salutaris.
+R25	Parallel Arg1:T45 Arg2:T46	
+T47	ParallelArm 11503 11533	bene accipiatur, et bonum est:
+T48	ParallelArm 11539 11566	male accipiatur, bonum est.
+R26	Parallel Arg1:T47 Arg2:T48	
+T49	ParallelArm 11773 11792	diligit obiurgator;
+T50	ParallelArm 11793 11810	decipit adulator:
+R27	Parallel Arg1:T49 Arg2:T50	
+T51	ParallelArm 11811 11826	ille miseretur,
+T52	ParallelArm 11827 11844	ille circumuenit.
+R28	Parallel Arg1:T51 Arg2:T52	
+T53	ParallelArm 11845 11870	dura est uirga caedentis,
+T54	ParallelArm 11871 11899	molle est oleum blandientis.
+R29	Parallel Arg1:T53 Arg2:T54	
+T55	ParallelArm 11924 11937	caput ungunt,
+T56	ParallelArm 11942 11956	uiscera sanant
+R30	Parallel Arg1:T55 Arg2:T56	
+T57	ParallelArm 11958 11975	ama obiurgatorem,
+T58	ParallelArm 11976 11992	caue adulatorem.
+R31	Parallel Arg1:T57 Arg2:T58	
+T59	ParallelArm 12001 12029	amas ueridicum obiurgatorem,
+T60	ParallelArm 12033 12059	caues fallacem adulatorem,
+R32	Parallel Arg1:T59 Arg2:T60	
+T61	ParallelArm 12226 12257	pingue caput, grande caput est:
+T62	ParallelArm 12258 12290	grande caput, superbum caput est
+R33	Parallel Arg1:T61 Arg2:T62	
+T63	ParallelArm 12337 12370	cor sanum facit uirga obiurgantis
+T64	ParallelArm 12372 12408	grande caput facit oleum peccatoris,
+R34	Parallel Arg1:T63 Arg2:T64	

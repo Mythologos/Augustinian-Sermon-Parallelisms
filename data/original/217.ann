@@ -1,0 +1,9 @@
+T1	ParallelArm 641 662	pater non est filius,
+T2	ParallelArm 663 684	filius non est pater;
+R1	Parallel Arg1:T1 Arg2:T2	
+T3	ParallelArm 685 708	pater non est de filio,
+T4	ParallelArm 709 729	filius de patre est;
+R2	Parallel Arg1:T3 Arg2:T4	
+T5	ParallelArm 1005 1034	patrem solum esse uerum deum,
+T6	ParallelArm 1035 1068	filium autem non esse uerum deum.
+R3	Parallel Arg1:T5 Arg2:T6	

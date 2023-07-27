@@ -1,0 +1,15 @@
+T1	ParallelArm 520 551	ut aspera seueritas refrenetur,
+T2	ParallelArm 556 588	ut salubris disciplina soluatur.
+R1	Parallel Arg1:T1 Arg2:T2	
+T3	ParallelArm 1407 1429	propter offam suillam,
+T4	ParallelArm 1434 1464	propter lenticulam defricatam,
+R2	Parallel Arg1:T3 Arg2:T4	
+T5	ParallelArm 2511 2537	seruet permanens auaritia,
+T6	ParallelArm 2542 2566	consumat dilata luxuria?
+R3	Parallel Arg1:T5 Arg2:T6	
+T7	ParallelArm 2630 2661	detrahit temperantia uoluptati,
+T8	ParallelArm 2662 2689	addat misericordia caritati
+R4	Parallel Arg1:T7 Arg2:T8	
+T9	ParallelArm 3962 3997	remittite ergo, et remittetur uobis
+T10	ParallelArm 3999 4022	date, et dabitur uobis.
+R5	Parallel Arg1:T9 Arg2:T10	

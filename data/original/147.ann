@@ -1,0 +1,53 @@
+T1	ParallelArm 98 111	a se turbatum
+T2	ParallelArm 117 136	a Christo innouatum
+R1	Parallel Arg1:T1 Arg2:T2	
+T3	ParallelArm 148 171	prius audax praesumptor
+T4	ParallelArm 176 210	postea factus est timidus negator.
+T5	ParallelArm 211 246	promiserat se pro domino moriturum,
+T6	ParallelArm 257 290	pro illo esset dominus moriturus.
+R2	Parallel Arg1:T5 Arg2:T6	
+R3	Parallel Arg1:T3 Arg2:T4	
+T7	ParallelArm 503 522	deus erat Christus,
+T8	ParallelArm 523 541	homo autem Petrus,
+T9	ParallelArm 676 691	uerax Christus,
+T10	ParallelArm 692 705	mendax Petrus
+R4	Parallel Arg1:T9 Arg2:T10	
+R5	Parallel Arg1:T7 Arg2:T8	
+T11	ParallelArm 1076 1093	pasce agnos meos,
+T12	ParallelArm 1094 1114	pasce ouiculas meas.
+R6	Parallel Arg1:T11 Arg2:T12	
+T13	ParallelArm 1485 1526	qualis sit tunc cum loquitur, forte scit;
+T14	ParallelArm 1527 1565	qualis crastino futurus sit, quis scit
+R7	Parallel Arg1:T13 Arg2:T14	
+T15	ParallelArm 1722 1746	quod tibi dico, tu scis:
+T16	ParallelArm 1747 1788	quod hic uideo in corde meo, uides et tu.
+R8	Parallel Arg1:T15 Arg2:T16	
+T17	ParallelArm 2183 2201	uerax ergo Petrus,
+T18	ParallelArm 2205 2229	uerax in Petro Christus?
+R9	Parallel Arg1:T17 Arg2:T18	
+T19	ParallelArm 2230 2273	quando autem uoluit dominus Iesus Christus,
+T20	ParallelArm 2274 2290	deseruit Petrum,
+T21	ParallelArm 2291 2319	et inuentus est homo Petrus:
+T22	ParallelArm 2320 2361	quando autem placuit domino Iesu Christo,
+T23	ParallelArm 2362 2378	impleuit Petrum,
+T24	ParallelArm 2379 2408	et inuentus est Petrus uerax.
+R10	Parallel Arg1:T19 Arg2:T22	
+R11	Parallel Arg1:T20 Arg2:T23	
+R12	Parallel Arg1:T21 Arg2:T24	
+T25	ParallelArm 3127 3145	tunc ad doctrinam,
+T26	ParallelArm 3146 3162	modo ad coronam,
+R13	Parallel Arg1:T25 Arg2:T26	
+T27	ParallelArm 3285 3316	uidebat enim in carne uiuentem,
+T28	ParallelArm 3322 3349	uiderat in ligno pendentem.
+R14	Parallel Arg1:T27 Arg2:T28	
+T29	ParallelArm 3467 3487	ter negauerat timor,
+T30	ParallelArm 3488 3511	ter confessus est amor.
+R15	Parallel Arg1:T29 Arg2:T30	
+T31	ParallelArm 3512 3532	trinitas negationis,
+T32	ParallelArm 3533 3552	desertio ueritatis:
+T33	ParallelArm 3553 3575	trinitas confessionis,
+T34	ParallelArm 3576 3600	testimonium dilectionis.
+R16	Parallel Arg1:T31 Arg2:T33	
+R17	Parallel Arg1:T32 Arg2:T34	
+R18	Parallel Arg1:T31 Arg2:T32	
+R19	Parallel Arg1:T33 Arg2:T34	

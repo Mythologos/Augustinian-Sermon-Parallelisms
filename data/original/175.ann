@@ -1,0 +1,120 @@
+T1	ParallelArm 303 316	tolle morbos,
+T2	ParallelArm 317 331	tolle uulnera,
+R1	Parallel Arg1:T1 Arg2:T2	
+T3	ParallelArm 1632 1665	in fletu dominus posuit officium,
+T4	ParallelArm 1666 1685	in risu beneficium.
+R2	Parallel Arg1:T3 Arg2:T4	
+T5	ParallelArm 1762 1786	in ploratu officium est,
+T6	ParallelArm 1787 1807	in risu est praemium
+R3	Parallel Arg1:T5 Arg2:T6	
+T7	ParallelArm 2160 2180	fletum cum sanitate,
+T8	ParallelArm 2186 2204	risum cum amentia.
+R4	Parallel Arg1:T7 Arg2:T8	
+T9	ParallelArm 2563 2586	patiebatur phreneticum,
+T10	ParallelArm 2587 2610	nec deserebat aegrotum:
+R5	Parallel Arg1:T9 Arg2:T10	
+T11	ParallelArm 2822 2843	agnoscis phreneticos,
+T12	ParallelArm 2844 2863	agnosce et medicum.
+R6	Parallel Arg1:T11 Arg2:T12	
+T13	ParallelArm 3134 3165	orat christianus, et exauditur;
+T14	ParallelArm 3166 3198	orat Christus, et non exauditur?
+R7	Parallel Arg1:T13 Arg2:T14	
+T15	ParallelArm 3319 3328	ibi erant
+T16	ParallelArm 3330 3345	ibi saeuiebant:
+R8	Parallel Arg1:T15 Arg2:T16	
+T17	ParallelArm 4036 4067	uenit ergo et promissio ipsius,
+T18	ParallelArm 4068 4091	uenit spiritus sanctus,
+R9	Parallel Arg1:T17 Arg2:T18	
+T19	ParallelArm 4641 4675	si uenerit aqua super altitudinem,
+T20	ParallelArm 4697 4742	si uenerit aqua ad concauum et humilem locum,
+T21	ParallelArm 4676 4696	decurrit et defluit:
+T22	ParallelArm 4743 4762	et capitur et stat.
+R10	Parallel Arg1:T19 Arg2:T20	
+R11	Parallel Arg1:T21 Arg2:T22	
+T23	ParallelArm 5525 5543	latronem elegimus,
+T24	ParallelArm 5544 5565	innocentem occidimus;
+T25	ParallelArm 5566 5583	mortuum elegimus,
+T26	ParallelArm 5584 5602	medicum occidimus:
+R12	Parallel Arg1:T23 Arg2:T25	
+R13	Parallel Arg1:T24 Arg2:T26	
+R14	Parallel Arg1:T23 Arg2:T24	
+R15	Parallel Arg1:T25 Arg2:T26	
+T27	ParallelArm 6208 6217	doluerunt
+T28	ParallelArm 6219 6228	gemuerunt
+T29	ParallelArm 6229 6242	conuersi sunt
+T30	ParallelArm 6244 6256	sanati sunt.
+R16	Parallel Arg1:T27 Arg2:T28	
+R17	Parallel Arg1:T29 Arg2:T30	
+T31	ParallelArm 6502 6540	si iustus fuero, non me amat Christus;
+T32	ParallelArm 6541 6568	si peccator fuero, amat me:
+R18	Parallel Arg1:T31 Arg2:T32	
+T33	ParallelArm 6802 6820	quid ergo dicimus?
+T34	ParallelArm 6821 6839	quid pronuntiamus?
+T35	ParallelArm 6840 6855	quid definimus?
+R19	Parallel Arg1:T33 Arg2:T34	
+R20	Parallel Arg1:T34 Arg2:T35	
+R21	Parallel Arg1:T33 Arg2:T35	
+T36	ParallelArm 6930 6955	ad aegrotum quidem uenit,
+T37	ParallelArm 6956 6975	ad sanum non uenit:
+R22	Parallel Arg1:T36 Arg2:T37	
+T38	ParallelArm 6996 7011	ad illum uenit,
+T39	ParallelArm 7012 7031	ad illum non uenit;
+R23	Parallel Arg1:T38 Arg2:T39	
+T40	ParallelArm 7370 7415	ante illum non fuerunt peccatores tot Iudaei?
+T41	ParallelArm 7416 7467	ante illum non fuerunt peccatores in genere humano?
+T42	ParallelArm 7468 7523	ante illum in omnibus hominibus nemo peccato tenebatur?
+R24	Parallel Arg1:T40 Arg2:T41	
+R25	Parallel Arg1:T40 Arg2:T42	
+R26	Parallel Arg1:T41 Arg2:T42	
+T43	ParallelArm 8228 8257	quis est hic primus structor?
+T44	ParallelArm 8258 8280	quis est primus faber?
+T45	ParallelArm 8301 8329	quis est hic primus medicus?
+R27	Parallel Arg1:T43 Arg2:T44	
+R28	Parallel Arg1:T44 Arg2:T45	
+R29	Parallel Arg1:T43 Arg2:T45	
+T46	ParallelArm 8352 8374	quis prior sit aetate,
+T47	ParallelArm 8379 8406	quis prior sit professione;
+T48	ParallelArm 8411 8431	quis prior sit arte.
+R30	Parallel Arg1:T46 Arg2:T47	
+R31	Parallel Arg1:T47 Arg2:T48	
+R32	Parallel Arg1:T46 Arg2:T48	
+T49	ParallelArm 8558 8597	attenditis Paulum, obliti estis Saulum:
+T50	ParallelArm 8598 8641	attenditis ad pastorem, obliti estis lupum.
+R33	Parallel Arg1:T49 Arg2:T50	
+T51	ParallelArm 8642 8660	nonne ille est cui
+T52	ParallelArm 8744 8794	nonne ipse est qui ecclesiam ubique persequebatur?
+T53	ParallelArm 8795 8858	nonne ipse est qui litteras acceperat a principibus sacerdotum?
+R34	Parallel Arg1:T52 Arg2:T53	
+R35	Parallel Arg1:T51 Arg2:T52	
+R36	Parallel Arg1:T51 Arg2:T53	
+T54	ParallelArm 9132 9157	dum ambulat, prosternitur
+T55	ParallelArm 9159 9181	ut uideat, excaecatur.
+R37	Parallel Arg1:T54 Arg2:T55	
+T56	ParallelArm 9326 9345	iam illo prostrato,
+T57	ParallelArm 9346 9357	iam erecto:
+R38	Parallel Arg1:T56 Arg2:T57	
+T58	ParallelArm 9720 9743	in Dauid Christus erat,
+T59	ParallelArm 9744 9778	in Dauid Christus praefigurabatur,
+R39	Parallel Arg1:T58 Arg2:T59	
+T60	ParallelArm 9779 9811	in Saule Saulus praefigurabatur:
+R40	Parallel Arg1:T59 Arg2:T60	
+T61	ParallelArm 10973 10995	si Paulus sanatus est,
+T62	ParallelArm 10996 11014	ego quare despero?
+T63	ParallelArm 11015 11066	si a tanto medico tam desperatus aeger sanatus est,
+T64	ParallelArm 11067 11114	ego cur uulneribus meis illas manus non aptabo?
+R41	Parallel Arg1:T61 Arg2:T63	
+R42	Parallel Arg1:T62 Arg2:T64	
+T65	ParallelArm 11075 11114	uulneribus meis illas manus non aptabo?
+T66	ParallelArm 11115 11144	ad illas manus non festinabo?
+R43	Parallel Arg1:T65 Arg2:T66	
+T67	ParallelArm 11354 11371	quaerit mercedem,
+T68	ParallelArm 11376 11392	commendat artem.
+R44	Parallel Arg1:T67 Arg2:T68	
+T69	ParallelArm 11955 11983	de dextera ire ad sinistram,
+T70	ParallelArm 11984 12003	de ualle ad montem,
+T71	ParallelArm 12004 12029	de humilitate ad tumorem.
+R45	Parallel Arg1:T69 Arg2:T70	
+R46	Parallel Arg1:T70 Arg2:T71	
+T72	ParallelArm 12247 12276	qui se exaltat, humiliabitur;
+T73	ParallelArm 12280 12309	qui se humiliat, exaltabitur.
+R47	Parallel Arg1:T72 Arg2:T73	

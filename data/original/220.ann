@@ -1,0 +1,51 @@
+T1	ParallelArm 94 117	pro peccatoribus iustum
+T2	ParallelArm 119 137	pro seruis dominum
+T3	ParallelArm 139 160	pro captiuis liberum,
+T4	ParallelArm 161 181	pro aegrotis medicum
+T5	ParallelArm 183 201	pro miseris beatum
+T6	ParallelArm 203 224	pro egenis opulentum,
+T7	ParallelArm 225 250	pro perditis quaesitorem,
+T8	ParallelArm 251 276	pro uenditis redemptorem,
+T9	ParallelArm 277 296	pro grege pastorem,
+T10	ParallelArm 329 351	pro creatura creatorem
+R1	Parallel Arg1:T1 Arg2:T2	
+R2	Parallel Arg1:T2 Arg2:T3	
+R3	Parallel Arg1:T3 Arg2:T4	
+R4	Parallel Arg1:T4 Arg2:T5	
+R5	Parallel Arg1:T5 Arg2:T6	
+R6	Parallel Arg1:T6 Arg2:T7	
+R7	Parallel Arg1:T7 Arg2:T8	
+R8	Parallel Arg1:T9 Arg2:T8	
+R9	Parallel Arg1:T9 Arg2:T10	
+T11	ParallelArm 353 385	seruantem tamen quod semper est,
+T12	ParallelArm 386 411	tradentem quod factus est
+R10	Parallel Arg1:T11 Arg2:T12	
+T13	ParallelArm 413 427	deum latentem,
+T14	ParallelArm 428 447	hominem apparentem;
+R11	Parallel Arg1:T13 Arg2:T14	
+T15	ParallelArm 448 469	uirtute uiuificantem,
+T16	ParallelArm 470 492	infirmitate morientem,
+R12	Parallel Arg1:T15 Arg2:T16	
+T17	ParallelArm 493 516	diuinitate immutabilem,
+T18	ParallelArm 517 534	carne passibilem:
+R13	Parallel Arg1:T17 Arg2:T18	
+T19	ParallelArm 557 592	traditus est propter delicta nostra
+T20	ParallelArm 597 640	resurrexit propter iustificationem nostram.
+R14	Parallel Arg1:T19 Arg2:T20	
+T21	ParallelArm 860 874	ista mentiatur
+T22	ParallelArm 876 892	illa uerum dicat
+R15	Parallel Arg1:T21 Arg2:T22	
+T23	ParallelArm 904 942	semel factum in rebus ueritas indicat,
+T24	ParallelArm 947 1003	saepius celebrandum in cordibus piis solemnitas renouat.
+R16	Parallel Arg1:T23 Arg2:T24	
+T25	ParallelArm 1275 1354	secundum uocem ueritatis, semel pascha dicimus factum, et ulterius non futurum:
+T26	ParallelArm 1355 1424	secundum autem uocem solemnitatis, omni anno dicimus pascha uenturum.
+R17	Parallel Arg1:T25 Arg2:T26	
+T27	ParallelArm 2080 2112	fecit doctos praedicata ueritas,
+T28	ParallelArm 2122 2161	faciat irreligiosos deserta solemnitas.
+R18	Parallel Arg1:T27 Arg2:T28	
+T29	ParallelArm 2214 2261	haec demonstrat christianorum agmina populorum,
+T30	ParallelArm 2262 2296	haec confundit tenebras Iudaeorum,
+R19	Parallel Arg1:T29 Arg2:T30	
+T31	ParallelArm 2297 2326	haec euertit idola paganorum.
+R20	Parallel Arg1:T30 Arg2:T31	

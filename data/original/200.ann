@@ -1,0 +1,59 @@
+T1	ParallelArm 213 242	illi erant primitiae gentium,
+T2	ParallelArm 243 263	nos populus gentium.
+T3	ChiasmA 264 303	nobis hoc lingua nuntiauit apostolorum,
+T4	ChiasmB 304 341	stella illis tanquam lingua caelorum:
+R1	Chiasm Arg1:T3 Arg2:T4	
+R2	Parallel Arg1:T1 Arg2:T2	
+T5	ParallelArm 718 743	abscondebatur in stabulo,
+T6	ParallelArm 747 769	agnoscebatur in caelo;
+R3	Parallel Arg1:T5 Arg2:T6	
+T7	ParallelArm 1041 1072	inualidus infantilibus membris,
+T8	ParallelArm 1073 1103	inuolutus infantilibus pannis,
+R4	Parallel Arg1:T7 Arg2:T8	
+T9	ParallelArm 1104 1123	adoraretur a magis,
+T10	ParallelArm 1124 1141	timeretur a malis
+R5	Parallel Arg1:T9 Arg2:T10	
+T11	ParallelArm 1396 1431	sicut Herodes, interficere quaerunt
+T12	ParallelArm 1437 1476	sicut magi potius, adorare delectantur,
+R6	Parallel Arg1:T11 Arg2:T12	
+T13	ParallelArm 1635 1690	pie timeant nunc reges ad patris dexteram iam sedentem,
+T14	ParallelArm 1696 1748	rex ille impius timuit adhuc matris ubera lambentem.
+R7	Parallel Arg1:T13 Arg2:T14	
+T15	ParallelArm 1838 1863	seruite domino in timore,
+T16	ParallelArm 1867 1892	exsultate ei cum tremore.
+R8	Parallel Arg1:T15 Arg2:T16	
+T17	ParallelArm 1908 1929	ultor impiorum regum,
+T18	ParallelArm 1933 1947	rector piorum,
+R9	Parallel Arg1:T17 Arg2:T18	
+T19	ParallelArm 2059 2110	nobilitas fuit nascentis, in uirginitate parientis;
+T20	ParallelArm 2114 2158	nobilitas parientis, in diuinitate nascentis
+R10	Parallel Arg1:T19 Arg2:T20	
+T21	ParallelArm 2455 2520	in terra eorum isti requirebant, quem illi in sua non agnoscebant
+T22	ParallelArm 2522 2595	apud eos isti infantem inuenerunt, quem illi apud se docentem negauerunt.
+R11	Parallel Arg1:T21 Arg2:T22	
+T23	ParallelArm 2596 2745	in his terris de longinquo isti peregrini puerum Christum nondum uerba promentem adorauerunt, ubi ciues illi iuuenem miracula facientem crucifixerunt
+R12	Parallel Arg1:T22 Arg2:T23	
+T24	ParallelArm 2747 2786	isti in membris paruis deum agnouerunt;
+T25	ParallelArm 2787 2839	illi in factis magnis nec tanquam homini pepercerunt
+R13	Parallel Arg1:T24 Arg2:T25	
+T26	ParallelArm 2872 2909	stellam in eius natiuitate fulgentem,
+T27	ParallelArm 2915 2944	solem eius in morte lugentem.
+R14	Parallel Arg1:T26 Arg2:T27	
+T28	ParallelArm 3634 3661	ad adiutorium salutis suae,
+T29	ParallelArm 3666 3697	ad testimonium salutis nostrae?
+R15	Parallel Arg1:T28 Arg2:T29	
+T30	ParallelArm 4482 4516	Iudaeis in pastorum propinquitate,
+T31	ParallelArm 4517 4551	gentibus in magorum longinquitate.
+R16	Parallel Arg1:T30 Arg2:T31	
+T32	ParallelArm 4643 4659	nec illis doctis
+T33	ParallelArm 4661 4677	nec istis iustis
+R17	Parallel Arg1:T32 Arg2:T33	
+T34	ParallelArm 4696 4729	imperitia in rusticitate pastorum
+T35	ParallelArm 4734 4765	impietas in sacrilegiis magorum
+R18	Parallel Arg1:T34 Arg2:T35	
+T36	ParallelArm 4919 4944	nullus magnus superbiret,
+T37	ParallelArm 4945 4970	nullus infimus desperaret
+R19	Parallel Arg1:T36 Arg2:T37	
+T38	ParallelArm 5191 5205	natus ostendit
+T39	ParallelArm 5207 5223	passus impleuit;
+R20	Parallel Arg1:T38 Arg2:T39	

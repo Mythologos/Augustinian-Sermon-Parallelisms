@@ -1,0 +1,148 @@
+T1	ParallelArm 435 468	corde enim creditur ad iustitiam,
+T2	ParallelArm 469 504	ore autem confessio fit ad salutem.
+R1	Parallel Arg1:T1 Arg2:T2	
+T3	ChiasmA 645 662	mandanda memoriae
+T4	ChiasmB 666 681	ore proferenda,
+R2	Chiasm Arg1:T3 Arg2:T4	
+T5	ParallelArm 905 930	fides uestra aedificetur,
+T6	ParallelArm 934 955	confessio praeparetur
+T7	ParallelArm 960 981	memoria non grauetur.
+R3	Parallel Arg1:T5 Arg2:T6	
+R4	Parallel Arg1:T6 Arg2:T7	
+T8	ParallelArm 997 1016	fideliter retenturi
+T9	ParallelArm 1027 1047	memoriter reddituri.
+R5	Parallel Arg1:T8 Arg2:T9	
+T10	ParallelArm 1525 1623	quidquid rationabili mente potest esse particeps incommutabilis ueritatis, sicuti angelus et homo;
+T11	ParallelArm 1624 1777	quidquid uiuit et sentit, quamuis careat intellectu, sicut sunt cuncta animalia, in terra, in aquis, in aere, gradientia, reptilia, natatilia, uolatilia;
+T12	ParallelArm 1778 1946	quidquid sine intellectu, sine aliquo sensu, quoquo modo dicitur uiuere, sicut sunt ea quae radicibus figuntur in terra et in auras germinando erumpunt atque consurgunt
+T13	ParallelArm 1948 2080	quidquid sola corpulentia locum occupat, sicut lapis, atque ipsius mundanae molis quaecumque cernuntur uel etiam tanguntur elementa:
+R6	Parallel Arg1:T10 Arg2:T11	
+R7	Parallel Arg1:T11 Arg2:T12	
+R8	Parallel Arg1:T12 Arg2:T13	
+T14	ParallelArm 3719 3741	faciunt quod non uult,
+T15	ParallelArm 3746 3775	de his faciet ipse quod uult.
+R9	Parallel Arg1:T14 Arg2:T15	
+T16	ParallelArm 3844 3873	siue enim homo iuste damnetur
+T17	ParallelArm 3875 3904	siue misericorditer liberetur
+R10	Parallel Arg1:T16 Arg2:T17	
+T18	ParallelArm 4014 4042	secundum illorum prauitatem,
+T19	ParallelArm 4047 4079	secundum suam rectam uoluntatem.
+R11	Parallel Arg1:T18 Arg2:T19	
+T20	ParallelArm 4542 4586	sicut nouerat quae ipsi essent mala facturi,
+T21	ParallelArm 4587 4643	sic etiam nouerat quae bona de illis esset ipse facturus
+R12	Parallel Arg1:T20 Arg2:T21	
+T22	ChiasmA 4645 4666	quis uerbis explicet,
+T23	ChiasmB 4667 4692	quis aequiperet laudibus,
+R13	Chiasm Arg1:T22 Arg2:T23	
+T24	ParallelArm 4822 4842	per malitiam zabuli,
+T25	ParallelArm 4843 4866	per malitiam Iudaeorum,
+T26	ParallelArm 4867 4896	per malitiam Iudae traditoris
+R14	Parallel Arg1:T24 Arg2:T25	
+R15	Parallel Arg1:T25 Arg2:T26	
+T27	ParallelArm 4915 4943	eis iuste retribuitur bonum,
+T28	ParallelArm 4999 5032	eis iuste retribuitur supplicium,
+R16	Parallel Arg1:T27 Arg2:T28	
+T29	ParallelArm 5745 5754	non uult,
+T30	ParallelArm 5755 5766	non potest,
+R17	Parallel Arg1:T29 Arg2:T30	
+T31	ParallelArm 5809 5849	iustitia uelle facere quod iniustum est,
+T32	ParallelArm 5854 5887	sapientia uelle quod stultum est,
+T33	ParallelArm 5892 5921	ueritas uelle quod falsum est
+R18	Parallel Arg1:T31 Arg2:T32	
+R19	Parallel Arg1:T32 Arg2:T33	
+T34	ParallelArm 6127 6143	non potest mori,
+T35	ParallelArm 6144 6161	non potest mutari
+T36	ParallelArm 6163 6180	non potest falli,
+T37	ParallelArm 6181 6204	non potest miser fieri,
+T38	ParallelArm 6205 6222	non potest uinci.
+R20	Parallel Arg1:T34 Arg2:T35	
+R21	Parallel Arg1:T35 Arg2:T36	
+R22	Parallel Arg1:T36 Arg2:T37	
+R23	Parallel Arg1:T37 Arg2:T38	
+T39	ParallelArm 6293 6349	ostendit ueritas omnipotentem esse, quod ista non possit
+T40	ParallelArm 6361 6413	cogit ueritas omnipotentem non esse, qui haec possit
+R24	Parallel Arg1:T39 Arg2:T40	
+T41	ParallelArm 8202 8257	illa est de patre sine matre, ista de matre sine patre:
+T42	ParallelArm 8258 8316	illa est sine aliquo tempore, ista in acceptabili tempore:
+R25	Parallel Arg1:T41 Arg2:T42	
+T43	ParallelArm 8317 8330	illa aeterna,
+T44	ParallelArm 8331 8346	ista opportuna:
+R26	Parallel Arg1:T43 Arg2:T44	
+T45	ParallelArm 8347 8379	illa sine corpore in sinu patris
+T46	ParallelArm 8381 8437	ista cum corpore, quo non uiolata est uirginitas matris:
+R27	Parallel Arg1:T45 Arg2:T46	
+T47	ParallelArm 8438 8458	illa sine ullo sexu,
+T48	ParallelArm 8459 8490	ista sine ullo uirili complexu.
+R28	Parallel Arg1:T47 Arg2:T48	
+T49	ParallelArm 9008 9045	dei patris est filius propter uerbum,
+T50	ParallelArm 9049 9080	hominis filius propter hominem.
+R29	Parallel Arg1:T49 Arg2:T50	
+T51	ParallelArm 9081 9124	per id quod uerbum est, aequalis est patri:
+T52	ParallelArm 9125 9162	per id quod homo est, maior est pater
+R30	Parallel Arg1:T51 Arg2:T52	
+T53	ParallelArm 9164 9245	et simul cum homine filius dei est, sed propter uerbum, a quo susceptus est homo:
+T54	ParallelArm 9246 9332	et simul cum uerbo filius hominis est, sed propter hominem, qui est susceptus a uerbo.
+R31	Parallel Arg1:T53 Arg2:T54	
+T55	ParallelArm 9391 9419	concupiscentia carnis urente
+T56	ParallelArm 9432 9456	fidei caritate feruente,
+R32	Parallel Arg1:T55 Arg2:T56	
+T57	ParallelArm 9541 9554	ad gignentem,
+T58	ParallelArm 9559 9577	ad sanctificantem,
+R33	Parallel Arg1:T57 Arg2:T58	
+T59	ParallelArm 9954 9981	incontrectabilis teneretur,
+T60	ParallelArm 9982 10016	insuperabilis ligno suspenderetur,
+T61	ParallelArm 10017 10050	inuiolabilis clauis configeretur,
+R34	Parallel Arg1:T59 Arg2:T60	
+R35	Parallel Arg1:T60 Arg2:T61	
+T62	ParallelArm 10356 10386	et corde credamus ad iustitiam
+T63	ParallelArm 10387 10417	et ore confiteamur ad salutem.
+R36	Parallel Arg1:T62 Arg2:T63	
+T64	ParallelArm 10671 10781	ad totum refertur quod in solo homine crucifixus est, quoniam filius dei unicus Iesus Christus crucifixus est:
+T65	ParallelArm 10782 10902	ad totum refertur quod in sola carne sepultus est, quoniam unicus filius dei dominus noster Iesus Christus sepultus est.
+R37	Parallel Arg1:T64 Arg2:T65	
+T66	ParallelArm 11473 11511	et in solo corpore iacere in sepulcro,
+T67	ParallelArm 11512 11551	et in solo spiritu gaudere cum Christo.
+R38	Parallel Arg1:T66 Arg2:T67	
+T68	ParallelArm 11586 11623	siue unde colligatur temporis ueritas
+T69	ParallelArm 11625 11670	siue unde Christi plus commendetur humilitas,
+R39	Parallel Arg1:T68 Arg2:T69	
+T70	ParallelArm 12482 12498	absit hoc putare
+T71	ParallelArm 12500 12517	absit hoc dicere.
+R40	Parallel Arg1:T70 Arg2:T71	
+T72	ParallelArm 13462 13490	sinistra eius sub capite meo
+T73	ParallelArm 13495 13524	dexetera eius amplectitur me.
+#1	AnnotatorNotes T73	should be "dextera"
+T74	ParallelArm 13533 13568	subter iacuerit terrena commoditas,
+T75	ParallelArm 13573 13610	desuper amplectitur aeterna felicitas
+R41	Parallel Arg1:T74 Arg2:T75	
+T76	ParallelArm 14334 14350	uiuis et mortuis
+T77	ParallelArm 14352 14367	bonis et malis:
+R42	Parallel Arg1:T76 Arg2:T77	
+T78	ParallelArm 15207 15247	super filium manentem, nec filii patrem:
+T79	ParallelArm 15167 15206	de patre procedentem, nec tamen filium:
+T80	ParallelArm 15248 15293	de filii accipientem, nec tamen filii filium:
+#2	AnnotatorNotes T80	"de filii": corrupt; either "de filio" or "de filii <***>"
+R43	Parallel Arg1:T79 Arg2:T78	
+R44	Parallel Arg1:T78 Arg2:T80	
+T81	ChiasmA 15721 15744	nulla operum separatio,
+T82	ChiasmB 15745 15777	nulla dissimilitudo substantiae.
+R45	Chiasm Arg1:T81 Arg2:T82	
+T83	ParallelArm 15778 15794	unus pater deus,
+T84	ParallelArm 15795 15812	unus filius deus,
+T85	ParallelArm 15813 15839	unus spiritus sanctus deus
+R46	Parallel Arg1:T83 Arg2:T84	
+R47	Parallel Arg1:T84 Arg2:T85	
+T86	ParallelArm 16027 16045	pater filii pater,
+T87	ParallelArm 16049 16069	filius patris filius
+T88	ParallelArm 16074 16116	spiritus sanctus patris et filii spiritus:
+R48	Parallel Arg1:T86 Arg2:T87	
+R49	Parallel Arg1:T87 Arg2:T88	
+T89	ParallelArm 17175 17215	corruptibile hoc induere incorruptionem,
+T90	ParallelArm 17219 17254	mortale hoc induere inmortalitatem.
+R50	Parallel Arg1:T89 Arg2:T90	
+T91	ParallelArm 17255 17305	seminatur in corruptione, surget in incorruptione:
+T92	ParallelArm 17306 17347	seminatur in contumelia, surget in gloria
+R51	Parallel Arg1:T91 Arg2:T92	
+T93	ParallelArm 17349 17374	seminatur corpus animale,
+T94	ParallelArm 17375 17399	surget corpus spiritale.
+R52	Parallel Arg1:T93 Arg2:T94	

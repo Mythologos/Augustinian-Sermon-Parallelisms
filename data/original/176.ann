@@ -1,0 +1,89 @@
+T1	ParallelArm 88 99	illo dante,
+T2	ParallelArm 100 115	me ministrante.
+R1	Parallel Arg1:T1 Arg2:T2	
+T3	ParallelArm 537 546	una uoce,
+T4	ParallelArm 547 556	uno corde
+R2	Parallel Arg1:T3 Arg2:T4	
+T5	ParallelArm 1237 1254	mundatos in cute,
+T6	ParallelArm 1255 1273	leprosos in corde.
+R3	Parallel Arg1:T5 Arg2:T6	
+T7	ParallelArm 1600 1635	nullus omnino hominum non aegrotus,
+T8	ParallelArm 1636 1671	nullus sine gratia Christi sanatus.
+R4	Parallel Arg1:T7 Arg2:T8	
+T9	ParallelArm 1864 1889	aliorum pedes ut ueniant,
+T10	ParallelArm 1890 1912	aliorum cor ut credant
+T11	ParallelArm 1914 1942	aliorum linguam ut fateantur
+R5	Parallel Arg1:T9 Arg2:T10	
+R6	Parallel Arg1:T10 Arg2:T11	
+R7	Parallel Arg1:T9 Arg2:T11	
+T12	ParallelArm 1971 1999	alio peccante praegrauantur,
+T13	ParallelArm 2022 2055	alio pro eis confitente saluentur
+R8	Parallel Arg1:T12 Arg2:T13	
+T14	ParallelArm 2114 2128	semper habuit,
+T15	ParallelArm 2129 2142	semper tenuit
+R9	Parallel Arg1:T14 Arg2:T15	
+T16	ParallelArm 2812 2867	pro magno commendantur episcopis patrimonia pupillorum,
+T17	ParallelArm 2868 2899	quanto magis gratia paruulorum?
+R10	Parallel Arg1:T16 Arg2:T17	
+T18	ParallelArm 3667 3685	si dixeris, habet;
+T19	ParallelArm 3686 3703	confitendo deles:
+T20	ParallelArm 3704 3715;3716 3726	si dixeris. non habet;
+T21	ParallelArm 3727 3741	negando tenes.
+R11	Parallel Arg1:T18 Arg2:T20	
+R12	Parallel Arg1:T19 Arg2:T21	
+T22	ParallelArm 5491 5519	una uoce percussi et deieci,
+T23	ParallelArm 5520 5540	alia erexi et elegi,
+T24	ParallelArm 5541 5564	tertia impleui et misi,
+T25	ParallelArm 5565 5593	quarta liberaui et coronaui.
+R13	Parallel Arg1:T22 Arg2:T23	
+R14	Parallel Arg1:T23 Arg2:T24	
+R15	Parallel Arg1:T24 Arg2:T25	
+R16	Parallel Arg1:T22 Arg2:T24	
+R17	Parallel Arg1:T22 Arg2:T25	
+R18	Parallel Arg1:T23 Arg2:T25	
+T26	ParallelArm 5736 5749	quid timetis?
+T27	ParallelArm 5750 5766	quid trepidatis?
+R19	Parallel Arg1:T26 Arg2:T27	
+T28	ParallelArm 5817 5837	sanus aegrotantibus,
+T29	ParallelArm 5838 5854	stans iacentibus
+T30	ParallelArm 5856 5878	securus desperantibus.
+R20	Parallel Arg1:T28 Arg2:T29	
+R21	Parallel Arg1:T29 Arg2:T30	
+R22	Parallel Arg1:T28 Arg2:T30	
+T31	ParallelArm 6273 6317	aegroti estis, accedite ad eum, et sanamini:
+T32	ParallelArm 6318 6364	caeci estis, accedite ad eum, et illuminamini.
+R23	Parallel Arg1:T31 Arg2:T32	
+T33	ParallelArm 6365 6401	et qui sani estis, ei gratias agite:
+T34	ParallelArm 6402 6444	et qui aegrotatis, ad eum sanandi currite:
+R24	Parallel Arg1:T33 Arg2:T34	
+T35	ParallelArm 6892 6921	nemo recreat, nisi qui creat;
+T36	ParallelArm 6922 6950	nemo reficit, nisi qui fecit
+R25	Parallel Arg1:T35 Arg2:T36	
+T37	ParallelArm 7433 7442	ut esses,
+T38	ParallelArm 7443 7455	ut sentires,
+T39	ParallelArm 7456 7467	ut audires,
+T40	ParallelArm 7468 7483	ut consentires,
+R26	Parallel Arg1:T37 Arg2:T38	
+R27	Parallel Arg1:T37 Arg2:T39	
+R28	Parallel Arg1:T38 Arg2:T40	
+R29	Parallel Arg1:T39 Arg2:T40	
+T41	ParallelArm 7679 7723	ne in bonis tuis illum contemnas, te laudes;
+T42	ParallelArm 7724 7767	ne in malis tuis illum accuses, te excuses:
+R30	Parallel Arg1:T41 Arg2:T42	
+T43	ParallelArm 8103 8132	antequam ueniat, propitietur;
+T44	ParallelArm 8133 8158	antequam adsit, placetur.
+R31	Parallel Arg1:T43 Arg2:T44	
+T45	ParallelArm 8359 8409	praeueniens faciem eius in confessione, accusa te;
+T46	ParallelArm 8410 8442	iubilans in Psalmo, lauda illum.
+R32	Parallel Arg1:T45 Arg2:T46	
+T47	ParallelArm 8545 8556	hoc tenete,
+T48	ParallelArm 8557 8575	in hoc persistite.
+R33	Parallel Arg1:T47 Arg2:T48	
+T49	ParallelArm 8576 8588	nemo uariet,
+T50	ParallelArm 8589 8607	nemo leprosus sit.
+R34	Parallel Arg1:T49 Arg2:T50	
+T51	ParallelArm 9090 9109	quod homines sumus,
+T52	ParallelArm 9110 9128	quod bene uiximus,
+T53	ParallelArm 9129 9153	quod recte intelleximus,
+R35	Parallel Arg1:T51 Arg2:T52	
+R36	Parallel Arg1:T52 Arg2:T53	

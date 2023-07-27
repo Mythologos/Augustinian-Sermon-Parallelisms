@@ -1,0 +1,46 @@
+T1	ParallelArm 1983 2022	nec deficit quia permansio non minuitur
+T2	ParallelArm 2023 2063	nec proficit quia perfectio non augetur.
+R1	Parallel Arg1:T1 Arg2:T2	
+T3	ParallelArm 2400 2420	formam dei amittens,
+T4	ParallelArm 2425 2447	formam serui accipiens
+R2	Parallel Arg1:T3 Arg2:T4	
+T5	ParallelArm 2449 2544	per hanc formam serui inuisibilis uisus est, quia natus est de spiritu sancto et Maria uirgine,
+T6	ParallelArm 2545 2624	per hanc formam serui omnipotens infirmatus, quia passus est sub Pontio Pilato;
+R3	Parallel Arg1:T5 Arg2:T6	
+T7	ParallelArm 2625 2702	per hanc formam serui inmortalis mortuus est, quia crucifixus est et sepultus
+R4	Parallel Arg1:T7 Arg2:T6	
+T8	ParallelArm 2704 2763	per hanc formam serui rex saeculorum die tertio resurrexit;
+T9	ParallelArm 2764 2857	per hanc formam uisibilium et inuisibilium creator ascendit in caelum, unde numquam recessit;
+T10	ParallelArm 2858 2951	per hanc formam serui sedet ad dexteram patris qui est brachium patris de quo dicit propheta:
+R5	Parallel Arg1:T8 Arg2:T9	
+R6	Parallel Arg1:T9 Arg2:T10	
+T11	ParallelArm 3201 3218	ab utroque missus
+T12	ParallelArm 3220 3236	a nullo genitus,
+R7	Parallel Arg1:T11 Arg2:T12	
+T13	ParallelArm 3400 3409	tres deos
+T14	ParallelArm 3414 3431	tres omnipotentes
+T15	ParallelArm 3436 3450	tres creatores
+R8	Parallel Arg1:T13 Arg2:T14	
+R9	Parallel Arg1:T14 Arg2:T15	
+T16	ParallelArm 3574 3594	pater non sit filius
+T17	ParallelArm 3598 3618	filius non sit pater
+T18	ParallelArm 3622 3664	spiritus sanctus nec filius sit nec pater,
+R10	Parallel Arg1:T16 Arg2:T17	
+R11	Parallel Arg1:T17 Arg2:T18	
+T19	ParallelArm 3669 3685	ille pater filii
+T20	ParallelArm 3687 3705	ille filius patris
+T21	ParallelArm 3707 3739	ille spiritus et patris et filii
+R12	Parallel Arg1:T19 Arg2:T20	
+R13	Parallel Arg1:T20 Arg2:T21	
+T22	ParallelArm 4414 4466	ad passiones dolorum, sicut resurrecturi sunt impii,
+T23	ParallelArm 4467 4525	nec ad gaudia carnalium desideriorum, sicut putant stulti,
+R14	Parallel Arg1:T22 Arg2:T23	
+T24	ParallelArm 4551 4575	seminatur corpus animale
+T25	ParallelArm 4577 4602	resurget corpus spiritale
+R15	Parallel Arg1:T24 Arg2:T25	
+T26	ParallelArm 4732 4762	nec ullam quaerat refectionem,
+T27	ParallelArm 4763 4796	quia nullam patietur defectionem,
+R16	Parallel Arg1:T26 Arg2:T27	
+T28	ParallelArm 6037 6063	seruiliter timendo poenam,
+T29	ParallelArm 6068 6097	liberaliter amando iustitiam.
+R17	Parallel Arg1:T28 Arg2:T29	

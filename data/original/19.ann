@@ -1,0 +1,166 @@
+T1	ParallelArm 254 283	iniquitatem meam ego agnosco,
+T2	ParallelArm 287 320	peccatum meum ante me est semper.
+R1	Parallel Arg1:T1 Arg2:T2	
+T3	ParallelArm 467 478	homo dicit:
+T4	ParallelArm 508 523	peccator dicit:
+R2	Parallel Arg1:T3 Arg2:T4	
+T5	ParallelArm 578 620	ne auertas faciem tuam ab eo quem fecisti,
+T6	ParallelArm 621 655	auerte faciem tuam ab eo quod feci
+R3	Parallel Arg1:T5 Arg2:T6	
+T7	ParallelArm 735 754	fecisti tu aliquid,
+T8	ParallelArm 755 775	feci et ego aliquid.
+R4	Parallel Arg1:T7 Arg2:T8	
+T9	ParallelArm 776 807	quod tu fecisti, natura dicitur
+T10	ParallelArm 809 838	quod ego feci, uitium uocatur
+R5	Parallel Arg1:T9 Arg2:T10	
+T11	ParallelArm 840 854	uitium sanetur
+T12	ParallelArm 859 875	natura seruetur.
+R6	Parallel Arg1:T11 Arg2:T12	
+T13	ParallelArm 921 932	ego agnosco
+T14	ParallelArm 939 949	tu ignosce
+R7	Parallel Arg1:T13 Arg2:T14	
+T15	ParallelArm 1028 1041	uita laudetur
+T16	ParallelArm 1045 1062	uenia postuletur.
+R8	Parallel Arg1:T15 Arg2:T16	
+T17	ParallelArm 1088 1129	quanto minus intenti sunt in peccata sua,
+T18	ParallelArm 1130 1163	tanto curiosiores sunt in aliena.
+R9	Parallel Arg1:T17 Arg2:T18	
+T19	ParallelArm 1182 1196	quid corrigant
+T20	ParallelArm 1202 1216	quid mordeant.
+R10	Parallel Arg1:T19 Arg2:T20	
+T21	ParallelArm 1364 1389	facinus meum ego agnosco,
+T22	ParallelArm 1393 1425	peccatum meum ante me est semper
+R11	Parallel Arg1:T21 Arg2:T22	
+T23	ParallelArm 1804 1812	aut a te
+T24	ParallelArm 1814 1823	aut a me.
+R12	Parallel Arg1:T23 Arg2:T24	
+T25	ParallelArm 1847 1871	aut ab homine paenitente
+T26	ParallelArm 1873 1893	aut a deo iudicante.
+R13	Parallel Arg1:T25 Arg2:T26	
+T27	ParallelArm 1907 1923	aut a te sine te
+T28	ParallelArm 1925 1941	aut a deo tecum.
+R14	Parallel Arg1:T27 Arg2:T28	
+T29	ParallelArm 3154 3172	aliis decedentibus
+T30	ParallelArm 3173 3193	aliisque nascentibus
+R15	Parallel Arg1:T29 Arg2:T30	
+T31	ParallelArm 3248 3296	signa mutata sunt quibus aliquid significabatur,
+T32	ParallelArm 3301 3325	res quae significabatur.
+R16	Parallel Arg1:T31 Arg2:T32	
+T33	ParallelArm 3326 3344	pro Christo aries,
+T34	ParallelArm 3345 3362	pro Christo agnus
+T35	ParallelArm 3364 3383	pro Christo uitulus
+T36	ParallelArm 3385 3403	pro Christo hircus
+R17	Parallel Arg1:T33 Arg2:T34	
+R18	Parallel Arg1:T34 Arg2:T35	
+R19	Parallel Arg1:T35 Arg2:T36	
+T37	ParallelArm 3574 3596	et Isaac Christus erat
+T38	ParallelArm 3598 3620	et aries Christus erat
+R20	Parallel Arg1:T37 Arg2:T38	
+T39	ParallelArm 3622 3648	Isaac sibi ligna portabat:
+T40	ParallelArm 3649 3684	Christus crucem propriam baiulabat.
+R21	Parallel Arg1:T39 Arg2:T40	
+T41	ParallelArm 3856 3866	agnus est:
+T42	ParallelArm 3914 3924	taurus est
+T43	ParallelArm 3949 3959	hircus est
+R22	Parallel Arg1:T41 Arg2:T42	
+R23	Parallel Arg1:T42 Arg2:T43	
+T44	ParallelArm 4023 4037	aspiraret dies
+T45	ParallelArm 4041 4061	remouerentur umbrae.
+R24	Parallel Arg1:T44 Arg2:T45	
+T46	ParallelArm 4570 4604	credidi, propter quod locutus sum,
+T47	ParallelArm 4612 4647	credimus, propter quod et loquimur.
+R25	Parallel Arg1:T46 Arg2:T47	
+T48	ParallelArm 4868 4888	praesentia spernebat
+T49	ParallelArm 4892 4910	futura praeuidebat
+R26	Parallel Arg1:T48 Arg2:T49	
+T50	ParallelArm 5129 5155	non gregem circuminspicias
+T51	ParallelArm 5157 5178	non nauigia praepares
+R27	Parallel Arg1:T50 Arg2:T51	
+T52	ParallelArm 5377 5396	creetur mundum cor,
+T53	ParallelArm 5397 5417	conteratur inmundum.
+R28	Parallel Arg1:T52 Arg2:T53	
+T54	ParallelArm 5976 5999	et in eo quod praestat,
+T55	ParallelArm 6000 6023	et in eo quod castigat,
+R29	Parallel Arg1:T54 Arg2:T55	
+T56	ParallelArm 7048 7059	irrisus est
+T57	ParallelArm 7061 7077	exprobratus est,
+T58	ParallelArm 7078 7093	adprehensus est
+T59	ParallelArm 7095 7111	flagellatus est,
+T60	ParallelArm 7112 7123	uinctus est
+T61	ParallelArm 7125 7143	palmis caesus est,
+T62	ParallelArm 7174 7194	spinis coronatus est
+R30	Parallel Arg1:T56 Arg2:T57	
+R31	Parallel Arg1:T57 Arg2:T58	
+R32	Parallel Arg1:T58 Arg2:T59	
+R33	Parallel Arg1:T59 Arg2:T60	
+T63	ParallelArm 8119 8134	illis felicitas
+T64	ParallelArm 8136 8150	mihi calamitas
+R34	Parallel Arg1:T61 Arg2:T62	
+T65	ParallelArm 8166 8182	inde moti pedes,
+T66	ParallelArm 8183 8208	inde pene effusi gressus,
+T67	ParallelArm 8209 8234	inde propinquus interitus
+R35	Parallel Arg1:T63 Arg2:T64	
+R36	Parallel Arg1:T65 Arg2:T66	
+R37	Parallel Arg1:T66 Arg2:T67	
+T68	ParallelArm 9017 9029;9030 9084	habes illam? noli putare inde te esse bonum, sed fac te inde bonum.
+T69	ParallelArm 9085 9101;9102 9169	non illam habes? noli putare inde te esse malum, sed caue malum quo non uenit bonus.
+R38	Parallel Arg1:T68 Arg2:T69	
+T70	ParallelArm 9696 9713	saltem ipsa hora,
+T71	ParallelArm 9714 9734	saltem ipso momento,
+T72	ParallelArm 9735 9762	saltem ipso temporis puncto
+R39	Parallel Arg1:T70 Arg2:T71	
+R40	Parallel Arg1:T71 Arg2:T72	
+T73	ParallelArm 10078 10095	nulla ignorantia,
+T74	ParallelArm 10059 10077	nulla perturbatio,
+T75	ParallelArm 10096 10113	nullum periculum,
+T76	ParallelArm 10114 10128	nulla temtatio
+R41	Parallel Arg1:T74 Arg2:T73	
+R42	Parallel Arg1:T73 Arg2:T75	
+R43	Parallel Arg1:T75 Arg2:T76	
+T77	ParallelArm 10313 10335	aurum pallorem terrae,
+T78	ParallelArm 10336 10359	argentum liuorem terrae
+T79	ParallelArm 10361 10384	honorem temporis fumum.
+R44	Parallel Arg1:T77 Arg2:T78	
+R45	Parallel Arg1:T78 Arg2:T79	
+T80	ParallelArm 11204 11219	illud laudando,
+T81	ParallelArm 11220 11234	hoc abiciendo,
+R46	Parallel Arg1:T80 Arg2:T81	
+T82	ParallelArm 11257 11271;11272 11294	quid est ilud? quod oculus non uidit.
+T83	ParallelArm 11295 11308;11309 11338	quid est hoc? quod fidelis oculus non sitit
+R47	Parallel Arg1:T82 Arg2:T83	
+T84	ParallelArm 11340 11355;11356 11387	quid est illud? quod inuenit Lazarus ulcerosus.
+T85	ParallelArm 11388 11401;11402 11429	quid est hoc? quod habuit diues inflatus.
+R48	Parallel Arg1:T84 Arg2:T85	
+T86	ParallelArm 11430 11445;11446 11469	quid est illud? quod perire non potest.
+T87	ParallelArm 11470 11483;11484 11507	quid est hoc? quod teneri non potest.
+R49	Parallel Arg1:T86 Arg2:T87	
+T88	ParallelArm 11544 11557;11558 11581	quid est hoc? quod non deserit timor.
+T89	ParallelArm 11508 11523;11524 11542	quid est illud? ubi non erit labor
+R50	Parallel Arg1:T89 Arg2:T88	
+T90	ParallelArm 11801 11815	quae in caelo,
+T91	ParallelArm 11816 11830	quae in terra,
+T92	ParallelArm 11831 11843	quae in mari
+R51	Parallel Arg1:T90 Arg2:T91	
+R52	Parallel Arg1:T91 Arg2:T92	
+T93	ParallelArm 11845 11858	quam pulchra,
+T94	ParallelArm 11859 11869	quam mira,
+T95	ParallelArm 11870 11903	quam digne ordinateque disposita.
+R53	Parallel Arg1:T93 Arg2:T94	
+R54	Parallel Arg1:T94 Arg2:T95	
+T96	ParallelArm 13713 13726	oleum estote,
+T97	ParallelArm 13727 13742	amurcam fugite.
+R55	Parallel Arg1:T96 Arg2:T97	
+T98	ParallelArm 13874 13893	times terrae motum?
+T99	ParallelArm 13894 13915	times caeli fremitum?
+R56	Parallel Arg1:T98 Arg2:T99	
+T100	ParallelArm 13916 13928	times bella?
+T101	ParallelArm 13929 13944	time et febrem.
+R57	Parallel Arg1:T100 Arg2:T101	
+T102	ParallelArm 14160 14169	quo itur?
+T103	ParallelArm 14170 14186	per quem ambitur
+R58	Parallel Arg1:T102 Arg2:T103	
+T104	ParallelArm 14188 14218	unde uita reparanda redimitur?
+R59	Parallel Arg1:T103 Arg2:T104	
+T105	ParallelArm 14351 14377	non uos fallat qui fallit,
+T106	ParallelArm 14383 14414	non uos decipit qui non fallit.
+R60	Parallel Arg1:T105 Arg2:T106	

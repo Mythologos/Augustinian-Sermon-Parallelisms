@@ -1,0 +1,63 @@
+T1	ParallelArm 1551 1570	oculos ad uidendum,
+T2	ParallelArm 1571 1590	aures ad audiendum,
+T3	ParallelArm 1591 1611	linguam ad loquendum
+T4	ParallelArm 1613 1632	manus ad operandum,
+T5	ParallelArm 1633 1653	pedes ad ambulandum.
+R1	Parallel Arg1:T1 Arg2:T2	
+R2	Parallel Arg1:T2 Arg2:T3	
+R3	Parallel Arg1:T3 Arg2:T4	
+R4	Parallel Arg1:T4 Arg2:T5	
+T6	ParallelArm 1723 1738	multa iubentur,
+T7	ParallelArm 1739 1751	multa fiunt:
+R5	Parallel Arg1:T6 Arg2:T7	
+T8	ParallelArm 1752 1763	unus iubet,
+T9	ParallelArm 1764 1777	uni seruitur.
+T10	ParallelArm 1723 1751	multa iubentur, multa fiunt:
+T11	ParallelArm 1752 1777	unus iubet, uni seruitur.
+R6	Parallel Arg1:T11 Arg2:T10	
+T12	ParallelArm 2554 2565	digitus est
+T13	ParallelArm 2567 2576	manus est
+T14	ParallelArm 2578 2590	brachium est
+T15	ParallelArm 2592 2601	auris est
+R7	Parallel Arg1:T12 Arg2:T13	
+R8	Parallel Arg1:T13 Arg2:T14	
+R9	Parallel Arg1:T14 Arg2:T15	
+T16	ParallelArm 2726 2753	quaeris baptismum, inuenis:
+T17	ParallelArm 2754 2779	quaeris symbolum, inuenis
+R10	Parallel Arg1:T16 Arg2:T17	
+T18	ParallelArm 3254 3297	numquid deus de aue una fecit ceteras aues?
+T19	ParallelArm 3298 3331	numquid de uno pisce omnes pisces
+T20	ParallelArm 3333 3357	de uno equo omnes equos?
+T21	ParallelArm 3358 3386	de una bestia omnes bestias?
+R11	Parallel Arg1:T18 Arg2:T19	
+R12	Parallel Arg1:T19 Arg2:T20	
+R13	Parallel Arg1:T20 Arg2:T21	
+T22	ParallelArm 3764 3783	tenet uirginitatem,
+T23	ParallelArm 3784 3806	seruat incorruptionem.
+R14	Parallel Arg1:T22 Arg2:T23	
+T24	ParallelArm 4222 4265	commendat contra impios corporis ueritatem,
+T25	ParallelArm 4266 4295	commendat ecclesiae unitatem.
+R15	Parallel Arg1:T24 Arg2:T25	
+T26	ParallelArm 4672 4700	ecce caput, ubi sunt membra?
+T27	ParallelArm 4701 4730	ecce sponsus, ubi est sponsa?
+R16	Parallel Arg1:T26 Arg2:T27	
+T28	ParallelArm 4886 4905	in fabulis hominum,
+T29	ParallelArm 4909 4934	in ueritate euangeliorum?
+R17	Parallel Arg1:T28 Arg2:T29	
+T30	ParallelArm 5677 5699	ipsum tanquam sponsum,
+T31	ParallelArm 5700 5728	illos tanquam amicos sponsi,
+T32	ParallelArm 5729 5759	neminem eorum tanquam sponsum.
+R18	Parallel Arg1:T30 Arg2:T31	
+R19	Parallel Arg1:T31 Arg2:T32	
+T33	ParallelArm 6133 6153	ego quidem sum Pauli
+T34	ParallelArm 6155 6171	ego uero Apollo;
+T35	ParallelArm 6172 6189	ego autem Cephae;
+T36	ParallelArm 6190 6207	ego autem Christi
+R20	Parallel Arg1:T33 Arg2:T34	
+R21	Parallel Arg1:T34 Arg2:T35	
+R22	Parallel Arg1:T35 Arg2:T36	
+T37	ParallelArm 6986 7018	commendatur a domino resurgente,
+T38	ParallelArm 7019 7052	commendatur a Christo ascendente;
+T39	ParallelArm 7053 7098	confirmatur ab spiritu sancto hodie ueniente.
+R23	Parallel Arg1:T37 Arg2:T38	
+R24	Parallel Arg1:T38 Arg2:T39	

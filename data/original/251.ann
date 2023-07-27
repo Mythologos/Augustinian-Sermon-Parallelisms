@@ -1,0 +1,120 @@
+T1	ParallelArm 171 208	unam prius, quando discipulos elegit;
+T2	ParallelArm 212 253	hanc alteram, quando a mortuis resurrexit
+R1	Parallel Arg1:T1 Arg2:T2	
+T3	ParallelArm 255 309	illa piscatio significauit ecclesiam, qualis est modo:
+T4	ParallelArm 310 405	ista uero post resurrectionem domini, significauit ecclesiam, qualis futura est in fine saeculi
+R2	Parallel Arg1:T3 Arg2:T4	
+T5	ParallelArm 553 581	non dictum est, in dexteram;
+T6	ParallelArm 582 611	non dictum est, in sinistram.
+R3	Parallel Arg1:T5 Arg2:T6	
+T7	ParallelArm 647 702	si ergo diceretur, in dexteram, soli boni futuri erant;
+T8	ParallelArm 703 740	si diceretur, in sinistram, soli mali
+R4	Parallel Arg1:T7 Arg2:T8	
+T9	ParallelArm 1469 1496	mixtura bonorum et malorum,
+T10	ParallelArm 1497 1515	pressura turbarum,
+T11	ParallelArm 1516 1542	separationes haereticorum.
+R5	Parallel Arg1:T9 Arg2:T10	
+R6	Parallel Arg1:T10 Arg2:T11	
+T12	ParallelArm 1543 1627	mixtura bonorum et malorum; quia nec in dexteram, nec in sinistram missa sunt retia:
+T13	ParallelArm 1628 1696	pressura turbarum; quia tantum captum est, ut nauiculae premerentur:
+T14	ParallelArm 1697 1774	separationes haereticorum; quia tanta fuerat multitudo, ut retia rumperentur.
+R7	Parallel Arg1:T12 Arg2:T13	
+R8	Parallel Arg1:T13 Arg2:T14	
+T15	ParallelArm 2223 2246	oues ponet ad dexteram,
+T16	ParallelArm 2247 2267	haedos ad sinistram.
+R9	Parallel Arg1:T15 Arg2:T16	
+T17	ParallelArm 2268 2313	ouibus dicturus est, uenite, percipite regnum
+T18	ParallelArm 2315 2358	haedis dicturus est, ite in ignem aeternum.
+R10	Parallel Arg1:T17 Arg2:T18	
+T19	ParallelArm 2630 2643	et multitudo,
+T20	ParallelArm 2644 2657	et magnitudo:
+R11	Parallel Arg1:T19 Arg2:T20	
+T21	ParallelArm 3088 3145	quare admoneo, ut eripiatis uos de praesenti saeculo malo
+T22	ParallelArm 3147 3216	quare admoneo, ut qui uultis uiuere, non imitemini malos christianos.
+R12	Parallel Arg1:T21 Arg2:T22	
+T23	ParallelArm 3230 3236;3237 3273	quare? ille non fidelis est, et inebriatur?
+T24	ParallelArm 3274 3280;3281 3323	quare? ille non fidelis est, et concubinas habet?
+R13	Parallel Arg1:T23 Arg2:T24	
+T25	ParallelArm 3324 3330;3331 3378	quare? ille non fidelis est, et quotidie fraudes facit
+R14	Parallel Arg1:T24 Arg2:T25	
+T26	ParallelArm 3380 3386;3387 3433	quare? ille non fidelis est, et mathematicos consulit
+R15	Parallel Arg1:T25 Arg2:T26	
+T27	ParallelArm 3435 3470	modo enim qui uolueritis esse grana
+T28	ParallelArm 3472 3498	tunc inueniemini in massa.
+R16	Parallel Arg1:T27 Arg2:T28	
+T29	ParallelArm 3718 3758	ubi audis littus, intellige finem maris:
+T30	ParallelArm 3759 3806	ubi audis finem maris, intellige saeculi finem.
+R17	Parallel Arg1:T29 Arg2:T30	
+T31	ParallelArm 3989 4004	bono dextrorum,
+T32	ParallelArm 4005 4022	malo sinistrorum.
+R18	Parallel Arg1:T31 Arg2:T32	
+T33	ParallelArm 4568 4589	soluerit male uiuendo
+T34	ParallelArm 4594 4616	docuerit bona docendo:
+R19	Parallel Arg1:T33 Arg2:T34	
+T35	ParallelArm 5839 5850	docet bona,
+T36	ParallelArm 5851 5860	agit mala
+R20	Parallel Arg1:T35 Arg2:T36	
+T37	ParallelArm 5862 5878	necessarius est,
+T38	ParallelArm 5879 5895	mercenarius est.
+R21	Parallel Arg1:T37 Arg2:T38	
+T39	ParallelArm 6101 6121	quae dicunt, facite;
+T40	ParallelArm 6122 6156	quae autem faciunt, facere nolite.
+R22	Parallel Arg1:T39 Arg2:T40	
+T41	ParallelArm 6273 6363	qui soluerit, inquit, unum de mandatis istis minimis, minimus uocabitur in regno caelorum.
+T42	ParallelArm 6387 6458	qui autem fecerit, et sic docuerit, magnus uocabitur in regno caelorum.
+R23	Parallel Arg1:T41 Arg2:T42	
+T43	ParallelArm 6537 6550	bona fecerit,
+T44	ParallelArm 6551 6564	bona docuerit
+R24	Parallel Arg1:T43 Arg2:T44	
+T45	ParallelArm 7185 7204	quae dicunt, facite
+T46	ParallelArm 7206 7234	quae faciunt, facere nolite:
+R25	Parallel Arg1:T45 Arg2:T46	
+T47	ParallelArm 7378 7393	et bona dicatis
+T48	ParallelArm 7395 7410	et bene uiuatis
+R26	Parallel Arg1:T47 Arg2:T48	
+T49	ParallelArm 7628 7662	unum addas ad duos, et fiant tres;
+T50	ParallelArm 7663 7688	addas tres, et fiant sex;
+T51	ParallelArm 7689 7719	addas quatuor, et fiant decem.
+R27	Parallel Arg1:T49 Arg2:T50	
+R28	Parallel Arg1:T50 Arg2:T51	
+T52	ParallelArm 8075 8098	in decem agnosce legem,
+T53	ParallelArm 8099 8134	in septem agnosce spiritum sanctum.
+R29	Parallel Arg1:T52 Arg2:T53	
+T54	ParallelArm 8248 8265;8266 8300	fecit deus lucem: non dictum est, sanctificauit eam.
+T55	ParallelArm 8301 8319;8320 8361	fecit firmamentum: non dictum est, sanctificauit firmamentum
+T56	ParallelArm 8363 8411;8412 8441	discreuit mare a terra, iussit germinare terram: non dictum est, sanctificauit
+T57	ParallelArm 8443 8465;8466 8495	fecit lunam et sidera: non dictum est, sanctificauit
+R30	Parallel Arg1:T54 Arg2:T55	
+R31	Parallel Arg1:T56 Arg2:T57	
+T58	ParallelArm 8497 8553;8554 8583	iussit animalia procedere de aquis natantia et uolantia: non dictum est, sanctificauit
+R32	Parallel Arg1:T57 Arg2:T58	
+T59	ParallelArm 8585 8646;8647 8677	iussit de terra exire animalia quadrupedia et omnia repentia: non dictum est, sanctificauit.
+R33	Parallel Arg1:T58 Arg2:T59	
+T60	ParallelArm 8678 8698;8699 8728	fecit ipsum hominem: non dictum est, sanctificauit
+R34	Parallel Arg1:T59 Arg2:T60	
+T61	ParallelArm 9151 9174	legem agnosce in decem;
+T62	ParallelArm 9175 9210	spiritum sanctum agnosce in septem.
+R35	Parallel Arg1:T61 Arg2:T62	
+T63	ParallelArm 9298 9320	non imples quod legis,
+T64	ParallelArm 9321 9350	non imples quod tibi iubetur:
+R36	Parallel Arg1:T63 Arg2:T64	
+T65	ParallelArm 9632 9658	ignorantia te non excusat,
+T66	ParallelArm 9659 9683	spiritus te non adiuuat:
+R37	Parallel Arg1:T65 Arg2:T66	
+T67	ParallelArm 9730 9746	littera occidit,
+T68	ParallelArm 9747 9771	spiritus autem uiuificat
+R38	Parallel Arg1:T67 Arg2:T68	
+T69	ParallelArm 9896 9910	iubere potest,
+T70	ParallelArm 9911 9929	iuuare non potest.
+R39	Parallel Arg1:T69 Arg2:T70	
+T71	ParallelArm 10369 10392;10393 10411	dicit, non moechaberis: et tu uis moechari
+T72	ParallelArm 10413 10452;10453 10481	dicit, non concupisces rem proximi tui: et tu uis rapere res alienas
+T73	ParallelArm 10483 10514;10515 10550	dicit, honora patrem et matrem: et tu contumeliosus es in parentes.
+R40	Parallel Arg1:T71 Arg2:T72	
+R41	Parallel Arg1:T72 Arg2:T73	
+T74	ParallelArm 10852 10868	donando peccata,
+T75	ParallelArm 10872 10893	inspirando iustitiam,
+R42	Parallel Arg1:T74 Arg2:T75	
+T76	ParallelArm 11129 11157	eris ad dexteram coronandus:
+T77	ParallelArm 11161 11193	remaneas ad sinistram damnandus.
+R43	Parallel Arg1:T76 Arg2:T77	

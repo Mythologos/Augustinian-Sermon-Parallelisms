@@ -1,0 +1,42 @@
+T1	ParallelArm 169 209	illo die natum pastores Iudaei uiderunt:
+T2	ParallelArm 210 254	hodie magi ab oriente uenientes adorauerunt.
+R1	Parallel Arg1:T1 Arg2:T2	
+T3	ParallelArm 467 488	pastoribus Iudaeorum,
+T4	ParallelArm 492 505	magis gentium
+R2	Parallel Arg1:T3 Arg2:T4	
+T5	ParallelArm 698 738	Iudaei pastores ad eum angelo nuntiante,
+T6	ParallelArm 739 772	gentiles magi stella demonstrante
+R3	Parallel Arg1:T5 Arg2:T6	
+T7	ParallelArm 947 983	ipse nouam stellam declarauit natus,
+T8	ParallelArm 984 1021	qui antiquum solem obscurauit occisus
+R4	Parallel Arg1:T7 Arg2:T8	
+T9	ParallelArm 1023 1060	illa luce inchoata est fides gentium;
+T10	ParallelArm 1061 1108	illis tenebris accusata est perfidia Iudaeorum.
+R5	Parallel Arg1:T9 Arg2:T10	
+T11	ParallelArm 1685 1713	tanta deuotione requirerent,
+T12	ParallelArm 1714 1750	tanto pietatis affectu desiderarent,
+R6	Parallel Arg1:T11 Arg2:T12	
+T13	ParallelArm 2210 2241	illi stellam uiderunt in caelo,
+T14	ParallelArm 2242 2273	ille titulum scripsit in ligno:
+R7	Parallel Arg1:T13 Arg2:T14	
+T15	ParallelArm 2321 2336	uel quaerebant,
+T16	ParallelArm 2337 2353	uel agnoscebant.
+R8	Parallel Arg1:T15 Arg2:T16	
+T17	ParallelArm 2632 2647	magi ab oriente
+T18	ParallelArm 2649 2669	Pilatus ab occidente
+R9	Parallel Arg1:T17 Arg2:T18	
+T19	ParallelArm 2684 2715	illi orienti, hoc est nascenti;
+T20	ParallelArm 2716 2755	ille autem occidenti, hoc est morienti,
+R10	Parallel Arg1:T19 Arg2:T20	
+T21	ParallelArm 2891 2919	ex eis propagati per carnem,
+T22	ParallelArm 2924 2946	eis inserti per fidem:
+R11	Parallel Arg1:T21 Arg2:T22	
+T23	ParallelArm 3099 3115	uel quaerebatur,
+T24	ParallelArm 3116 3133	uel agnoscebatur;
+R12	Parallel Arg1:T23 Arg2:T24	
+T25	ChiasmA 3139 3158	oleaster ad oliuam,
+T26	ChiasmB 3163 3181	ad oleastrum oliua
+R13	Chiasm Arg1:T25 Arg2:T26	
+T27	ParallelArm 5793 5814	sibi sumant iudicium,
+T28	ParallelArm 5815 5843	nobis praebeant testimonium.
+R14	Parallel Arg1:T27 Arg2:T28	

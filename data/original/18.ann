@@ -1,0 +1,74 @@
+T1	ParallelArm 366 395	primo aduentu uenit occultus,
+T2	ParallelArm 396 430	secundo aduentu ueniet manifestus.
+R1	Parallel Arg1:T1 Arg2:T2	
+T3	ParallelArm 431 484	quando uenit occultus, non innotuit nisi seruis suis;
+T4	ParallelArm 485 537	quando ueniet manifestus, innotescet bonis et malis.
+R2	Parallel Arg1:T3 Arg2:T4	
+T5	ParallelArm 538 578	quando uenit occultus, uenit iudicandus;
+T6	ParallelArm 579 624	quando ueniet manifestus, ueniet iudicaturus.
+R3	Parallel Arg1:T5 Arg2:T6	
+T7	ParallelArm 858 895	quomodo siluit quando iudicandus erat
+T8	ParallelArm 897 932	ita silebit quando iudicaturus erit
+R4	Parallel Arg1:T7 Arg2:T8	
+T9	ParallelArm 1139 1178	quod promisit deus modo non ostenditur,
+T10	ParallelArm 1182 1212	quod minatur modo non uidetur,
+R5	Parallel Arg1:T9 Arg2:T10	
+T11	ParallelArm 1249 1301	felicitatem quae dicitur mundi huius, habent et mali
+T12	ParallelArm 1303 1357	infelicitatem quae dicitur mundi huius, habent et boni
+R6	Parallel Arg1:T11 Arg2:T12	
+T13	ParallelArm 2040 2100	quando uult deus, respicit et iudicat, ad horam non differt;
+T14	ParallelArm 2101 2128	quando uult autem, differt.
+R7	Parallel Arg1:T13 Arg2:T14	
+T15	ParallelArm 2147 2207	si numquam in praesenti iudicaret, non esse deus crederetur;
+T16	ParallelArm 2208 2266	si omnia in praesenti iudicaret, nihil iudicio reseruaret.
+R8	Parallel Arg1:T15 Arg2:T16	
+T17	ParallelArm 2716 2737	quia bonus est in te,
+T18	ParallelArm 2738 2758	quia longanimis est,
+T19	ParallelArm 2759 2782	quia patiens est in te,
+R9	Parallel Arg1:T17 Arg2:T18	
+R10	Parallel Arg1:T18 Arg2:T19	
+T20	ParallelArm 3208 3230	sciunt quid colligunt,
+T21	ParallelArm 3235 3258	nesciunt cui colligunt.
+R11	Parallel Arg1:T20 Arg2:T21	
+T22	ParallelArm 3611 3638	boni quid colligant sciunt,
+T23	ParallelArm 3639 3668	mali quid colligant nesciunt.
+R12	Parallel Arg1:T22 Arg2:T23	
+T24	ParallelArm 3900 3932	neque aliquid a fure subripitur,
+T25	ParallelArm 3933 3958	neque ab hoste inuaditur,
+T26	ParallelArm 3959 4020	neque ab inimico et improbo et potente quasi euicto tollitur,
+R13	Parallel Arg1:T24 Arg2:T25	
+R14	Parallel Arg1:T25 Arg2:T26	
+T27	ParallelArm 4087 4144	homines pecunias fideli seruo commendant, et securi sunt,
+T28	ParallelArm 4145 4209	misericordias suas commendant potenti domino, et solliciti sunt?
+R15	Parallel Arg1:T27 Arg2:T28	
+T29	ParallelArm 4470 4491	colligunt et mittunt,
+T30	ParallelArm 4496 4517	infodiunt et seruant.
+R16	Parallel Arg1:T29 Arg2:T30	
+T31	ParallelArm 5714 5750	esuriui, et dedistis mihi manducare;
+T32	ParallelArm 5751 5773	sitiui et potastis me;
+R17	Parallel Arg1:T31 Arg2:T32	
+T33	ParallelArm 5774 5801	nudus fui, et uestistis me;
+T34	ParallelArm 5802 5831	hospes fui, et adduxistis me;
+R18	Parallel Arg1:T33 Arg2:T34	
+T35	ParallelArm 5832 5866	in carcere fui, et uenistis ad me;
+R19	Parallel Arg1:T34 Arg2:T35	
+T36	ParallelArm 5867 5895	aeger fui, et uisitastis me.
+R20	Parallel Arg1:T35 Arg2:T36	
+T37	ParallelArm 6122 6146	percipite quod misistis,
+T38	ParallelArm 6147 6170	possidete quod emistis.
+R21	Parallel Arg1:T37 Arg2:T38	
+T39	ParallelArm 6807 6857	qui conantur si fieri potest delere praecepta dei,
+T40	ParallelArm 6858 6905	qui conantur si fieri potest non esse ecclesias
+R22	Parallel Arg1:T39 Arg2:T40	
+T41	ParallelArm 7299 7330	membra mea in terra laborabant,
+T42	ParallelArm 7331 7358	membra mea in terra egebant
+R23	Parallel Arg1:T41 Arg2:T42	
+T43	ParallelArm 8472 8534	fundetur illi thesaurus tuus ubi collegebantur mala opera tua,
+T44	ParallelArm 8538 8607	implebitur alius thesaurus tuus ubi bona omnia opera tua colligantur.
+R24	Parallel Arg1:T43 Arg2:T44	
+T45	ParallelArm 8805 8824	adnotat facultatem,
+T46	ParallelArm 8829 8847	coronat uoluntatem
+R25	Parallel Arg1:T45 Arg2:T46	
+T47	ParallelArm 9024 9044	in praesenti habeas,
+T48	ParallelArm 9048 9068	in futuro possideas.
+R26	Parallel Arg1:T47 Arg2:T48	

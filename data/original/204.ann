@@ -1,0 +1,30 @@
+T1	ParallelArm 539 619	illo quidem die, qui natalis ipsius nuncupatur, uiderunt eum pastores Iudaeorum;
+T2	ParallelArm 620 723	hodierno autem die, qui epiphania proprie, hoc est manifestatio, dicitur, adorauerunt eum magi gentium.
+R1	Parallel Arg1:T1 Arg2:T2	
+T3	ParallelArm 724 741	illis eum angeli,
+T4	ParallelArm 742 759	istis uero stella
+R2	Parallel Arg1:T3 Arg2:T4	
+T5	ParallelArm 782 798	angeli habitant,
+T6	ParallelArm 802 818	sidera exornant:
+R3	Parallel Arg1:T5 Arg2:T6	
+T7	ParallelArm 2013 2033	et uos de propinquo,
+T8	ParallelArm 2034 2054	et uos de longinquo,
+R4	Parallel Arg1:T7 Arg2:T8	
+T9	ParallelArm 2304 2320	pacem tenuerunt,
+T10	ParallelArm 2321 2342	inimicitias finierunt
+R5	Parallel Arg1:T9 Arg2:T10	
+T11	ParallelArm 2468 2495	ex Iudaeis animal cornutum,
+T12	ParallelArm 2534 2561	ex gentibus animal auritum,
+R6	Parallel Arg1:T11 Arg2:T12	
+T13	ParallelArm 2775 2807	pax uenerat eis qui erant longe,
+T14	ParallelArm 2811 2828	pax eis qui prope
+R7	Parallel Arg1:T13 Arg2:T14	
+T15	ParallelArm 2830 2948	pastores, Israelitae, tamquam prope inuenti, eo die quo natus est Christus ad eum uenerunt, uiderunt et exsultauerunt;
+T16	ParallelArm 2949 3083	magi autem gentiles, tamquam longe inuenti, tot diebus interpositis ex illo quo natus est, hodie peruenerunt, inuenerunt, adorauerunt.
+R8	Parallel Arg1:T15 Arg2:T16	
+T17	ParallelArm 3405 3421	unus ex Iudaeis,
+T18	ParallelArm 3422 3440	alius ex gentibus,
+R9	Parallel Arg1:T17 Arg2:T18	
+T19	ParallelArm 4574 4602	benedictus in sanctificatis,
+T20	ParallelArm 4603 4625	claudus in reprobatis.
+R10	Parallel Arg1:T19 Arg2:T20	

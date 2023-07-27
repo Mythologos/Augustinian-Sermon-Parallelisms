@@ -1,0 +1,216 @@
+T1	ParallelArm 625 639	amare debetis,
+T2	ParallelArm 643 658	amare possitis.
+R1	Parallel Arg1:T1 Arg2:T2	
+T3	ParallelArm 734 774	non in fabrefactis parietibus et tectis,
+T4	ParallelArm 775 819	non in nitore marmorum et laqueariis aureis,
+R2	Parallel Arg1:T3 Arg2:T4	
+T5	ParallelArm 875 892	ex toto corde suo
+T6	ParallelArm 896 913	ex tota anima sua
+T7	ParallelArm 917 935	ex tota mente sua,
+R3	Parallel Arg1:T5 Arg2:T6	
+R4	Parallel Arg1:T6 Arg2:T7	
+R5	Parallel Arg1:T5 Arg2:T7	
+T8	ParallelArm 1110 1133	alius est ergo numerus,
+T9	ParallelArm 1134 1153	alii super numerum.
+R6	Parallel Arg1:T8 Arg2:T9	
+T10	ParallelArm 1286 1304	aurea et argentea,
+T11	ParallelArm 1312 1331	lignea et fictilia;
+R7	Parallel Arg1:T10 Arg2:T11	
+T12	ParallelArm 1332 1355	alia quidem in honorem,
+T13	ParallelArm 1356 1376	alia in contumeliam.
+R8	Parallel Arg1:T12 Arg2:T13	
+T14	ParallelArm 1377 1410	numerus ergo, uasorum in honorem;
+T15	ParallelArm 1411 1446	super numerum, uasa in contumeliam.
+R9	Parallel Arg1:T14 Arg2:T15	
+T16	ParallelArm 1702 1728	quaesisti et non inuenisti
+T17	ParallelArm 1735 1763	quod quaesisti tu non fuisti
+R10	Parallel Arg1:T16 Arg2:T17	
+T18	ParallelArm 1765 1788	similis simili cohaeret
+T19	ParallelArm 1790 1819	dissimilis dissimilem refugit
+R11	Parallel Arg1:T18 Arg2:T19	
+T20	ParallelArm 2000 2022	graue est ad uidendum,
+T21	ParallelArm 2030 2058	erit apertum ad inueniendum?
+R12	Parallel Arg1:T20 Arg2:T21	
+T22	ParallelArm 2204 2217	uterque homo,
+T23	ParallelArm 2226 2243	uterque domus dei
+R13	Parallel Arg1:T22 Arg2:T23	
+T24	ParallelArm 2280 2293	utrumque uas,
+T25	ParallelArm 2302 2322	utrumque in honorem,
+R14	Parallel Arg1:T24 Arg2:T25	
+T26	ParallelArm 2327 2344	aliud in honorem,
+T27	ParallelArm 2345 2366	aliud in contumeliam.
+R15	Parallel Arg1:T26 Arg2:T27	
+T28	ParallelArm 2475 2491	uasis in honorem
+T29	ParallelArm 2495 2516	uasis in contumeliam.
+R16	Parallel Arg1:T28 Arg2:T29	
+T30	ParallelArm 2528 2556	malorum male uti etiam bonis
+T31	ParallelArm 2569 2594	dei bene uti etiam malis.
+R17	Parallel Arg1:T30 Arg2:T31	
+T32	ParallelArm 2726 2733	petitis
+T33	ParallelArm 2738 2752	non accipitis,
+R18	Parallel Arg1:T32 Arg2:T33	
+T34	ParallelArm 3465 3488	nec castitatem diligit,
+T35	ParallelArm 3489 3507	nec uirum deserit.
+R19	Parallel Arg1:T34 Arg2:T35	
+T36	ParallelArm 3650 3663	potuit creare
+T37	ParallelArm 3665 3680	nouit ordinare:
+R20	Parallel Arg1:T36 Arg2:T37	
+T38	ParallelArm 3990 4022	inscrutabilia sunt iudicia eius,
+T39	ParallelArm 4026 4051	inuestigabiles uiae eius!
+R21	Parallel Arg1:T38 Arg2:T39	
+T40	ParallelArm 4373 4398	siue de uasis in honorem,
+T41	ParallelArm 4399 4428	siue de uasis in contumeliam,
+R22	Parallel Arg1:T40 Arg2:T41	
+T42	ParallelArm 4464 4477	alios coronat
+T43	ParallelArm 4479 4492	alios damnat,
+R23	Parallel Arg1:T42 Arg2:T43	
+T44	ParallelArm 4508 4520	alios probat
+T45	ParallelArm 4522 4538	de aliis probat,
+R24	Parallel Arg1:T44 Arg2:T45	
+T46	ParallelArm 4464 4507	alios coronat, alios damnat, nusquam errat.
+T47	ParallelArm 4508 4552	alios probat, de aliis probat, omnes ordinat
+R25	Parallel Arg1:T46 Arg2:T47	
+T48	ParallelArm 4749 4760	fornax est,
+T49	ParallelArm 4761 4771	palea est,
+T50	ParallelArm 4772 4782	aurum est,
+T51	ParallelArm 4783 4793	ignis est,
+T52	ParallelArm 4794 4806	artifex est.
+R26	Parallel Arg1:T48 Arg2:T49	
+R27	Parallel Arg1:T49 Arg2:T50	
+R28	Parallel Arg1:T50 Arg2:T51	
+R29	Parallel Arg1:T51 Arg2:T52	
+T53	ParallelArm 4807 4842;4843 4853	sed illa tria, aurum, palea, ignis: in fornace
+T54	ParallelArm 4855 4863;4864 4876	artifex: ad fornacem.
+R30	Parallel Arg1:T53 Arg2:T54	
+T55	ParallelArm 4905 4918	mundus fornax
+T56	ParallelArm 4924 4943	palea homines mali;
+T57	ParallelArm 4944 4963	aurum homines boni;
+T58	ParallelArm 4964 4981	ignis tribulatio;
+T59	ParallelArm 4982 4995	artifex deus.
+R31	Parallel Arg1:T55 Arg2:T56	
+R32	Parallel Arg1:T56 Arg2:T57	
+R33	Parallel Arg1:T57 Arg2:T58	
+R34	Parallel Arg1:T58 Arg2:T59	
+T60	ParallelArm 5013 5032	aurum non purgatur,
+T61	ParallelArm 5036 5053	palea non uratur.
+R35	Parallel Arg1:T60 Arg2:T61	
+T62	ParallelArm 5150 5165	uide ibi aurum,
+T63	ParallelArm 5166 5182	uide uocem auri.
+R36	Parallel Arg1:T62 Arg2:T63	
+T64	ParallelArm 5319 5346	timere debuit temptationem,
+T65	ParallelArm 5347 5366	petit temptationem.
+R37	Parallel Arg1:T64 Arg2:T65	
+T66	ParallelArm 5963 5981	uide ipsum exitum,
+T67	ParallelArm 5982 5996	uide ingressum
+R38	Parallel Arg1:T66 Arg2:T67	
+T68	ParallelArm 6088 6111	ecce audisti ingressum,
+T69	ParallelArm 6112 6126	quaere exitum.
+R39	Parallel Arg1:T68 Arg2:T69	
+T70	ParallelArm 6403 6411	intrasti
+T71	ParallelArm 6413 6422	incidisti
+T72	ParallelArm 6424 6435	sustinuisti
+T73	ParallelArm 6437 6443	existi
+R40	Parallel Arg1:T70 Arg2:T71	
+R41	Parallel Arg1:T71 Arg2:T72	
+R42	Parallel Arg1:T72 Arg2:T73	
+T74	ParallelArm 6746 6761	purgare possit,
+T75	ParallelArm 6762 6780	perdere non possit
+R43	Parallel Arg1:T74 Arg2:T75	
+T76	ParallelArm 6668 6685	quanta ibi palea,
+T77	ParallelArm 6686 6705	quam modicum aurum!
+R44	Parallel Arg1:T76 Arg2:T77	
+T78	ParallelArm 7019 7036	periculis in mari
+T79	ParallelArm 7038 7059	periculis in deserto,
+T80	ParallelArm 7060 7080	periculis ex genere,
+T81	ParallelArm 7081 7103	periculis ex gentibus.
+R45	Parallel Arg1:T78 Arg2:T79	
+R46	Parallel Arg1:T80 Arg2:T81	
+T82	ParallelArm 7173 7197	alloquor ergo aurum dei,
+T83	ParallelArm 7198 7229	alloquor uasa facta in honorem,
+T84	ParallelArm 7230 7286	alloquor grana in tritura areae inter paleam laborantia.
+R47	Parallel Arg1:T82 Arg2:T83	
+R48	Parallel Arg1:T83 Arg2:T84	
+T85	ParallelArm 7855 7871	esto ergo bonus,
+T86	ParallelArm 7875 7888	tolera malum.
+T87	ParallelArm 7889 7911	esto simpliciter bonus
+T88	ParallelArm 7916 7940	dupliciter tolera malum.
+R49	Parallel Arg1:T85 Arg2:T87	
+R50	Parallel Arg1:T86 Arg2:T88	
+R51	Parallel Arg1:T85 Arg2:T86	
+R52	Parallel Arg1:T87 Arg2:T88	
+T89	ParallelArm 8057 8075	tolera haereticum,
+T90	ParallelArm 8076 8091	tolera Iudaeum,
+T91	ParallelArm 8092 8107	tolera paganum.
+R53	Parallel Arg1:T89 Arg2:T90	
+R54	Parallel Arg1:T90 Arg2:T91	
+T92	ParallelArm 8467 8480	geme in area,
+T93	ParallelArm 8484 8502	gaudeas in horreo.
+R55	Parallel Arg1:T92 Arg2:T93	
+T94	ParallelArm 10296 10324	occurrit tibi qui te laesit,
+T95	ParallelArm 10325 10354	occurrit tibi qui te pressit,
+T96	ParallelArm 10355 10385	occurrit tibi qui te spoliauit
+T97	ParallelArm 10387 10426	occurrit tibi qui te in carcerem misit.
+R56	Parallel Arg1:T94 Arg2:T95	
+R57	Parallel Arg1:T95 Arg2:T96	
+R58	Parallel Arg1:T96 Arg2:T97	
+T98	ParallelArm 10432 10449	attende cor tuum,
+T99	ParallelArm 10450 10471	respice dominum tuum.
+R59	Parallel Arg1:T98 Arg2:T99	
+T100	ParallelArm 10472 10497	ecce malus inimicus tuus,
+T101	ParallelArm 10498 10522	ecce bonus dominus tuus.
+R60	Parallel Arg1:T100 Arg2:T101	
+T102	ParallelArm 10825 10836	dura iussit
+T103	ParallelArm 10842 10857	magna promisit.
+R61	Parallel Arg1:T102 Arg2:T103	
+T104	ParallelArm 11138 11149	dura iussit
+T105	ParallelArm 11151 11164	amara iussit,
+R62	Parallel Arg1:T104 Arg2:T105	
+T106	ParallelArm 12235 12253	mali pauci essent,
+T107	ParallelArm 12257 12275	boni multi essent.
+R63	Parallel Arg1:T106 Arg2:T107	
+T108	ParallelArm 12464 12477	non auderent,
+T109	ParallelArm 12478 12493	non exercerent.
+R64	Parallel Arg1:T108 Arg2:T109	
+T110	ParallelArm 12574 12596	cum laboratur sudatur;
+T111	ParallelArm 12600 12627	cum sudatur aurum purgatur.
+R65	Parallel Arg1:T110 Arg2:T111	
+T112	ParallelArm 12759 12798	iam factus es uictor infirmitatis tuae,
+T113	ParallelArm 12799 12855	iam suscepisti animum et fructum orandi pro inimico tuo.
+R66	Parallel Arg1:T112 Arg2:T113	
+T114	ParallelArm 12896 12924	ille meditatur temptationes,
+T115	ParallelArm 12925 12945	tu fundis orationes.
+R67	Parallel Arg1:T114 Arg2:T115	
+T116	ParallelArm 12946 12972	ille si nocet palam nocet,
+T117	ParallelArm 12973 13006	tu quod pro illo oras deus nouit.
+R68	Parallel Arg1:T116 Arg2:T117	
+R69	Parallel Arg1:T114 Arg2:T116	
+R70	Parallel Arg1:T115 Arg2:T117	
+T118	ParallelArm 13007 13023	ille non credit,
+R71	Parallel Arg1:T118 Arg2:T116	
+R72	Parallel Arg1:T118 Arg2:T114	
+T119	ParallelArm 13061 13078	ille palam nocet,
+T120	ParallelArm 13079 13095	tu occulte oras.
+R73	Parallel Arg1:T119 Arg2:T120	
+T121	ParallelArm 13227 13253	amurca per publicum currit
+T122	ParallelArm 13255 13305	oleum autem ad sedem suam occultos transitus habet
+R74	Parallel Arg1:T121 Arg2:T122	
+T123	ParallelArm 13399 13428	in ista conflictatione rerum,
+T124	ParallelArm 13453 13479	in ista malorum abundantia
+R75	Parallel Arg1:T123 Arg2:T124	
+T125	ParallelArm 13739 13749	unus hinc,
+T126	ParallelArm 13750 13759	unus inde
+R76	Parallel Arg1:T125 Arg2:T126	
+T127	ParallelArm 13819 13838	dei monita cogitans
+T128	ParallelArm 13840 13862	spem saeculi irridens,
+T129	ParallelArm 13863 13888	spem caelestem expectans,
+R77	Parallel Arg1:T127 Arg2:T128	
+R78	Parallel Arg1:T128 Arg2:T129	
+T130	ParallelArm 13913 13948	oleum in torculari sanctitatis est,
+T131	ParallelArm 13949 13982	uas in honorem est in domo magna,
+T132	ParallelArm 13983 14004	aurum est in fornace,
+T133	ParallelArm 14005 14026	granum est in horreo.
+R79	Parallel Arg1:T130 Arg2:T131	
+R80	Parallel Arg1:T131 Arg2:T132	
+R81	Parallel Arg1:T132 Arg2:T133	
+R82	Parallel Arg1:T130 Arg2:T132	
+R83	Parallel Arg1:T130 Arg2:T133	

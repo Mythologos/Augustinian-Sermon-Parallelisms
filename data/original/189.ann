@@ -1,0 +1,98 @@
+T1	ParallelArm 89 119	cantate domino canticum nouum,
+T2	ParallelArm 120 147	cantate domino omnis terra.
+R1	Parallel Arg1:T1 Arg2:T2	
+T3	ParallelArm 8 44	sanctificauit nobis istum diem dies,
+T4	ParallelArm 45 66	qui fecit omnem diem;
+R2	Parallel Arg1:T3 Arg2:T4	
+T5	ParallelArm 262 277	filius de patre
+T6	ParallelArm 279 295	lumen de lumine?
+R3	Parallel Arg1:T5 Arg2:T6	
+T7	ParallelArm 378 394	non habet ortum,
+T8	ParallelArm 395 413	non habet occasum.
+R4	Parallel Arg1:T7 Arg2:T8	
+T9	ParallelArm 551 587	lumen commune hominibus et pecoribus
+T10	ParallelArm 593 618	lumen quod angelis lucet,
+T11	ParallelArm 619 652	lumen cui uidendo corda purgantur
+R5	Parallel Arg1:T9 Arg2:T10	
+R6	Parallel Arg1:T10 Arg2:T11	
+T12	ParallelArm 677 696	in qua modo uiuimus
+T13	ParallelArm 698 745	in qua nobis accenduntur lucernae scripturarum;
+R7	Parallel Arg1:T12 Arg2:T13	
+T14	ParallelArm 866 889	dies qui lucet angelis,
+T15	ParallelArm 890 938	dies qui lucet in illa patria unde peregrinamur,
+R8	Parallel Arg1:T14 Arg2:T15	
+T16	ParallelArm 1044 1067	concepit, et uirgo est;
+T17	ParallelArm 1068 1088	parit, et uirgo est.
+R9	Parallel Arg1:T16 Arg2:T17	
+T18	ParallelArm 1131 1154	attulit ei fecunditatem
+T19	ParallelArm 1160 1182	corrupit integritatem.
+R10	Parallel Arg1:T18 Arg2:T19	
+T20	ParallelArm 1183 1194;1195 1202	Maria unde? ex Adam
+T21	ParallelArm 1204 1214;1215 1224	Adam unde? de terra.
+R11	Parallel Arg1:T20 Arg2:T21	
+T22	ParallelArm 1228 1242	Adam de terra,
+T23	ParallelArm 1246 1260	Maria de Adam,
+R12	Parallel Arg1:T22 Arg2:T23	
+T24	ParallelArm 1386 1412	ueritas de terra orta est,
+T25	ParallelArm 1416 1444	iustitia de caelo prospexit.
+R13	Parallel Arg1:T24 Arg2:T25	
+T26	ParallelArm 1613 1640	quis pauper sibi dat panem?
+T27	ParallelArm 1641 1686	quis nudus cooperitur, nisi acceperit uestem?
+R14	Parallel Arg1:T26 Arg2:T27	
+T28	ParallelArm 1980 2003	dormiebas, uenit ad te:
+T29	ParallelArm 2004 2028	stertebas, excitauit te:
+R15	Parallel Arg1:T28 Arg2:T29	
+T30	ParallelArm 2464 2484	interroga nascentem,
+T31	ParallelArm 2488 2501	uide flentem.
+R16	Parallel Arg1:T30 Arg2:T31	
+T32	ParallelArm 2614 2627	creauit omnia
+T33	ParallelArm 2629 2653	creatus est inter omnia:
+R17	Parallel Arg1:T32 Arg2:T33	
+T34	ParallelArm 2654 2665	fecit diem,
+T35	ParallelArm 2666 2680	uenit in diem:
+T36	ParallelArm 2681 2699	erat ante tempora,
+R18	Parallel Arg1:T34 Arg2:T35	
+T37	ParallelArm 2700 2717	signauit tempora.
+R19	Parallel Arg1:T36 Arg2:T37	
+T38	ParallelArm 2918 2952	haberet ille humanam generationem,
+T39	ParallelArm 2953 3000	nos non perueniremus ad diuinam regenerationem:
+R20	Parallel Arg1:T38 Arg2:T39	
+T40	ParallelArm 3104 3141	cui enim necessaria erat regeneratio,
+T41	ParallelArm 3147 3175	cuius est damnata generatio?
+R21	Parallel Arg1:T40 Arg2:T41	
+T42	ParallelArm 3227 3255	portauit eum mater in utero,
+T43	ParallelArm 3256 3274	portemus in corde;
+R22	Parallel Arg1:T42 Arg2:T43	
+T44	ParallelArm 3275 3315	grauidata est uirgo incarnatione Christi
+T45	ParallelArm 3317 3357	grauidentur pectora nostra fide Christi;
+R23	Parallel Arg1:T44 Arg2:T45	
+T46	ParallelArm 3358 3377	peperit saluatorem,
+T47	ParallelArm 3378 3393	pariamus laudem
+R24	Parallel Arg1:T46 Arg2:T47	
+T48	ParallelArm 3457 3493	generatio Christi a patre sine matre
+T49	ParallelArm 3495 3531	generatio Christi a matre sine patre
+R25	Parallel Arg1:T48 Arg2:T49	
+T50	ParallelArm 3563 3587	prima generatio aeterna,
+T51	ParallelArm 3588 3607	secunda temporalis.
+R26	Parallel Arg1:T50 Arg2:T51	
+T52	ParallelArm 3703 3728	noli ibi quaerere quando.
+T53	ParallelArm 3729 3747	hic quaere quando:
+R27	Parallel Arg1:T52 Arg2:T53	
+T54	ParallelArm 3748 3777	quando de matre bene quaeris.
+T55	ParallelArm 3778 3811	quando de patre non bene quaeris:
+R28	Parallel Arg1:T54 Arg2:T55	
+T56	ParallelArm 4054 4073	transeat admiratio,
+T57	ParallelArm 4074 4091	accedat laudatio.
+R29	Parallel Arg1:T56 Arg2:T57	
+T58	ParallelArm 4274 4284	deus erat,
+T59	ParallelArm 4285 4301	homo factus est.
+R30	Parallel Arg1:T58 Arg2:T59	
+T60	ParallelArm 4553 4566	duo animalia,
+T61	ParallelArm 4567 4578	duo populi:
+R31	Parallel Arg1:T60 Arg2:T61	
+T62	ParallelArm 4940 4966	ipso sedente non premimur,
+T63	ParallelArm 4981 5006	ipso ducente non erramus:
+R32	Parallel Arg1:T62 Arg2:T63	
+T64	ParallelArm 5007 5021	ad illum imus,
+T65	ParallelArm 5022 5037	per illum imus,
+R33	Parallel Arg1:T64 Arg2:T65	

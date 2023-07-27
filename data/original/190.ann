@@ -1,0 +1,25 @@
+T1	ParallelArm 91 118	uirginem de qua nasceretur,
+T2	ParallelArm 126 146	diem quo nasceretur,
+R1	Parallel Arg1:T1 Arg2:T2	
+T3	ParallelArm 196 213	alius nouellandi,
+T4	ParallelArm 214 231	alius aedificandi
+T5	ParallelArm 233 252	alius proficiscendi
+R2	Parallel Arg1:T3 Arg2:T4	
+R3	Parallel Arg1:T4 Arg2:T5	
+T6	ParallelArm 273 293	alius uxorem ducendi
+R4	Parallel Arg1:T5 Arg2:T6	
+T7	ParallelArm 421 450	ille potuit utrumque eligere,
+T8	ParallelArm 451 481	qui utrumque potuit et creare.
+R5	Parallel Arg1:T7 Arg2:T8	
+T9	ParallelArm 766 780	nox praecessit
+T10	ParallelArm 782 808	dies autem appropinquauit:
+R6	Parallel Arg1:T9 Arg2:T10	
+T11	ParallelArm 809 837	abiiciamus opera tenebrarum,
+T12	ParallelArm 841 864	induamus nos arma lucis
+R7	Parallel Arg1:T11 Arg2:T12	
+T13	ParallelArm 898 914	agnoscamus diem,
+T14	ParallelArm 918 929	simus dies.
+R8	Parallel Arg1:T13 Arg2:T14	
+T15	ParallelArm 1380 1402	carne quippe sub sole:
+T16	ParallelArm 1403 1441	maiestate autem super uniuersum mundum
+R9	Parallel Arg1:T15 Arg2:T16	

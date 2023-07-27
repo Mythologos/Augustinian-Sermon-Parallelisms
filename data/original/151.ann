@@ -1,0 +1,168 @@
+T1	ParallelArm 121 141	hominibus occasionem
+T2	ParallelArm 142 165	quaerentibus occasionem
+R1	Parallelism Arg1:T1 Arg2:T2	
+T3	ParallelArm 330 341	agunt malum
+T4	ParallelArm 375 386	agunt malum
+R2	Parallelism Arg1:T3 Arg2:T4	
+T5	ParallelArm 741 775	difficultate alicuius obscuritatis
+T6	ParallelArm 790 806	affectu pietatis
+R3	Parallelism Arg1:T5 Arg2:T6	
+T7	ParallelArm 1005 1016	uoces belli
+T8	ParallelArm 1021 1035	uoces triumphi
+R4	Parallelism Arg1:T7 Arg2:T8	
+T9	ParallelArm 1377 1394	audis repugnantem
+T10	ParallelArm 1403 1420	audis captiuantem
+R5	Parallelism Arg1:T9 Arg2:T10	
+T11	ParallelArm 1535 1613	corruptibile hoc induere incorruptionem, et mortale hoc induere immortalitatem
+T12	ParallelArm 1625 1705	corruptibile hoc induerit incorruptionem, et mortale hoc induerit immortalitatem
+R6	Parallelism Arg1:T11 Arg2:T12	
+T13	ParallelArm 2092 2111	unde ille incitetur
+T14	ParallelArm 2113 2130	non unde uincatur
+R7	Parallelism Arg1:T13 Arg2:T14	
+T15	ParallelArm 2168 2180	qui certatis
+T16	ParallelArm 2190 2214	qui enim nondum certatis
+R8	Parallelism Arg1:T15 Arg2:T16	
+T17	ParallelArm 2250 2266	qui iam certatis
+R9	Parallelism Arg1:T16 Arg2:T17	
+T18	ParallelArm 2216 2238	non estis intellecturi
+T19	ParallelArm 2268 2286	intellecturi estis
+R10	Parallelism Arg1:T18 Arg2:T19	
+T20	ParallelArm 2288 2305	uox mea in aperto
+T21	ParallelArm 2307 2330	uestra erit in silentio
+R11	Parallelism Arg1:T20 Arg2:T21	
+T22	ParallelArm 2418 2455	fidelibus loquens, baptizatis loquens
+T23	ParallelArm 2520 2562	his tamen loquens, sed pugnantibus loquens
+R12	Parallelism Arg1:T22 Arg2:T23	
+T24	ParallelArm 3068 3095	uult aliquid, et non uis tu
+T25	ParallelArm 3097 3119	perseuera, ut nolis tu
+R13	Parallelism Arg1:T24 Arg2:T25	
+T26	ParallelArm 3526 3554	ubi est, mors, contentio tua
+T27	ParallelArm 3566 3593	ubi est, mors, aculeus tuus
+R14	Parallelism Arg1:T26 Arg2:T27	
+T28	ParallelArm 3632 3645	non enim haec
+T29	ParallelArm 3675 3688	non enim haec
+R15	Parallelism Arg1:T28 Arg2:T29	
+T30	ParallelArm 3739 3757	languor noster est
+T31	ParallelArm 3759 3777	uitium nostrum est
+R16	Parallelism Arg1:T30 Arg2:T31	
+T32	ParallelArm 3783 3803	separatum alibi erit
+T33	ParallelArm 3809 3829	sanatum nusquam erit
+R17	Parallelism Arg1:T32 Arg2:T33	
+T34	ParallelArm 3935 3962	plenitudo est ista uirtutis
+T35	ParallelArm 3964 3983	perfectio iustitiae
+T36	ParallelArm 3985 4000	palma uictoriae
+R18	Parallelism Arg1:T34 Arg2:T35	
+R19	Parallelism Arg1:T35 Arg2:T36	
+T37	ParallelArm 4202 4220	nolunt post te ire
+T38	ParallelArm 4222 4239	noli post eas ire
+R20	Parallelism Arg1:T37 Arg2:T38	
+T39	ParallelArm 4316 4334	rebellant, rebella
+T40	ParallelArm 4336 4350	pugnant, pugna
+T41	ParallelArm 4352 4370	expugnant, expugna
+R21	Parallelism Arg1:T39 Arg2:T40	
+R22	Parallelism Arg1:T40 Arg2:T41	
+T42	ParallelArm 4459 4486	nostis esse homines sobrios
+T43	ParallelArm 4514 4537	nostis esse et ebriosos
+R23	Parallelism Arg1:T42 Arg2:T43	
+T44	ParallelArm 4959 4977	neque fornicatores
+T45	ParallelArm 4979 5002	neque idolis seruientes
+T46	ParallelArm 5004 5018	neque adulteri
+T47	ParallelArm 5020 5032	neque molles
+T48	ParallelArm 5034 5063	neque masculorum concubitores
+T49	ParallelArm 5065 5076	neque fures
+R24	Parallelism Arg1:T44 Arg2:T45	
+R25	Parallelism Arg1:T45 Arg2:T46	
+R26	Parallelism Arg1:T46 Arg2:T47	
+R27	Parallelism Arg1:T47 Arg2:T48	
+R28	Parallelism Arg1:T48 Arg2:T49	
+T50	ParallelArm 5624 5650	consuetudine mala accessit
+T51	ParallelArm 5652 5678	bona consuetudine morietur
+R29	Parallelism Arg1:T50 Arg2:T51	
+T52	ParallelArm 5690 5709	noli ei satisfacere
+T53	ParallelArm 5711 5735	noli eam cedendo satiare
+R30	Parallelism Arg1:T52 Arg2:T53	
+T54	ParallelArm 5968 5977	contra me
+T55	ParallelArm 5986 5995	contra te
+R31	Parallelism Arg1:T54 Arg2:T55	
+T56	ParallelArm 6019 6024	moneo
+T57	ParallelArm 6026 6030	dico
+T58	ParallelArm 6032 6040	praedico
+R32	Parallelism Arg1:T56 Arg2:T57	
+R33	Parallelism Arg1:T57 Arg2:T58	
+T59	ParallelArm 6089 6107	non est quod dicas
+T60	ParallelArm 6121 6139	non est quod dicas
+R34	Parallelism Arg1:T59 Arg2:T60	
+T61	ParallelArm 6273 6303	non laborasti, ut nutrires eum
+T62	ParallelArm 6305 6326	labora, ut uincas eum
+R35	Parallelism Arg1:T61 Arg2:T62	
+T63	ParallelArm 6453 6470	si te non uicerit
+T64	ParallelArm 6382 6399	si te non uicerit
+R36	Parallelism Arg1:T64 Arg2:T63	
+T65	ParallelArm 6547 6582	facta est concupiscentia titillando
+T66	ParallelArm 6592 6612	est perfecta potando
+R37	Parallelism Arg1:T65 Arg2:T66	
+T67	ParallelArm 6646 6667	hoc de omnibus uitiis
+T68	ParallelArm 6669 6697	hoc de omnibus cupiditatibus
+R38	Parallelism Arg1:T67 Arg2:T68	
+T69	ParallelArm 6703 6728	aliquibus enim nati sumus
+T70	ParallelArm 6730 6758	aliquas consuetudine fecimus
+R39	Parallelism Arg1:T69 Arg2:T70	
+T71	ParallelArm 7019 7031	minui potest
+T72	ParallelArm 7033 7050	finiri non potest
+R40	Parallelism Arg1:T71 Arg2:T72	
+T73	ParallelArm 7316 7333	nata est ista lex
+T74	ParallelArm 7342 7367	transgressa est prima lex
+T75	ParallelArm 7642 7669	fecit homo factum puniendum
+T76	ParallelArm 7674 7696	inuenit motum pudendum
+R41	Parallelism Arg1:T75 Arg2:T76	
+T78	ParallelArm 8226 8243	aperti sunt oculi
+T79	ParallelArm 8115 8138	aperti sunt autem oculi
+R42	Parallelism Arg1:T79 Arg2:T78	
+T77	ParallelArm 8244 8256	ad intuendum
+T80	ParallelArm 8258 8273	non ad uidendum
+T81	ParallelArm 8283 8301	senserunt pudendum
+T82	ParallelArm 8303 8322	curauerunt tegendum
+R43	Parallelism Arg1:T77 Arg2:T80	
+R44	Parallelism Arg1:T81 Arg2:T82	
+R45	Parallelism Arg1:T73 Arg2:T74	
+T83	ParallelArm 8396 8404	texerunt
+T84	ParallelArm 8410 8419	senserunt
+R46	Parallelism Arg1:T83 Arg2:T84	
+T85	ParallelArm 8421 8458	ecce unde trahitur originale peccatum
+T86	ParallelArm 8460 8496	ecce unde nemo nascitur sine peccato
+R47	Parallelism Arg1:T85 Arg2:T86	
+T87	ParallelArm 8569 8602	soluit illud, qui uenit sine illo
+T88	ParallelArm 8604 8639	soluit illud, qui non uenit ex illo
+R48	Parallelism Arg1:T87 Arg2:T88	
+T89	ParallelArm 8660 8674	unus ad mortem
+T90	ParallelArm 8676 8689	unus ad uitam
+R49	Parallelism Arg1:T89 Arg2:T90	
+T91	ParallelArm 8742 8768;8769 8785	quare ad mortem ille homo? quia tantum homo
+T92	ParallelArm 8787 8812;8813 8830	quare ad uitam iste homo? quia deus et homo
+R50	Parallelism Arg1:T91 Arg2:T92	
+T93	ParallelArm 10146 10177	ago bonum et non perficio bonum
+T94	ParallelArm 10040 10072	ago bonum, et non perficio bonum
+T95	ParallelArm 10103 10136	agit malum, et non perficit malum
+R51	Parallelism Arg1:T94 Arg2:T95	
+R52	Parallelism Arg1:T95 Arg2:T93	
+T96	ParallelArm 10923 10950	ubi est, mors, aculeus tuus
+T97	ParallelArm 10874 10902	ubi est, mors, contentio tua
+R53	Parallelism Arg1:T97 Arg2:T96	
+T98	ParallelArm 11639 11657	abundauit peccatum
+T99	ParallelArm 11659 11680	superabundauit gratia
+R54	Parallelism Arg1:T98 Arg2:T99	
+T100	ParallelArm 11959 11971	legem foedam
+T101	ParallelArm 11973 11986	legem miseram
+R55	Parallelism Arg1:T100 Arg2:T101	
+T102	ParallelArm 12193 12212	a lege mortis huius
+T103	ParallelArm 12222 12244	a corpore mortis huius
+R56	Parallelism Arg1:T102 Arg2:T103	
+T104	ParallelArm 12356 12391	mortale hoc induerit immortalitatem
+T105	ParallelArm 12396 12436	corruptibile hoc induerit incorruptionem
+R57	Parallelism Arg1:T104 Arg2:T105	
+T106	ParallelArm 12909 12928	nolo semper uincere
+T107	ParallelArm 12934 12964	uolo aliquando ad pacem uenire
+R58	Parallelism Arg1:T106 Arg2:T107	
+T108	ParallelArm 13006 13054	mente seruite legi dei, carne autem legi peccati
+T109	ParallelArm 12578 12625	mente seruio legi dei, carne autem legi peccati
+R59	Parallelism Arg1:T109 Arg2:T108	

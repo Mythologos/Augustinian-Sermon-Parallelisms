@@ -1,0 +1,149 @@
+T1	ParallelArm 8 38	uestrae caritatis exspectatio,
+T2	ParallelArm 39 57	mei debiti exactio
+R1	Parallel Arg1:T1 Arg2:T2	
+T3	ParallelArm 1025 1072;1073 1112	Donatista confitetur Christum in carne uenisse: et tamen absit ut sit hic error ex deo.
+T4	ParallelArm 1152 1202;1203 1240	Pelagianista confitetur Christum in carne uenisse: tamen omnino non est hic error ex deo
+R2	Parallel Arg1:T3 Arg2:T4	
+T5	ParallelArm 2383 2406	alii Ioannem baptistam,
+T6	ParallelArm 2407 2418	alii Eliam,
+T7	ParallelArm 2419 2433	alii Ieremiam,
+R3	Parallel Arg1:T5 Arg2:T6	
+R4	Parallel Arg1:T6 Arg2:T7	
+T8	ParallelArm 2863 2882	confessionem ueram,
+T9	ParallelArm 2883 2903	confessionem plenam.
+R5	Parallel Arg1:T8 Arg2:T9	
+T10	ParallelArm 2770 2787	unus pro omnibus,
+T11	ParallelArm 2793 2810	unitas in omnibus
+R6	Parallel Arg1:T10 Arg2:T11	
+T12	ParallelArm 2933 2953	quod de se Christus,
+T13	ParallelArm 2957 2980	quod de Christo Petrus.
+R7	Parallel Arg1:T12 Arg2:T13	
+T14	ParallelArm 2981 3000	quid de se Christus
+T15	ParallelArm 3046 3069	quid de Christo Petrus?
+R8	Parallel Arg1:T14 Arg2:T15	
+T16	ParallelArm 3149 3182	hoc de se Christus quod minus est
+T17	ParallelArm 3184 3221	hoc de Christo Petrus quod maius est.
+R9	Parallel Arg1:T16 Arg2:T17	
+T18	ParallelArm 3232 3254	de ueritate humilitas,
+T19	ParallelArm 3258 3280	de humilitate ueritas:
+R10	Parallel Arg1:T18 Arg2:T19	
+T20	ParallelArm 3289 3314	de ueritate dei humilitas
+T21	ParallelArm 3319 3349	de humilitate hominis ueritas.
+R11	Parallel Arg1:T20 Arg2:T21	
+T22	ParallelArm 3489 3532	confitetur Iesum Christum in carne uenisse,
+T23	ParallelArm 3542 3580	confitetur filium dei in carne uenisse
+R12	Parallel Arg1:T22 Arg2:T23	
+T24	ParallelArm 3650 3689	filium dei confitetur in carne uenisse,
+T25	ParallelArm 3690 3727	Christum confitetur in carne uenisse.
+R13	Parallel Arg1:T24 Arg2:T25	
+T26	ParallelArm 4608 4631	talem filium quaerimus,
+T27	ParallelArm 4632 4659	tam uerum filium quaerimus,
+R14	Parallel Arg1:T26 Arg2:T27	
+T28	ParallelArm 4757 4780	illum filium quaerimus,
+R15	Parallel Arg1:T28 Arg2:T27	
+T29	ParallelArm 4903 4914	natura erat
+T30	ParallelArm 4916 4932	rapina non erat.
+R16	Parallel Arg1:T29 Arg2:T30	
+T31	ParallelArm 5205 5224	amittendo quod erat
+T32	ParallelArm 5229 5252	assumendo quod non erat
+R17	Parallel Arg1:T31 Arg2:T32	
+T33	ParallelArm 5399 5419	forma serui accessit
+T34	ParallelArm 5425 5444	forma dei discessit
+R18	Parallel Arg1:T33 Arg2:T34	
+T35	ParallelArm 5509 5533	non confitetur aequalem,
+T36	ParallelArm 5534 5556	non confitetur filium.
+R19	Parallel Arg1:T35 Arg2:T36	
+T37	ParallelArm 5560 5582	non confitetur filium,
+T38	ParallelArm 5583 5607	non confitetur Christum.
+R20	Parallel Arg1:T37 Arg2:T38	
+T39	ParallelArm 5709 5717	par eius
+T40	ParallelArm 5719 5731	socius eius,
+R21	Parallel Arg1:T39 Arg2:T40	
+T41	ParallelArm 5980 6015	qui negat aequalem, negat Christum;
+T42	ParallelArm 6016 6050	qui negat similem, negat Christum.
+R22	Parallel Arg1:T41 Arg2:T42	
+T43	ParallelArm 6473 6483	hoc dicit,
+T44	ParallelArm 6484 6496	hinc pungit,
+T45	ParallelArm 6497 6519	hinc uenena diffundit.
+R23	Parallel Arg1:T43 Arg2:T44	
+R24	Parallel Arg1:T44 Arg2:T45	
+T46	ParallelArm 6545 6569	quando uult, filius est:
+T47	ParallelArm 6570 6592	quando uult, pater est
+R25	Parallel Arg1:T46 Arg2:T47	
+T48	ParallelArm 6814 6837	formam serui confiteris
+T49	ParallelArm 6839 6856	formam dei negas.
+R26	Parallel Arg1:T48 Arg2:T49	
+T50	ParallelArm 6869 6901	in forma dei aequalis est patri,
+T51	ParallelArm 6902 6935	in forma serui consors est nobis.
+R27	Parallel Arg1:T50 Arg2:T51	
+T52	ParallelArm 7239 7278	si enim negant aequalem, negant filium.
+T53	ParallelArm 7279 7313	si negant filium, negant Christum.
+R28	Parallel Arg1:T52 Arg2:T53	
+T54	ParallelArm 7569 7587	uerbis confitemini
+T55	ParallelArm 7589 7603	factis negatis
+R29	Parallel Arg1:T54 Arg2:T55	
+T56	ParallelArm 8214 8230	bonum coniugium,
+T57	ParallelArm 8231 8247	sanctae nuptiae.
+R30	Parallel Arg1:T56 Arg2:T57	
+T58	ParallelArm 8248 8264	sponsus Christus
+T59	ParallelArm 8266 8281	sponsa ecclesia
+R31	Parallel Arg1:T58 Arg2:T59	
+T60	ParallelArm 8939 8956	impletum uidebant
+T61	ParallelArm 8958 8973	caput tenebant,
+T62	ParallelArm 8974 8991	corpus quaerebant
+R32	Parallel Arg1:T60 Arg2:T61	
+R33	Parallel Arg1:T61 Arg2:T62	
+T63	ParallelArm 8993 9008;9009 9023	quod est caput? ipse Christus:
+T64	ParallelArm 9080 9096;9097 9111	corpus quod est? ipsa ecclesia.
+R34	Parallel Arg1:T63 Arg2:T64	
+T65	ParallelArm 9112 9142	uidebant ergo discipuli caput,
+T66	ParallelArm 9143 9162	corpus non uidebant
+R35	Parallel Arg1:T65 Arg2:T66	
+T67	ParallelArm 9208 9225	dic, domine Iesu;
+T68	ParallelArm 9226 9245	dic, sancte sponse,
+R36	Parallel Arg1:T67 Arg2:T68	
+T69	ParallelArm 9258 9273	de corpore tuo,
+T70	ParallelArm 9274 9288	de sponsa tua,
+T71	ParallelArm 9289 9303	de dilecta tua
+T72	ParallelArm 9305 9320	de columba tua,
+R37	Parallel Arg1:T69 Arg2:T70	
+R38	Parallel Arg1:T70 Arg2:T71	
+R39	Parallel Arg1:T71 Arg2:T72	
+T73	ParallelArm 9755 9773	legimus promissum,
+T74	ParallelArm 9774 9791	uidemus impletum.
+R40	Parallel Arg1:T73 Arg2:T74	
+T75	ParallelArm 9792 9805	ecce lux mea;
+T76	ParallelArm 9806 9829	ubi est obscuritas tua?
+R41	Parallel Arg1:T75 Arg2:T76	
+T77	ParallelArm 9981 10008	huius sponsus est Christus.
+T78	ParallelArm 10024 10050	cuius sponsus est Christus
+R42	Parallel Arg1:T77 Arg2:T78	
+T79	ParallelArm 10095 10119	homo bone, non est ipse:
+T80	ParallelArm 10124 10148	homo male, non est ipse.
+R43	Parallel Arg1:T79 Arg2:T80	
+T81	ParallelArm 11469 11488	saluatori saluandos
+T82	ParallelArm 11490 11511	non Pelagio damnandos
+R44	Parallel Arg1:T81 Arg2:T82	
+T83	ParallelArm 11825 11860	saluator est et maiorum et minorum,
+T84	ParallelArm 11861 11899	saluator est et grandium et infantium,
+R45	Parallel Arg1:T83 Arg2:T84	
+T85	ParallelArm 12190 12248	quid miramini, si pagani negant Christum in carne uenisse?
+T86	ParallelArm 12249 12307	quid miramini, si Iudaei negant Christum in carne uenisse?
+T87	ParallelArm 12308 12381	quid miramini, si Manichaei apertissime negant Christum in carne uenisse?
+R46	Parallel Arg1:T85 Arg2:T86	
+R47	Parallel Arg1:T86 Arg2:T87	
+T88	ParallelArm 12624 12646	et uerbis uera dicendo
+T89	ParallelArm 12648 12670	et factis bene uiuendo
+R48	Parallel Arg1:T88 Arg2:T89	
+T90	ParallelArm 13307 13328	Petrus tamen laudatur
+T91	ParallelArm 13330 13349	daemon compescitur.
+R49	Parallel Arg1:T90 Arg2:T91	
+T92	ParallelArm 13415 13429	laudatur amor,
+T93	ParallelArm 13430 13444	damnatur timor
+R50	Parallel Arg1:T92 Arg2:T93	
+T94	ParallelArm 14680 14717	potestatem habeo ponendi animam meam,
+T95	ParallelArm 14721 14757	potestatem habeo iterum sumendi eam?
+R51	Parallel Arg1:T94 Arg2:T95	
+T96	ParallelArm 14959 14970	de Simonis,
+T97	ParallelArm 14975 14983	de Petri
+R52	Parallel Arg1:T96 Arg2:T97	

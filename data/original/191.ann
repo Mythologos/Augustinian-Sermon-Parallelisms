@@ -1,0 +1,72 @@
+T1	ParallelArm 189 241	ipse apud patrem praecedit cuncta spatia saeculorum:
+T2	ParallelArm 242 296	ipse de matre in hac die cursibus se ingessit annorum.
+R1	Parallel Arg1:T1 Arg2:T2	
+T3	ParallelArm 326 342	ut sugeret ubera
+T4	ParallelArm 359 377	ut esuriret panis,
+T5	ParallelArm 378 394	ut sitiret fons,
+T6	ParallelArm 395 407	dormiret lux
+R2	Parallel Arg1:T3 Arg2:T4	
+R3	Parallel Arg1:T4 Arg2:T5	
+R4	Parallel Arg1:T5 Arg2:T6	
+T7	ParallelArm 409 435	ab itinere uia fatigaretur
+T8	ParallelArm 437 472	falsis testibus ueritas accusaretur
+R5	Parallel Arg1:T7 Arg2:T8	
+T9	ParallelArm 531 563	ab iniustis iustitia damnaretur,
+R6	Parallel Arg1:T8 Arg2:T9	
+T10	ParallelArm 564 595	flagellis disciplina caederetur
+R7	Parallel Arg1:T9 Arg2:T10	
+T11	ParallelArm 597 622	spinis botrus coronaretur
+R8	Parallel Arg1:T10 Arg2:T11	
+T12	ParallelArm 660 680	uirtus infirmaretur,
+T13	ParallelArm 681 700	salus uulneraretur,
+T14	ParallelArm 701 715	uita moreretur
+R9	Parallel Arg1:T12 Arg2:T13	
+R10	Parallel Arg1:T13 Arg2:T14	
+T15	ParallelArm 950 1004	erat ante omnia saecula sine initio dierum dei filius,
+T16	ParallelArm 1005 1059	esse in nouissimis diebus dignatus est hominis filius;
+R11	Parallel Arg1:T15 Arg2:T16	
+T17	ParallelArm 1067 1082	de patre natus,
+T18	ParallelArm 1087 1101	a patre factus
+R12	Parallel Arg1:T17 Arg2:T18	
+T19	ParallelArm 1321 1342	uirgo ante conceptum,
+T20	ParallelArm 1343 1361	uirgo post partum.
+R13	Parallel Arg1:T19 Arg2:T20	
+T21	ParallelArm 1376 1387	in ea terra
+T22	ParallelArm 1397 1408	in ea carne
+R14	Parallel Arg1:T21 Arg2:T22	
+T23	ParallelArm 1729 1768	potuit per clausa ostia magnus intrare,
+T24	ParallelArm 1773 1821	potuit etiam per incorrupta membra paruus exire?
+R15	Parallel Arg1:T23 Arg2:T24	
+T25	ParallelArm 1887 1909	fides utrumque credit;
+T26	ParallelArm 1915 1947	infidelitas utrumque non credit.
+R16	Parallel Arg1:T25 Arg2:T26	
+T27	ParallelArm 3090 3105	natus ex femina
+T28	ParallelArm 3129 3144	satus in femina
+R17	Parallel Arg1:T27 Arg2:T28	
+T29	ParallelArm 3150 3178	uobis attulit quod amaretis,
+T30	ParallelArm 3179 3210	matri non abstulit quod amatis.
+R18	Parallel Arg1:T29 Arg2:T30	
+T31	ParallelArm 3215 3252	sanat in uobis quod traxistis ex Eua,
+T32	ParallelArm 3262 3295	uitiaret quod dilexistis in Maria
+R19	Parallel Arg1:T31 Arg2:T32	
+T33	ParallelArm 3346 3381	ut conciperet, cum uiro non mansit;
+T34	ParallelArm 3385 3414	cum pareret, uirgo permansit.
+R20	Parallel Arg1:T33 Arg2:T34	
+T35	ParallelArm 3854 3887	filium edere non potuistis carne,
+T36	ParallelArm 3888 3916	sponsum inuenistis in corde:
+R21	Parallel Arg1:T35 Arg2:T36	
+T37	ParallelArm 4309 4365	cogitatis ea quae sunt mundi, quomodo placeatis maritis;
+T38	ParallelArm 4366 4424	cogitate quae dei sunt, quomodo illi in omnibus placeatis;
+R22	Parallel Arg1:T37 Arg2:T38	
+T39	ParallelArm 4505 4519	omnes alloquor
+T40	ParallelArm 4521 4534	omnibus dico;
+R23	Parallel Arg1:T39 Arg2:T40	
+T41	ParallelArm 4623 4648	miramini in carne Mariae,
+T42	ParallelArm 4649 4678	agite in penetralibus animae.
+R24	Parallel Arg1:T41 Arg2:T42	
+T43	ParallelArm 4679 4728	qui corde credit ad iustitiam, concipit Christum:
+T44	ParallelArm 4729 4775	qui ore confitetur ad salutem, parit Christum.
+R25	Parallel Arg1:T43 Arg2:T44	
+T45	ParallelArm 4800 4822	et fecunditas exuberet
+T46	ParallelArm 4824 4848	et uirginitas perseueret
+R26	Parallel Arg1:T45 Arg2:T46	

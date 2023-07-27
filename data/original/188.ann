@@ -1,0 +1,51 @@
+T1	ParallelArm 407 429	si purgetur iniquitas,
+T2	ParallelArm 430 451	si sanetur infirmitas
+R1	Parallel Arg1:T1 Arg2:T2	
+T3	ParallelArm 734 800	nec eo modo facit homo uerba, quo modo est factus ipse per uerbum:
+T4	ParallelArm 806 879	nec eo modo genuit pater unicum uerbum, quo modo fecit cuncta per uerbum.
+R2	Parallel Arg1:T3 Arg2:T4	
+T5	ParallelArm 2135 2154	nunc hodiernus est,
+T6	ParallelArm 2155 2174	cras fit hesternus.
+R3	Parallel Arg1:T5 Arg2:T6	
+T7	ParallelArm 2186 2232	hodiernus natum ex uirgine commendat aeternum,
+T8	ParallelArm 2238 2286	aeternus natus ex uirgine consecrauit hodiernum.
+R4	Parallel Arg1:T7 Arg2:T8	
+T9	ParallelArm 2287 2327	quas itaque laudes caritati dei dicamus,
+T10	ParallelArm 2328 2348	quas gratias agamus?
+R5	Parallel Arg1:T9 Arg2:T10	
+T11	ParallelArm 2373 2403	propter nos fieret in tempore,
+T12	ParallelArm 2404 2432	per quem facta sunt tempora;
+R6	Parallel Arg1:T11 Arg2:T12	
+T13	ParallelArm 2455 2483	in mundo minor esset aetate,
+T14	ParallelArm 2484 2517	ipso mundo antiquior aeternitate;
+R7	Parallel Arg1:T13 Arg2:T14	
+T15	ParallelArm 2518 2548	homo fieret qui hominem fecit,
+T16	ParallelArm 2549 2581	crearetur ex matre quam creauit,
+R8	Parallel Arg1:T15 Arg2:T16	
+T17	ParallelArm 2582 2615	portaretur manibus quas formauit,
+T18	ParallelArm 2616 2644	sugeret ubera quae impleuit,
+R9	Parallel Arg1:T17 Arg2:T18	
+T19	ParallelArm 2645 2686	in praesepi muta uagiret infantia uerbum,
+T20	ParallelArm 2687 2723	sine quo muta est humana eloquentia.
+R10	Parallel Arg1:T19 Arg2:T20	
+T21	ParallelArm 3010 3093	tu in latissimo fructuosorum nemorum praedio te perdidisti, obedientiam negligendo:
+T22	ParallelArm 3094 3183	ille obediens in angustissimum diuersorium mortalis uenit, ut mortuum quaereret moriendo.
+R11	Parallel Arg1:T21 Arg2:T22	
+T23	ParallelArm 3184 3234	tu cum esses homo, deus esse uoluisti, ut perires:
+T24	ParallelArm 3235 3301	ille cum esset deus, homo esse uoluit, ut quod perierat inueniret.
+R12	Parallel Arg1:T23 Arg2:T24	
+T25	ParallelArm 3457 3486	coniugata coniugii creatorem,
+T26	ParallelArm 3487 3512	uirgo uirginum principem;
+R13	Parallel Arg1:T25 Arg2:T26	
+T27	ParallelArm 3513 3527	et data marito
+T28	ParallelArm 3529 3552	et mater non de marito;
+R14	Parallel Arg1:T27 Arg2:T28	
+T29	ParallelArm 3553 3574	uirgo ante coniugium,
+T30	ParallelArm 3575 3593	uirgo in coniugio;
+R15	Parallel Arg1:T29 Arg2:T30	
+T31	ParallelArm 3594 3610	uirgo praegnans,
+T32	ParallelArm 3611 3625	uirgo lactans.
+R16	Parallel Arg1:T31 Arg2:T32	
+T33	ParallelArm 3729 3765	bona est enim fecunditas in coniugio
+T34	ParallelArm 3771 3803	melior integritas in sanctimonio
+R17	Parallel Arg1:T33 Arg2:T34	

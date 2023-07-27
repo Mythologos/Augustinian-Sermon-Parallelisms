@@ -1,0 +1,95 @@
+T1	ParallelArm 307 334	hoc consilium secretum dei,
+T2	ParallelArm 335 366	hoc consilium saluatoris nostri
+R1	Parallel Arg1:T1 Arg2:T2	
+T3	ParallelArm 497 516	non multi sapientes
+T4	ParallelArm 534 552	non multi potentes
+T5	ParallelArm 554 571	non multi nobiles
+R2	Parallel Arg1:T3 Arg2:T4	
+R3	Parallel Arg1:T4 Arg2:T5	
+T6	ParallelArm 794 817	omnis uallis implebitur
+T7	ParallelArm 821 854	omnis mons et collis humiliabitur
+T8	ParallelArm 856 885	aequalitas campi constituetur
+R4	Parallel Arg1:T6 Arg2:T7	
+R5	Parallel Arg1:T7 Arg2:T8	
+T9	ParallelArm 936 957	nobiles et ignobiles,
+T10	ParallelArm 958 978	doctus et inperitus,
+T11	ParallelArm 979 995	pauper et diues.
+R6	Parallel Arg1:T9 Arg2:T10	
+R7	Parallel Arg1:T10 Arg2:T11	
+T12	ParallelArm 1062 1076	nihil scientis
+T13	ParallelArm 1078 1092	nihil habentis
+T14	ParallelArm 1094 1109	nihil ualentis.
+R8	Parallel Arg1:T12 Arg2:T13	
+R9	Parallel Arg1:T13 Arg2:T14	
+T15	ParallelArm 1752 1777	illa ante resurrectionem,
+T16	ParallelArm 1778 1803	ista post resurrectionem.
+R10	Parallel Arg1:T15 Arg2:T16	
+T17	ParallelArm 2606 2644	in sinistram, malos solos significaret
+T18	ParallelArm 2646 2671	in dexteram, solos bonos.
+R11	Parallel Arg1:T17 Arg2:T18	
+T19	ParallelArm 3267 3302	inueniuntur multi felices nocentes,
+T20	ParallelArm 3303 3342	inueniuntur multi infelices innocentes.
+R12	Parallel Arg1:T19 Arg2:T20	
+T21	ParallelArm 4150 4165	nec attulit ea,
+T22	ParallelArm 4166 4181	nec auferet ea,
+R13	Parallel Arg1:T21 Arg2:T22	
+T23	ParallelArm 4182 4202	nudus ingressus est,
+T24	ParallelArm 4203 4222	nudus est exiturus;
+R14	Parallel Arg1:T23 Arg2:T24	
+T25	ParallelArm 5122 5151	audiat me bonus et sit melior
+T26	ParallelArm 5153 5182	audiat et malus et sit bonus;
+R15	Parallel Arg1:T25 Arg2:T26	
+T27	ParallelArm 5424 5438	ibi reficiamur
+T28	ParallelArm 5440 5454	ibi consolemur
+R16	Parallel Arg1:T27 Arg2:T28	
+T29	ParallelArm 5669 5689	prius quid mitterent
+T30	ParallelArm 5691 5710	modo quo mitterent,
+R17	Parallel Arg1:T29 Arg2:T30	
+T31	ParallelArm 7504 7516	quare decem?
+T32	ParallelArm 7517 7530	quare septem?
+R18	Parallel Arg1:T31 Arg2:T32	
+T33	ParallelArm 7531 7551	decem propter legem,
+T34	ParallelArm 7552 7576	septem propter spiritum.
+R19	Parallel Arg1:T33 Arg2:T34	
+T35	ParallelArm 7815 7850	spiritus sapientiae et intellectus,
+T36	ParallelArm 7851 7884	spiritus consilii et fortitudinis
+R20	Parallel Arg1:T35 Arg2:T36	
+T37	ParallelArm 7902 7932	spiritus scientiae et pietatis
+T38	ParallelArm 7934 7957	spiritus timoris domini
+R21	Parallel Arg1:T37 Arg2:T38	
+T39	ParallelArm 7959 7978	a sapientia coepit,
+T40	ParallelArm 7979 8000	ad timorem terminauit
+R22	Parallel Arg1:T39 Arg2:T40	
+T41	ParallelArm 8033 8048	a summis ad ima
+T42	ParallelArm 8050 8072	a sapientia ad timorem
+R23	Parallel Arg1:T41 Arg2:T42	
+T43	ParallelArm 8074 8090	ab imis ad summa
+T44	ParallelArm 8092 8115	a timore ad sapientiam.
+R24	Parallel Arg1:T43 Arg2:T44	
+T45	ParallelArm 8501 8522	iubetur et non facis,
+T46	ParallelArm 8523 8543	prohibetur et facis,
+R25	Parallel Arg1:T45 Arg2:T46	
+T47	ParallelArm 8599 8627	praeceptum primum legis est:
+T48	ParallelArm 8692 8716	praeceptum secundum est:
+T49	ParallelArm 8761 8784	praeceptum tertium est:
+R26	Parallel Arg1:T47 Arg2:T48	
+R27	Parallel Arg1:T48 Arg2:T49	
+T50	ParallelArm 9175 9200	habes quartum praeceptum.
+T51	ParallelArm 9218 9232	habes quintum.
+T52	ParallelArm 9256 9269	habes sextum.
+T53	ParallelArm 9289 9304	habes septimum.
+R28	Parallel Arg1:T50 Arg2:T51	
+R29	Parallel Arg1:T51 Arg2:T52	
+R30	Parallel Arg1:T52 Arg2:T53	
+T54	ParallelArm 9335 9349	habes octauum.
+R31	Parallel Arg1:T53 Arg2:T54	
+T55	ParallelArm 9383 9395	habes nonum.
+R32	Parallel Arg1:T54 Arg2:T55	
+T56	ParallelArm 9432 9446	habes decimum.
+R33	Parallel Arg1:T55 Arg2:T56	
+T57	ParallelArm 9474 9489	interna pulsat,
+T58	ParallelArm 9490 9508	interiora percutit
+R34	Parallel Arg1:T57 Arg2:T58	
+T59	ParallelArm 9979 9997	multi obliti sunt,
+T60	ParallelArm 9998 10018	aliqui nec audierunt
+R35	Parallel Arg1:T59 Arg2:T60	

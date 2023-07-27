@@ -1,0 +1,201 @@
+T1	ParallelArm 338 354	accipit alienam,
+T2	ParallelArm 362 375	accipit suam.
+R1	Parallel Arg1:T1 Arg2:T2	
+T3	ParallelArm 836 878	nec nostrae uires sufficiunt ad loquendum,
+T4	ParallelArm 879 903	nec uestrae ad audiendum
+R2	Parallel Arg1:T3 Arg2:T4	
+T5	ParallelArm 1070 1086	magnum opus est,
+T6	ParallelArm 1087 1102	grauis sarcina,
+R3	Parallel Arg1:T5 Arg2:T6	
+T7	ParallelArm 1487 1530	paucissimi enim nobis contradicunt loquendo
+T8	ParallelArm 1536 1555	multi male uiuendo.
+R4	Parallel Arg1:T7 Arg2:T8	
+T9	ParallelArm 1556 1593	quando mihi audet dicere christianus,
+T10	ParallelArm 1594 1624	bonum esse rapere res alienas;
+T11	ParallelArm 1625 1655	quandoquidem non audet dicere,
+T12	ParallelArm 1656 1694	bonum esse tenaciter seruare res suas?
+R5	Parallel Arg1:T9 Arg2:T11	
+R6	Parallel Arg1:T10 Arg2:T12	
+T13	ParallelArm 2128 2150	non limite perturbato,
+T14	ParallelArm 2151 2172	non spoliato paupere,
+R7	Parallel Arg1:T13 Arg2:T14	
+T15	ParallelArm 2740 2769	si seruaueris, tua non erunt:
+T16	ParallelArm 2770 2794	si erogaueris, tua erunt
+R8	Parallel Arg1:T15 Arg2:T16	
+T17	ParallelArm 2960 2991	sordidus est reconditor suorum,
+T18	ParallelArm 2992 3023	ulcerosus est raptor alienorum.
+R9	Parallel Arg1:T17 Arg2:T18	
+T19	ParallelArm 2957 2991	si sordidus est reconditor suorum,
+T20	ParallelArm 2883 2915	si stultus est qui recondit sua,
+R10	Parallel Arg1:T20 Arg2:T19	
+T21	ParallelArm 3122 3158	ille enim ulcerosus erat in corpore;
+T22	ParallelArm 3159 3176	raptor, in corde.
+R11	Parallel Arg1:T21 Arg2:T22	
+T23	ParallelArm 3800 3823	non dixit, calumniator;
+T24	ParallelArm 3824 3854	non dixit, pauperum oppressor;
+T25	ParallelArm 3855 3888	non dixit, rerum alienarum raptor
+T26	ParallelArm 3917 3949	non dixit, pupillorum spoliator;
+T27	ParallelArm 3950 3981	non dixit, uiduarum persecutor;
+R12	Parallel Arg1:T23 Arg2:T24	
+R13	Parallel Arg1:T23 Arg2:T25	
+R14	Parallel Arg1:T23 Arg2:T26	
+R15	Parallel Arg1:T23 Arg2:T27	
+R16	Parallel Arg1:T24 Arg2:T25	
+R17	Parallel Arg1:T24 Arg2:T26	
+R18	Parallel Arg1:T24 Arg2:T27	
+R19	Parallel Arg1:T25 Arg2:T26	
+R20	Parallel Arg1:T25 Arg2:T27	
+R21	Parallel Arg1:T26 Arg2:T27	
+T28	ParallelArm 5023 5051	non accepit iusta sententia,
+T29	ParallelArm 5056 5083	non dedit crudeli auaritia.
+R22	Parallel Arg1:T28 Arg2:T29	
+T30	ParallelArm 5087 5116	haec ergo poena est auarorum,
+T31	ParallelArm 5117 5137	quae poena raptorum?
+R23	Parallel Arg1:T30 Arg2:T31	
+T32	ParallelArm 5266 5278	nudos uestio
+T33	ParallelArm 5280 5300	peregrinos suscipio.
+R24	Parallel Arg1:T32 Arg2:T33	
+T34	ParallelArm 5342 5362	cui dederis, gaudet;
+T35	ParallelArm 5363 5385	cui abstuleris, plorat
+R25	Parallel Arg1:T34 Arg2:T35	
+T36	ParallelArm 5551 5566	totum tenuisti,
+T37	ParallelArm 5570 5591	exiguum illi dedisti.
+R26	Parallel Arg1:T36 Arg2:T37	
+T38	ParallelArm 5733 5742	si habes,
+T39	ParallelArm 5754 5766	si non habes
+R27	Parallel Arg1:T38 Arg2:T39	
+T40	ParallelArm 6370 6396	quando pascis christianum,
+T41	ParallelArm 6397 6413	pascis Christum;
+T42	ParallelArm 6414 6441	quando spolias christianum,
+T43	ParallelArm 6442 6459	spolias Christum.
+R28	Parallel Arg1:T40 Arg2:T41	
+R29	Parallel Arg1:T42 Arg2:T43	
+R30	Parallel Arg1:T40 Arg2:T42	
+R31	Parallel Arg1:T41 Arg2:T43	
+T44	ParallelArm 6370 6413	quando pascis christianum, pascis Christum;
+T45	ParallelArm 6414 6459	quando spolias christianum, spolias Christum.
+R32	Parallel Arg1:T44 Arg2:T45	
+T46	ParallelArm 6529 6574	esuriui enim, et non dedistis mihi manducare;
+T47	ParallelArm 6575 6606	nudus fui, et non uestistis me.
+R33	Parallel Arg1:T46 Arg2:T47	
+T48	ParallelArm 7894 7907	moneo, rapit;
+T49	ParallelArm 7908 7920	doceo, rapit
+T50	ParallelArm 7922 7938	praecipio, rapit
+T51	ParallelArm 7940 7953	arguo, rapit:
+R34	Parallel Arg1:T48 Arg2:T49	
+R35	Parallel Arg1:T48 Arg2:T50	
+R36	Parallel Arg1:T48 Arg2:T51	
+R37	Parallel Arg1:T49 Arg2:T50	
+R38	Parallel Arg1:T49 Arg2:T51	
+R39	Parallel Arg1:T50 Arg2:T51	
+T52	ParallelArm 8025 8048	abstinete uos, fratres,
+T53	ParallelArm 8049 8069	abstinete uos, filii
+R40	Parallel Arg1:T52 Arg2:T53	
+T54	ParallelArm 8071 8109	abstinete uos a consuetudine rapiendi:
+T55	ParallelArm 8151 8187	abstinete uos a cupiditate rapiendi.
+R41	Parallel Arg1:T54 Arg2:T55	
+T56	ParallelArm 8402 8449	qui potuit transgredi, et non est transgressus;
+T57	ParallelArm 8450 8487	qui facere mala potuit, et non fecit.
+R42	Parallel Arg1:T56 Arg2:T57	
+T58	ParallelArm 8818 8867	quia potuisti transgredi, et non es transgressus;
+T59	ParallelArm 8868 8910	quia potuisti mala facere, et non fecisti.
+R43	Parallel Arg1:T58 Arg2:T59	
+T60	ParallelArm 9057 9071	inspicite uos,
+T61	ParallelArm 9072 9088	interrogate uos,
+R44	Parallel Arg1:T60 Arg2:T61	
+T62	ParallelArm 9202 9223	ecclesiam frequentas,
+T63	ParallelArm 9224 9241	uerbum dei audis,
+R45	Parallel Arg1:T62 Arg2:T63	
+T64	ParallelArm 9287 9308	tu laudas tractantem,
+T65	ParallelArm 9309 9329	ego quaero facientem
+R46	Parallel Arg1:T64 Arg2:T65	
+T66	ParallelArm 9331 9359	tu, inquam, laudas dicentem,
+T67	ParallelArm 9360 9381	ego quaero facientem.
+R47	Parallel Arg1:T66 Arg2:T67	
+T68	ParallelArm 9398 9419	frequentas ecclesiam,
+T69	ParallelArm 9420 9435	amas uerbum dei
+R48	Parallel Arg1:T68 Arg2:T69	
+T70	ParallelArm 9479 9496	in eo te examina,
+T71	ParallelArm 9497 9514	in eo te appende,
+R49	Parallel Arg1:T70 Arg2:T71	
+T72	ParallelArm 9929 9955	non se excusat ignorantia,
+T73	ParallelArm 9959 9982	non dominetur auaritia.
+R50	Parallel Arg1:T72 Arg2:T73	
+T74	ParallelArm 11224 11237	qualis pugna,
+T75	ParallelArm 11238 11256	qualis conflictus?
+R51	Parallel Arg1:T74 Arg2:T75	
+T76	ParallelArm 11257 11273	theatrum mundus,
+T77	ParallelArm 11274 11288	spectator deus
+R52	Parallel Arg1:T76 Arg2:T77	
+T78	ParallelArm 11862 11874	posuit ille,
+T79	ParallelArm 11875 11892	oblitus est ille;
+T80	ParallelArm 11893 11909	cecidit ab illo,
+R53	Parallel Arg1:T78 Arg2:T79	
+R54	Parallel Arg1:T78 Arg2:T80	
+R55	Parallel Arg1:T79 Arg2:T80	
+T81	ParallelArm 11930 11945;11946 11957	quis inuenisti? christianus
+T82	ParallelArm 11959 11974;11975 12023	quis inuenisti? qui legem audisti, christianus qui legem audisti
+T83	ParallelArm 12025 12040;12041 12086	quis inuenisti? qui cum audires multa laudasti, tu inuenisti.
+R56	Parallel Arg1:T81 Arg2:T82	
+R57	Parallel Arg1:T82 Arg2:T83	
+R58	Parallel Arg1:T81 Arg2:T83	
+T84	ParallelArm 12558 12587	magnum est, non facere malum:
+T85	ParallelArm 12588 12612	magnum est, amare bonum.
+R59	Parallel Arg1:T84 Arg2:T85	
+T86	ParallelArm 12754 12771	quaerit inuadere,
+T87	ParallelArm 12772 12789	quaerit iugulare,
+T88	ParallelArm 12790 12806	quaerit deuorare
+R60	Parallel Arg1:T86 Arg2:T87	
+R61	Parallel Arg1:T86 Arg2:T88	
+R62	Parallel Arg1:T87 Arg2:T88	
+T89	ParallelArm 12808 12826	uigilant pastores,
+T90	ParallelArm 12827 12841	latrant canes:
+R63	Parallel Arg1:T89 Arg2:T90	
+T91	ParallelArm 12842 12855	nihil potest,
+T92	ParallelArm 12856 12867	non aufert,
+T93	ParallelArm 12868 12880	non occidit;
+R64	Parallel Arg1:T91 Arg2:T92	
+R65	Parallel Arg1:T92 Arg2:T93	
+R66	Parallel Arg1:T91 Arg2:T93	
+T94	ParallelArm 12891 12903	lupus uenit,
+T95	ParallelArm 12904 12916	lupus redit.
+R67	Parallel Arg1:T94 Arg2:T95	
+T96	ParallelArm 12979 12999	lupus uenit tremens,
+T97	ParallelArm 13000 13020	lupus redit tremens:
+R68	Parallel Arg1:T96 Arg2:T97	
+T98	ParallelArm 13311 13326	ibi time malum:
+T99	ParallelArm 13327 13341	ibi ama bonum.
+R69	Parallel Arg1:T99 Arg2:T98	
+T100	ParallelArm 13599 13631	timore gehennae non facis malum,
+T101	ParallelArm 13632 13664	non amore iustitiae facis bonum.
+R70	Parallel Arg1:T100 Arg2:T101	
+T102	ParallelArm 13674 13699	aliud est, timere poenam;
+T103	ParallelArm 13700 13727	aliud est, amare iustitiam.
+R71	Parallel Arg1:T102 Arg2:T103	
+T104	ParallelArm 13786 13807	non caelum et terram,
+T105	ParallelArm 13808 13834	non campos liquidos maris,
+T106	ParallelArm 13835 13860	non spectacula nugatoria,
+T107	ParallelArm 13861 13894	non fulgores nitoresque gemmarum:
+R72	Parallel Arg1:T104 Arg2:T105	
+R73	Parallel Arg1:T106 Arg2:T107	
+T108	ParallelArm 13908 13925	uidere deum tuum,
+T109	ParallelArm 13926 13942	amare deum tuum;
+R74	Parallel Arg1:T108 Arg2:T109	
+T110	ParallelArm 14110 14147	ecce propter quam uisionem fac bonum,
+T111	ParallelArm 14148 14184	ecce propter quam noli facere malum.
+R75	Parallel Arg1:T110 Arg2:T111	
+T112	ParallelArm 14357 14375	extende nequitiam,
+T113	ParallelArm 14376 14392	dilata luxuriam,
+R76	Parallel Arg1:T112 Arg2:T113	
+T114	ParallelArm 14899 14922	conuersatione laudabili
+T115	ParallelArm 14924 14940	amicitia fideli.
+R77	Parallel Arg1:T114 Arg2:T115	
+T116	ParallelArm 14820 14840	dolore poenitentiae,
+T117	ParallelArm 14841 14862	dilectione iustitiae,
+R78	Parallel Arg1:T116 Arg2:T117	
+T118	ParallelArm 14863 14878	operibus bonis,
+T119	ParallelArm 14879 14898	gemitibus sinceris,
+R79	Parallel Arg1:T118 Arg2:T119	
+T120	ParallelArm 14969 14984	flate in uobis,
+T121	ParallelArm 14985 15002	nutrite in uobis:
+R80	Parallel Arg1:T120 Arg2:T121	

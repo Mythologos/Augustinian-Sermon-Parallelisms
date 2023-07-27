@@ -1,0 +1,84 @@
+T1	ParallelArm 584 598	perpetua quies
+T2	ParallelArm 600 619	sempiterna laetitia
+T3	ParallelArm 621 642	indeficiens beatitudo
+R1	Parallel Arg1:T1 Arg2:T2	
+R2	Parallel Arg1:T2 Arg2:T3	
+T4	ParallelArm 644 662	nulla perturbatio,
+T5	ParallelArm 663 679	nulla tristitia,
+T6	ParallelArm 680 691	nulla mors.
+R3	Parallel Arg1:T4 Arg2:T5	
+R4	Parallel Arg1:T5 Arg2:T6	
+T7	ParallelArm 1210 1228	obiurgaret dubios,
+T8	ParallelArm 1232 1254	instrueret credituros.
+R5	Parallel Arg1:T7 Arg2:T8	
+T9	ParallelArm 1860 1893	illuminabit abscondita tenebrarum
+T10	ParallelArm 1897 1931	manifestabit cogitationes cordium:
+R6	Parallel Arg1:T9 Arg2:T10	
+T11	ParallelArm 2171 2186	ubi trituratur,
+T12	ParallelArm 2187 2200	ibi purgatur;
+R7	Parallel Arg1:T11 Arg2:T12	
+T13	ParallelArm 2349 2379	aceruum palearum ex una parte,
+T14	ParallelArm 2383 2408	aceruum frumenti ex alia.
+R8	Parallel Arg1:T13 Arg2:T14	
+T15	ParallelArm 2970 2988	fulgens dignitate,
+T16	ParallelArm 2989 3007	praepotens meritis
+R9	Parallel Arg1:T15 Arg2:T16	
+T17	ParallelArm 7367 7417	seruo quam cito miseretur, qui aliquando seruiuit.
+T18	ParallelArm 7418 7486	mercenarium mercede fraudatum quam cito dolet, qui mercenarius fuit.
+T19	ParallelArm 7487 7574	homini filium suum plangenti amarissime compatitur, qui aliquando tale aliquid planxit.
+R10	Parallel Arg1:T17 Arg2:T18	
+R11	Parallel Arg1:T18 Arg2:T19	
+T20	ParallelArm 7824 7860	in memoria praeteritarum miseriarum,
+T21	ParallelArm 7864 7884	in timore futurarum,
+T22	ParallelArm 7888 7912	afflictione praesentium,
+R12	Parallel Arg1:T20 Arg2:T21	
+R13	Parallel Arg1:T21 Arg2:T22	
+T23	ParallelArm 9085 9101	profer sacculum,
+T24	ParallelArm 9102 9114	aperi arcam,
+T25	ParallelArm 9115 9131	resigna horreum:
+R14	Parallel Arg1:T23 Arg2:T24	
+R15	Parallel Arg1:T24 Arg2:T25	
+T26	ParallelArm 9317 9330	nullo sumptu,
+T27	ParallelArm 9331 9344	nullo labore,
+R16	Parallel Arg1:T26 Arg2:T27	
+T28	ParallelArm 9345 9358	sola bonitate
+T29	ParallelArm 9360 9391	sola misericordiae cogitatione.
+R17	Parallel Arg1:T28 Arg2:T29	
+T30	ParallelArm 9704 9735;9736 9765	dimittite, et dimittetur uobis: misericordia est ignoscentis.
+T31	ParallelArm 9766 9788;9789 9815	date et dabitur uobis: misericordia est erogantis
+R18	Parallel Arg1:T30 Arg2:T31	
+T32	ParallelArm 9853 9903	tu ignoscis homini, in quo te laesit homo hominem:
+T33	ParallelArm 9904 9952	ignoscit tibi deus, in quo offendisti homo deum.
+R19	Parallel Arg1:T32 Arg2:T33	
+T34	ParallelArm 9966 9989	hoc est hominem laedere
+T35	ParallelArm 9991 10015	quod est deum offendere?
+R20	Parallel Arg1:T34 Arg2:T35	
+T36	ParallelArm 10043 10084	tu hoc dimisisti, in quo homo laesus est;
+T37	ParallelArm 10085 10129	hoc ille dimittit, in quo deus offensus est.
+R21	Parallel Arg1:T36 Arg2:T37	
+T38	ParallelArm 10176 10207	tu das panem, ille dat salutem;
+T39	ParallelArm 10208 10289	tu das sitienti poculum liquoris alicuius, ille tibi dat poculum sapientiae suae.
+R22	Parallel Arg1:T38 Arg2:T39	
+T40	ParallelArm 10747 10769	benignitas largientis,
+T41	ParallelArm 10777 10800	humilitas ministrantis.
+R23	Parallel Arg1:T40 Arg2:T41	
+T42	ParallelArm 11310 11323	timetur latro
+T43	ParallelArm 11325 11343	timetur effractor,
+T44	ParallelArm 11344 11369	timetur seruus infidelis,
+T45	ParallelArm 11370 11402	timetur uicinus malus et potens.
+R24	Parallel Arg1:T42 Arg2:T43	
+R25	Parallel Arg1:T43 Arg2:T44	
+R26	Parallel Arg1:T44 Arg2:T45	
+T46	ParallelArm 11403 11423	quanto plus tenetur,
+T47	ParallelArm 11424 11443	tanto plus timetur.
+R27	Parallel Arg1:T46 Arg2:T47	
+T48	ParallelArm 11752 11783	habet in potestate non auferre,
+T49	ParallelArm 11794 11825	habet in potestate non perdere.
+R28	Parallel Arg1:T48 Arg2:T49	
+T50	ParallelArm 13698 13721	cui tributum, tributum;
+T51	ParallelArm 13722 13744	cui uectigal, uectigal
+T52	ParallelArm 13746 13767	cui honorem, honorem;
+T53	ParallelArm 13768 13789	cui timorem, timorem:
+R29	Parallel Arg1:T50 Arg2:T51	
+R30	Parallel Arg1:T51 Arg2:T52	
+R31	Parallel Arg1:T52 Arg2:T53	
