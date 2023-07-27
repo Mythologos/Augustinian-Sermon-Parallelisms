@@ -7,7 +7,7 @@
 
 ## Summary
 
-This repository contains the Augustine Sermon Parallelism (ASP) dataset--a collection of sermons from Augustine's *Sermones* annotated for rhetorical parallelism. 
+This repository contains the Augustine Sermon Parallelism (ASP) dataset--a collection of Latin sermons from Augustine's *Sermones* annotated for rhetorical parallelism. 
 It is intended to be used to study the phenomenon of rhetorical parallelism both in the application of language broadly and in the specific context of Augustine of Hippo.
 
 ### Statistics
