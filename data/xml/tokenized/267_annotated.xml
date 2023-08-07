@@ -1,1013 +1,1013 @@
 <?xml version="1.0" ?>
 <sermon id="267">
 	<section id="1">
-		<token id="1" cont="hodierni"/>
-		<token id="2" cont="diei"/>
-		<token id="3" cont="solemnitas"/>
-		<token id="4" cont=","/>
-		<token id="5" cont="domini"/>
-		<token id="6" cont="dei"/>
-		<token id="7" cont="magni"/>
-		<token id="8" cont="et"/>
-		<token id="9" cont="magnae"/>
-		<token id="10" cont="gratiae"/>
-		<token id="11" cont=","/>
-		<token id="12" cont="quae"/>
-		<token id="13" cont="superfusa"/>
-		<token id="14" cont="est"/>
-		<token id="15" cont="super"/>
-		<token id="16" cont="nos"/>
-		<token id="17" cont="recordationem"/>
-		<token id="18" cont="facit"/>
-		<token id="19" cont="."/>
-		<token id="20" cont="ideo"/>
-		<token id="21" cont="enim"/>
-		<token id="22" cont="solemnitas"/>
-		<token id="23" cont="celebratur"/>
-		<token id="24" cont=","/>
-		<token id="25" cont="ne"/>
-		<token id="26" cont="quod"/>
-		<token id="27" cont="semel"/>
-		<token id="28" cont="factum"/>
-		<token id="29" cont="est"/>
-		<token id="30" cont=","/>
-		<token id="31" cont="de"/>
-		<token id="32" cont="memoria"/>
-		<token id="33" cont="deleatur"/>
-		<token id="34" cont="."/>
-		<token id="35" cont="solemnitas"/>
-		<token id="36" cont="enim"/>
-		<token id="37" cont="ab"/>
-		<token id="38" cont="eo"/>
-		<token id="39" cont="quod"/>
-		<token id="40" cont="solet"/>
-		<token id="41" cont="in"/>
-		<token id="42" cont="anno"/>
-		<token id="43" cont=","/>
-		<token id="44" cont="nomen"/>
-		<token id="45" cont="accepit"/>
-		<token id="46" cont=":"/>
-		<token id="47" cont="quomodo"/>
-		<token id="48" cont="perennitas"/>
-		<token id="49" cont="fluminis"/>
-		<token id="50" cont="dicitur"/>
-		<token id="51" cont=","/>
-		<token id="52" cont="quia"/>
-		<token id="53" cont="non"/>
-		<token id="54" cont="siccatur"/>
-		<token id="55" cont="aestate"/>
-		<token id="56" cont=","/>
-		<token id="57" cont="sed"/>
-		<token id="58" cont="per"/>
-		<token id="59" cont="totum"/>
-		<token id="60" cont="annum"/>
-		<token id="61" cont="fluit"/>
-		<token id="62" cont=":"/>
-		<token id="63" cont="ideo"/>
-		<token id="64" cont="perenne"/>
-		<token id="65" cont=","/>
-		<token id="66" cont="id"/>
-		<token id="67" cont="est"/>
-		<token id="68" cont=","/>
-		<token id="69" cont="per"/>
-		<token id="70" cont="annum"/>
-		<token id="71" cont=";"/>
-		<token id="72" cont="sic"/>
-		<token id="73" cont="et"/>
-		<token id="74" cont="solemne"/>
-		<token id="75" cont=","/>
-		<token id="76" cont="quod"/>
-		<token id="77" cont="solet"/>
-		<token id="78" cont="in"/>
-		<token id="79" cont="anno"/>
-		<token id="80" cont="celebrari"/>
-		<token id="81" cont="."/>
-		<token id="82" cont="celebramus"/>
-		<token id="83" cont="hodie"/>
-		<token id="84" cont="aduentum"/>
-		<token id="85" cont="spiritus"/>
-		<token id="86" cont="sancti"/>
-		<token id="87" cont="."/>
-		<token id="88" cont="dominus"/>
-		<token id="89" cont="enim"/>
-		<token id="90" cont="spiritum"/>
-		<token id="91" cont="sanctum"/>
-		<token id="92" cont="de"/>
-		<token id="93" cont="caelo"/>
-		<token id="94" cont="misit"/>
-		<token id="95" cont=","/>
-		<token id="96" cont="quem"/>
-		<token id="97" cont="in"/>
-		<token id="98" cont="terra"/>
-		<token id="99" cont="promisit"/>
-		<token id="100" cont="."/>
-		<token id="101" cont="et"/>
-		<token id="102" cont="quia"/>
-		<token id="103" cont="sic"/>
-		<token id="104" cont="promiserat"/>
-		<token id="105" cont="de"/>
-		<token id="106" cont="caelo"/>
-		<token id="107" cont="esse"/>
-		<token id="108" cont="missurum"/>
-		<token id="109" cont=","/>
-		<token id="110" cont="non"/>
-		<token id="111" cont="potest"/>
-		<token id="112" cont="ille"/>
-		<token id="113" cont="uenire"/>
-		<token id="114" cont=","/>
-		<token id="115" cont="ait"/>
-		<token id="116" cont=","/>
-		<token id="117" cont="nisi"/>
-		<token id="118" cont="ego"/>
-		<token id="119" cont="abiero"/>
-		<token id="120" cont=";"/>
-		<token id="121" cont="dum"/>
-		<token id="122" cont="autem"/>
-		<token id="123" cont="abiero"/>
-		<token id="124" cont=","/>
-		<token id="125" cont="mittam"/>
-		<token id="126" cont="illum"/>
-		<token id="127" cont="ad"/>
-		<token id="128" cont="uos"/>
-		<token id="129" cont=";"/>
-		<token id="130" cont="passus" parallelism_id_1="1" branch_id_1="1"/>
-		<token id="131" cont="est" parallelism_id_1="1" branch_id_1="1"/>
-		<token id="132" cont=","/>
-		<token id="133" cont="mortuus" parallelism_id_1="1" branch_id_1="2"/>
-		<token id="134" cont="est" parallelism_id_1="1" branch_id_1="2"/>
-		<token id="135" cont=","/>
-		<token id="136" cont="resurrexit"/>
-		<token id="137" cont=","/>
-		<token id="138" cont="ascendit"/>
-		<token id="139" cont=":"/>
-		<token id="140" cont="restabat"/>
-		<token id="141" cont="ut"/>
-		<token id="142" cont="impleret"/>
-		<token id="143" cont="quod"/>
-		<token id="144" cont="promisit"/>
-		<token id="145" cont="."/>
-		<token id="146" cont="hoc"/>
-		<token id="147" cont="exspectantes"/>
-		<token id="148" cont="discipuli"/>
-		<token id="149" cont="eius"/>
-		<token id="150" cont=","/>
-		<token id="151" cont="animae"/>
-		<token id="152" cont=","/>
-		<token id="153" cont="ut"/>
-		<token id="154" cont="scriptum"/>
-		<token id="155" cont="est"/>
-		<token id="156" cont=","/>
-		<token id="157" cont="centum"/>
-		<token id="158" cont="uiginti"/>
-		<token id="159" cont=","/>
-		<token id="160" cont="decuplato"/>
-		<token id="161" cont="numero"/>
-		<token id="162" cont="apostolorum"/>
-		<token id="163" cont=";"/>
-		<token id="164" cont="duodecim"/>
-		<token id="165" cont="enim"/>
-		<token id="166" cont="elegit"/>
-		<token id="167" cont=","/>
-		<token id="168" cont="et"/>
-		<token id="169" cont="in"/>
-		<token id="170" cont="centum"/>
-		<token id="171" cont="uiginti"/>
-		<token id="172" cont="spiritum"/>
-		<token id="173" cont="misit"/>
-		<token id="174" cont=":"/>
-		<token id="175" cont="hoc"/>
-		<token id="176" cont="ergo"/>
-		<token id="177" cont="promissum"/>
-		<token id="178" cont="exspectantes"/>
-		<token id="179" cont="in"/>
-		<token id="180" cont="una"/>
-		<token id="181" cont="domo"/>
-		<token id="182" cont="erant"/>
-		<token id="183" cont=","/>
-		<token id="184" cont="orabant"/>
-		<token id="185" cont=":"/>
-		<token id="186" cont="quia"/>
-		<token id="187" cont="desiderabant"/>
-		<token id="188" cont="iam"/>
-		<token id="189" cont="ipsa"/>
-		<token id="190" cont="fide"/>
-		<token id="191" cont=","/>
-		<token id="192" cont="quod"/>
-		<token id="193" cont="ipsa"/>
-		<token id="194" cont="oratione"/>
-		<token id="195" cont=","/>
-		<token id="196" cont="ipso"/>
-		<token id="197" cont="spirituali"/>
-		<token id="198" cont="desiderio"/>
-		<token id="199" cont=";"/>
-		<token id="200" cont="utres"/>
-		<token id="201" cont="noui"/>
-		<token id="202" cont="erant"/>
-		<token id="203" cont=","/>
-		<token id="204" cont="uinum"/>
-		<token id="205" cont="nouum"/>
-		<token id="206" cont="de"/>
-		<token id="207" cont="caelo"/>
-		<token id="208" cont="exspectabatur"/>
-		<token id="209" cont=","/>
-		<token id="210" cont="et"/>
-		<token id="211" cont="uenit"/>
-		<token id="212" cont="."/>
-		<token id="213" cont="iam"/>
-		<token id="214" cont="enim"/>
-		<token id="215" cont="fuerat"/>
-		<token id="216" cont="magnus"/>
-		<token id="217" cont="botrus"/>
-		<token id="218" cont="ille"/>
-		<token id="219" cont="calcatus"/>
-		<token id="220" cont="et"/>
-		<token id="221" cont="glorificatus"/>
-		<token id="222" cont="."/>
-		<token id="223" cont="legimus"/>
-		<token id="224" cont="enim"/>
-		<token id="225" cont="in"/>
-		<token id="226" cont="euangelio"/>
-		<token id="227" cont=","/>
-		<token id="228" cont="spiritus"/>
-		<token id="229" cont="enim"/>
-		<token id="230" cont="nondum"/>
-		<token id="231" cont="erat"/>
-		<token id="232" cont="datus"/>
-		<token id="233" cont=","/>
-		<token id="234" cont="quia"/>
-		<token id="235" cont="iesus"/>
-		<token id="236" cont="nondum"/>
-		<token id="237" cont="fuerat"/>
-		<token id="238" cont="glorificatus"/>
-		<token id="239" cont="."/>
+		<word id="1" cont="hodierni"/>
+		<word id="2" cont="diei"/>
+		<word id="3" cont="solemnitas"/>
+		<word id="4" cont=","/>
+		<word id="5" cont="domini"/>
+		<word id="6" cont="dei"/>
+		<word id="7" cont="magni"/>
+		<word id="8" cont="et"/>
+		<word id="9" cont="magnae"/>
+		<word id="10" cont="gratiae"/>
+		<word id="11" cont=","/>
+		<word id="12" cont="quae"/>
+		<word id="13" cont="superfusa"/>
+		<word id="14" cont="est"/>
+		<word id="15" cont="super"/>
+		<word id="16" cont="nos"/>
+		<word id="17" cont="recordationem"/>
+		<word id="18" cont="facit"/>
+		<word id="19" cont="."/>
+		<word id="20" cont="ideo"/>
+		<word id="21" cont="enim"/>
+		<word id="22" cont="solemnitas"/>
+		<word id="23" cont="celebratur"/>
+		<word id="24" cont=","/>
+		<word id="25" cont="ne"/>
+		<word id="26" cont="quod"/>
+		<word id="27" cont="semel"/>
+		<word id="28" cont="factum"/>
+		<word id="29" cont="est"/>
+		<word id="30" cont=","/>
+		<word id="31" cont="de"/>
+		<word id="32" cont="memoria"/>
+		<word id="33" cont="deleatur"/>
+		<word id="34" cont="."/>
+		<word id="35" cont="solemnitas"/>
+		<word id="36" cont="enim"/>
+		<word id="37" cont="ab"/>
+		<word id="38" cont="eo"/>
+		<word id="39" cont="quod"/>
+		<word id="40" cont="solet"/>
+		<word id="41" cont="in"/>
+		<word id="42" cont="anno"/>
+		<word id="43" cont=","/>
+		<word id="44" cont="nomen"/>
+		<word id="45" cont="accepit"/>
+		<word id="46" cont=":"/>
+		<word id="47" cont="quomodo"/>
+		<word id="48" cont="perennitas"/>
+		<word id="49" cont="fluminis"/>
+		<word id="50" cont="dicitur"/>
+		<word id="51" cont=","/>
+		<word id="52" cont="quia"/>
+		<word id="53" cont="non"/>
+		<word id="54" cont="siccatur"/>
+		<word id="55" cont="aestate"/>
+		<word id="56" cont=","/>
+		<word id="57" cont="sed"/>
+		<word id="58" cont="per"/>
+		<word id="59" cont="totum"/>
+		<word id="60" cont="annum"/>
+		<word id="61" cont="fluit"/>
+		<word id="62" cont=":"/>
+		<word id="63" cont="ideo"/>
+		<word id="64" cont="perenne"/>
+		<word id="65" cont=","/>
+		<word id="66" cont="id"/>
+		<word id="67" cont="est"/>
+		<word id="68" cont=","/>
+		<word id="69" cont="per"/>
+		<word id="70" cont="annum"/>
+		<word id="71" cont=";"/>
+		<word id="72" cont="sic"/>
+		<word id="73" cont="et"/>
+		<word id="74" cont="solemne"/>
+		<word id="75" cont=","/>
+		<word id="76" cont="quod"/>
+		<word id="77" cont="solet"/>
+		<word id="78" cont="in"/>
+		<word id="79" cont="anno"/>
+		<word id="80" cont="celebrari"/>
+		<word id="81" cont="."/>
+		<word id="82" cont="celebramus"/>
+		<word id="83" cont="hodie"/>
+		<word id="84" cont="aduentum"/>
+		<word id="85" cont="spiritus"/>
+		<word id="86" cont="sancti"/>
+		<word id="87" cont="."/>
+		<word id="88" cont="dominus"/>
+		<word id="89" cont="enim"/>
+		<word id="90" cont="spiritum"/>
+		<word id="91" cont="sanctum"/>
+		<word id="92" cont="de"/>
+		<word id="93" cont="caelo"/>
+		<word id="94" cont="misit"/>
+		<word id="95" cont=","/>
+		<word id="96" cont="quem"/>
+		<word id="97" cont="in"/>
+		<word id="98" cont="terra"/>
+		<word id="99" cont="promisit"/>
+		<word id="100" cont="."/>
+		<word id="101" cont="et"/>
+		<word id="102" cont="quia"/>
+		<word id="103" cont="sic"/>
+		<word id="104" cont="promiserat"/>
+		<word id="105" cont="de"/>
+		<word id="106" cont="caelo"/>
+		<word id="107" cont="esse"/>
+		<word id="108" cont="missurum"/>
+		<word id="109" cont=","/>
+		<word id="110" cont="non"/>
+		<word id="111" cont="potest"/>
+		<word id="112" cont="ille"/>
+		<word id="113" cont="uenire"/>
+		<word id="114" cont=","/>
+		<word id="115" cont="ait"/>
+		<word id="116" cont=","/>
+		<word id="117" cont="nisi"/>
+		<word id="118" cont="ego"/>
+		<word id="119" cont="abiero"/>
+		<word id="120" cont=";"/>
+		<word id="121" cont="dum"/>
+		<word id="122" cont="autem"/>
+		<word id="123" cont="abiero"/>
+		<word id="124" cont=","/>
+		<word id="125" cont="mittam"/>
+		<word id="126" cont="illum"/>
+		<word id="127" cont="ad"/>
+		<word id="128" cont="uos"/>
+		<word id="129" cont=";"/>
+		<word id="130" cont="passus" parallelism_id_1="1" branch_id_1="1"/>
+		<word id="131" cont="est" parallelism_id_1="1" branch_id_1="1"/>
+		<word id="132" cont=","/>
+		<word id="133" cont="mortuus" parallelism_id_1="1" branch_id_1="2"/>
+		<word id="134" cont="est" parallelism_id_1="1" branch_id_1="2"/>
+		<word id="135" cont=","/>
+		<word id="136" cont="resurrexit"/>
+		<word id="137" cont=","/>
+		<word id="138" cont="ascendit"/>
+		<word id="139" cont=":"/>
+		<word id="140" cont="restabat"/>
+		<word id="141" cont="ut"/>
+		<word id="142" cont="impleret"/>
+		<word id="143" cont="quod"/>
+		<word id="144" cont="promisit"/>
+		<word id="145" cont="."/>
+		<word id="146" cont="hoc"/>
+		<word id="147" cont="exspectantes"/>
+		<word id="148" cont="discipuli"/>
+		<word id="149" cont="eius"/>
+		<word id="150" cont=","/>
+		<word id="151" cont="animae"/>
+		<word id="152" cont=","/>
+		<word id="153" cont="ut"/>
+		<word id="154" cont="scriptum"/>
+		<word id="155" cont="est"/>
+		<word id="156" cont=","/>
+		<word id="157" cont="centum"/>
+		<word id="158" cont="uiginti"/>
+		<word id="159" cont=","/>
+		<word id="160" cont="decuplato"/>
+		<word id="161" cont="numero"/>
+		<word id="162" cont="apostolorum"/>
+		<word id="163" cont=";"/>
+		<word id="164" cont="duodecim"/>
+		<word id="165" cont="enim"/>
+		<word id="166" cont="elegit"/>
+		<word id="167" cont=","/>
+		<word id="168" cont="et"/>
+		<word id="169" cont="in"/>
+		<word id="170" cont="centum"/>
+		<word id="171" cont="uiginti"/>
+		<word id="172" cont="spiritum"/>
+		<word id="173" cont="misit"/>
+		<word id="174" cont=":"/>
+		<word id="175" cont="hoc"/>
+		<word id="176" cont="ergo"/>
+		<word id="177" cont="promissum"/>
+		<word id="178" cont="exspectantes"/>
+		<word id="179" cont="in"/>
+		<word id="180" cont="una"/>
+		<word id="181" cont="domo"/>
+		<word id="182" cont="erant"/>
+		<word id="183" cont=","/>
+		<word id="184" cont="orabant"/>
+		<word id="185" cont=":"/>
+		<word id="186" cont="quia"/>
+		<word id="187" cont="desiderabant"/>
+		<word id="188" cont="iam"/>
+		<word id="189" cont="ipsa"/>
+		<word id="190" cont="fide"/>
+		<word id="191" cont=","/>
+		<word id="192" cont="quod"/>
+		<word id="193" cont="ipsa"/>
+		<word id="194" cont="oratione"/>
+		<word id="195" cont=","/>
+		<word id="196" cont="ipso"/>
+		<word id="197" cont="spirituali"/>
+		<word id="198" cont="desiderio"/>
+		<word id="199" cont=";"/>
+		<word id="200" cont="utres"/>
+		<word id="201" cont="noui"/>
+		<word id="202" cont="erant"/>
+		<word id="203" cont=","/>
+		<word id="204" cont="uinum"/>
+		<word id="205" cont="nouum"/>
+		<word id="206" cont="de"/>
+		<word id="207" cont="caelo"/>
+		<word id="208" cont="exspectabatur"/>
+		<word id="209" cont=","/>
+		<word id="210" cont="et"/>
+		<word id="211" cont="uenit"/>
+		<word id="212" cont="."/>
+		<word id="213" cont="iam"/>
+		<word id="214" cont="enim"/>
+		<word id="215" cont="fuerat"/>
+		<word id="216" cont="magnus"/>
+		<word id="217" cont="botrus"/>
+		<word id="218" cont="ille"/>
+		<word id="219" cont="calcatus"/>
+		<word id="220" cont="et"/>
+		<word id="221" cont="glorificatus"/>
+		<word id="222" cont="."/>
+		<word id="223" cont="legimus"/>
+		<word id="224" cont="enim"/>
+		<word id="225" cont="in"/>
+		<word id="226" cont="euangelio"/>
+		<word id="227" cont=","/>
+		<word id="228" cont="spiritus"/>
+		<word id="229" cont="enim"/>
+		<word id="230" cont="nondum"/>
+		<word id="231" cont="erat"/>
+		<word id="232" cont="datus"/>
+		<word id="233" cont=","/>
+		<word id="234" cont="quia"/>
+		<word id="235" cont="iesus"/>
+		<word id="236" cont="nondum"/>
+		<word id="237" cont="fuerat"/>
+		<word id="238" cont="glorificatus"/>
+		<word id="239" cont="."/>
 	</section>
 	<section id="2">
-		<token id="1" cont="iam"/>
-		<token id="2" cont="quid"/>
-		<token id="3" cont="respondit"/>
-		<token id="4" cont=","/>
-		<token id="5" cont="audistis"/>
-		<token id="6" cont=","/>
-		<token id="7" cont="magnum"/>
-		<token id="8" cont="miraculum"/>
-		<token id="9" cont="."/>
-		<token id="10" cont="omnes"/>
-		<token id="11" cont="qui"/>
-		<token id="12" cont="aderant"/>
-		<token id="13" cont=","/>
-		<token id="14" cont="unam"/>
-		<token id="15" cont="linguam"/>
-		<token id="16" cont="didicerant"/>
-		<token id="17" cont="."/>
-		<token id="18" cont="uenit"/>
-		<token id="19" cont="spiritus"/>
-		<token id="20" cont="sanctus"/>
-		<token id="21" cont=";"/>
-		<token id="22" cont="impleti"/>
-		<token id="23" cont="sunt"/>
-		<token id="24" cont=","/>
-		<token id="25" cont="coeperunt"/>
-		<token id="26" cont="loqui"/>
-		<token id="27" cont="linguis"/>
-		<token id="28" cont="uariis"/>
-		<token id="29" cont="omnium"/>
-		<token id="30" cont="gentium"/>
-		<token id="31" cont=","/>
-		<token id="32" cont="quas"/>
-		<token id="33" cont="non"/>
-		<token id="34" cont="nouerant"/>
-		<token id="35" cont=","/>
-		<token id="36" cont="nec"/>
-		<token id="37" cont="didicerant"/>
-		<token id="38" cont=":"/>
-		<token id="39" cont="sed"/>
-		<token id="40" cont="docebat"/>
-		<token id="41" cont="ille"/>
-		<token id="42" cont="qui"/>
-		<token id="43" cont="uenerat"/>
-		<token id="44" cont=";"/>
-		<token id="45" cont="intrauit"/>
-		<token id="46" cont=","/>
-		<token id="47" cont="impleti"/>
-		<token id="48" cont="sunt"/>
-		<token id="49" cont=","/>
-		<token id="50" cont="fudit"/>
-		<token id="51" cont="."/>
-		<token id="52" cont="et"/>
-		<token id="53" cont="tunc"/>
-		<token id="54" cont="hoc"/>
-		<token id="55" cont="erat"/>
-		<token id="56" cont="signum"/>
-		<token id="57" cont=","/>
-		<token id="58" cont="quicumque"/>
-		<token id="59" cont="accipiebat"/>
-		<token id="60" cont="spiritum"/>
-		<token id="61" cont="sanctum"/>
-		<token id="62" cont=","/>
-		<token id="63" cont="subito"/>
-		<token id="64" cont="impletus"/>
-		<token id="65" cont="spiritu"/>
-		<token id="66" cont="linguis"/>
-		<token id="67" cont="omnium"/>
-		<token id="68" cont="loquebatur"/>
-		<token id="69" cont=";"/>
-		<token id="70" cont="non"/>
-		<token id="71" cont="illi"/>
-		<token id="72" cont="solum"/>
-		<token id="73" cont="centum"/>
-		<token id="74" cont="uiginti"/>
-		<token id="75" cont="."/>
-		<token id="76" cont="docent"/>
-		<token id="77" cont="nos"/>
-		<token id="78" cont="litterae"/>
-		<token id="79" cont="ipsae"/>
-		<token id="80" cont=","/>
-		<token id="81" cont="postea"/>
-		<token id="82" cont="crediderunt"/>
-		<token id="83" cont="homines"/>
-		<token id="84" cont=","/>
-		<token id="85" cont="baptizati"/>
-		<token id="86" cont="sunt"/>
-		<token id="87" cont=","/>
-		<token id="88" cont="acceperunt"/>
-		<token id="89" cont="spiritum"/>
-		<token id="90" cont="sanctum"/>
-		<token id="91" cont=","/>
-		<token id="92" cont="linguis"/>
-		<token id="93" cont="omnium"/>
-		<token id="94" cont="gentium"/>
-		<token id="95" cont="locuti"/>
-		<token id="96" cont="sunt"/>
-		<token id="97" cont="."/>
-		<token id="98" cont="expauerunt"/>
-		<token id="99" cont="qui"/>
-		<token id="100" cont="aderant"/>
-		<token id="101" cont=","/>
-		<token id="102" cont="alii" parallelism_id_1="2" branch_id_1="1"/>
-		<token id="103" cont="admirantes" parallelism_id_1="2" branch_id_1="1"/>
-		<token id="104" cont=","/>
-		<token id="105" cont="alii" parallelism_id_1="2" branch_id_1="2"/>
-		<token id="106" cont="irridentes" parallelism_id_1="2" branch_id_1="2"/>
-		<token id="107" cont=":"/>
-		<token id="108" cont="ita"/>
-		<token id="109" cont="ut"/>
-		<token id="110" cont="dicerent"/>
-		<token id="111" cont="."/>
-		<token id="112" cont="isti"/>
-		<token id="113" cont="ebrii"/>
-		<token id="114" cont="sunt"/>
-		<token id="115" cont=","/>
-		<token id="116" cont="musto"/>
-		<token id="117" cont="pleni"/>
-		<token id="118" cont="sunt"/>
-		<token id="119" cont="."/>
-		<token id="120" cont="ridebant"/>
-		<token id="121" cont=","/>
-		<token id="122" cont="et"/>
-		<token id="123" cont="aliquid"/>
-		<token id="124" cont="uerum"/>
-		<token id="125" cont="dicebant"/>
-		<token id="126" cont="."/>
-		<token id="127" cont="impleti"/>
-		<token id="128" cont="enim"/>
-		<token id="129" cont="erant"/>
-		<token id="130" cont="utres"/>
-		<token id="131" cont="nouo"/>
-		<token id="132" cont="uino"/>
-		<token id="133" cont="."/>
-		<token id="134" cont="audistis"/>
-		<token id="135" cont="cum"/>
-		<token id="136" cont="euangelium"/>
-		<token id="137" cont="legeretur"/>
-		<token id="138" cont=","/>
-		<token id="139" cont="nemo"/>
-		<token id="140" cont="mittit"/>
-		<token id="141" cont="uinum"/>
-		<token id="142" cont="nouum"/>
-		<token id="143" cont="in"/>
-		<token id="144" cont="utres"/>
-		<token id="145" cont="ueteres"/>
-		<token id="146" cont=":"/>
-		<token id="147" cont="spiritualia"/>
-		<token id="148" cont="non"/>
-		<token id="149" cont="capit"/>
-		<token id="150" cont="carnalis"/>
-		<token id="151" cont="."/>
-		<token id="152" cont="carnalitas" parallelism_id_1="3" branch_id_1="1"/>
-		<token id="153" cont="uetustas" parallelism_id_1="3" branch_id_1="1"/>
-		<token id="154" cont="est" parallelism_id_1="3" branch_id_1="1"/>
-		<token id="155" cont=","/>
-		<token id="156" cont="gratia" parallelism_id_1="3" branch_id_1="2"/>
-		<token id="157" cont="nouitas" parallelism_id_1="3" branch_id_1="2"/>
-		<token id="158" cont="est" parallelism_id_1="3" branch_id_1="2"/>
-		<token id="159" cont="."/>
-		<token id="160" cont="quantocumque"/>
-		<token id="161" cont="homo"/>
-		<token id="162" cont="in"/>
-		<token id="163" cont="melius"/>
-		<token id="164" cont="fuerit"/>
-		<token id="165" cont="innouatus"/>
-		<token id="166" cont=","/>
-		<token id="167" cont="tanto"/>
-		<token id="168" cont="amplius"/>
-		<token id="169" cont="capit"/>
-		<token id="170" cont=","/>
-		<token id="171" cont="quod"/>
-		<token id="172" cont="uerum"/>
-		<token id="173" cont="sapit"/>
-		<token id="174" cont="."/>
-		<token id="175" cont="bulliebat"/>
-		<token id="176" cont="mustum"/>
-		<token id="177" cont=","/>
-		<token id="178" cont="et"/>
-		<token id="179" cont="musto"/>
-		<token id="180" cont="bulliente"/>
-		<token id="181" cont="linguae"/>
-		<token id="182" cont="gentium"/>
-		<token id="183" cont="profluebant"/>
-		<token id="184" cont="."/>
+		<word id="1" cont="iam"/>
+		<word id="2" cont="quid"/>
+		<word id="3" cont="respondit"/>
+		<word id="4" cont=","/>
+		<word id="5" cont="audistis"/>
+		<word id="6" cont=","/>
+		<word id="7" cont="magnum"/>
+		<word id="8" cont="miraculum"/>
+		<word id="9" cont="."/>
+		<word id="10" cont="omnes"/>
+		<word id="11" cont="qui"/>
+		<word id="12" cont="aderant"/>
+		<word id="13" cont=","/>
+		<word id="14" cont="unam"/>
+		<word id="15" cont="linguam"/>
+		<word id="16" cont="didicerant"/>
+		<word id="17" cont="."/>
+		<word id="18" cont="uenit"/>
+		<word id="19" cont="spiritus"/>
+		<word id="20" cont="sanctus"/>
+		<word id="21" cont=";"/>
+		<word id="22" cont="impleti"/>
+		<word id="23" cont="sunt"/>
+		<word id="24" cont=","/>
+		<word id="25" cont="coeperunt"/>
+		<word id="26" cont="loqui"/>
+		<word id="27" cont="linguis"/>
+		<word id="28" cont="uariis"/>
+		<word id="29" cont="omnium"/>
+		<word id="30" cont="gentium"/>
+		<word id="31" cont=","/>
+		<word id="32" cont="quas"/>
+		<word id="33" cont="non"/>
+		<word id="34" cont="nouerant"/>
+		<word id="35" cont=","/>
+		<word id="36" cont="nec"/>
+		<word id="37" cont="didicerant"/>
+		<word id="38" cont=":"/>
+		<word id="39" cont="sed"/>
+		<word id="40" cont="docebat"/>
+		<word id="41" cont="ille"/>
+		<word id="42" cont="qui"/>
+		<word id="43" cont="uenerat"/>
+		<word id="44" cont=";"/>
+		<word id="45" cont="intrauit"/>
+		<word id="46" cont=","/>
+		<word id="47" cont="impleti"/>
+		<word id="48" cont="sunt"/>
+		<word id="49" cont=","/>
+		<word id="50" cont="fudit"/>
+		<word id="51" cont="."/>
+		<word id="52" cont="et"/>
+		<word id="53" cont="tunc"/>
+		<word id="54" cont="hoc"/>
+		<word id="55" cont="erat"/>
+		<word id="56" cont="signum"/>
+		<word id="57" cont=","/>
+		<word id="58" cont="quicumque"/>
+		<word id="59" cont="accipiebat"/>
+		<word id="60" cont="spiritum"/>
+		<word id="61" cont="sanctum"/>
+		<word id="62" cont=","/>
+		<word id="63" cont="subito"/>
+		<word id="64" cont="impletus"/>
+		<word id="65" cont="spiritu"/>
+		<word id="66" cont="linguis"/>
+		<word id="67" cont="omnium"/>
+		<word id="68" cont="loquebatur"/>
+		<word id="69" cont=";"/>
+		<word id="70" cont="non"/>
+		<word id="71" cont="illi"/>
+		<word id="72" cont="solum"/>
+		<word id="73" cont="centum"/>
+		<word id="74" cont="uiginti"/>
+		<word id="75" cont="."/>
+		<word id="76" cont="docent"/>
+		<word id="77" cont="nos"/>
+		<word id="78" cont="litterae"/>
+		<word id="79" cont="ipsae"/>
+		<word id="80" cont=","/>
+		<word id="81" cont="postea"/>
+		<word id="82" cont="crediderunt"/>
+		<word id="83" cont="homines"/>
+		<word id="84" cont=","/>
+		<word id="85" cont="baptizati"/>
+		<word id="86" cont="sunt"/>
+		<word id="87" cont=","/>
+		<word id="88" cont="acceperunt"/>
+		<word id="89" cont="spiritum"/>
+		<word id="90" cont="sanctum"/>
+		<word id="91" cont=","/>
+		<word id="92" cont="linguis"/>
+		<word id="93" cont="omnium"/>
+		<word id="94" cont="gentium"/>
+		<word id="95" cont="locuti"/>
+		<word id="96" cont="sunt"/>
+		<word id="97" cont="."/>
+		<word id="98" cont="expauerunt"/>
+		<word id="99" cont="qui"/>
+		<word id="100" cont="aderant"/>
+		<word id="101" cont=","/>
+		<word id="102" cont="alii" parallelism_id_1="2" branch_id_1="1"/>
+		<word id="103" cont="admirantes" parallelism_id_1="2" branch_id_1="1"/>
+		<word id="104" cont=","/>
+		<word id="105" cont="alii" parallelism_id_1="2" branch_id_1="2"/>
+		<word id="106" cont="irridentes" parallelism_id_1="2" branch_id_1="2"/>
+		<word id="107" cont=":"/>
+		<word id="108" cont="ita"/>
+		<word id="109" cont="ut"/>
+		<word id="110" cont="dicerent"/>
+		<word id="111" cont="."/>
+		<word id="112" cont="isti"/>
+		<word id="113" cont="ebrii"/>
+		<word id="114" cont="sunt"/>
+		<word id="115" cont=","/>
+		<word id="116" cont="musto"/>
+		<word id="117" cont="pleni"/>
+		<word id="118" cont="sunt"/>
+		<word id="119" cont="."/>
+		<word id="120" cont="ridebant"/>
+		<word id="121" cont=","/>
+		<word id="122" cont="et"/>
+		<word id="123" cont="aliquid"/>
+		<word id="124" cont="uerum"/>
+		<word id="125" cont="dicebant"/>
+		<word id="126" cont="."/>
+		<word id="127" cont="impleti"/>
+		<word id="128" cont="enim"/>
+		<word id="129" cont="erant"/>
+		<word id="130" cont="utres"/>
+		<word id="131" cont="nouo"/>
+		<word id="132" cont="uino"/>
+		<word id="133" cont="."/>
+		<word id="134" cont="audistis"/>
+		<word id="135" cont="cum"/>
+		<word id="136" cont="euangelium"/>
+		<word id="137" cont="legeretur"/>
+		<word id="138" cont=","/>
+		<word id="139" cont="nemo"/>
+		<word id="140" cont="mittit"/>
+		<word id="141" cont="uinum"/>
+		<word id="142" cont="nouum"/>
+		<word id="143" cont="in"/>
+		<word id="144" cont="utres"/>
+		<word id="145" cont="ueteres"/>
+		<word id="146" cont=":"/>
+		<word id="147" cont="spiritualia"/>
+		<word id="148" cont="non"/>
+		<word id="149" cont="capit"/>
+		<word id="150" cont="carnalis"/>
+		<word id="151" cont="."/>
+		<word id="152" cont="carnalitas" parallelism_id_1="3" branch_id_1="1"/>
+		<word id="153" cont="uetustas" parallelism_id_1="3" branch_id_1="1"/>
+		<word id="154" cont="est" parallelism_id_1="3" branch_id_1="1"/>
+		<word id="155" cont=","/>
+		<word id="156" cont="gratia" parallelism_id_1="3" branch_id_1="2"/>
+		<word id="157" cont="nouitas" parallelism_id_1="3" branch_id_1="2"/>
+		<word id="158" cont="est" parallelism_id_1="3" branch_id_1="2"/>
+		<word id="159" cont="."/>
+		<word id="160" cont="quantocumque"/>
+		<word id="161" cont="homo"/>
+		<word id="162" cont="in"/>
+		<word id="163" cont="melius"/>
+		<word id="164" cont="fuerit"/>
+		<word id="165" cont="innouatus"/>
+		<word id="166" cont=","/>
+		<word id="167" cont="tanto"/>
+		<word id="168" cont="amplius"/>
+		<word id="169" cont="capit"/>
+		<word id="170" cont=","/>
+		<word id="171" cont="quod"/>
+		<word id="172" cont="uerum"/>
+		<word id="173" cont="sapit"/>
+		<word id="174" cont="."/>
+		<word id="175" cont="bulliebat"/>
+		<word id="176" cont="mustum"/>
+		<word id="177" cont=","/>
+		<word id="178" cont="et"/>
+		<word id="179" cont="musto"/>
+		<word id="180" cont="bulliente"/>
+		<word id="181" cont="linguae"/>
+		<word id="182" cont="gentium"/>
+		<word id="183" cont="profluebant"/>
+		<word id="184" cont="."/>
 	</section>
 	<section id="3">
-		<token id="1" cont="numquid"/>
-		<token id="2" cont="modo"/>
-		<token id="3" cont=","/>
-		<token id="4" cont="fratres"/>
-		<token id="5" cont=","/>
-		<token id="6" cont="non"/>
-		<token id="7" cont="datur"/>
-		<token id="8" cont="spiritus"/>
-		<token id="9" cont="sanctus"/>
-		<token id="10" cont="?"/>
-		<token id="11" cont="quisquis"/>
-		<token id="12" cont="hoc"/>
-		<token id="13" cont="putat"/>
-		<token id="14" cont=","/>
-		<token id="15" cont="non"/>
-		<token id="16" cont="est"/>
-		<token id="17" cont="dignus"/>
-		<token id="18" cont="accipere"/>
-		<token id="19" cont="."/>
-		<token id="20" cont="datur"/>
-		<token id="21" cont="et"/>
-		<token id="22" cont="modo"/>
-		<token id="23" cont="."/>
-		<token id="24" cont="quare"/>
-		<token id="25" cont="ergo"/>
-		<token id="26" cont="nemo"/>
-		<token id="27" cont="loquitur"/>
-		<token id="28" cont="linguis"/>
-		<token id="29" cont="omnium"/>
-		<token id="30" cont="gentium"/>
-		<token id="31" cont=","/>
-		<token id="32" cont="sicut"/>
-		<token id="33" cont="loquebatur"/>
-		<token id="34" cont="qui"/>
-		<token id="35" cont="tunc"/>
-		<token id="36" cont="spiritu"/>
-		<token id="37" cont="sancto"/>
-		<token id="38" cont="implebatur"/>
-		<token id="39" cont="?"/>
-		<token id="40" cont="quare"/>
-		<token id="41" cont="?"/>
-		<token id="42" cont="quia"/>
-		<token id="43" cont="quod"/>
-		<token id="44" cont="illud"/>
-		<token id="45" cont="significabat"/>
-		<token id="46" cont=","/>
-		<token id="47" cont="impletum"/>
-		<token id="48" cont="est"/>
-		<token id="49" cont="."/>
-		<token id="50" cont="quid"/>
-		<token id="51" cont="est"/>
-		<token id="52" cont="illud"/>
-		<token id="53" cont="?"/>
-		<token id="54" cont="quando"/>
-		<token id="55" cont="celebrauimus"/>
-		<token id="56" cont="quadragesimam"/>
-		<token id="57" cont=","/>
-		<token id="58" cont="recolite"/>
-		<token id="59" cont=","/>
-		<token id="60" cont="quia"/>
-		<token id="61" cont="commendauimus"/>
-		<token id="62" cont="uobis"/>
-		<token id="63" cont="dominum"/>
-		<token id="64" cont="iesum"/>
-		<token id="65" cont="christum"/>
-		<token id="66" cont="ecclesiam"/>
-		<token id="67" cont="suam"/>
-		<token id="68" cont="commendasse"/>
-		<token id="69" cont="et"/>
-		<token id="70" cont="ascendisse"/>
-		<token id="71" cont="."/>
-		<token id="72" cont="quaerebant"/>
-		<token id="73" cont="discipuli"/>
-		<token id="74" cont=","/>
-		<token id="75" cont="quando"/>
-		<token id="76" cont="erit"/>
-		<token id="77" cont="finis"/>
-		<token id="78" cont="saeculi"/>
-		<token id="79" cont="?"/>
-		<token id="80" cont="et"/>
-		<token id="81" cont="ille"/>
-		<token id="82" cont=":"/>
-		<token id="83" cont="non"/>
-		<token id="84" cont="est"/>
-		<token id="85" cont="uestrum"/>
-		<token id="86" cont="scire"/>
-		<token id="87" cont="tempora"/>
-		<token id="88" cont="uel"/>
-		<token id="89" cont="momenta"/>
-		<token id="90" cont=","/>
-		<token id="91" cont="quae"/>
-		<token id="92" cont="pater"/>
-		<token id="93" cont="posuit"/>
-		<token id="94" cont="in"/>
-		<token id="95" cont="sua"/>
-		<token id="96" cont="potestate"/>
-		<token id="97" cont="."/>
-		<token id="98" cont="adhuc"/>
-		<token id="99" cont="promittebat"/>
-		<token id="100" cont="quod"/>
-		<token id="101" cont="hodie"/>
-		<token id="102" cont="compleuit"/>
-		<token id="103" cont=":"/>
-		<token id="104" cont="accipietis"/>
-		<token id="105" cont="uirtutem"/>
-		<token id="106" cont="spiritus"/>
-		<token id="107" cont="sancti"/>
-		<token id="108" cont="superuenientis"/>
-		<token id="109" cont="in"/>
-		<token id="110" cont="uos"/>
-		<token id="111" cont=","/>
-		<token id="112" cont="et"/>
-		<token id="113" cont="eritis"/>
-		<token id="114" cont="mihi"/>
-		<token id="115" cont="testes"/>
-		<token id="116" cont="in"/>
-		<token id="117" cont="ierusalem"/>
-		<token id="118" cont=","/>
-		<token id="119" cont="et"/>
-		<token id="120" cont="in"/>
-		<token id="121" cont="tota"/>
-		<token id="122" cont="iudaea"/>
-		<token id="123" cont="et"/>
-		<token id="124" cont="samaria"/>
-		<token id="125" cont=","/>
-		<token id="126" cont="et"/>
-		<token id="127" cont="usque"/>
-		<token id="128" cont="in"/>
-		<token id="129" cont="fines"/>
-		<token id="130" cont="terrae"/>
-		<token id="131" cont="."/>
-		<token id="132" cont="ecclesia"/>
-		<token id="133" cont="tunc"/>
-		<token id="134" cont="in"/>
-		<token id="135" cont="una"/>
-		<token id="136" cont="domo"/>
-		<token id="137" cont="erat"/>
-		<token id="138" cont=","/>
-		<token id="139" cont="accepit"/>
-		<token id="140" cont="spiritum"/>
-		<token id="141" cont="sanctum"/>
-		<token id="142" cont=":"/>
-		<token id="143" cont="in" parallelism_id_1="4" branch_id_1="1"/>
-		<token id="144" cont="hominibus" parallelism_id_1="4" branch_id_1="1"/>
-		<token id="145" cont="paucis" parallelism_id_1="4" branch_id_1="1"/>
-		<token id="146" cont="erat" parallelism_id_1="4" branch_id_1="1"/>
-		<token id="147" cont=","/>
-		<token id="148" cont="in" parallelism_id_1="4" branch_id_1="2"/>
-		<token id="149" cont="linguis" parallelism_id_1="4" branch_id_1="2"/>
-		<token id="150" cont="totius" parallelism_id_1="4" branch_id_1="2"/>
-		<token id="151" cont="orbis" parallelism_id_1="4" branch_id_1="2"/>
-		<token id="152" cont="erat" parallelism_id_1="4" branch_id_1="2"/>
-		<token id="153" cont="."/>
-		<token id="154" cont="ecce"/>
-		<token id="155" cont="quod"/>
-		<token id="156" cont="praetendebat"/>
-		<token id="157" cont="modo"/>
-		<token id="158" cont="."/>
-		<token id="159" cont="nam"/>
-		<token id="160" cont="quod"/>
-		<token id="161" cont="illa"/>
-		<token id="162" cont="ecclesia"/>
-		<token id="163" cont="parua"/>
-		<token id="164" cont="linguis"/>
-		<token id="165" cont="omnium"/>
-		<token id="166" cont="gentium"/>
-		<token id="167" cont="loquebatur"/>
-		<token id="168" cont=","/>
-		<token id="169" cont="quid"/>
-		<token id="170" cont="est"/>
-		<token id="171" cont=","/>
-		<token id="172" cont="nisi"/>
-		<token id="173" cont="quod"/>
-		<token id="174" cont="ecclesia"/>
-		<token id="175" cont="ista"/>
-		<token id="176" cont="magna"/>
-		<token id="177" cont="a"/>
-		<token id="178" cont="solis"/>
-		<token id="179" cont="ortu"/>
-		<token id="180" cont="usque"/>
-		<token id="181" cont="ad"/>
-		<token id="182" cont="occasum"/>
-		<token id="183" cont="linguis"/>
-		<token id="184" cont="omnium"/>
-		<token id="185" cont="gentium"/>
-		<token id="186" cont="loquitur"/>
-		<token id="187" cont="?"/>
-		<token id="188" cont="modo"/>
-		<token id="189" cont="impletur"/>
-		<token id="190" cont="quod"/>
-		<token id="191" cont="tunc"/>
-		<token id="192" cont="promittebatur"/>
-		<token id="193" cont="."/>
-		<token id="194" cont="audiuimus"/>
-		<token id="195" cont=","/>
-		<token id="196" cont="uidemus"/>
-		<token id="197" cont="."/>
-		<token id="198" cont="audi"/>
-		<token id="199" cont=","/>
-		<token id="200" cont="filia"/>
-		<token id="201" cont=","/>
-		<token id="202" cont="et"/>
-		<token id="203" cont="uide"/>
-		<token id="204" cont=":"/>
-		<token id="205" cont="ipsi"/>
-		<token id="206" cont="reginae"/>
-		<token id="207" cont="dictum"/>
-		<token id="208" cont="est"/>
-		<token id="209" cont=","/>
-		<token id="210" cont="audi"/>
-		<token id="211" cont=","/>
-		<token id="212" cont="filia"/>
-		<token id="213" cont=","/>
-		<token id="214" cont="et"/>
-		<token id="215" cont="uide"/>
-		<token id="216" cont=";"/>
-		<token id="217" cont="audi" parallelism_id_1="5" branch_id_1="1"/>
-		<token id="218" cont="promissum" parallelism_id_1="5" branch_id_1="1"/>
-		<token id="219" cont=","/>
-		<token id="220" cont="uide" parallelism_id_1="5" branch_id_1="2"/>
-		<token id="221" cont="completum" parallelism_id_1="5" branch_id_1="2"/>
-		<token id="222" cont="."/>
-		<token id="223" cont="non" parallelism_id_1="6" branch_id_1="1"/>
-		<token id="224" cont="te" parallelism_id_1="6" branch_id_1="1"/>
-		<token id="225" cont="fefellit" parallelism_id_1="6" branch_id_1="1"/>
-		<token id="226" cont="deus" parallelism_id_1="6" branch_id_1="1"/>
-		<token id="227" cont="tuus" parallelism_id_1="6" branch_id_1="1"/>
-		<token id="228" cont=","/>
-		<token id="229" cont="non" parallelism_id_1="6" branch_id_1="2"/>
-		<token id="230" cont="te" parallelism_id_1="6" branch_id_1="2"/>
-		<token id="231" cont="fefellit" parallelism_id_1="6" branch_id_1="2"/>
-		<token id="232" cont="sponsus" parallelism_id_1="6" branch_id_1="2"/>
-		<token id="233" cont="tuus" parallelism_id_1="6" branch_id_1="2"/>
-		<token id="234" cont=","/>
-		<token id="235" cont="non" parallelism_id_1="7" branch_id_1="1"/>
-		<token id="236" cont="te" parallelism_id_1="7" branch_id_1="1"/>
-		<token id="237" cont="fefellit" parallelism_id_1="7" branch_id_1="1"/>
-		<token id="238" cont="qui" parallelism_id_1="7" branch_id_1="1"/>
-		<token id="239" cont="suo" parallelism_id_1="7" branch_id_1="1"/>
-		<token id="240" cont="sanguine" parallelism_id_1="7" branch_id_1="1"/>
-		<token id="241" cont="te" parallelism_id_1="7" branch_id_1="1"/>
-		<token id="242" cont="dotauit" parallelism_id_1="7" branch_id_1="1"/>
-		<token id="243" cont=":"/>
-		<token id="244" cont="non" parallelism_id_1="7" branch_id_1="2"/>
-		<token id="245" cont="te" parallelism_id_1="7" branch_id_1="2"/>
-		<token id="246" cont="fefellit" parallelism_id_1="7" branch_id_1="2"/>
-		<token id="247" cont="qui" parallelism_id_1="7" branch_id_1="2"/>
-		<token id="248" cont="de" parallelism_id_1="7" branch_id_1="2"/>
-		<token id="249" cont="foeda" parallelism_id_1="7" branch_id_1="2"/>
-		<token id="250" cont="pulchram" parallelism_id_1="7" branch_id_1="2"/>
-		<token id="251" cont="," parallelism_id_1="7" branch_id_1="2"/>
-		<token id="252" cont="de" parallelism_id_1="7" branch_id_1="2"/>
-		<token id="253" cont="immunda" parallelism_id_1="7" branch_id_1="2"/>
-		<token id="254" cont="uirginem" parallelism_id_1="7" branch_id_1="2"/>
-		<token id="255" cont="fecit" parallelism_id_1="7" branch_id_1="2"/>
-		<token id="256" cont="."/>
-		<token id="257" cont="tu"/>
-		<token id="258" cont="tibi"/>
-		<token id="259" cont="promissa"/>
-		<token id="260" cont="es"/>
-		<token id="261" cont=":"/>
-		<token id="262" cont="sed"/>
-		<token id="263" cont="promissa" parallelism_id_1="8" branch_id_1="1"/>
-		<token id="264" cont="in" parallelism_id_1="8" branch_id_1="1"/>
-		<token id="265" cont="paucis" parallelism_id_1="8" branch_id_1="1"/>
-		<token id="266" cont=","/>
-		<token id="267" cont="impleta" parallelism_id_1="8" branch_id_1="2"/>
-		<token id="268" cont="in" parallelism_id_1="8" branch_id_1="2"/>
-		<token id="269" cont="multis" parallelism_id_1="8" branch_id_1="2"/>
-		<token id="270" cont="."/>
+		<word id="1" cont="numquid"/>
+		<word id="2" cont="modo"/>
+		<word id="3" cont=","/>
+		<word id="4" cont="fratres"/>
+		<word id="5" cont=","/>
+		<word id="6" cont="non"/>
+		<word id="7" cont="datur"/>
+		<word id="8" cont="spiritus"/>
+		<word id="9" cont="sanctus"/>
+		<word id="10" cont="?"/>
+		<word id="11" cont="quisquis"/>
+		<word id="12" cont="hoc"/>
+		<word id="13" cont="putat"/>
+		<word id="14" cont=","/>
+		<word id="15" cont="non"/>
+		<word id="16" cont="est"/>
+		<word id="17" cont="dignus"/>
+		<word id="18" cont="accipere"/>
+		<word id="19" cont="."/>
+		<word id="20" cont="datur"/>
+		<word id="21" cont="et"/>
+		<word id="22" cont="modo"/>
+		<word id="23" cont="."/>
+		<word id="24" cont="quare"/>
+		<word id="25" cont="ergo"/>
+		<word id="26" cont="nemo"/>
+		<word id="27" cont="loquitur"/>
+		<word id="28" cont="linguis"/>
+		<word id="29" cont="omnium"/>
+		<word id="30" cont="gentium"/>
+		<word id="31" cont=","/>
+		<word id="32" cont="sicut"/>
+		<word id="33" cont="loquebatur"/>
+		<word id="34" cont="qui"/>
+		<word id="35" cont="tunc"/>
+		<word id="36" cont="spiritu"/>
+		<word id="37" cont="sancto"/>
+		<word id="38" cont="implebatur"/>
+		<word id="39" cont="?"/>
+		<word id="40" cont="quare"/>
+		<word id="41" cont="?"/>
+		<word id="42" cont="quia"/>
+		<word id="43" cont="quod"/>
+		<word id="44" cont="illud"/>
+		<word id="45" cont="significabat"/>
+		<word id="46" cont=","/>
+		<word id="47" cont="impletum"/>
+		<word id="48" cont="est"/>
+		<word id="49" cont="."/>
+		<word id="50" cont="quid"/>
+		<word id="51" cont="est"/>
+		<word id="52" cont="illud"/>
+		<word id="53" cont="?"/>
+		<word id="54" cont="quando"/>
+		<word id="55" cont="celebrauimus"/>
+		<word id="56" cont="quadragesimam"/>
+		<word id="57" cont=","/>
+		<word id="58" cont="recolite"/>
+		<word id="59" cont=","/>
+		<word id="60" cont="quia"/>
+		<word id="61" cont="commendauimus"/>
+		<word id="62" cont="uobis"/>
+		<word id="63" cont="dominum"/>
+		<word id="64" cont="iesum"/>
+		<word id="65" cont="christum"/>
+		<word id="66" cont="ecclesiam"/>
+		<word id="67" cont="suam"/>
+		<word id="68" cont="commendasse"/>
+		<word id="69" cont="et"/>
+		<word id="70" cont="ascendisse"/>
+		<word id="71" cont="."/>
+		<word id="72" cont="quaerebant"/>
+		<word id="73" cont="discipuli"/>
+		<word id="74" cont=","/>
+		<word id="75" cont="quando"/>
+		<word id="76" cont="erit"/>
+		<word id="77" cont="finis"/>
+		<word id="78" cont="saeculi"/>
+		<word id="79" cont="?"/>
+		<word id="80" cont="et"/>
+		<word id="81" cont="ille"/>
+		<word id="82" cont=":"/>
+		<word id="83" cont="non"/>
+		<word id="84" cont="est"/>
+		<word id="85" cont="uestrum"/>
+		<word id="86" cont="scire"/>
+		<word id="87" cont="tempora"/>
+		<word id="88" cont="uel"/>
+		<word id="89" cont="momenta"/>
+		<word id="90" cont=","/>
+		<word id="91" cont="quae"/>
+		<word id="92" cont="pater"/>
+		<word id="93" cont="posuit"/>
+		<word id="94" cont="in"/>
+		<word id="95" cont="sua"/>
+		<word id="96" cont="potestate"/>
+		<word id="97" cont="."/>
+		<word id="98" cont="adhuc"/>
+		<word id="99" cont="promittebat"/>
+		<word id="100" cont="quod"/>
+		<word id="101" cont="hodie"/>
+		<word id="102" cont="compleuit"/>
+		<word id="103" cont=":"/>
+		<word id="104" cont="accipietis"/>
+		<word id="105" cont="uirtutem"/>
+		<word id="106" cont="spiritus"/>
+		<word id="107" cont="sancti"/>
+		<word id="108" cont="superuenientis"/>
+		<word id="109" cont="in"/>
+		<word id="110" cont="uos"/>
+		<word id="111" cont=","/>
+		<word id="112" cont="et"/>
+		<word id="113" cont="eritis"/>
+		<word id="114" cont="mihi"/>
+		<word id="115" cont="testes"/>
+		<word id="116" cont="in"/>
+		<word id="117" cont="ierusalem"/>
+		<word id="118" cont=","/>
+		<word id="119" cont="et"/>
+		<word id="120" cont="in"/>
+		<word id="121" cont="tota"/>
+		<word id="122" cont="iudaea"/>
+		<word id="123" cont="et"/>
+		<word id="124" cont="samaria"/>
+		<word id="125" cont=","/>
+		<word id="126" cont="et"/>
+		<word id="127" cont="usque"/>
+		<word id="128" cont="in"/>
+		<word id="129" cont="fines"/>
+		<word id="130" cont="terrae"/>
+		<word id="131" cont="."/>
+		<word id="132" cont="ecclesia"/>
+		<word id="133" cont="tunc"/>
+		<word id="134" cont="in"/>
+		<word id="135" cont="una"/>
+		<word id="136" cont="domo"/>
+		<word id="137" cont="erat"/>
+		<word id="138" cont=","/>
+		<word id="139" cont="accepit"/>
+		<word id="140" cont="spiritum"/>
+		<word id="141" cont="sanctum"/>
+		<word id="142" cont=":"/>
+		<word id="143" cont="in" parallelism_id_1="4" branch_id_1="1"/>
+		<word id="144" cont="hominibus" parallelism_id_1="4" branch_id_1="1"/>
+		<word id="145" cont="paucis" parallelism_id_1="4" branch_id_1="1"/>
+		<word id="146" cont="erat" parallelism_id_1="4" branch_id_1="1"/>
+		<word id="147" cont=","/>
+		<word id="148" cont="in" parallelism_id_1="4" branch_id_1="2"/>
+		<word id="149" cont="linguis" parallelism_id_1="4" branch_id_1="2"/>
+		<word id="150" cont="totius" parallelism_id_1="4" branch_id_1="2"/>
+		<word id="151" cont="orbis" parallelism_id_1="4" branch_id_1="2"/>
+		<word id="152" cont="erat" parallelism_id_1="4" branch_id_1="2"/>
+		<word id="153" cont="."/>
+		<word id="154" cont="ecce"/>
+		<word id="155" cont="quod"/>
+		<word id="156" cont="praetendebat"/>
+		<word id="157" cont="modo"/>
+		<word id="158" cont="."/>
+		<word id="159" cont="nam"/>
+		<word id="160" cont="quod"/>
+		<word id="161" cont="illa"/>
+		<word id="162" cont="ecclesia"/>
+		<word id="163" cont="parua"/>
+		<word id="164" cont="linguis"/>
+		<word id="165" cont="omnium"/>
+		<word id="166" cont="gentium"/>
+		<word id="167" cont="loquebatur"/>
+		<word id="168" cont=","/>
+		<word id="169" cont="quid"/>
+		<word id="170" cont="est"/>
+		<word id="171" cont=","/>
+		<word id="172" cont="nisi"/>
+		<word id="173" cont="quod"/>
+		<word id="174" cont="ecclesia"/>
+		<word id="175" cont="ista"/>
+		<word id="176" cont="magna"/>
+		<word id="177" cont="a"/>
+		<word id="178" cont="solis"/>
+		<word id="179" cont="ortu"/>
+		<word id="180" cont="usque"/>
+		<word id="181" cont="ad"/>
+		<word id="182" cont="occasum"/>
+		<word id="183" cont="linguis"/>
+		<word id="184" cont="omnium"/>
+		<word id="185" cont="gentium"/>
+		<word id="186" cont="loquitur"/>
+		<word id="187" cont="?"/>
+		<word id="188" cont="modo"/>
+		<word id="189" cont="impletur"/>
+		<word id="190" cont="quod"/>
+		<word id="191" cont="tunc"/>
+		<word id="192" cont="promittebatur"/>
+		<word id="193" cont="."/>
+		<word id="194" cont="audiuimus"/>
+		<word id="195" cont=","/>
+		<word id="196" cont="uidemus"/>
+		<word id="197" cont="."/>
+		<word id="198" cont="audi"/>
+		<word id="199" cont=","/>
+		<word id="200" cont="filia"/>
+		<word id="201" cont=","/>
+		<word id="202" cont="et"/>
+		<word id="203" cont="uide"/>
+		<word id="204" cont=":"/>
+		<word id="205" cont="ipsi"/>
+		<word id="206" cont="reginae"/>
+		<word id="207" cont="dictum"/>
+		<word id="208" cont="est"/>
+		<word id="209" cont=","/>
+		<word id="210" cont="audi"/>
+		<word id="211" cont=","/>
+		<word id="212" cont="filia"/>
+		<word id="213" cont=","/>
+		<word id="214" cont="et"/>
+		<word id="215" cont="uide"/>
+		<word id="216" cont=";"/>
+		<word id="217" cont="audi" parallelism_id_1="5" branch_id_1="1"/>
+		<word id="218" cont="promissum" parallelism_id_1="5" branch_id_1="1"/>
+		<word id="219" cont=","/>
+		<word id="220" cont="uide" parallelism_id_1="5" branch_id_1="2"/>
+		<word id="221" cont="completum" parallelism_id_1="5" branch_id_1="2"/>
+		<word id="222" cont="."/>
+		<word id="223" cont="non" parallelism_id_1="6" branch_id_1="1"/>
+		<word id="224" cont="te" parallelism_id_1="6" branch_id_1="1"/>
+		<word id="225" cont="fefellit" parallelism_id_1="6" branch_id_1="1"/>
+		<word id="226" cont="deus" parallelism_id_1="6" branch_id_1="1"/>
+		<word id="227" cont="tuus" parallelism_id_1="6" branch_id_1="1"/>
+		<word id="228" cont=","/>
+		<word id="229" cont="non" parallelism_id_1="6" branch_id_1="2"/>
+		<word id="230" cont="te" parallelism_id_1="6" branch_id_1="2"/>
+		<word id="231" cont="fefellit" parallelism_id_1="6" branch_id_1="2"/>
+		<word id="232" cont="sponsus" parallelism_id_1="6" branch_id_1="2"/>
+		<word id="233" cont="tuus" parallelism_id_1="6" branch_id_1="2"/>
+		<word id="234" cont=","/>
+		<word id="235" cont="non" parallelism_id_1="7" branch_id_1="1"/>
+		<word id="236" cont="te" parallelism_id_1="7" branch_id_1="1"/>
+		<word id="237" cont="fefellit" parallelism_id_1="7" branch_id_1="1"/>
+		<word id="238" cont="qui" parallelism_id_1="7" branch_id_1="1"/>
+		<word id="239" cont="suo" parallelism_id_1="7" branch_id_1="1"/>
+		<word id="240" cont="sanguine" parallelism_id_1="7" branch_id_1="1"/>
+		<word id="241" cont="te" parallelism_id_1="7" branch_id_1="1"/>
+		<word id="242" cont="dotauit" parallelism_id_1="7" branch_id_1="1"/>
+		<word id="243" cont=":"/>
+		<word id="244" cont="non" parallelism_id_1="7" branch_id_1="2"/>
+		<word id="245" cont="te" parallelism_id_1="7" branch_id_1="2"/>
+		<word id="246" cont="fefellit" parallelism_id_1="7" branch_id_1="2"/>
+		<word id="247" cont="qui" parallelism_id_1="7" branch_id_1="2"/>
+		<word id="248" cont="de" parallelism_id_1="7" branch_id_1="2"/>
+		<word id="249" cont="foeda" parallelism_id_1="7" branch_id_1="2"/>
+		<word id="250" cont="pulchram" parallelism_id_1="7" branch_id_1="2"/>
+		<word id="251" cont="," parallelism_id_1="7" branch_id_1="2"/>
+		<word id="252" cont="de" parallelism_id_1="7" branch_id_1="2"/>
+		<word id="253" cont="immunda" parallelism_id_1="7" branch_id_1="2"/>
+		<word id="254" cont="uirginem" parallelism_id_1="7" branch_id_1="2"/>
+		<word id="255" cont="fecit" parallelism_id_1="7" branch_id_1="2"/>
+		<word id="256" cont="."/>
+		<word id="257" cont="tu"/>
+		<word id="258" cont="tibi"/>
+		<word id="259" cont="promissa"/>
+		<word id="260" cont="es"/>
+		<word id="261" cont=":"/>
+		<word id="262" cont="sed"/>
+		<word id="263" cont="promissa" parallelism_id_1="8" branch_id_1="1"/>
+		<word id="264" cont="in" parallelism_id_1="8" branch_id_1="1"/>
+		<word id="265" cont="paucis" parallelism_id_1="8" branch_id_1="1"/>
+		<word id="266" cont=","/>
+		<word id="267" cont="impleta" parallelism_id_1="8" branch_id_1="2"/>
+		<word id="268" cont="in" parallelism_id_1="8" branch_id_1="2"/>
+		<word id="269" cont="multis" parallelism_id_1="8" branch_id_1="2"/>
+		<word id="270" cont="."/>
 	</section>
 	<section id="4">
-		<token id="1" cont="nemo"/>
-		<token id="2" cont="ergo"/>
-		<token id="3" cont="dicat"/>
-		<token id="4" cont=":"/>
-		<token id="5" cont="accepi"/>
-		<token id="6" cont="spiritum"/>
-		<token id="7" cont="sanctum"/>
-		<token id="8" cont=";"/>
-		<token id="9" cont="quare"/>
-		<token id="10" cont="non"/>
-		<token id="11" cont="loquor"/>
-		<token id="12" cont="linguis"/>
-		<token id="13" cont="omnium"/>
-		<token id="14" cont="gentium"/>
-		<token id="15" cont="?"/>
-		<token id="16" cont="si"/>
-		<token id="17" cont="uultis"/>
-		<token id="18" cont="habere"/>
-		<token id="19" cont="spiritum"/>
-		<token id="20" cont="sanctum"/>
-		<token id="21" cont=","/>
-		<token id="22" cont="intendite"/>
-		<token id="23" cont=","/>
-		<token id="24" cont="fratres"/>
-		<token id="25" cont="mei"/>
-		<token id="26" cont=":"/>
-		<token id="27" cont="spiritus" parallelism_id_1="9" branch_id_1="1"/>
-		<token id="28" cont="noster" parallelism_id_1="9" branch_id_1="1"/>
-		<token id="29" cont="quo" parallelism_id_1="9" branch_id_1="1"/>
-		<token id="30" cont="uiuit" parallelism_id_1="9" branch_id_1="1"/>
-		<token id="31" cont="omnis" parallelism_id_1="9" branch_id_1="1"/>
-		<token id="32" cont="homo" parallelism_id_1="9" branch_id_1="1"/>
-		<token id="33" cont="," parallelism_id_1="9" branch_id_1="1"/>
-		<token id="34" cont="anima" parallelism_id_1="9" branch_id_1="1"/>
-		<token id="35" cont="uocatur" parallelism_id_1="9" branch_id_1="1"/>
-		<token id="36" cont=";"/>
-		<token id="37" cont="spiritus" parallelism_id_1="9" branch_id_1="2"/>
-		<token id="38" cont="noster" parallelism_id_1="9" branch_id_1="2"/>
-		<token id="39" cont="quo" parallelism_id_1="9" branch_id_1="2"/>
-		<token id="40" cont="uiuit" parallelism_id_1="9" branch_id_1="2"/>
-		<token id="41" cont="singulus" parallelism_id_1="9" branch_id_1="2"/>
-		<token id="42" cont="quisque" parallelism_id_1="9" branch_id_1="2"/>
-		<token id="43" cont="homo" parallelism_id_1="9" branch_id_1="2"/>
-		<token id="44" cont="," parallelism_id_1="9" branch_id_1="2"/>
-		<token id="45" cont="anima" parallelism_id_1="9" branch_id_1="2"/>
-		<token id="46" cont="uocatur" parallelism_id_1="9" branch_id_1="2"/>
-		<token id="47" cont=":"/>
-		<token id="48" cont="et"/>
-		<token id="49" cont="uidetis"/>
-		<token id="50" cont="quid"/>
-		<token id="51" cont="faciat"/>
-		<token id="52" cont="anima"/>
-		<token id="53" cont="in"/>
-		<token id="54" cont="corpore"/>
-		<token id="55" cont="."/>
-		<token id="56" cont="omnia"/>
-		<token id="57" cont="membra"/>
-		<token id="58" cont="uegetat"/>
-		<token id="59" cont=";"/>
-		<token id="60" cont="per" parallelism_id_1="10" branch_id_1="1"/>
-		<token id="61" cont="oculos" parallelism_id_1="10" branch_id_1="1"/>
-		<token id="62" cont="uidet" parallelism_id_1="10" branch_id_1="1"/>
-		<token id="63" cont=","/>
-		<token id="64" cont="per" parallelism_id_1="10" branch_id_1="2"/>
-		<token id="65" cont="aures" parallelism_id_1="10" branch_id_1="2"/>
-		<token id="66" cont="audit" parallelism_id_1="10" branch_id_1="2"/>
-		<token id="67" cont=","/>
-		<token id="68" cont="per" parallelism_id_1="10" branch_id_1="3"/>
-		<token id="69" cont="nares" parallelism_id_1="10" branch_id_1="3"/>
-		<token id="70" cont="olfacit" parallelism_id_1="10" branch_id_1="3"/>
-		<token id="71" cont=","/>
-		<token id="72" cont="per" parallelism_id_1="10" branch_id_1="4"/>
-		<token id="73" cont="linguam" parallelism_id_1="10" branch_id_1="4"/>
-		<token id="74" cont="loquitur" parallelism_id_1="10" branch_id_1="4"/>
-		<token id="75" cont=","/>
-		<token id="76" cont="per" parallelism_id_1="10" branch_id_1="5"/>
-		<token id="77" cont="manus" parallelism_id_1="10" branch_id_1="5"/>
-		<token id="78" cont="operatur" parallelism_id_1="10" branch_id_1="5"/>
-		<token id="79" cont=","/>
-		<token id="80" cont="per" parallelism_id_1="10" branch_id_1="6"/>
-		<token id="81" cont="pedes" parallelism_id_1="10" branch_id_1="6"/>
-		<token id="82" cont="ambulat" parallelism_id_1="10" branch_id_1="6"/>
-		<token id="83" cont=":"/>
-		<token id="84" cont="omnibus"/>
-		<token id="85" cont="simul"/>
-		<token id="86" cont="adest"/>
-		<token id="87" cont="membris"/>
-		<token id="88" cont=","/>
-		<token id="89" cont="ut"/>
-		<token id="90" cont="uiuant"/>
-		<token id="91" cont=";"/>
-		<token id="92" cont="uitam"/>
-		<token id="93" cont="dat"/>
-		<token id="94" cont="omnibus"/>
-		<token id="95" cont=","/>
-		<token id="96" cont="officia"/>
-		<token id="97" cont="singulis"/>
-		<token id="98" cont="."/>
-		<token id="99" cont="non" parallelism_id_1="11" branch_id_1="1"/>
-		<token id="100" cont="audit" parallelism_id_1="11" branch_id_1="1"/>
-		<token id="101" cont="oculus" parallelism_id_1="11" branch_id_1="1"/>
-		<token id="102" cont=","/>
-		<token id="103" cont="non" parallelism_id_1="11" branch_id_1="2"/>
-		<token id="104" cont="uidet" parallelism_id_1="11" branch_id_1="2"/>
-		<token id="105" cont="auris" parallelism_id_1="11" branch_id_1="2"/>
-		<token id="106" cont=","/>
-		<token id="107" cont="non" parallelism_id_1="11" branch_id_1="3"/>
-		<token id="108" cont="uidet" parallelism_id_1="11" branch_id_1="3"/>
-		<token id="109" cont="lingua" parallelism_id_1="11" branch_id_1="3"/>
-		<token id="110" cont=","/>
-		<token id="111" cont="nec"/>
-		<token id="112" cont="loquitur"/>
-		<token id="113" cont="auris"/>
-		<token id="114" cont="et"/>
-		<token id="115" cont="oculus"/>
-		<token id="116" cont=";"/>
-		<token id="117" cont="sed"/>
-		<token id="118" cont="tamen"/>
-		<token id="119" cont="uiuit"/>
-		<token id="120" cont=":"/>
-		<token id="121" cont="uiuit" parallelism_id_1="12" branch_id_1="1"/>
-		<token id="122" cont="auris" parallelism_id_1="12" branch_id_1="1"/>
-		<token id="123" cont="uiuit" parallelism_id_1="12" branch_id_1="2"/>
-		<token id="124" cont="lingua" parallelism_id_1="12" branch_id_1="2"/>
-		<token id="125" cont=";"/>
-		<token id="126" cont="officia" parallelism_id_1="13" branch_id_1="1"/>
-		<token id="127" cont="diuersa" parallelism_id_1="13" branch_id_1="1"/>
-		<token id="128" cont="sunt" parallelism_id_1="13" branch_id_1="1"/>
-		<token id="129" cont=","/>
-		<token id="130" cont="uita" parallelism_id_1="13" branch_id_1="2"/>
-		<token id="131" cont="communis" parallelism_id_1="13" branch_id_1="2"/>
-		<token id="132" cont="."/>
-		<token id="133" cont="sic"/>
-		<token id="134" cont="est"/>
-		<token id="135" cont="ecclesia"/>
-		<token id="136" cont="dei"/>
-		<token id="137" cont=":"/>
-		<token id="138" cont="in" parallelism_id_1="14" branch_id_1="1"/>
-		<token id="139" cont="aliis" parallelism_id_1="14" branch_id_1="1"/>
-		<token id="140" cont="sanctis" parallelism_id_1="14" branch_id_1="1"/>
-		<token id="141" cont="facit" parallelism_id_1="14" branch_id_1="1"/>
-		<token id="142" cont="miracula" parallelism_id_1="14" branch_id_1="1"/>
-		<token id="143" cont=","/>
-		<token id="144" cont="in" parallelism_id_1="14" branch_id_1="2"/>
-		<token id="145" cont="aliis" parallelism_id_1="14" branch_id_1="2"/>
-		<token id="146" cont="sanctis" parallelism_id_1="14" branch_id_1="2"/>
-		<token id="147" cont="loquitur" parallelism_id_1="14" branch_id_1="2"/>
-		<token id="148" cont="ueritatem" parallelism_id_1="14" branch_id_1="2"/>
-		<token id="149" cont=","/>
-		<token id="150" cont="in" parallelism_id_1="15" branch_id_1="1"/>
-		<token id="151" cont="aliis" parallelism_id_1="15" branch_id_1="1"/>
-		<token id="152" cont="sanctis" parallelism_id_1="15" branch_id_1="1"/>
-		<token id="153" cont="custodit" parallelism_id_1="15" branch_id_1="1"/>
-		<token id="154" cont="uirginitatem" parallelism_id_1="15" branch_id_1="1"/>
-		<token id="155" cont=","/>
-		<token id="156" cont="in" parallelism_id_1="15" branch_id_1="2"/>
-		<token id="157" cont="aliis" parallelism_id_1="15" branch_id_1="2"/>
-		<token id="158" cont="sanctis" parallelism_id_1="15" branch_id_1="2"/>
-		<token id="159" cont="custodit" parallelism_id_1="15" branch_id_1="2"/>
-		<token id="160" cont="pudicitiam" parallelism_id_1="15" branch_id_1="2"/>
-		<token id="161" cont="coniugalem" parallelism_id_1="15" branch_id_1="2"/>
-		<token id="162" cont=","/>
-		<token id="163" cont="in" parallelism_id_1="16" branch_id_1="1"/>
-		<token id="164" cont="aliis" parallelism_id_1="16" branch_id_1="1"/>
-		<token id="165" cont="hoc" parallelism_id_1="16" branch_id_1="1"/>
-		<token id="166" cont=","/>
-		<token id="167" cont="in" parallelism_id_1="16" branch_id_1="2"/>
-		<token id="168" cont="aliis" parallelism_id_1="16" branch_id_1="2"/>
-		<token id="169" cont="illud" parallelism_id_1="16" branch_id_1="2"/>
-		<token id="170" cont=":"/>
-		<token id="171" cont="singuli"/>
-		<token id="172" cont="propria"/>
-		<token id="173" cont="operantur"/>
-		<token id="174" cont=","/>
-		<token id="175" cont="sed"/>
-		<token id="176" cont="pariter"/>
-		<token id="177" cont="uiuunt"/>
-		<token id="178" cont="."/>
-		<token id="179" cont="quod" parallelism_id_1="17" branch_id_1="1"/>
-		<token id="180" cont="autem" parallelism_id_1="17" branch_id_1="1"/>
-		<token id="181" cont="est" parallelism_id_1="17" branch_id_1="1"/>
-		<token id="182" cont="anima" parallelism_id_1="17" branch_id_1="1"/>
-		<token id="183" cont="corpori" parallelism_id_1="17" branch_id_1="1"/>
-		<token id="184" cont="hominis" parallelism_id_1="17" branch_id_1="1"/>
-		<token id="185" cont=","/>
-		<token id="186" cont="hoc" parallelism_id_1="17" branch_id_1="2"/>
-		<token id="187" cont="est" parallelism_id_1="17" branch_id_1="2"/>
-		<token id="188" cont="spiritus" parallelism_id_1="17" branch_id_1="2"/>
-		<token id="189" cont="sanctus" parallelism_id_1="17" branch_id_1="2"/>
-		<token id="190" cont="corpori" parallelism_id_1="17" branch_id_1="2"/>
-		<token id="191" cont="christi" parallelism_id_1="17" branch_id_1="2"/>
-		<token id="192" cont=","/>
-		<token id="193" cont="quod"/>
-		<token id="194" cont="est"/>
-		<token id="195" cont="ecclesia"/>
-		<token id="196" cont=":"/>
-		<token id="197" cont="hoc" parallelism_id_1="18" branch_id_1="1"/>
-		<token id="198" cont="agit" parallelism_id_1="18" branch_id_1="1"/>
-		<token id="199" cont="spiritus" parallelism_id_1="18" branch_id_1="1"/>
-		<token id="200" cont="sanctus" parallelism_id_1="18" branch_id_1="1"/>
-		<token id="201" cont="in" parallelism_id_1="18" branch_id_1="1"/>
-		<token id="202" cont="tota" parallelism_id_1="18" branch_id_1="1"/>
-		<token id="203" cont="ecclesia" parallelism_id_1="18" branch_id_1="1"/>
-		<token id="204" cont=","/>
-		<token id="205" cont="quod" parallelism_id_1="18" branch_id_1="2"/>
-		<token id="206" cont="agit" parallelism_id_1="18" branch_id_1="2"/>
-		<token id="207" cont="anima" parallelism_id_1="18" branch_id_1="2"/>
-		<token id="208" cont="in" parallelism_id_1="18" branch_id_1="2"/>
-		<token id="209" cont="omnibus" parallelism_id_1="18" branch_id_1="2"/>
-		<token id="210" cont="membris" parallelism_id_1="18" branch_id_1="2"/>
-		<token id="211" cont="unius" parallelism_id_1="18" branch_id_1="2"/>
-		<token id="212" cont="corporis" parallelism_id_1="18" branch_id_1="2"/>
-		<token id="213" cont="."/>
-		<token id="214" cont="sed"/>
-		<token id="215" cont="uidete" parallelism_id_1="19" branch_id_1="1"/>
-		<token id="216" cont="quid" parallelism_id_1="19" branch_id_1="1"/>
-		<token id="217" cont="caueatis" parallelism_id_1="19" branch_id_1="1"/>
-		<token id="218" cont=","/>
-		<token id="219" cont="uidete" parallelism_id_1="19" branch_id_1="2"/>
-		<token id="220" cont="quid" parallelism_id_1="19" branch_id_1="2"/>
-		<token id="221" cont="obseruetis" parallelism_id_1="19" branch_id_1="2"/>
-		<token id="222" cont=","/>
-		<token id="223" cont="uidete" parallelism_id_1="19" branch_id_1="3"/>
-		<token id="224" cont="quid" parallelism_id_1="19" branch_id_1="3"/>
-		<token id="225" cont="timeatis" parallelism_id_1="19" branch_id_1="3"/>
-		<token id="226" cont="."/>
-		<token id="227" cont="contingit"/>
-		<token id="228" cont="ut"/>
-		<token id="229" cont="in"/>
-		<token id="230" cont="corpore"/>
-		<token id="231" cont="humano"/>
-		<token id="232" cont=","/>
-		<token id="233" cont="imo"/>
-		<token id="234" cont="de"/>
-		<token id="235" cont="corpore"/>
-		<token id="236" cont="aliquod"/>
-		<token id="237" cont="praecidatur"/>
-		<token id="238" cont="membrum"/>
-		<token id="239" cont=","/>
-		<token id="240" cont="manus"/>
-		<token id="241" cont=","/>
-		<token id="242" cont="digitus"/>
-		<token id="243" cont=","/>
-		<token id="244" cont="pes"/>
-		<token id="245" cont=";"/>
-		<token id="246" cont="numquid"/>
-		<token id="247" cont="praecisum"/>
-		<token id="248" cont="sequitur"/>
-		<token id="249" cont="anima"/>
-		<token id="250" cont="?"/>
-		<token id="251" cont="cum"/>
-		<token id="252" cont="in"/>
-		<token id="253" cont="corpore"/>
-		<token id="254" cont="esset"/>
-		<token id="255" cont=","/>
-		<token id="256" cont="uiuebat"/>
-		<token id="257" cont=";"/>
-		<token id="258" cont="praecisum"/>
-		<token id="259" cont="amittit"/>
-		<token id="260" cont="uitam"/>
-		<token id="261" cont="."/>
-		<token id="262" cont="sic"/>
-		<token id="263" cont="et"/>
-		<token id="264" cont="homo"/>
-		<token id="265" cont="christianus"/>
-		<token id="266" cont="catholicus"/>
-		<token id="267" cont="est"/>
-		<token id="268" cont=","/>
-		<token id="269" cont="dum"/>
-		<token id="270" cont="in"/>
-		<token id="271" cont="corpore"/>
-		<token id="272" cont="uiuit"/>
-		<token id="273" cont=";"/>
-		<token id="274" cont="praecisus"/>
-		<token id="275" cont="haereticus"/>
-		<token id="276" cont="factus"/>
-		<token id="277" cont="est"/>
-		<token id="278" cont=","/>
-		<token id="279" cont="membrum"/>
-		<token id="280" cont="amputatum"/>
-		<token id="281" cont="non"/>
-		<token id="282" cont="sequitur"/>
-		<token id="283" cont="spiritus"/>
-		<token id="284" cont="."/>
-		<token id="285" cont="si"/>
-		<token id="286" cont="ergo"/>
-		<token id="287" cont="uultis"/>
-		<token id="288" cont="uiuere"/>
-		<token id="289" cont="de"/>
-		<token id="290" cont="spiritu"/>
-		<token id="291" cont="sancto"/>
-		<token id="292" cont=","/>
-		<token id="293" cont="tenete" parallelism_id_1="20" branch_id_1="1"/>
-		<token id="294" cont="caritatem" parallelism_id_1="20" branch_id_1="1"/>
-		<token id="295" cont=","/>
-		<token id="296" cont="amate" parallelism_id_1="20" branch_id_1="2"/>
-		<token id="297" cont="ueritatem" parallelism_id_1="20" branch_id_1="2"/>
-		<token id="298" cont=","/>
-		<token id="299" cont="desiderate" parallelism_id_1="20" branch_id_1="3"/>
-		<token id="300" cont="unitatem" parallelism_id_1="20" branch_id_1="3"/>
-		<token id="301" cont=","/>
-		<token id="302" cont="ut"/>
-		<token id="303" cont="perueniatis"/>
-		<token id="304" cont="ad"/>
-		<token id="305" cont="aeternitatem"/>
-		<token id="306" cont="."/>
-		<token id="307" cont="ame"/>
-		<token id="308" cont="-ne"/>
-		<token id="309" cont="."/>
+		<word id="1" cont="nemo"/>
+		<word id="2" cont="ergo"/>
+		<word id="3" cont="dicat"/>
+		<word id="4" cont=":"/>
+		<word id="5" cont="accepi"/>
+		<word id="6" cont="spiritum"/>
+		<word id="7" cont="sanctum"/>
+		<word id="8" cont=";"/>
+		<word id="9" cont="quare"/>
+		<word id="10" cont="non"/>
+		<word id="11" cont="loquor"/>
+		<word id="12" cont="linguis"/>
+		<word id="13" cont="omnium"/>
+		<word id="14" cont="gentium"/>
+		<word id="15" cont="?"/>
+		<word id="16" cont="si"/>
+		<word id="17" cont="uultis"/>
+		<word id="18" cont="habere"/>
+		<word id="19" cont="spiritum"/>
+		<word id="20" cont="sanctum"/>
+		<word id="21" cont=","/>
+		<word id="22" cont="intendite"/>
+		<word id="23" cont=","/>
+		<word id="24" cont="fratres"/>
+		<word id="25" cont="mei"/>
+		<word id="26" cont=":"/>
+		<word id="27" cont="spiritus" parallelism_id_1="9" branch_id_1="1"/>
+		<word id="28" cont="noster" parallelism_id_1="9" branch_id_1="1"/>
+		<word id="29" cont="quo" parallelism_id_1="9" branch_id_1="1"/>
+		<word id="30" cont="uiuit" parallelism_id_1="9" branch_id_1="1"/>
+		<word id="31" cont="omnis" parallelism_id_1="9" branch_id_1="1"/>
+		<word id="32" cont="homo" parallelism_id_1="9" branch_id_1="1"/>
+		<word id="33" cont="," parallelism_id_1="9" branch_id_1="1"/>
+		<word id="34" cont="anima" parallelism_id_1="9" branch_id_1="1"/>
+		<word id="35" cont="uocatur" parallelism_id_1="9" branch_id_1="1"/>
+		<word id="36" cont=";"/>
+		<word id="37" cont="spiritus" parallelism_id_1="9" branch_id_1="2"/>
+		<word id="38" cont="noster" parallelism_id_1="9" branch_id_1="2"/>
+		<word id="39" cont="quo" parallelism_id_1="9" branch_id_1="2"/>
+		<word id="40" cont="uiuit" parallelism_id_1="9" branch_id_1="2"/>
+		<word id="41" cont="singulus" parallelism_id_1="9" branch_id_1="2"/>
+		<word id="42" cont="quisque" parallelism_id_1="9" branch_id_1="2"/>
+		<word id="43" cont="homo" parallelism_id_1="9" branch_id_1="2"/>
+		<word id="44" cont="," parallelism_id_1="9" branch_id_1="2"/>
+		<word id="45" cont="anima" parallelism_id_1="9" branch_id_1="2"/>
+		<word id="46" cont="uocatur" parallelism_id_1="9" branch_id_1="2"/>
+		<word id="47" cont=":"/>
+		<word id="48" cont="et"/>
+		<word id="49" cont="uidetis"/>
+		<word id="50" cont="quid"/>
+		<word id="51" cont="faciat"/>
+		<word id="52" cont="anima"/>
+		<word id="53" cont="in"/>
+		<word id="54" cont="corpore"/>
+		<word id="55" cont="."/>
+		<word id="56" cont="omnia"/>
+		<word id="57" cont="membra"/>
+		<word id="58" cont="uegetat"/>
+		<word id="59" cont=";"/>
+		<word id="60" cont="per" parallelism_id_1="10" branch_id_1="1"/>
+		<word id="61" cont="oculos" parallelism_id_1="10" branch_id_1="1"/>
+		<word id="62" cont="uidet" parallelism_id_1="10" branch_id_1="1"/>
+		<word id="63" cont=","/>
+		<word id="64" cont="per" parallelism_id_1="10" branch_id_1="2"/>
+		<word id="65" cont="aures" parallelism_id_1="10" branch_id_1="2"/>
+		<word id="66" cont="audit" parallelism_id_1="10" branch_id_1="2"/>
+		<word id="67" cont=","/>
+		<word id="68" cont="per" parallelism_id_1="10" branch_id_1="3"/>
+		<word id="69" cont="nares" parallelism_id_1="10" branch_id_1="3"/>
+		<word id="70" cont="olfacit" parallelism_id_1="10" branch_id_1="3"/>
+		<word id="71" cont=","/>
+		<word id="72" cont="per" parallelism_id_1="10" branch_id_1="4"/>
+		<word id="73" cont="linguam" parallelism_id_1="10" branch_id_1="4"/>
+		<word id="74" cont="loquitur" parallelism_id_1="10" branch_id_1="4"/>
+		<word id="75" cont=","/>
+		<word id="76" cont="per" parallelism_id_1="10" branch_id_1="5"/>
+		<word id="77" cont="manus" parallelism_id_1="10" branch_id_1="5"/>
+		<word id="78" cont="operatur" parallelism_id_1="10" branch_id_1="5"/>
+		<word id="79" cont=","/>
+		<word id="80" cont="per" parallelism_id_1="10" branch_id_1="6"/>
+		<word id="81" cont="pedes" parallelism_id_1="10" branch_id_1="6"/>
+		<word id="82" cont="ambulat" parallelism_id_1="10" branch_id_1="6"/>
+		<word id="83" cont=":"/>
+		<word id="84" cont="omnibus"/>
+		<word id="85" cont="simul"/>
+		<word id="86" cont="adest"/>
+		<word id="87" cont="membris"/>
+		<word id="88" cont=","/>
+		<word id="89" cont="ut"/>
+		<word id="90" cont="uiuant"/>
+		<word id="91" cont=";"/>
+		<word id="92" cont="uitam"/>
+		<word id="93" cont="dat"/>
+		<word id="94" cont="omnibus"/>
+		<word id="95" cont=","/>
+		<word id="96" cont="officia"/>
+		<word id="97" cont="singulis"/>
+		<word id="98" cont="."/>
+		<word id="99" cont="non" parallelism_id_1="11" branch_id_1="1"/>
+		<word id="100" cont="audit" parallelism_id_1="11" branch_id_1="1"/>
+		<word id="101" cont="oculus" parallelism_id_1="11" branch_id_1="1"/>
+		<word id="102" cont=","/>
+		<word id="103" cont="non" parallelism_id_1="11" branch_id_1="2"/>
+		<word id="104" cont="uidet" parallelism_id_1="11" branch_id_1="2"/>
+		<word id="105" cont="auris" parallelism_id_1="11" branch_id_1="2"/>
+		<word id="106" cont=","/>
+		<word id="107" cont="non" parallelism_id_1="11" branch_id_1="3"/>
+		<word id="108" cont="uidet" parallelism_id_1="11" branch_id_1="3"/>
+		<word id="109" cont="lingua" parallelism_id_1="11" branch_id_1="3"/>
+		<word id="110" cont=","/>
+		<word id="111" cont="nec"/>
+		<word id="112" cont="loquitur"/>
+		<word id="113" cont="auris"/>
+		<word id="114" cont="et"/>
+		<word id="115" cont="oculus"/>
+		<word id="116" cont=";"/>
+		<word id="117" cont="sed"/>
+		<word id="118" cont="tamen"/>
+		<word id="119" cont="uiuit"/>
+		<word id="120" cont=":"/>
+		<word id="121" cont="uiuit" parallelism_id_1="12" branch_id_1="1"/>
+		<word id="122" cont="auris" parallelism_id_1="12" branch_id_1="1"/>
+		<word id="123" cont="uiuit" parallelism_id_1="12" branch_id_1="2"/>
+		<word id="124" cont="lingua" parallelism_id_1="12" branch_id_1="2"/>
+		<word id="125" cont=";"/>
+		<word id="126" cont="officia" parallelism_id_1="13" branch_id_1="1"/>
+		<word id="127" cont="diuersa" parallelism_id_1="13" branch_id_1="1"/>
+		<word id="128" cont="sunt" parallelism_id_1="13" branch_id_1="1"/>
+		<word id="129" cont=","/>
+		<word id="130" cont="uita" parallelism_id_1="13" branch_id_1="2"/>
+		<word id="131" cont="communis" parallelism_id_1="13" branch_id_1="2"/>
+		<word id="132" cont="."/>
+		<word id="133" cont="sic"/>
+		<word id="134" cont="est"/>
+		<word id="135" cont="ecclesia"/>
+		<word id="136" cont="dei"/>
+		<word id="137" cont=":"/>
+		<word id="138" cont="in" parallelism_id_1="14" branch_id_1="1"/>
+		<word id="139" cont="aliis" parallelism_id_1="14" branch_id_1="1"/>
+		<word id="140" cont="sanctis" parallelism_id_1="14" branch_id_1="1"/>
+		<word id="141" cont="facit" parallelism_id_1="14" branch_id_1="1"/>
+		<word id="142" cont="miracula" parallelism_id_1="14" branch_id_1="1"/>
+		<word id="143" cont=","/>
+		<word id="144" cont="in" parallelism_id_1="14" branch_id_1="2"/>
+		<word id="145" cont="aliis" parallelism_id_1="14" branch_id_1="2"/>
+		<word id="146" cont="sanctis" parallelism_id_1="14" branch_id_1="2"/>
+		<word id="147" cont="loquitur" parallelism_id_1="14" branch_id_1="2"/>
+		<word id="148" cont="ueritatem" parallelism_id_1="14" branch_id_1="2"/>
+		<word id="149" cont=","/>
+		<word id="150" cont="in" parallelism_id_1="15" branch_id_1="1"/>
+		<word id="151" cont="aliis" parallelism_id_1="15" branch_id_1="1"/>
+		<word id="152" cont="sanctis" parallelism_id_1="15" branch_id_1="1"/>
+		<word id="153" cont="custodit" parallelism_id_1="15" branch_id_1="1"/>
+		<word id="154" cont="uirginitatem" parallelism_id_1="15" branch_id_1="1"/>
+		<word id="155" cont=","/>
+		<word id="156" cont="in" parallelism_id_1="15" branch_id_1="2"/>
+		<word id="157" cont="aliis" parallelism_id_1="15" branch_id_1="2"/>
+		<word id="158" cont="sanctis" parallelism_id_1="15" branch_id_1="2"/>
+		<word id="159" cont="custodit" parallelism_id_1="15" branch_id_1="2"/>
+		<word id="160" cont="pudicitiam" parallelism_id_1="15" branch_id_1="2"/>
+		<word id="161" cont="coniugalem" parallelism_id_1="15" branch_id_1="2"/>
+		<word id="162" cont=","/>
+		<word id="163" cont="in" parallelism_id_1="16" branch_id_1="1"/>
+		<word id="164" cont="aliis" parallelism_id_1="16" branch_id_1="1"/>
+		<word id="165" cont="hoc" parallelism_id_1="16" branch_id_1="1"/>
+		<word id="166" cont=","/>
+		<word id="167" cont="in" parallelism_id_1="16" branch_id_1="2"/>
+		<word id="168" cont="aliis" parallelism_id_1="16" branch_id_1="2"/>
+		<word id="169" cont="illud" parallelism_id_1="16" branch_id_1="2"/>
+		<word id="170" cont=":"/>
+		<word id="171" cont="singuli"/>
+		<word id="172" cont="propria"/>
+		<word id="173" cont="operantur"/>
+		<word id="174" cont=","/>
+		<word id="175" cont="sed"/>
+		<word id="176" cont="pariter"/>
+		<word id="177" cont="uiuunt"/>
+		<word id="178" cont="."/>
+		<word id="179" cont="quod" parallelism_id_1="17" branch_id_1="1"/>
+		<word id="180" cont="autem" parallelism_id_1="17" branch_id_1="1"/>
+		<word id="181" cont="est" parallelism_id_1="17" branch_id_1="1"/>
+		<word id="182" cont="anima" parallelism_id_1="17" branch_id_1="1"/>
+		<word id="183" cont="corpori" parallelism_id_1="17" branch_id_1="1"/>
+		<word id="184" cont="hominis" parallelism_id_1="17" branch_id_1="1"/>
+		<word id="185" cont=","/>
+		<word id="186" cont="hoc" parallelism_id_1="17" branch_id_1="2"/>
+		<word id="187" cont="est" parallelism_id_1="17" branch_id_1="2"/>
+		<word id="188" cont="spiritus" parallelism_id_1="17" branch_id_1="2"/>
+		<word id="189" cont="sanctus" parallelism_id_1="17" branch_id_1="2"/>
+		<word id="190" cont="corpori" parallelism_id_1="17" branch_id_1="2"/>
+		<word id="191" cont="christi" parallelism_id_1="17" branch_id_1="2"/>
+		<word id="192" cont=","/>
+		<word id="193" cont="quod"/>
+		<word id="194" cont="est"/>
+		<word id="195" cont="ecclesia"/>
+		<word id="196" cont=":"/>
+		<word id="197" cont="hoc" parallelism_id_1="18" branch_id_1="1"/>
+		<word id="198" cont="agit" parallelism_id_1="18" branch_id_1="1"/>
+		<word id="199" cont="spiritus" parallelism_id_1="18" branch_id_1="1"/>
+		<word id="200" cont="sanctus" parallelism_id_1="18" branch_id_1="1"/>
+		<word id="201" cont="in" parallelism_id_1="18" branch_id_1="1"/>
+		<word id="202" cont="tota" parallelism_id_1="18" branch_id_1="1"/>
+		<word id="203" cont="ecclesia" parallelism_id_1="18" branch_id_1="1"/>
+		<word id="204" cont=","/>
+		<word id="205" cont="quod" parallelism_id_1="18" branch_id_1="2"/>
+		<word id="206" cont="agit" parallelism_id_1="18" branch_id_1="2"/>
+		<word id="207" cont="anima" parallelism_id_1="18" branch_id_1="2"/>
+		<word id="208" cont="in" parallelism_id_1="18" branch_id_1="2"/>
+		<word id="209" cont="omnibus" parallelism_id_1="18" branch_id_1="2"/>
+		<word id="210" cont="membris" parallelism_id_1="18" branch_id_1="2"/>
+		<word id="211" cont="unius" parallelism_id_1="18" branch_id_1="2"/>
+		<word id="212" cont="corporis" parallelism_id_1="18" branch_id_1="2"/>
+		<word id="213" cont="."/>
+		<word id="214" cont="sed"/>
+		<word id="215" cont="uidete" parallelism_id_1="19" branch_id_1="1"/>
+		<word id="216" cont="quid" parallelism_id_1="19" branch_id_1="1"/>
+		<word id="217" cont="caueatis" parallelism_id_1="19" branch_id_1="1"/>
+		<word id="218" cont=","/>
+		<word id="219" cont="uidete" parallelism_id_1="19" branch_id_1="2"/>
+		<word id="220" cont="quid" parallelism_id_1="19" branch_id_1="2"/>
+		<word id="221" cont="obseruetis" parallelism_id_1="19" branch_id_1="2"/>
+		<word id="222" cont=","/>
+		<word id="223" cont="uidete" parallelism_id_1="19" branch_id_1="3"/>
+		<word id="224" cont="quid" parallelism_id_1="19" branch_id_1="3"/>
+		<word id="225" cont="timeatis" parallelism_id_1="19" branch_id_1="3"/>
+		<word id="226" cont="."/>
+		<word id="227" cont="contingit"/>
+		<word id="228" cont="ut"/>
+		<word id="229" cont="in"/>
+		<word id="230" cont="corpore"/>
+		<word id="231" cont="humano"/>
+		<word id="232" cont=","/>
+		<word id="233" cont="imo"/>
+		<word id="234" cont="de"/>
+		<word id="235" cont="corpore"/>
+		<word id="236" cont="aliquod"/>
+		<word id="237" cont="praecidatur"/>
+		<word id="238" cont="membrum"/>
+		<word id="239" cont=","/>
+		<word id="240" cont="manus"/>
+		<word id="241" cont=","/>
+		<word id="242" cont="digitus"/>
+		<word id="243" cont=","/>
+		<word id="244" cont="pes"/>
+		<word id="245" cont=";"/>
+		<word id="246" cont="numquid"/>
+		<word id="247" cont="praecisum"/>
+		<word id="248" cont="sequitur"/>
+		<word id="249" cont="anima"/>
+		<word id="250" cont="?"/>
+		<word id="251" cont="cum"/>
+		<word id="252" cont="in"/>
+		<word id="253" cont="corpore"/>
+		<word id="254" cont="esset"/>
+		<word id="255" cont=","/>
+		<word id="256" cont="uiuebat"/>
+		<word id="257" cont=";"/>
+		<word id="258" cont="praecisum"/>
+		<word id="259" cont="amittit"/>
+		<word id="260" cont="uitam"/>
+		<word id="261" cont="."/>
+		<word id="262" cont="sic"/>
+		<word id="263" cont="et"/>
+		<word id="264" cont="homo"/>
+		<word id="265" cont="christianus"/>
+		<word id="266" cont="catholicus"/>
+		<word id="267" cont="est"/>
+		<word id="268" cont=","/>
+		<word id="269" cont="dum"/>
+		<word id="270" cont="in"/>
+		<word id="271" cont="corpore"/>
+		<word id="272" cont="uiuit"/>
+		<word id="273" cont=";"/>
+		<word id="274" cont="praecisus"/>
+		<word id="275" cont="haereticus"/>
+		<word id="276" cont="factus"/>
+		<word id="277" cont="est"/>
+		<word id="278" cont=","/>
+		<word id="279" cont="membrum"/>
+		<word id="280" cont="amputatum"/>
+		<word id="281" cont="non"/>
+		<word id="282" cont="sequitur"/>
+		<word id="283" cont="spiritus"/>
+		<word id="284" cont="."/>
+		<word id="285" cont="si"/>
+		<word id="286" cont="ergo"/>
+		<word id="287" cont="uultis"/>
+		<word id="288" cont="uiuere"/>
+		<word id="289" cont="de"/>
+		<word id="290" cont="spiritu"/>
+		<word id="291" cont="sancto"/>
+		<word id="292" cont=","/>
+		<word id="293" cont="tenete" parallelism_id_1="20" branch_id_1="1"/>
+		<word id="294" cont="caritatem" parallelism_id_1="20" branch_id_1="1"/>
+		<word id="295" cont=","/>
+		<word id="296" cont="amate" parallelism_id_1="20" branch_id_1="2"/>
+		<word id="297" cont="ueritatem" parallelism_id_1="20" branch_id_1="2"/>
+		<word id="298" cont=","/>
+		<word id="299" cont="desiderate" parallelism_id_1="20" branch_id_1="3"/>
+		<word id="300" cont="unitatem" parallelism_id_1="20" branch_id_1="3"/>
+		<word id="301" cont=","/>
+		<word id="302" cont="ut"/>
+		<word id="303" cont="perueniatis"/>
+		<word id="304" cont="ad"/>
+		<word id="305" cont="aeternitatem"/>
+		<word id="306" cont="."/>
+		<word id="307" cont="ame"/>
+		<word id="308" cont="-ne"/>
+		<word id="309" cont="."/>
 	</section>
 </sermon>

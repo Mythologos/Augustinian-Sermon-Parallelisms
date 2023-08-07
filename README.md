@@ -54,8 +54,8 @@ Annotations were organized in order to represent their nested structure. Each XM
   It also has a `part` attribute that shows the numerical ordering of individual branches. Both `id` and `part` start from 1 and increase sequentially. 
   When nested branches start at the same point, the parallelism with the branch that *ends* first has a smaller `id`. In other words, nested parallelisms tend to come before nesting parallelisms.
 * **Tokenized XML**: In our `xml/tokenized` directory, we provide XML files which combine the `.txt` files and `.ann` files in a nested format. Like the untokenized variant, this version also contains up to three types of tags. 
-The `<sermon>` and `<section>` tags reprise their roles above. However, the third tag, `<token>`, designates a tokenization applied through the [Classical Language Toolkit](http://cltk.org/) (Johnson _et al._ 2021). 
-Each `<token>` has an `id` attribute indicating its position within a given section, starting from 1. 
+The `<sermon>` and `<section>` tags reprise their roles above. However, the third tag, `<word>`, designates a tokenization applied through the [Classical Language Toolkit](http://cltk.org/) (Johnson _et al._ 2021). 
+Each `<word>` has an `id` attribute indicating its position within a given section, starting from 1. 
 The actual token is given in the `cont` attribute, following the convention of the [PSE](https://github.com/Mythologos/Paibi-Student-Essays) dataset.
 Finally, a `parallelism_id` and `branch_id` are given for each applicable stratum (or level of nesting).
 These values start from 1 and increase sequentially, following the same rules as the untokenized XML's `id` attributes.
