@@ -30,9 +30,9 @@ with tokenization being done via the `LatinWordTokenizer` from the Classical Lan
 
 ### Use
 
-
 The annotations in this dataset are licensed under a Creative Commons Attribution-Sharealike 4.0 International (CC-BY-SA) license. 
 For more information, please see https://creativecommons.org/licenses/by-sa/4.0/.
+
 ## Background
 
 This section is a work in progress.
