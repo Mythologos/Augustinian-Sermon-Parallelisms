@@ -13,7 +13,7 @@ It is intended to be used to study the phenomenon of rhetorical parallelism both
 ### Statistics
 
 The table below summarizes its base statistics. For exact definitions of *parallelism* and *branch*, please see our paper. 
-For a basic understanding, consider a *branch* to be a continuous span of annotated text; 
+For a high-level understanding, consider a *branch* to be a continuous span of annotated text; 
 then, consider a *parallelism* to be a group of said spans.
 
 | Quantity       | Total (Nested) |
@@ -35,7 +35,32 @@ For more information, please see https://creativecommons.org/licenses/by-sa/4.0/
 
 ## Background
 
-This section is a work in progress.
+Among the Latin Church Fathers of late antiquity, Augustine of Hippo (354-430) stands out through the amount of his writings, the theological depth of his major treatises, and the vast influence he exerted on the Western Church in the Middle Ages and beyond. 
+In his own time, Augustine was known as a prolific and fascinating preacher, having been invited to preach in numerous North African cities in addition to his own church, Hippo Regius (now Annaba, Algeria). 
+Many of his sermons were delivered in the provincial capital of Carthage. 
+In spite of the conquest of Roman North Africa by the Vandals and the widespread destruction that followed, the majority of Augustine’s works were preserved and copied throughout the Middle Ages. 
+This includes a large number of sermons. 
+Altogether, the extant sermons number about 800, and hitherto unknown sermons are still being identified in medieval manuscripts.
+
+Augustine improvised his sermons and never used a written draft. 
+During the delivery in church, his words were taken down in shorthand by scribes present in the audience and later transcribed in longhand and preserved in his library. 
+Most of his sermons were apparently not edited or redacted for publication, which makes them precious documents of the spoken rhetoric of late antiquity. 
+In some cases, Augustine (or his secretaries) later collected his sermons on a book of the Bible and supplied dictated passages to form a complete commentary (*On the Psalms*, *Tractates on the Gospel of John*, *Tractates on the Epistle of John*). 
+
+The vast majority of Augustine’s preaching is scriptural and exegetical. 
+Augustine uses various exegetical strategies, but he prefers allegorical readings. 
+The additional depths of meaning found in scripture through allegory provide the main structure and content of the sermons and eclipse other typical subjects of late ancient sermons, such as moral education or discussion of contemporary political and cultural issues. 
+This approach also allowed Augustine to touch upon complicated theological matters that other preachers avoided; 
+his sermons include discussions of his teachings on all major subjects of Christian doctrine, such as trinity, the nature of good and evil, justice and mercy, predestination and free will, and others. 
+In his reading, the Bible provides images and examples to clarify complex subjects to an unlearned audience, and the shared history of the chosen people establishes the unity of the Church from its beginnings to Augustine’s listeners. 
+In fourth and fifth-century North Africa, where this unity was imperiled by internal schisms and external threats, the sermons thus provided an appeal to agreement among the listeners and strengthened their continued identification as members of the church itself, the body of Christ.
+
+Augustine had been educated in classical rhetoric, and before his conversion to Christianity, he had been a renowned teacher of rhetoric himself. 
+For his preaching, he chose to reinvent his rhetoric in a style better adapted to the understanding of a socially mixed audience and the simple truths underlying the message of the Gospel. 
+He eschewed the wide variety of rhetorical embellishments taught by late ancient rhetoricians and instead relied on a small number of simple rhetorical figures that not only were recognizable by his listeners but also allowed him to put the logical structure of his teachings into sharper focus. 
+Such devices included parallelism, rhyming, and alliteration. 
+While influenced by the language of Latin Scripture, he never attempted to imitate it; 
+instead, the omnipresence of Scripture serves as an additional embellishment and constant subtext to the words of the preacher.
 
 ## Contents
 
@@ -77,10 +102,16 @@ The current version is `v1.0`.
 
 ### Our Work
 
-To cite this dataset, please use the following paper:
+To cite this dataset, please use the following paper citation:
 
 ```
-...
+@inproceedings{bothwellIntroducingRPD2023,
+    author = {Bothwell, Stephen and DeBenedetto, Justin and Crnkovich, Theresa and M{\"u}ller, Hildegund and Chiang, David},
+    title = "Introducing Rhetorical Parallelism Detection: {A} New Task with Datasets, Metrics, and Baselines",
+    booktitle = "Proc. EMNLP",
+    year = "2023",
+    note = "To appear"
+}
 ```
 
 ... as well as the following source text:
