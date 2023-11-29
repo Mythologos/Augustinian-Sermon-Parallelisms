@@ -89,6 +89,11 @@ We also provide information about our process for developing the dataset. To thi
 We give a sketch of our initial guidelines used to produce this data in the `"RPD - Original Annotation Guidelines"` PDF. 
 We further present a revised version of the guidelines engendered through a critical evaluation of our annotations in the `"RPD - Revised Annotation Guidelines"` PDF.
 
+To further show the validity of our data, we provide a portion of the data annotated both by the single annotator of the dataset at large, Hildegund Müller, and by Theresa Crnkovich. 
+Eight sermons were annotated by each of them, and the results of their annotation are presented in the `data/agreement-study` subdirectory. (The data presented here includes no pretty-printing and is exactly as it was originally used.) 
+Hildegund Müller and Theresa Crnkovich are annotators A and B, respectively. We discuss in our paper the results of an inter-annotator agreement study across each of our proposed metrics, 
+and we provide the code with which this study was performed in the [Intro-RPD](https://github.com/Mythologos/Intro-RPD) repository.
+
 ## Contributing
 
 This repository is intended to provide a single, definitive version of this dataset for future work and research. 
